@@ -1,0 +1,48 @@
+# Image Vs Likeness Of God
+
+*Source: chatgpt-image-vs-likeness-of-god.txt*
+
+---
+
+**User:**
+
+Did the early church have see being created in the image of God differently than likeness of God?   To explain my point... Jesus Christ transform us in the likeness of God.  Likeness being more about character like Jesus mentioned in Matthew 5
+
+**ChatGPT:**
+
+Yes — the early church actually did make a distinction between image and likeness, and what you’re describing has strong roots in the way the Greek Fathers especially read Genesis 1:26 (“Let us make man in our image and after our likeness”).
+
+Here’s the outline of how it was commonly understood:
+1. The “Image of God” (Imago Dei)
+
+    The “image” was usually seen as something innate to humanity — part of our very creation.
+
+    For many Fathers (e.g., Irenaeus, Clement of Alexandria, Origen, Athanasius), the image refers to the rational nature, free will, and capacity for relationship with God.
+
+    This was considered indelible — even after the fall, humans still bore the image of God, though damaged or obscured.
+
+2. The “Likeness of God” (Similitudo Dei)
+
+    The “likeness” was often understood as something not yet complete, but a goal — the destiny of humanity.
+
+    It referred to moral and spiritual growth into God’s holiness and virtue — what you’re calling “character,” very much like Jesus’ words in Matthew 5 about being “perfect as your Father in heaven is perfect.”
+
+    Many Fathers (especially Irenaeus and later Eastern writers) saw this as the process of theosis (divinization) — becoming more like God by grace, a transformation perfected in Christ.
+
+3. Christ and the Likeness
+
+    As you said: Christ restores the image and brings us into the likeness.
+
+    Athanasius famously said: “God became man so that man might become god.” Not in essence, but in character and participation in divine life.
+
+    So yes — Jesus doesn’t just restore our lost state, He leads us into the likeness, meaning holiness, love, and communion with God.
+
+4. Western vs Eastern Emphasis
+
+    In the West (Augustine, later medieval thought), the distinction blurred — “image and likeness” were often treated as synonyms.
+
+    In the East, the distinction remained clearer: image is the starting gift, likeness is the goal of salvation in Christ.
+
+👉 So to your point: yes, you’ve picked up on a very real patristic theme. The early church often saw image as what we are by creation, and likeness as what Christ transforms us into by redemption — especially in character, holiness, and union with God.
+
+Would you like me to show you some direct quotes from Irenaeus and Origen where they spell out this distinction? That way you can see how they word it.

@@ -1,0 +1,48 @@
+# Ante Nicene Everlasting Gospel
+
+*Source: chatgpt-ante-nicene-everlasting-gospel.txt*
+
+---
+
+**User:**
+
+How did the Ante-Nicene fathers view the Everlasting gospel in revelation?
+
+**ChatGPT:**
+
+Good question! The “everlasting gospel” (Greek: euangelion aiōnion) in Revelation 14:6 was something the Ante-Nicene Fathers did comment on, though not all in the same way.
+
+Here’s a breakdown of how the early Christian writers before Nicaea generally viewed it:
+1. Universal Proclamation
+
+    Many Ante-Nicene Fathers understood the “everlasting gospel” as the eternal and unchanging message of salvation through Christ, proclaimed to all nations before the end.
+
+    Irenaeus (c. 130–202, Against Heresies 3.5.1) emphasizes that the gospel is eternal because it was foreordained before the world and revealed through Christ at the proper time. For him, the “everlasting gospel” in Revelation aligns with the same gospel preached by the apostles, but now universally to every nation as a sign of the end.
+
+2. Fulfillment of Prophecy
+
+    Hippolytus (c. 170–235, On Christ and Antichrist 64) linked Revelation 14:6 with the mission to the Gentiles. He argued that just as Israel received the law, the nations must hear the everlasting gospel before judgment comes.
+
+    For Hippolytus, this was part of God’s final call to repentance before the Antichrist and the end.
+
+3. Unchanging Nature of the Gospel
+
+    Origen (c. 185–254, Commentary on Matthew 28.19) viewed the gospel as eternal because it is rooted in Christ, the Logos, who existed before all ages. For Origen, the “everlasting gospel” is not a new message in Revelation but the same divine truth always present in God, now proclaimed in fullness.
+
+4. Final Warning Before Judgment
+
+    Victorinus of Pettau (d. c. 303, Commentary on the Apocalypse 14.6), the earliest extant commentator on Revelation, interpreted the “everlasting gospel” as the final announcement of God’s kingdom to the world. He tied it to the preaching of the end-time church as a last opportunity for repentance before judgment falls.
+
+Summary of Ante-Nicene View
+
+    Not a different gospel but the same eternal gospel revealed in Christ.
+
+    Universal proclamation before judgment (to all nations, tribes, and tongues).
+
+    A sign of the end—the church’s mission fulfilled before the second coming.
+
+    “Everlasting” because it originates in the eternal Logos and will never change.
+
+👉 In short: The Ante-Nicene Fathers saw the everlasting gospel of Revelation as the same message of Christ preached by the apostles—unchanging, eternal, and universally proclaimed as the final call to repentance before God’s judgment.
+
+Would you like me to put together a side-by-side table of how Irenaeus, Origen, Hippolytus, and Victorinus specifically described it? That might give you a clearer comparative picture.
