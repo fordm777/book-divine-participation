@@ -1,4 +1,4 @@
-# Chapter 8 — Dying Before Living
+# Chapter 8 — Covenant Cleanness, Divine Presence, and Relational Judgment
 
 ## Draft
 

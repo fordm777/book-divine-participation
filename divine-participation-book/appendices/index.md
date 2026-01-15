@@ -9,8 +9,8 @@
 - **Participation** — See Part V, Chapter 13
 - **Substitution** — See Part V, Chapter 13; Part VIII, Chapter 22
 - **Covenant** — See Part II, Part IV
-- **Sacrifice** — See Part II, Chapter 4
-- **Blood** — See Part II, Chapter 5
+- **Sacrifice** — See Part III, Chapter 6
+- **Blood** — See Part III, Chapter 7
 
 ---
 

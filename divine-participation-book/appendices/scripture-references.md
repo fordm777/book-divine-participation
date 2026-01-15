@@ -10,11 +10,11 @@ This appendix tracks all biblical references cited throughout the book, organize
 - **Genesis 1-3** — Creation, Life, and the Presence of God
   - See: [Chapter 1 — Creation, Life, and the Presence of God](../part-01/chapter-01.md)
 - **Genesis 4** — Abel's sacrifice and blood
-  - See: [Chapter 5 — The Blood That Speaks: Abel and Jesus](../part-02/chapter-05.md)
+  - See: [Chapter 7 — The Blood That Speaks: Abel and Jesus](../part-03/chapter-07.md)
 
 ### Exodus
 - **Exodus 12** — Passover
-  - See: [Chapter 7 — Passover: Salvation Through Death, Not Punishment](../part-03/chapter-07.md)
+  - See: [Chapter 4 — Passover: Salvation Through Death, Not Punishment](../part-02/chapter-04.md)
 
 ### Leviticus
 - *(References to be added as chapters are written)*

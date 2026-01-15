@@ -6,16 +6,16 @@
 - [Chapter 2 — Exile from Life: Death as Mercy, Not Punishment](part-01/chapter-02.md)
 - [Chapter 3 — Death Enters Humanity: Bondage, Corruption, and Fear](part-01/chapter-03.md)
 
-## PART II — OFFERINGS
+## PART II — PASSOVER
 
-- [Chapter 4 — What Sacrifices Were (and Were Not)](part-02/chapter-04.md)
-- [Chapter 5 — The Blood That Speaks: Abel and Jesus](part-02/chapter-05.md)
-- [Chapter 6 — Covenant Cleanness, Divine Presence, and Relational Judgment](part-02/chapter-06.md)
+- [Chapter 4 — Passover: Salvation Through Death, Not Punishment](part-02/chapter-04.md)
+- [Chapter 5 — Dying Before Living](part-02/chapter-05.md)
 
-## PART III — PASSOVER
+## PART III — OFFERINGS
 
-- [Chapter 7 — Passover: Salvation Through Death, Not Punishment](part-03/chapter-07.md)
-- [Chapter 8 — Dying Before Living](part-03/chapter-08.md)
+- [Chapter 6 — What Sacrifices Were (and Were Not)](part-03/chapter-06.md)
+- [Chapter 7 — The Blood That Speaks: Abel and Jesus](part-03/chapter-07.md)
+- [Chapter 8 — Covenant Cleanness, Divine Presence, and Relational Judgment](part-03/chapter-08.md)
 
 ## PART IV — COVENANTS
 
