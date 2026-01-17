@@ -144,6 +144,9 @@ This distinction is reinforced elsewhere in Leviticus. Contact with a dead body�
 
 Leviticus therefore trains attention away from death and toward life. The animal’s death does not cleanse; in fact, death contaminates. It is the life God provides in the blood that removes impurity and restores access to His presence.
 
+This distinction is further underscored by the movement of the rites themselves. In the purification offerings, the animal is not brought into sacred space. Only the blood enters the altar area, the Holy Place, or—on Yom Kippur—the Most Holy Place. The body of the animal is either consumed on the altar or removed and burned outside the camp.
+
+Leviticus thus carefully separates death from the presence of God. What is brought near is not the animal as a substitute, but the life God has given in the blood. Sacred space receives life for cleansing, not a corpse for substitional punishment.
 
 
 
