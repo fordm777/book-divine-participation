@@ -116,15 +116,16 @@ The logic flows in this order:
 
 This understanding of blood as a means of purification rather than punishment is not unique to Leviticus itself. It is reflected consistently in Second Temple Jewish interpretation, the New Testament, and the earliest Christian writers.
 
-A clear Second Temple Jewish witness comes from **:contentReference[oaicite:0]{index=0}**, a first-century Jewish interpreter of the Torah. In *Special Laws* (1.188–189), commenting on sacrificial practice, Philo explains that blood is brought to the altar not because God delights in slaughter, but because **purification (*katharsis*) is required for those who approach sacred things**. The concern is fitness to draw near to holiness. Blood functions as a purifying agent that removes defilement, not as a bearer of punishment.
+A clear Second Temple Jewish witness comes from **Philo of Alexandria**, a first-century Jewish interpreter of the Torah.
+ In *Special Laws* (1.188–189), commenting on sacrificial practice, Philo explains that blood is brought to the altar not because God delights in slaughter, but because **purification (*katharsis*) is required for those who approach sacred things**. The concern is fitness to draw near to holiness. Blood functions as a purifying agent that removes defilement, not as a bearer of punishment.
 
-This same logic appears explicitly in the New Testament. The author of **:contentReference[oaicite:1]{index=1}** writes:
+This same logic appears explicitly in the New Testament. The author of **the Epistle to the Hebrews** writes:
 
 > “For if the blood of bulls and goats, and the ashes of a heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: how much more shall the blood of Christ… cleanse your conscience from dead works to serve the living God?” (Hebrews 9:13–14)
 
 Here, sacrificial blood is described in explicitly **purificatory** terms. The comparison assumes that the function of the Levitical blood rites was cleansing. Christ’s blood is then said to accomplish this purification more deeply and effectively, extending it from ritual space to the conscience itself.
 
-The same understanding is found among the Ante-Nicene Fathers. **:contentReference[oaicite:2]{index=2}** repeatedly insists that God does not *need* sacrifices. Rather, they are given **for humanity’s benefit**. In *Against Heresies*, he explains that God instituted sacrificial rites not because He requires them, but because **human beings require purification and instruction**. The sacrifices are gifts from God, provided to cleanse and restore, not payments extracted by God to satisfy divine need.
+The same understanding is found among the Ante-Nicene Fathers. **Irenaeus of Lyons** repeatedly insists that God does not *need* sacrifices. Rather, they are given **for humanity’s benefit**. In *Against Heresies*, he explains that God instituted sacrificial rites not because He requires them, but because **human beings require purification and instruction**. The sacrifices are gifts from God, provided to cleanse and restore, not payments extracted by God to satisfy divine need.
 
 Together, these witnesses—from Second Temple Judaism, apostolic teaching, and early Christianity—affirm the same fundamental point already made clear in Leviticus: blood is given by God as a gift of life for the purpose of **cleansing defilement**, so that fellowship with God may continue.
 
@@ -138,7 +139,7 @@ The connection between Leviticus 17 and Leviticus 16 is crucial for understandin
 - Blood is applied to sacred space  
 - The goal is restoration
 
-The priest presents blood as a cleansing agent to restore followship with God.
+The priest presents blood as a cleansing agent to restore follewship with God.
 
 This distinction is reinforced elsewhere in Leviticus. Contact with a dead body—including the carcass of an animal—renders a person unclean. Death itself is a source of impurity. Yet the blood, which carries life, is never treated as unclean. It is handled by priests, brought into sacred space, and applied to the altar and sanctuary furnishings.
 
@@ -146,7 +147,7 @@ Leviticus therefore trains attention away from death and toward life. The animal
 
 This distinction is further underscored by the movement of the rites themselves. In the purification offerings, the animal is not brought into sacred space. Only the blood enters the altar area, the Holy Place, or—on Yom Kippur—the Most Holy Place. The body of the animal is either consumed on the altar or removed and burned outside the camp.
 
-Leviticus thus carefully separates death from the presence of God. What is brought near is not the animal as a substitute, but the life God has given in the blood. Sacred space receives life for cleansing, not a corpse for substitional punishment.
+Leviticus thus carefully separates death from the presence of God. What is brought near is not the animal as a substitute, but the life God has given in the blood. Sacred space receives life for cleansing, not a corpse for substitutional punishment.
 
 
 
