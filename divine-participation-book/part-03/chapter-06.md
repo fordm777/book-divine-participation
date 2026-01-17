@@ -1,112 +1,250 @@
-# Chapter 6 — What Sacrifices Were (and Were Not)
+# Chapter 6 — What the Sacrifices Were: Their Purpose, Shape, and Meaning
 
-## Introduction
+## The Offerings as Identified in Leviticus
 
-Before we can understand what Christ accomplished, we must first understand what the Old Testament sacrifices actually were—and what they were not. This foundational question shapes everything that follows. If we misunderstand the nature of the sacrificial system, we will inevitably misunderstand the work of Christ.
+The book of Leviticus describes Israel’s worship and relationship with God with the levitical priesthood as the mediators.  These activities include distinct offerings, rites, and appointed times, each with its own purpose and effect. The following table lists the scripture reference, the offering or rite, description, the purpose, and the result.
 
-The dominant modern view—that Old Testament sacrifices functioned as penal substitutes, with animals taking the punishment sinners deserved—finds little support in either the biblical text itself or in how the earliest Christian writers understood these practices. Instead, the evidence points to a very different understanding: sacrifices were primarily about purification, covenant maintenance, and restoration of relationship—not legal substitution.
+| Leviticus Reference | Offering / Rite | Description | Reason / Purpose | Result |
+|--------------------|-----------------|-------------|------------------|--------|
+| Leviticus 1 | Burnt Offering (*ʿōlāh*) | Entire animal consumed on the altar | Expression of total devotion and surrender to God | Worshiper wholly given to God |
+| Leviticus 2 | Grain Offering (*minḥâ*) | Flour, oil, and frankincense; no blood | Acknowledgment of God as provider | Gratitude and dependence expressed |
+| Leviticus 3 | Peace / Fellowship Offering (*šĕlāmîm*) | Shared meal between God, priests, and worshiper | Celebration of covenant fellowship | Communion with God enjoyed |
+| Leviticus 4 | Sin Offering (*ḥaṭṭāʾt*) | Blood applied to altar or sanctuary | Removal of impurity caused by sin or contamination | Cleansing of sanctuary and people |
+| Leviticus 5–6 | Guilt Offering (*ʾāšām*) | Offering involving restitution | Repair of desecration or covenant violation | Relationship and order restored |
+| Leviticus 8–9 | Ordination Offerings | Series of sacrifices to consecrate priests | Preparation for service in God’s presence | Priests made fit to minister |
+| Leviticus 12 | Purification after Childbirth | Required offering following birth | Restoration from ritual uncleanness | Access to worship restored |
+| Leviticus 14 | Cleansing of Skin Disease | Multi-stage rite using blood, water, and oil | Removal of impurity and reintegration | Person restored to community life |
+| Leviticus 15 | Bodily Discharge Offerings | Offerings following certain physical conditions | Maintenance of ritual cleanness | Continued access to God’s presence |
+| Leviticus 16 | Yom Kippur (*yôm hakkippurîm*) | Annual cleansing of sanctuary and people | Removal of accumulated impurity | God’s dwelling preserved among Israel |
+| Leviticus 23:4–8 | Passover (Appointed Time) | Annual observance within sacred calendar | Preservation of covenant identity | Israel ordered around deliverance |
+| Leviticus 23:15–21 | Pentecost (Feast of Weeks) | Mixed offerings with leavened bread | Thanksgiving for harvest and provision | Covenant life celebrated |
+| Leviticus 23:33–43 | Sukkot (Feast of Booths) | Dwelling in booths; rejoicing before the LORD | Remembrance of God’s presence and provision | Life lived with God reaffirmed |
 
-## What Sacrifices Were: Purification and Cleansing
+---
 
-The primary function of Old Testament sacrifices was **purification and cleansing**, not penal substitution. This is evident from the Hebrew concept of *kippur* (atonement), which fundamentally means "to cover" or "to cleanse"—specifically, to remove ritual impurity and restore the worshiper to a state of cleanness.
+## Grouping the Offerings by Their Function
 
-### The Blood as Cleansing Agent
+When the offerings and rites of Leviticus are viewed together, they naturally cluster around three primary functions. These groupings reflect how Israel lived in relationship with God: sharing life with him, being cleansed to remain in his presence, and expressing devotion and dependence.
 
-Leviticus 17:11 states: "For the life of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your souls; for it is the blood that makes atonement for the soul." The emphasis here is not on the blood as a substitute receiving punishment, but as a **cleansing agent** that purifies the sanctuary and the worshiper from the pollution of sin.
+Some offerings appear in more than one grouping, reflecting the integrated nature of covenant life.
 
-The Day of Atonement ritual (Leviticus 16) makes this clear: the blood is applied to cleanse the Holy Place from Israel's uncleanness. The sanctuary itself becomes polluted by the sins of the people, and the blood removes that pollution. This is a **purificatory** function, not a penal one.
+---
 
-### Restoration of Relationship
+### Communion with God
 
-Sacrifices functioned to restore and maintain the covenant relationship between Israel and God. Many offerings—particularly peace offerings and fellowship offerings—were essentially **covenant meals** shared with God. Eating the sacrifice together renewed fellowship and communion. The point was not that God was angry and needed appeasement, but that the relationship had been damaged and needed restoration.
+These rites center on **shared life before the LORD**, often involving eating, rejoicing, and remembrance. They assume that life with God is possible and focus on sustaining fellowship rather than repairing rupture.
 
-### Pedagogical and Typological Functions
+**Offerings and rites in this group include:**
+- Peace / Fellowship Offering (*šĕlāmîm*) — Leviticus 3  
+- Passover (*pesaḥ*, as appointed time) — Leviticus 23:4–8  
+- Portions of the Ordination Offerings — Leviticus 8–9  
+- Sukkot (Feast of Booths) — Leviticus 23:33–43  
 
-The Ante-Nicene Fathers consistently understood sacrifices as **teaching tools** and **shadows** pointing forward to Christ. Justin Martyr wrote that God "did not Himself need sacrifices, but commanded them for the sake of those who were to be educated" (*Dialogue with Trypho* 18–20). Irenaeus similarly stated that "God did not institute sacrifices because He was in need of them, but that He might instruct the people" (*Against Heresies* 4.17).
+These rites emphasize belonging, identity, and joyful participation in God’s presence.
 
-These early Christian writers saw every sacrifice as symbolic, foreshadowing a reality fulfilled in Christ:
-- The Passover lamb pointed to Christ's self-offering
-- The scapegoat represented Christ bearing away sins
-- The daily offerings prefigured Christ's continual intercession
+---
 
-But critically, the Fathers never said the animals "took the punishment" instead of humans. The imagery was **representational and typological**, not penal.
+### Purification and Cleansing from Impurity
 
-## What Sacrifices Were Not: Penal Substitution
+This group addresses situations where impurity—whether caused by sin, bodily conditions, or contact with death—threatens God’s dwelling among the people. The focus is on cleansing and restoration rather than punishment.
 
-The idea that Old Testament sacrifices functioned as **penal substitutes**—where the animal dies instead of the sinner as a legal replacement—is largely absent from both the biblical text and early Christian interpretation. This understanding emerged much later, primarily in post-Anselm medieval theology and was further developed in the Reformation.
+**Offerings and rites in this group include:**
+- Sin Offering (*ḥaṭṭāʾt*) — Leviticus 4  
+- Guilt Offering (*ʾāšām*) — Leviticus 5–6  
+- Yom Kippur (*yôm hakkippurîm*) — Leviticus 16  
+- Cleansing of Skin Disease — Leviticus 14  
+- Purification after Childbirth — Leviticus 12  
+- Bodily Discharge Offerings — Leviticus 15  
 
-### No Evidence of Penal Substitution in the Text
+These rites show that “sin” in Leviticus often functions as a source of **defilement** rather than solely as legal guilt. Many conditions requiring purification involve no moral failure at all.
 
-The Old Testament never describes sacrifices in terms of:
-- The animal taking the punishment the person deserved
-- God requiring blood as a legal payment for sin
-- A transfer of guilt from sinner to animal
-- The animal suffering the penalty in place of the human
+---
 
-Instead, the language consistently emphasizes **cleansing, purification, and restoration**. The blood removes impurity; it doesn't transfer punishment.
+### Devotion, Thanksgiving, and Dependence
 
-### The Ante-Nicene Consensus
+These offerings express surrender, gratitude, and reliance on God as the giver of life. They are oriented toward worship and acknowledgment rather than cleansing or repair.
 
-Early Christian writers before Nicaea did not interpret Old Testament sacrifices as "substitutionary penal atonement" in the later Protestant sense. Their views were diverse but consistently emphasized:
+**Offerings and rites in this group include:**
+- Burnt Offering (*ʿōlāh*) — Leviticus 1  
+- Grain Offering (*minḥâ*) — Leviticus 2  
+- Pentecost (Feast of Weeks) — Leviticus 23:15–21  
+- Portions of the Ordination Offerings — Leviticus 8–9  
 
-- **Symbolic** function: sacrifices were signs pointing to Christ
-- **Pedagogical** function: they taught Israel about sin, holiness, and God's mercy
-- **Purificatory** function: they cleansed and restored relationship
-- **Typological** function: they anticipated the true sacrifice of Christ
+These rites embed worship within daily life, harvest, time, and provision, emphasizing that covenant faithfulness is lived out through trust and gratitude.
 
-The LORD speaking through Isaiah states: "I have no pleasure in the blood of bulls, or of lambs, or of goats" (Isaiah 1:11). This statement is often misunderstood. The point is not that the sacrifices themselves were wrong or meaningless, but that **God was not pleased with the blood**—which meant the people were sinning and needed cleansing. Through the prophet, God was saying, "I am not pleased with this situation." The sacrifices were necessary because of sin, but God took no pleasure in the blood required by that sin. This underscores that sacrifices were a response to human failure, not something God desired in and of themselves. The Ante-Nicene Fathers, following Isaiah's lead, understood the whole cult as pedagogical—sacrifices pointed to Christ and to spiritual obedience, serving as a necessary but temporary means of dealing with the reality of sin and impurity.
+---
 
-Origen wrote that "the things offered were figures and types, not realities; and He therefore received the things expressed by them in the spiritual fulfillment" (*Homilies on Leviticus*). This typological reading sees sacrifices as signs intended to heal souls and turn them toward the true spiritual reality in Christ—not as legal transactions.
+### A Unifying Pattern
 
-### The Jewish Understanding
+Together, these three groupings show that the sacrificial system is not driven by a single concern about sin. Instead, it is oriented toward **maintaining life with God**—through communion, purification, and devotion. Cleansing exists to preserve presence, and devotion flows from restored fellowship.
 
-Second Temple Jewish thought (the context in which the New Testament was written) also did not view sacrifices primarily as penal substitution. Jewish sources emphasize:
+This framework will be essential as we move forward to consider how these realities find their fulfillment in Christ.
 
-- **Purification**: sacrifices removed ritual impurity and cleansed the sanctuary
-- **Covenant maintenance**: they restored fellowship and relationship
-- **Repentance**: they symbolized turning back to God
-- **Healing**: atonement was understood as healing, not punishment
+## Purpose of the Blood
 
-The rabbinic tradition speaks of sacrifice's role in cleansing and bringing Israel back to fellowship. The emphasis is on **repairing relationship and purifying**, not on satisfying wrath through substitution.
+In Leviticus 17 we see the purpose of the blood, Leviticus 17:11:
 
-## The Therapeutic and Covenantal Framework
+> “For the life of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your lives; for it is the blood that makes atonement by the life.”
 
-The early church understood sacrifices within a **therapeutic and covenantal** framework rather than a legal-penal one. This aligns with how the Epistle to the Hebrews describes the sacrificial system.
+In Leviticus 16 we see the explanation of **atonement**, Leviticus 16:30
 
-### Hebrews' View of Sacrifices
+> "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD."
 
-Hebrews explicitly calls the sacrifices a "shadow" of good things to come (10:1). The repetitive animal sacrifices cannot perfect the conscience; Christ's single offering accomplishes what the rituals could only foreshadow. The temple offerings are pictured as continual but insufficient—they point forward to the one decisive act of Christ.
+God has given **blood** as a gift for the purpose of **cleansing** from contamination in order to restore fellowship with God. Notice that the cleansing described in Leviticus 16 includes not only people, but also objects and sacred space., Leviticus 16:33
 
-The Fathers used Hebrews to argue that Old Testament sacrifices were preparatory types. They did not read Hebrews as teaching a legal transaction in which God's wrath is "satisfied" by penal punishment applied to a substitute. Rather, Hebrews emphasizes **cleansing, covenantal fulfillment, and the superior efficacy of Christ's one self-offering**.
+> "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation."
 
-### Christ as the True Sacrifice
+- for the holy sanctuary
+- for the tabernacle of the congregation
+- for the altar
+- for the priests
+- for all the people
 
-The universal patristic conviction was that **Christ is the true sacrifice**; the Old Testament sacrifices never did the real work. They were temporary shadows. Only Christ actually reconciles. As Melito of Sardis wrote: "The lamb was slain; Christ is the real Lamb" (*On Pascha*).
+When Leviticus 17 says that blood is given “to make atonement,” Leviticus 16 tells us what that atonement actually accomplishes. Blood is effective because it carries life, and that life is applied to **purify what has been contaminated**.
 
-This does not mean the Old Testament sacrifices were meaningless. They served crucial functions: teaching Israel about sin and holiness, maintaining covenant relationship, purifying from impurity, and pointing forward to Christ. But they were not **penal substitutes** taking punishment in place of sinners.
 
-## Implications for Understanding Christ's Work
+The problem atonement addresses is **uncleanness that accumulates in sacred space**. The result of atonement is **cleansing**, allowing God to continue dwelling among the people.
 
-If Old Testament sacrifices were not about penal substitution, then we must reconsider how we understand Christ's sacrifice. The early church saw Christ's work through the lens of **participation**—the key concept from which everything else flows.
+This chapter in Leviticus leaves no ambiguity: atonement functions to **cleanse** defilement, not to redirect punishment.
 
-**Participation** is the foundational reality: Christ entered into our condition, our humanity, our bondage, our death—not as a substitute standing in our place, but as one who participates with us to transform us from within. From this participation, all other aspects of Christ's work emerge:
+The logic flows in this order:
 
-- **Through participation**, Christ gained victory over sin, death, and the devil (Christus Victor). By entering into death and conquering it from within, he defeated the powers that held humanity captive.
+1. Impurity prevents fellowship with God and his presence with the people  
+2. God provides life (in the blood) as a means of cleansing
+3. Atonement removes defilement so communion may continue 
 
-- **Through participation**, Christ healed and purified humanity. By taking on our flesh, our condition, our brokenness, he restored us to wholeness from the inside out.
+This understanding did not disappear in later Jewish or early Christian reflection. Jewish tradition continued to speak of Yom Kippur as a means of cleansing and restoration, not punishment. Early Christian writers likewise understood sacrificial blood as purifying rather than penal.
 
-- **Through participation**, Christ liberated humanity from bondage. By entering into our slavery to sin and death, he broke the chains from within.
+Origen, commenting on Leviticus, described the sacrificial rites as medicinal and instructional, given for the purification of the soul rather than for the satisfaction of divine wrath.
 
-- **Through participation**, Christ recapitulated human life as the new Adam. By living the human life rightly—from birth through death to resurrection—he restored what Adam lost.
+The New Testament reflects this same logic. Hebrews speaks of the blood of sacrifices as effecting “the cleansing of the flesh” (Heb. 9:13), and John writes that the blood of Christ “cleanses us from all sin” (1 John 1:7). In each case, blood functions as a means of purification, not as the redirection of punishment.
 
-This is fundamentally different from seeing Christ's death as a legal transaction where he receives the punishment we deserved. The imagery is **transformative and relational**, not juridical. Christ doesn't stand apart from us, taking our place. He stands with us, participating in our condition, to transform it from within.
 
-And because Christ's work is fundamentally participatory rather than substitutionary, he calls each person to **participate in his death and newness of life**. We are not merely declared righteous from a distance. We are invited into the very death and resurrection of Christ—to die with him and rise with him, participating in the transformation he accomplished. This participation, as we will explore in later chapters, is the means by which we experience the victory, healing, liberation, and restoration that Christ achieved.
+## The purification rites
 
-## Conclusion
+This connection between Leviticus 17 and Leviticus 16 is crucial for understanding the impurity offerings as a whole. The sin offering, guilt offering, and Yom Kippur rites all operate within this same framework:
 
-The Old Testament sacrificial system was about **purification, covenant maintenance, and restoration of relationship**—not penal substitution. The blood cleansed; it didn't transfer punishment. The sacrifices taught, pointed forward, and maintained fellowship—they didn't satisfy wrath through legal substitution.
+- Life is given to cleanse  
+- Blood is applied to sacred space  
+- The goal is restoration
 
-This understanding, shared by both Second Temple Judaism and the Ante-Nicene Fathers, provides the proper foundation for understanding what Christ accomplished. If we begin with a misunderstanding of the Old Testament system, we will inevitably misunderstand the New Testament fulfillment.
+Before we ask how these rites find their fulfillment in Christ, we must first recognize what they were actually designed to do. Leviticus defines atonement not by punishment, but by **purification that makes continued life with God possible**.
 
-The sacrifices were shadows. Christ is the reality. But to understand the reality, we must first understand what the shadows actually were.
+
+
+
+
+
+
+
+
+
+## Introduction: Letting the System Speak for Itself
+
+Before asking how Christ fulfilled the sacrifices, we must first allow the Old Testament sacrificial system to be understood on its own terms. Too often the sacrifices are explained by importing later theological conclusions into the text rather than by observing how the system actually functioned.
+
+This chapter will not compare Old Testament sacrifices to later theories of atonement. Instead, it will **describe the offerings according to their categories and purposes**, allowing their internal logic to emerge. Only after this groundwork is laid can Christ’s work be understood clearly and faithfully.
+
+---
+
+## The Sacrificial System as a Whole
+
+The sacrificial system was not a single mechanism with a single meaning. It was a **network of offerings**, each serving a distinct function within Israel’s covenant life. Together, they maintained **cleanness, communion, and continuity of divine presence**.
+
+When viewed as a whole, the offerings consistently engage three fundamental realities of life with God:
+
+1. **Impurity and uncleanness**  
+2. **Broken or strained covenant fellowship**  
+3. **Dependence upon God for life, provision, and forgiveness**
+
+They did not function as executions carried out on substitutes, but as **ritual actions that restored order, purity, and relationship** within God’s dwelling among his people.
+
+---
+
+## Category One: Purification (Sin and Guilt Offerings)
+
+### Purpose: Cleansing, Not Punishment
+
+The **sin offering** (*ḥaṭṭāʾt*) and **guilt offering** (*ʾāšām*) dealt with **ritual impurity**, not courtroom guilt. These offerings were required not only for moral failure, but also for childbirth, skin disease, bodily discharges, accidental contamination, and contact with death.
+
+This alone reveals what the system is addressing: **defilement**, not legal culpability.
+
+### Where the Blood Is Applied
+
+In purification offerings, the blood is applied not to the sinner, but to the altar, the sanctuary, and—on the Day of Atonement—the Most Holy Place. The issue is that **impurity pollutes God’s dwelling**, threatening continued divine presence.
+
+The blood functions as a **cleansing agent**, removing contamination so that God may continue to dwell among Israel.
+
+---
+
+## Category Two: Ascension (Burnt Offerings)
+
+### Purpose: Total Dedication
+
+The **burnt offering** (*ʿōlāh*) is wholly consumed on the altar. Nothing is eaten, nothing is retained. It symbolizes complete surrender and ascending devotion.
+
+This offering expresses **belonging**, not appeasement. It declares that the worshiper—and by extension Israel—exists for God.
+
+---
+
+## Category Three: Communion (Peace / Fellowship Offerings)
+
+### Purpose: Shared Life with God
+
+The **peace offering** (*šĕlāmîm*) culminates in a shared meal between God, priest, and worshiper. These offerings celebrate thanksgiving, fulfilled vows, and voluntary devotion.
+
+God is not being persuaded to forgive. **Communion already exists and is being reaffirmed.**
+
+---
+
+## Category Four: Provision and Dependence (Grain and Drink Offerings)
+
+### Purpose: Acknowledging God as Sustainer
+
+Grain offerings involve agricultural produce rather than blood. They express gratitude, dependence, and recognition that life itself is sustained by God.
+
+Again, there is **no penal logic here**—only trust and thanksgiving.
+
+---
+
+## Category Five: Removal of Impurity (The Scapegoat)
+
+### Purpose: Bearing Away, Not Being Punished
+
+On the Day of Atonement, one goat is sacrificed, and the other is sent into the wilderness. The scapegoat is not killed, not punished, and not offered on the altar. It dramatizes **the removal of impurity**, not the execution of judgment.
+
+---
+
+## The Sacrificial System as Pedagogy
+
+The sacrifices taught Israel physically and repeatedly that sin contaminates, God is holy, cleansing is necessary for communion, and life with God requires ongoing restoration.
+
+The Ante-Nicene Fathers consistently interpreted the sacrificial system as **instructional and preparatory**, not juridical—figures and shadows training humanity for participation in divine life.
+
+---
+
+## What the Sacrifices Did Not Do
+
+The sacrifices are never described as legal penalties transferred to animals, executions in place of sinners, or satisfaction of wrath through death. These ideas are **absent from the structure of the system itself**.
+
+The prophets’ critiques expose the provisional nature of sacrifices, not their meaning. God took no pleasure in the condition that made them necessary.
+
+---
+
+## Preparing the Way for Christ
+
+The sacrifices did real work—but not final work. They maintained cleanness, preserved divine presence, sustained covenant life, and taught Israel through embodied practice. But they could not heal the human condition, end corruption, defeat death, or perfect the conscience.
+
+They prepared the way for a **true and living sacrifice** that would transform reality itself.
+
+---
+
+## Conclusion: A System of Cleansing, Not Condemnation
+
+The Old Testament sacrificial system was oriented toward **purification, communion, and covenant continuity**, not penal substitution. Its logic is relational and therapeutic, not legal and punitive.
+
+The shadows cleanse temporarily.  
+The reality heals permanently.
+
+Christ does not replace the system by reversing its meaning—  
+he fulfills it by **bringing its purpose to completion**.
