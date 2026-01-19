@@ -24,18 +24,17 @@ They preached a gospel of crucifixion, burial, and resurrection, so that a new l
 
 ## From Deliverance to Management
 
-In the apostolic proclamation, the human problem is not framed primarily as unmet needs, damaged self-esteem, or lack of purpose. It is framed as **bondage** to sin, fear, and death.
+In the apostolic proclamation, the human problem is not framed as unmet needs, damaged self-esteem, or lack of purpose. It is framed as **bondage** to sin, fear, and death.
 
-Paul does not say humanity needs encouragement.  
-He says humanity needs liberation.
+Paul identifies humanity’s condition not as a lack of reassurance, but as captivity under a ruling power. Humanity is under the dominion of sin and death. The problem is not primarily internal fragility, but external domination.
 
-Needs-based Christianity subtly reframes the problem. Death is no longer a tyrant to be destroyed, but a background condition to be managed. Sin is no longer a dominion to be escaped, but a weakness to be accommodated. Salvation becomes less about ontological transition and more about **emotional stabilization**.
+Accordingly, the cure Paul proclaims is not learning how to cope within death, but **deliverance** from it. Humanity is not stabilized within its fallen condition, but released from it. Salvation is announced as death to the old life, liberation from a former dominion, and entry into a new one.
 
 The gospel is no longer announced as:
 
 > “You are a captive of death and must die and be raised in newness of life.”
 
-It is re-presented as:
+It is subtly reframed as:
 
 > “You are accepted, and now Christ will help you cope.”
 
@@ -47,21 +46,23 @@ This shift does not happen all at once. It happens when **death disappears from 
 
 The phrase “come as you are” is often defended as an expression of grace. In a limited sense, it is true: no one cleans themselves before coming to Christ. But when this phrase is allowed to function as a *summary of the gospel*, it becomes profoundly misleading.
 
-In Scripture, people do come as they are, but this statement is often softened in ways that still obscure the truth. It is commonly followed by the reassurance that *“they do not remain as they are.”* While this sounds corrective, it can still mislead if left undefined.
+In Scripture, people do come as they are, but this statement is often softened in ways that still obscure the truth. It is commonly followed by the reassurance that *“they do not remain as they are.”* While this sounds corrective, it can still mislead if death is no longer part of the Gospel.
 
 The issue is not merely that a person changes after coming to Christ.  
 The issue is that the person who comes to Christ **does not survive the encounter**.
 
-The apostolic gospel does not describe salvation as the gradual improvement of an existing identity. It describes salvation as **the death and burial of that identity**, followed by the emergence of a new one.
+The apostolic gospel does not describe salvation as the gradual improvement of an existing identity. It describes salvation as **the death and burial of that original identity**, followed by the emergence of a new one.  What is left out by softer language is the necessity of death as a real and decisive break with the former life.
 
-What is left out by softer language is the necessary rupture.
+This is precisely why the invitation to “come as you are” is true, but only within the apostolic gospel. One comes as one is because nothing from that former life is carried through unchanged. There is no requirement to improve oneself beforehand, because the self that comes is about to die, be buried, and be raised anew in Christ.
+
+“Come as you are” was never meant to imply that the old life is preserved. It assumes the opposite. One comes as one is in order to pass through death with Christ, not in order to remain as one is with Christ’s assistance.
 
 In Scripture, the one who comes to Christ:
 - is crucified with Him  
 - is buried with Him  
 - passes out of a former dominion  
 
-Only then does Christ bring forth what Scripture calls *new creation*, not a repaired self, not a rehabilitated self, but a self that comes **out of the grave** in newness of life.
+Only then does Christ bring forth what Scripture calls *new creation*, not a repaired self or rehabilitated self, but a self that comes **out of the grave** in newness of life.
 
 The problem is not the invitation.  
 The problem is what has been removed from it.
@@ -72,7 +73,7 @@ In the apostolic witness, coming to Christ always involves a **threshold**:
 - burial with Christ  
 - release from a former dominion  
 
-When that threshold disappears, initiation into Christ is replaced with **affirmation of the self**. The gospel becomes a reassurance that one is safe, valued, and welcomed, without ever requiring the death of the one being welcomed.
+When that threshold disappears, initiation into Christ is replaced with **affirmation of the self** -- the self under the dominion of death. The gospel becomes a reassurance that one is safe, valued, and welcomed, without ever requiring the death of the one being welcomed.
 
 What once marked the **end of an identity** now becomes the preservation of it.
 
@@ -181,4 +182,53 @@ Paul’s language is precise:
 
 The *former conversation* refers to habits and patterns learned under a former dominion. These do not constitute the old man himself, but they were shaped by him. What is renewed is not the old man, but the *spirit of the mind*. Renewal follows burial, it does not replace it.
 
-This pattern is already present in the Old Testament. Israel was truly delivered from Egypt. Pharaoh’s dominion was broken. Yet Egypt remained
+This pattern is already present in the Old Testament. Israel was truly delivered from Egypt. Pharaoh’s dominion was broken. Yet Egypt remained in them. Israel carried habits, fears, and patterns of thinking formed under slavery. The wilderness was not a second Egypt, but the place where a delivered people had to learn how to live free.
+
+The difference between needs-based Christianity and the apostolic gospel can be summarized clearly:
+
+| Aspect | Needs-Based Christianity | Apostolic Gospel |
+|------|--------------------------|------------------|
+| Invitation | “Come as you are” | “Come as you are” |
+| Perceived Meaning of the Invitation | You are welcomed so that your existing life can be helped and improved | You are welcomed because the life you bring is about to die |
+| Primary Diagnosis | Unmet needs, wounds, dysfunction | Bondage to sin, fear, and death |
+| View of the Old Life | Preserved and managed | Crucified and buried |
+| Role of Death | Avoided, softened, or spiritualized | Central, necessary, and transformative |
+| Salvation | Help within the same life | Death to one life and entry into another |
+| Discipleship | Gradual self-improvement | Learning to live resurrection life |
+| Healing | Emotional stabilization | Liberation through death and new life |
+| Renewal | Improving habits within the old identity | Renewing the mind after burial |
+| Cross | Inspirational example | Participatory death |
+| Resurrection | Metaphor for growth | New creation life |
+| Outcome | Coping and burnout | Freedom and life under a new dominion |
+
+## Forgiveness Spoken Apart from Death
+
+At this point, a clarification is necessary. Much confusion arises when forgiveness is spoken as though it were automatically possessed, apart from death and new life in Christ.
+
+In contemporary Christian language, people are often told they are forgiven simply because they have believed, prayed, or expressed sincere desire for God. But in the apostolic gospel, forgiveness is not a psychological reassurance spoken over an unchanged life. It is the result of having passed out of one dominion and into another.
+
+If a person has not died with Christ, then they are still living from the place Scripture calls death. They may be seeking God sincerely, but sincerity alone does not constitute union. Forgiveness, as Scripture uses the term, belongs to those who are **in Christ**, not merely oriented toward Him.
+
+
+Paul makes this connection explicit when he writes:
+
+> “For he that is dead is freed from sin.”
+> 
+> (Romans 6:7, KJV)
+
+Freedom from sin, including its guilt and defilement, is not announced apart from death. It is spoken over those who have died with Christ and therefore no longer live under sin’s dominion.
+
+This is why Paul does not speak of forgiveness as something that floats freely over humanity. He speaks of it in Christ. Outside of Christ there is still bondage, still death, and still uncleanness. Forgiveness is not a sentiment that makes death more bearable; it is a reality that belongs to resurrection life.
+
+Paul says the same thing using the language of burial and cleansing:
+
+> “Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.
+> And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses.”
+> 
+> (Colossians 2:12–13, KJV)
+
+Notice the order. Burial with Christ comes first. New life follows. Forgiveness is spoken after death and quickening, not before.
+
+To tell someone they are forgiven while they remain in the old life is to risk offering assurance without transformation, peace without cleansing, and hope without deliverance. Such language may comfort for a time, but it leaves a person attempting to live the Christian life from the wrong side of the grave.
+
+The apostolic gospel does not begin by assuring people that they are already forgiven. It begins by calling people to die with Christ, so that forgiveness, cleansing, and new life may be truly received.
