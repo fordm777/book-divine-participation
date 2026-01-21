@@ -1,5 +1,2 @@
-# Chapter 19 — How Legal Frameworks Replaced Participatory Ones
+# Chapter 19 — Hijacked Words: Wrath, Propitiation, Atonement, Justice
 
-## Draft
-
-(TODO)

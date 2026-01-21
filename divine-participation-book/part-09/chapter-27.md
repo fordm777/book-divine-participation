@@ -1,4 +1,4 @@
-# Chapter 27 — Death Defeated, Life Restored
+# Chapter 27 — Determinism and Eternal Decree: The Strongest Biblical Case
 
 ## Draft
 

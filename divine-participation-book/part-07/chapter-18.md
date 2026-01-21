@@ -1,5 +1,2 @@
-# Chapter 18 — Gnosticism, Determinism, and Theological Control
+# Chapter 18 — When Words Change but Assumptions Don't
 
-## Draft
-
-(TODO)

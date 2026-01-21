@@ -1,4 +1,4 @@
-# Chapter 16 — Living Free from Death’s Dominion
+# Chapter 16 — Communion, Life, and Spiritual Warfare
 
 ## Draft
 

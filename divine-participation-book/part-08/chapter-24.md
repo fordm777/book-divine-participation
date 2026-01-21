@@ -1,4 +1,4 @@
-# Chapter 24 — Total Depravity: The Strongest Biblical Case
+# Chapter 24 — Penal Substitution and the Legalization of Salvation
 
 ## Draft
 

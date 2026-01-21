@@ -1,4 +1,4 @@
-# Chapter 23 — Determinism and Eternal Decree: The Strongest Biblical Case
+# Chapter 23 — How Legal Frameworks Replaced Participatory Ones
 
 ## Draft
 

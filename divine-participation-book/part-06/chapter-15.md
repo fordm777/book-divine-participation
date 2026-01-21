@@ -1,4 +1,4 @@
-# Chapter 15 — Communion, Life, and Spiritual Warfare
+# Chapter 15 — Spiritual Bondage and Warfare
 
 ## Draft
 

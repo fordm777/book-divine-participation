@@ -1,4 +1,4 @@
-# Chapter 22 — Penal Substitution: The Strongest Biblical Case
+# Chapter 22 — Gnosticism, Determinism, and Theological Control
 
 ## Draft
 

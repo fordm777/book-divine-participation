@@ -1,5 +1,2 @@
-# Chapter 20 — Penal Substitution and the Legalization of Salvation
+# Chapter 20 — Why Translation Is Never Neutral
 
-## Draft
-
-(TODO)
