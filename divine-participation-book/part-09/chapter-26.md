@@ -148,36 +148,166 @@ See the following table for comparison:
 
 | Category | Penal Substitutionary Atonement (PSA) | Biblical Temple-Cleansing Atonement |
 |--------|--------------------------------------|------------------------------------|
-| **Location of Atonement** | On earth, at the cross, where punishment is executed and justice is satisfied | In the priestly and cultic sphere; ultimately in the heavenly sanctuary through Christ’s high-priestly mediation |
-| **Primary Problem Addressed** | Legal guilt before God | Defilement, corruption, death, and loss of access to God |
+| **Location of Atonement** | On earth, at the cross, where punishment is executed and justice is satisfied | In the heavenly sanctuary through Christ’s high-priestly mediation |
+| **Primary Problem Addressed** | Legal guilt before God | Defilement, corruption, and death |
 | **Nature of Sin** | Law-breaking requiring punishment | Polluting, corrupting power that brings death and exile |
 | **Role of Death** | Penal punishment inflicted in place of sinners | Necessary passage into death in order to defeat it and remove corruption |
 | **Function of Blood** | Evidence that punishment has been carried out | Cleansing agent that purifies persons and sacred space |
-| **Role of the Priest** | Minimal or symbolic; focus rests on execution of penalty | Central and essential; atonement is completed through priestly mediation |
+| **Role of the Priest** | Minimal or symbolic; focus is on execution of penalty | Central and essential; atonement is completed through priestly mediation |
 | **Sequence of Salvation** | Death completes atonement; resurrection confirms it | Death enables atonement; resurrection and heavenly mediation accomplish it |
-| **Meaning of “Bearing Sin”** | Legal transfer of guilt and punishment | Carrying away sin through identification and removal |
 | **Understanding of Wrath** | Retributive anger requiring satisfaction | God’s opposition to corruption and death, resolved through cleansing and restoration |
 | **Outcome of Atonement** | Legal acquittal and imputed righteousness | Cleansed conscience, restored access, union with God, and new creation life |
-| **Controlling Metaphor** | Courtroom and sentence | Temple, priesthood, cleansing, and access |
+| **Controlling Metaphor** | Courtroom and Judicial | Cleansing and Purification |
 | **View of the Cross** | Site where justice is satisfied | Necessary passage through death that leads to priestly mediation and victory |
 
 ---
 
 ## Isaiah 53 — “Smitten,” “Stricken,” and “Bruised”
 
-Isaiah 53 is often treated as the clearest Old Testament statement of penal substitution. Yet the text never describes a legal transaction.
+Isaiah 53 is often treated as the clearest Old Testament statement of penal substitutionary atonement. For that reason, it deserves careful, unhurried attention. Rather than isolating phrases or assuming a framework in advance, it is best to hear the passage as a whole and then respond to its internal logic.
 
-There is no courtroom, verdict, or sentence.
+What follows begins with the text itself.
 
-The Servant suffers, but suffering is not automatically punishment. Scripture frequently portrays suffering as the result of **entering a broken condition**, not the execution of justice.
+---
 
-Crucially, the text frames the observers’ misunderstanding:
+### Isaiah 53:4–7 (KJV)
 
-> “We esteemed him stricken, smitten by God, and afflicted.”
+> **Isaiah 53:4** — “Surely he hath borne our griefs,  
+> and carried our sorrows:  
+> yet we did esteem him stricken,  
+> smitten of God, and afflicted.  
+>  
+> **Isaiah 53:5** — But he was wounded for our transgressions,  
+> he was bruised for our iniquities:  
+> the chastisement of our peace was upon him;  
+> and with his stripes we are healed.  
+>  
+> **Isaiah 53:6** — All we like sheep have gone astray;  
+> we have turned every one to his own way;  
+> and the LORD hath laid on him the iniquity of us all.  
+>  
+> **Isaiah 53:7** — He was oppressed, and he was afflicted,  
+> yet he opened not his mouth:  
+> he is brought as a lamb to the slaughter,  
+> and as a sheep before her shearers is dumb,  
+> so he openeth not his mouth.”
 
-This is a confession of **misinterpretation**, not divine explanation. The passage then corrects that assumption by explaining that the Servant bears sickness, corruption, and exile.
+---
 
-The Servant “bears” sin as the scapegoat bears sin—by **carrying it away**, not by receiving punishment instead of the guilty.
+### “We Esteemed Him Smitten of God” (Isaiah 53:4)
+
+The passage itself begins by identifying a **misinterpretation**:
+
+> “Yet we did esteem him stricken, smitten of God, and afflicted.” (Isaiah 53:4)
+
+This line does not explain what God was doing to the Servant. It explains what the observers *thought* God was doing. Isaiah frames this as a confession of misunderstanding, not as divine commentary.
+
+The text then immediately corrects that assumption.
+
+---
+
+### “Surely He Hath Borne Our Griefs” (Isaiah 53:4)
+
+Isaiah defines the Servant’s work before any mention of transgression or iniquity:
+
+> “Surely he hath borne our griefs, and carried our sorrows…” (Isaiah 53:4)
+
+The language here is not judicial. It is **experiential and restorative**. Griefs, sorrows, sickness, and affliction are conditions to be carried and removed, not crimes to be punished.
+
+This meaning is confirmed decisively by the Gospel of Matthew.
+
+Matthew explicitly quotes this portion of Isaiah and tells us how it is fulfilled:
+
+> “When evening had come, they brought to Him many who were demon-possessed. And He cast out the spirits with a word, and healed all who were sick, **that it might be fulfilled which was spoken by Isaiah the prophet**, saying,  
+> *‘He Himself took our infirmities and bore our sicknesses.’*”  
+> (Matthew 8:16–17)
+
+Here, Isaiah 53 is fulfilled not at the cross, but in Jesus’ healing ministry. Bearing griefs and sorrows means **entering human brokenness in order to remove it**.
+
+---
+
+### This Interpretation Comes *Before* the Cross (Matthew 8:16–17)
+
+Isaiah 53 is often treated as a prophecy whose meaning is revealed only at the crucifixion and assumed to describe penal punishment. Matthew explicitly contradicts that assumption by locating its fulfillment **before the cross**, in Jesus’ public ministry of healing and deliverance.
+
+This does not deny the cross. It **governs how the cross is understood**.
+
+If Isaiah 53 already means:
+- bearing sickness  
+- carrying grief  
+- removing corruption  
+
+then it cannot later be redefined to mean:
+- absorbing divine punishment  
+- satisfying retributive justice  
+
+Scripture does not permit such a shift in meaning.
+
+---
+
+### “Wounded for Our Transgressions” (Isaiah 53:5)
+
+Isaiah then moves from sickness and sorrow to transgression and iniquity:
+
+> “But he was wounded for our transgressions, he was bruised for our iniquities…” (Isaiah 53:5)
+
+The preposition *for* does not demand penal substitution. It regularly denotes **purpose, result, or involvement**, not punishment. The Servant is wounded *because of* human sin, not *in order to receive punishment instead of sinners*.
+
+The stated outcome is explicit:
+
+> “With his stripes we are healed.” (Isaiah 53:5)
+
+Healing—not acquittal—is the stated result.
+
+---
+
+### “The LORD Hath Laid on Him the Iniquity of Us All” (Isaiah 53:6)
+
+This scripture is often used as a summary statement of penal substitution:
+
+> “And the LORD hath laid on him the iniquity of us all.”  
+> *(Isaiah 53:6)*
+
+This scripture is commonly read from a legal penal framework and is therefore understood to mean that guilt is transferred to the Servant and this is why the servant is punished. The temple framework (i.e Levitical sacrificial system) and the Septuagint (LXX) don't allow reading it from a legal penal framework.
+
+Leviticus explicitly states that the priest “bears the iniquity of the congregation” in order to make atonement (Lev. 10:17), yet the priest is not punished; bearing iniquity is a priestly act of mediation and removal, not a transfer of retributive penalty.
+
+Additionally, in the Septuagint (LXX), the wording of this verse reinforces a meaning of encounter and bearing rather than legal imputation. Isaiah 53:6 uses the verb **ἐπέθηκεν** (“laid upon”) together with the phrase **τὰς ἁμαρτίας ἡμῶν πάντων** (“the sins of us all”), describing the LORD as causing the iniquity of all to **come upon** or **be placed upon** the Servant.
+
+Crucially, this language does not denote the assignment of guilt for punishment. In the LXX, **ἐπιτίθημι** regularly carries the sense of placing a burden, bringing something upon someone, or causing one to encounter a condition. It is relational and experiential, not judicial. The Servant is not said to be condemned or punished; he is said to have the burden of iniquity placed upon him so that it may be borne.
+
+For the Second Temple Jewish translators who produced the LXX, this wording would have naturally evoked priestly and cultic imagery, particularly the placing of sin upon a representative figure for the purpose of removal. The emphasis is not on retribution, but on **bearing a burden in order to deal with it**.
+
+In this linguistic and sacrificial context, Isaiah 53:6 describes the LORD placing the weight of corruption upon the Servant, so that it may be carried, confronted, and removed, not so that punishment may be redirected to him.
+
+This aligns closely with Levitical atonement imagery. On the Day of Atonement, the scapegoat **bears** the sins of the people, not in the sense that guilt is assigned to it for punishment, but in the sense that it carries the burden of impurity **away** from the community. The action is removal, not retribution. The scapegoat does not become morally guilty, nor is it punished; it becomes the bearer of iniquity so that defilement may be taken outside the camp and the people may be cleansed.
+
+Isaiah 53:6 operates within this same conceptual world. To “lay” iniquity upon the Servant is to place upon him the full weight of Israel’s corruption, exile, and death so that it may be dealt with, removed, and undone. The action is restorative, not retributive.
+
+This understanding also reflects the trajectory of early Christian interpretation. Ante-Nicene writers regularly spoke of Christ “bearing” sin, yet they consistently understood this bearing as Christ entering the human condition in order to heal it, destroy death, and restore communion. Their view was that of participatory restoration and victory over corruption, not the Father punishing the Son instead of humanity.
+
+Read within its own priestly and sacrificial framework, Isaiah 53:6 does not describe a transfer of guilt for punishment. It describes a representative bearing of iniquity so that it may be **carried away**.
+
+---
+
+### The Silent Servant and the Lamb (Isaiah 53:7)
+
+> “He is brought as a lamb to the slaughter…” (Isaiah 53:7)
+
+The lamb imagery here does not imply punishment by God. Lambs in Israel’s sacrificial system are offered within a **cultic and priestly framework** for cleansing and restoration.
+
+The Servant’s silence reflects faithful obedience, not judicial guilt.
+
+---
+
+### Summary: Participatory Healing, Not Penal Exchange (Isaiah 53:4–7)
+
+Isaiah 53:4–7 does not describe a courtroom. It describes a Servant who:
+- enters human suffering (Isaiah 53:4)  
+- bears sickness and grief (Isaiah 53:4; Matthew 8:16–17)  
+- is wounded because of human sin (Isaiah 53:5)  
+- brings healing as the stated result (Isaiah 53:5)  
+- carries iniquity away rather than receiving punishment (Isaiah 53:6)  
 
 Isaiah 53 presents participatory healing, not penal exchange.
 
