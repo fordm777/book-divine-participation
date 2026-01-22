@@ -268,25 +268,28 @@ This scripture is often used as a summary statement of penal substitution:
 > “And the LORD hath laid on him the iniquity of us all.”  
 > *(Isaiah 53:6)*
 
-This scripture is commonly read from a legal penal framework and is therefore understood to mean that guilt is transferred to the Servant and this is why the servant is punished. The temple framework (i.e Levitical sacrificial system) and the Septuagint (LXX) don't allow reading it from a legal penal framework.
+This verse is commonly read through a legal–penal framework and therefore understood to mean that guilt is **imputed** to the Servant so that he may be punished in place of the guilty. In this reading, “laid on him” is taken to describe a legal transfer of sin, whereby the Servant is treated as though he were guilty before God.
 
-Leviticus explicitly states that the priest “bears the iniquity of the congregation” in order to make atonement (Lev. 10:17), yet the priest is not punished; bearing iniquity is a priestly act of mediation and removal, not a transfer of retributive penalty.
+However, neither the temple framework of Leviticus nor the language of the Septuagint (LXX) allows for such a reading.
 
-Additionally, in the Septuagint (LXX), the wording of this verse reinforces a meaning of encounter and bearing rather than legal imputation. Isaiah 53:6 uses the verb **ἐπέθηκεν** (“laid upon”) together with the phrase **τὰς ἁμαρτίας ἡμῶν πάντων** (“the sins of us all”), describing the LORD as causing the iniquity of all to **come upon** or **be placed upon** the Servant.
+Leviticus explicitly states that the priest “bears the iniquity of the congregation” in order to make atonement (Lev. 10:17), yet the priest is not punished. Bearing iniquity is presented as a **priestly act of mediation and removal**, not as the execution of retributive penalty. This establishes the biblical category in which Isaiah is speaking and immediately calls into question the assumption that bearing iniquity implies imputed guilt.
 
-Crucially, this language does not denote the assignment of guilt for punishment. In the LXX, **ἐπιτίθημι** regularly carries the sense of placing a burden, bringing something upon someone, or causing one to encounter a condition. It is relational and experiential, not judicial. The Servant is not said to be condemned or punished; he is said to have the burden of iniquity placed upon him so that it may be borne.
+The Septuagint further clarifies the nature of this bearing. In Isaiah 53:6, the LXX uses the verb **ἐπέθηκεν** (“laid upon”) together with the phrase **τὰς ἁμαρτίας ἡμῶν πάντων** (“the sins of us all”), describing the LORD as causing the iniquity of all to **come upon** the Servant.
 
-For the Second Temple Jewish translators who produced the LXX, this wording would have naturally evoked priestly and cultic imagery, particularly the placing of sin upon a representative figure for the purpose of removal. The emphasis is not on retribution, but on **bearing a burden in order to deal with it**.
+This language does not describe legal imputation. In the LXX, **ἐπιτίθημι** regularly denotes placing a burden upon someone, bringing something upon them, or causing them to encounter a condition. It is relational and experiential, not judicial. No language of accounting, reckoning, condemnation, or sentencing appears. What is described is the **real arrival of sin’s burden upon the Servant**, not a change in his moral or legal status before God.
 
-In this linguistic and sacrificial context, Isaiah 53:6 describes the LORD placing the weight of corruption upon the Servant, so that it may be carried, confronted, and removed, not so that punishment may be redirected to him.
+This distinction is critical. Imputation concerns **status**; Isaiah describes **exposure**. The Servant is never portrayed as guilty, sinful, or regarded by God as a transgressor. Instead, the iniquity of the people comes upon him in a concrete and devastating way. He enters into the full weight of Israel’s corruption, exile, and death. Sin does not remain abstract or symbolic; it is **encountered**.
 
-This aligns closely with Levitical atonement imagery. On the Day of Atonement, the scapegoat **bears** the sins of the people, not in the sense that guilt is assigned to it for punishment, but in the sense that it carries the burden of impurity **away** from the community. The action is removal, not retribution. The scapegoat does not become morally guilty, nor is it punished; it becomes the bearer of iniquity so that defilement may be taken outside the camp and the people may be cleansed.
+For the Second Temple Jewish translators who produced the LXX, this wording would have naturally evoked priestly and cultic categories. Sin and impurity are realities that cling, contaminate, and destroy. To place them upon a representative figure is to expose that figure to the full force of what sin actually does—not so that punishment may be redirected, but so that the corruption itself may be confronted and dealt with.
 
-Isaiah 53:6 operates within this same conceptual world. To “lay” iniquity upon the Servant is to place upon him the full weight of Israel’s corruption, exile, and death so that it may be dealt with, removed, and undone. The action is restorative, not retributive.
+This is where Levitical atonement imagery provides further clarity. On the Day of Atonement, sin is not assigned to a victim for punishment. It is **borne** so that it may be removed. The scapegoat bears iniquity away from the people; the priest bears iniquity in order to make atonement. In neither case is bearing equated with retribution or imputed guilt.
 
-This understanding also reflects the trajectory of early Christian interpretation. Ante-Nicene writers regularly spoke of Christ “bearing” sin, yet they consistently understood this bearing as Christ entering the human condition in order to heal it, destroy death, and restore communion. Their view was that of participatory restoration and victory over corruption, not the Father punishing the Son instead of humanity.
+Isaiah 53:6 operates within this same conceptual world. To “lay” iniquity upon the Servant is not to punish him, but to place him fully within the human condition under sin—its corruption, its violence, its exile, and its death. The action is not penal, but **participatory**, as the Servant enters even death itself in order to confront, exhaust, and undo what sin produces.
 
-Read within its own priestly and sacrificial framework, Isaiah 53:6 does not describe a transfer of guilt for punishment. It describes a representative bearing of iniquity so that it may be **carried away**.
+
+This understanding also reflects the trajectory of early Christian interpretation. Ante-Nicene writers consistently spoke of Christ “bearing” sin as his entry into the human condition in order to heal it, destroy death, and restore communion with God. Their emphasis was participatory restoration and victory over corruption, not the Father imputing sin on him and then punishing the Son in place of humanity.
+
+Read within its priestly and sacrificial context, Isaiah 53:6 does not describe the imputation of iniquity upon the servant, but rather it describes the **real sinful acts of the people** upon the servant.
 
 ---
 
@@ -307,7 +310,8 @@ Isaiah 53:4–7 does not describe a courtroom. It describes a Servant who:
 - bears sickness and grief (Isaiah 53:4; Matthew 8:16–17)  
 - is wounded because of human sin (Isaiah 53:5)  
 - brings healing as the stated result (Isaiah 53:5)  
-- carries iniquity away rather than receiving punishment (Isaiah 53:6)  
+- real encounter with sin was laid upon him and he endured it (Isaiah 53:6)
+ 
 
 Isaiah 53 presents participatory healing, not penal exchange.
 
