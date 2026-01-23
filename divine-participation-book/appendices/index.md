@@ -7,7 +7,7 @@
 - **Atonement** — See Chapters 5, 6, 7
 - **Propitiation** — See Chapters 5, 6
 - **Participation** — See Part V, Chapter 13
-- **Substitution** — See Part V, Chapter 13; Part IX, Chapter 26
+- **Substitution** — See Part V, Chapter 13; Part IX, Chapter 27
 - **Covenant** — See Part II, Part IV
 - **Sacrifice** — See Part III, Chapter 6
 - **Blood** — See Part III, Chapter 7

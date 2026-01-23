@@ -1,4 +1,4 @@
-# Chapter 29 — Renewed Covenant Theology: The Strongest Biblical Case
+# Chapter 29 — Total Depravity: The Strongest Biblical Case
 
 ## Draft
 

@@ -1,4 +1,4 @@
-# Chapter 28 — Total Depravity: The Strongest Biblical Case
+# Chapter 28 — Determinism and Eternal Decree: The Strongest Biblical Case
 
 ## Draft
 

@@ -80,14 +80,15 @@
 ## PART IX — STEEL-MANNING THE OPPOSING VIEWS  
 **(Fair engagement without conceding the framework)**
 
-- [Chapter 26 — Penal Substitution: The Strongest Biblical Case](part-09/chapter-26.md)
-- [Chapter 27 — Determinism and Eternal Decree: The Strongest Biblical Case](part-09/chapter-27.md)
-- [Chapter 28 — Total Depravity: The Strongest Biblical Case](part-09/chapter-28.md)
-- [Chapter 29 — Renewed Covenant Theology: The Strongest Biblical Case](part-09/chapter-29.md)
-- [Chapter 30 — Other Common Objections and Proof Texts](part-09/chapter-30.md)
+- [Chapter 26 — What Atonement is (and is not)](part-09/chapter-26.md)
+- [Chapter 27 — Penal Substitution: The Strongest Biblical Case](part-09/chapter-27.md)
+- [Chapter 28 — Determinism and Eternal Decree: The Strongest Biblical Case](part-09/chapter-28.md)
+- [Chapter 29 — Total Depravity: The Strongest Biblical Case](part-09/chapter-29.md)
+- [Chapter 30 — Renewed Covenant Theology: The Strongest Biblical Case](part-09/chapter-30.md)
+- [Chapter 31 — Other Common Objections and Proof Texts](part-09/chapter-31.md)
 
 ---
 
 ## PART X — CONCLUSION
 
-- [Chapter 31 — Death Defeated, Life Restored](part-10/chapter-31.md)
+- [Chapter 32 — Death Defeated, Life Restored](part-10/chapter-32.md)
