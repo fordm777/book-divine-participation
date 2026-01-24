@@ -10,7 +10,7 @@ This appendix tracks all biblical references cited throughout the book, organize
 - **Genesis 1-3** — Creation, Life, and the Presence of God
   - See: [Chapter 1 — Creation, Life, and the Presence of God](../part-01/chapter-01.md)
 - **Genesis 4** — Abel's sacrifice and blood
-  - See: [Chapter 7 — The Blood That Speaks: Abel and Jesus](../part-03/chapter-07.md)
+  - See: [Chapter 9 — Covenant Cleanness, Divine Presence, and Relational Judgment](../part-03/chapter-09.md)
 
 ### Exodus
 - **Exodus 12** — Passover
@@ -33,7 +33,7 @@ This appendix tracks all biblical references cited throughout the book, organize
 
 ### Jeremiah
 - **Jeremiah 31** — New Covenant
-  - See: [Chapter 9 — New Covenant or Renewed Covenant?](../part-04/chapter-09.md)
+  - See: [Chapter 10 — New Covenant or Renewed Covenant?](../part-04/chapter-10.md)
 
 ### Ezekiel
 - *(References to be added as chapters are written)*
@@ -50,7 +50,7 @@ This appendix tracks all biblical references cited throughout the book, organize
 
 ### Luke
 - **Luke 22** — The Cup, the Curse
-  - See: [Chapter 12 — The Jealous Husband](../part-05/chapter-12.md)
+  - See: [Chapter 13 — The Jealous Husband](../part-05/chapter-13.md)
 
 ### John
 - *(References to be added as chapters are written)*
@@ -60,7 +60,7 @@ This appendix tracks all biblical references cited throughout the book, organize
 
 ### Romans
 - **Romans 7** — Covenant Death and Release from Bondage
-  - See: [Chapter 10 — Covenant Death and Release from Bondage (Romans 7)](../part-04/chapter-10.md)
+  - See: [Chapter 11 — Covenant Death and Release from Bondage (Romans 7)](../part-04/chapter-11.md)
 - *(Additional Romans references to be added as chapters are written)*
 
 ### 1 Corinthians

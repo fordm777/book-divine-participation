@@ -1,4 +1,4 @@
-# Chapter 24 — Penal Substitution and the Legalization of Salvation
+# Chapter 24 — How Legal Frameworks Replaced Participatory Ones
 
 ## Draft
 

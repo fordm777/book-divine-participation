@@ -1,2 +1,2 @@
-# Chapter 20 — Why Translation Is Never Neutral
+# Chapter 20 — Hijacked Words: Wrath, Propitiation, Atonement, Justice
 

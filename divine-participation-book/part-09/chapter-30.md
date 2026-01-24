@@ -1,4 +1,4 @@
-# Chapter 30 — Renewed Covenant Theology: The Strongest Biblical Case
+# Chapter 30 — Other Common Objections and Proof Texts
 
 ## Draft
 

@@ -1,2 +1,2 @@
-# Chapter 19 — Hijacked Words: Wrath, Propitiation, Atonement, Justice
+# Chapter 19 — When Words Change but Assumptions Don't
 

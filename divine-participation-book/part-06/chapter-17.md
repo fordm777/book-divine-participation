@@ -1,4 +1,4 @@
-# Chapter 17 — Living Free from Death's Dominion
+# Chapter 17 — Communion, Life, and Spiritual Warfare
 
 ## Draft
 

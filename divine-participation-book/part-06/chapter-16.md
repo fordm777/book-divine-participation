@@ -1,4 +1,4 @@
-# Chapter 16 — Communion, Life, and Spiritual Warfare
+# Chapter 16 — Spiritual Bondage and Warfare
 
 ## Draft
 

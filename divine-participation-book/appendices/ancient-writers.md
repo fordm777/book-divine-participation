@@ -18,7 +18,7 @@ This appendix is organized by **author** (chronologically), with each entry incl
 
 ### Ignatius of Antioch (c. 35-108 AD)
 
-**Cited in:** [Chapter 21 — The Ante-Nicene Church Period](../part-08/chapter-21.md)
+**Cited in:** [Chapter 22 — The Ante-Nicene Church Period](../part-08/chapter-22.md)
 
 **Context:** Bishop of Antioch, martyred in Rome. His seven letters written en route to martyrdom are among the earliest post-apostolic Christian writings.
 

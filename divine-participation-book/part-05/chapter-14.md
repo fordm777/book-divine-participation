@@ -1,2 +1,5 @@
-# Chapter 14 — The Record of Debt: Slavery, Not Courtrooms (Colossians 2)
+# Chapter 14 — Participation or Substitution
 
+## Draft
+
+(TODO)

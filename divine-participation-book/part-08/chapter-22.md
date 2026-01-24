@@ -1,4 +1,4 @@
-# Chapter 22 — Gnosticism, Determinism, and Theological Control
+# Chapter 22 — The Ante-Nicene Church Period
 
 ## Draft
 

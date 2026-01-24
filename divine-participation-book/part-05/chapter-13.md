@@ -1,4 +1,4 @@
-# Chapter 13 — Participation or Substitution
+# Chapter 13 — The Jealous Husband
 
 ## Draft
 
