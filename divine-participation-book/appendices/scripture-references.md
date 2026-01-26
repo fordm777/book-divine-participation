@@ -50,7 +50,7 @@ This appendix tracks all biblical references cited throughout the book, organize
 
 ### Luke
 - **Luke 22** — The Cup, the Curse
-  - See: [Chapter 13 — The Jealous Husband](../part-05/chapter-13.md)
+  - See: [Chapter 12 — The Jealous Husband](../part-04/chapter-12.md)
 
 ### John
 - *(References to be added as chapters are written)*

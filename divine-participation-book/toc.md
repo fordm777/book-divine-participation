@@ -36,15 +36,15 @@
 
 - [Chapter 10 — New Covenant or Renewed Covenant?](part-04/chapter-10.md)
 - [Chapter 11 — Covenant Death and Release from Bondage (Romans 7)](part-04/chapter-11.md)
+- [Chapter 12 — The Jealous Husband](part-04/chapter-12.md)
 
 ---
 
 ## PART V — PARTICIPATION IN CHRIST  
 **(How salvation is entered, not merely explained)**
 
-- [Chapter 12 — Faith, Belief, and Works](part-05/chapter-12.md)
-- [Chapter 13 — The Jealous Husband](part-05/chapter-13.md)
-- [Chapter 14 — Participation or Substitution](part-05/chapter-14.md)
+- [Chapter 13 — Faith, Belief, and Works](part-05/chapter-13.md)
+- [Chapter 14 — Baptism: Participation in Death and New Life](part-05/chapter-14.md)
 - [Chapter 15 — The Record of Debt: Slavery, Not Courtrooms (Colossians 2)](part-05/chapter-15.md)
 
 ---
