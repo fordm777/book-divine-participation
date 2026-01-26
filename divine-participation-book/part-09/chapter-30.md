@@ -190,25 +190,49 @@ This is why the apostolic writings feel no tension modern readers feel. They are
 
 ---
 
-## Conclusion: Where the Question Must Be Settled
+## Conclusion: The Question Beneath the Question
 
-The disagreement over baptism is not finally about water.
+The disagreement over baptism is not finally a disagreement about water.
 
-It is about whether salvation is something **declared about us** or something **enacted upon us**.
+It is a disagreement about **what salvation itself is**.
 
-Until that question is faced, the debate will never be resolved—not because Scripture is unclear, but because it is being asked to answer a question it was never written to address.
+One framework understands salvation primarily as a **verdict**: guilt is removed, status is changed, and assurance follows immediately. Within that framework, baptism can only function as a symbol, because nothing embodied is needed once the verdict is declared.
 
-The gospel does not merely announce forgiveness.  
-It announces deliverance.
+The other framework understands salvation as a **passage**: a movement from one dominion to another, from death into life. Within that framework, salvation must be *entered*, not merely announced, and death must be *undergone*, not merely affirmed.
 
-And deliverance, in Scripture, is not received by verdict alone, but by **passing through death into life**.
+This is why the debate cannot be settled by isolated verses.
 
-If salvation is a passage, it must have an entrance.  
-If death is real, it must occur somewhere.  
-If faith is trust, it must act.
+Each side is asking Scripture a different question.
 
-The apostolic witness locates that passage, that death, and that act of faith in baptism.
+One side is asking, **“How is guilt removed?”**  
+The other is asking, **“How is dominion escaped?”**
 
-Not as a work.  
-Not as magic.  
-But as the place where faith finally stops circling death—and enters it.
+One side is guarding grace from being turned into mechanism.  
+The other is guarding salvation from being turned into abstraction.
+
+Once this is seen, the persistence of the disagreement makes sense.
+
+The apostles were not attempting to decide whether baptism “adds” something to grace. They were announcing deliverance through death and describing how that deliverance is entered **by faith**.
+
+If salvation is only a declaration, baptism will always feel unnecessary.  
+If salvation is a passage through death into life, baptism will always be unavoidable.
+
+The apostolic witness does not spiritualize death.  
+It locates it.
+
+It does not redefine obedience as optional.  
+It presents obedience as the form faith takes when it entrusts itself fully to God.
+
+It does not ask whether God *can* save apart from baptism in extraordinary circumstances.  
+It declares how God has chosen to save ordinarily—by bringing people **through** death, not around it.
+
+And for the apostles, that passage has a name, a moment, and a shape.
+
+It is entered **by faith**.  
+It is enacted in baptism.  
+It is completed in resurrection life.
+
+The question is no longer whether baptism fits our framework.
+
+The question is whether our framework still fits the gospel the apostles preached.
+
