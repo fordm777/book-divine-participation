@@ -1,183 +1,214 @@
 # Chapter 30 — Baptism Without Water: The Strongest Case
 
-## Introduction: Taking the Objection Seriously
+## Introduction: The Question at Hand
 
-One of the most common modern objections to water baptism is not that baptism is unimportant, but that **the baptism that saves is spiritual rather than physical**. According to this view, salvation occurs at the moment of belief, while water baptism functions only as a later sign, testimony, or symbol.
+Chapter 14 argued that baptism is the concrete, covenantal moment where believers **enter** Christ’s death and resurrection **by faith**, enacted in water and effected by the Spirit.
 
-This objection does not arise from indifference. It reflects real historical pressures, sincere theological instincts, and a desire to protect grace from distortion. For that reason, it deserves to be taken seriously.
+Yet a large portion of modern Christianity holds that water baptism is either symbolic-only, non-essential, or a secondary witness to an inward, spiritual baptism that has already occurred. This view is not marginal. It is widely held by sincere Christians who love Scripture and are deeply concerned to protect the gospel of grace.
 
-This chapter does not re-argue the nature of baptism. That work has already been done. Instead, it asks a different question:
+For that reason, this chapter does not caricature or dismiss the position. It presents the strongest version of the case **on its own terms**, not merely listing verses, but exposing the *framework* that makes those verses persuasive.
 
-> *How did Christianity move from treating baptism as the concrete entry into death and life, to treating it as an optional symbol?*
-
-To answer that question, we must trace how **assumptions about salvation, matter, and mediation** shifted over time.
+Because the real disagreement is not finally about baptism.  
+It is about what salvation itself is.
 
 ---
 
-## The Early Christian Baseline
+## The Core Concern Driving the View
 
-Before later controversies arose, the early Christian community spoke about baptism with remarkable clarity and consistency.
+The modern resistance to water baptism as necessary is almost never rooted in a rejection of obedience. It is rooted in fear—often justified fear—of two things:
 
-Writers from the late first through third centuries—such as Justin Martyr, Irenaeus, Tertullian, Cyprian, and the author of the Didache—do not debate whether baptism is necessary or merely symbolic. They assume baptism as the ordinary moment of:
+1. **Works-righteousness**  
+   If baptism is required, it can sound as though salvation depends on something we do.
+
+2. **Sacramental mechanism**  
+   If baptism “saves,” it can sound as though water works automatically, apart from faith.
+
+Both concerns arise from real historical abuses. They deserve to be taken seriously. But fear can also cause a framework shift that quietly changes the nature of salvation itself.
+
+---
+
+## Why the Case Against Water Baptism Feels Compelling
+
+When stated carefully, the strongest modern case for baptism as symbolic or non-essential usually rests on several converging claims.
+
+### Salvation is by faith alone
+
+Texts such as Romans 3–5, Galatians, and Ephesians 2:8–9 are read to establish a clean sequence:
+
+1. Hear the gospel  
+2. Believe  
+3. Are saved  
+4. Obey (including baptism)
+
+Within this model, baptism is obedience *after* salvation, not the means by which faith enters salvation.
+
+### Spirit baptism is treated as the “one baptism”
+
+Passages like 1 Corinthians 12:13 and Ephesians 4:5 are interpreted to mean that the true baptism is spiritual and inward, with water functioning only as a sign of that deeper reality.
+
+### Exceptional cases appear decisive
+
+The thief on the cross is frequently cited: he was promised paradise without baptism. From this it is inferred that baptism cannot be essential in principle.
+
+### Paul appears to minimize baptism
+
+In 1 Corinthians 1:17, Paul says, “Christ sent me not to baptize, but to preach the gospel.” This is taken to mean that baptism is secondary to the gospel itself.
+
+### Cornelius received the Spirit before baptism
+
+Acts 10 is often treated as proof that salvation precedes baptism, since the Spirit falls before water is applied.
+
+### Many salvation texts mention belief but not baptism
+
+Jesus often promises life to those who believe, especially in John’s Gospel. Paul often calls people to faith and confession without immediately mentioning baptism. This silence is taken as evidence that baptism cannot be necessary.
+
+### Pastoral concern presses hardest
+
+What about the believer who dies before baptism?  
+What about those who lack opportunity?
+
+To preserve assurance, many conclude that baptism cannot be essential, because God can and does save apart from it in exceptional cases.
+
+These arguments are not careless. They arise from a sincere desire to guard grace, protect assurance, and avoid superstition.
+
+---
+
+## The Earliest Christian Baseline
+
+Before responding to later theological developments, it matters to establish a baseline.
+
+The earliest Christian writers—apostolic and ante-Nicene—did not treat water baptism as optional, symbolic-only, or secondary. They assumed it as the ordinary point of entry into Christian life, consistently associating it with:
 
 - cleansing from sins,
-- rebirth or regeneration,
+- new birth,
 - reception of the Spirit,
-- renunciation of prior dominion,
-- entrance into the life of the Church.
+- renunciation of former dominion,
+- entrance into the Church.
 
-They do not describe baptism as competing with faith. They describe it as **faith’s embodied response** to the gospel.
+They did not frame baptism as competing with faith. They framed it as **faith’s embodied enactment**.
 
-What is striking is not uniformity of detail, but uniformity of assumption. The question *whether* baptism mattered did not yet exist.
-
-This establishes an important historical baseline:  
-**the view that water baptism is unnecessary or merely symbolic is not original to the apostolic or early post-apostolic church.**
+This does not settle every later debate, but it establishes an important fact: the modern spiritual-only view is **not** the apostolic default.
 
 ---
 
-## The Earliest Rejection of Water Baptism
+## The First Rejection of Water Baptism: Gnostic Assumptions
 
-It is historically significant that the **earliest Christian groups to reject water baptism as necessary or effective were gnostic or gnostic-adjacent movements**, not the apostolic churches.
+Historically, the earliest groups to deny the necessity or efficacy of water baptism were **gnostic or gnostic-adjacent movements**.
 
-These groups shared a defining conviction: **material elements could not mediate salvation**. For them, water was too physical, too bound to creation, and therefore incapable of participating in divine life. Salvation was understood as escape from material existence through secret knowledge (*gnōsis*), inner illumination, or spiritual awakening.
+Their objection was not fear of works. It was distrust of matter itself. Salvation was conceived as escape from embodiment through knowledge or illumination. Within that worldview, water could not function as a means of salvation because the material order was suspect.
 
-Early Christian writers repeatedly identify this rejection of water baptism as part of a broader theological rejection:
-- of the goodness of creation,
-- of the incarnation,
-- of bodily mediation altogether.
+Early Christian writers repeatedly connect the denial of water baptism with a denial of:
+- the goodness of creation,
+- the incarnation,
+- salvation enacted within bodily life.
 
-Irenaeus insists that Christ saves not by bypassing creation, but by entering it—sanctifying flesh, blood, and water through His incarnation and death. Tertullian responds to spiritualized baptisms not by defending ritual for its own sake, but by defending the logic of the incarnation itself: if God saves through flesh, He may also save through water.
-
-What matters here is not merely *that* gnostic groups rejected water baptism, but **why** they did so. Their objection was not fear of works, nor concern for grace, but a theological distrust of material means altogether.
-
-This places later Christian discomfort with water baptism in an important historical light. The earliest move to separate salvation from water did not arise from apostolic Christianity, but from a worldview that denied embodied mediation.
+This matters because it shows that the earliest attempt to “spiritualize” baptism did not arise from a grace-centered concern, but from an ontology that rejected embodied participation altogether.
 
 ---
 
-## The Reformation Fear of Sacerdotalism
+## How the Modern View Actually Developed
 
-A much later shift occurs during the Reformation.
+The modern spiritual-only position does not descend from gnosticism. It emerges later, under different pressures.
 
-Reformers rightly reacted against late medieval practices that treated sacraments as automatic mechanisms, often detached from repentance, faith, or transformation. In that context, baptism could appear to function as a ritual that “worked” regardless of the person’s disposition.
+### Reformation fear of sacerdotalism
 
-In guarding against this abuse, Reformers emphasized:
-- justification by faith,
-- the sufficiency of Christ’s work,
-- the danger of trusting external rites.
+In reacting against real sacramental abuses, the Reformers emphasized faith and Christ’s sufficiency. Over time, this defensive posture sometimes led to suspicion of any concrete means that appeared to mediate salvation.
 
-These concerns were legitimate. However, in distancing salvation from sacramental mechanism, theology also began to **distance salvation from embodied participation**.
+### Legal and forensic priority
 
-Baptism increasingly became:
-- a sign pointing to salvation,
-- a testimony following salvation,
-- a symbol of something already completed.
+As salvation became framed primarily as a legal verdict, death became metaphorical rather than enacted. Baptism, no longer needed to locate death, was redefined as a sign of a verdict already rendered.
 
-The shift was defensive rather than malicious, but it introduced a new assumption: **if baptism does something objective, it must threaten grace**. That assumption was not shared by the early church.
+### Anxiety about “means”
 
----
+In traditions where regeneration is placed prior to any embodied response, baptism cannot function as transition. It must be confirmation. The result is an increasingly abstract salvation.
 
-## The Legal and Forensic Priority in Justification
+### Revivalist decision theology
 
-Alongside this shift came a change in how salvation itself was conceptualized.
-
-As justification became framed primarily in legal and forensic categories, salvation was increasingly described as a verdict rendered in heaven rather than a transition enacted in the body.
-
-Within a legal framework:
-- salvation is declared rather than entered,
-- righteousness is imputed rather than embodied,
-- death becomes metaphorical rather than enacted.
-
-In such a system, baptism naturally moves to the margins. A courtroom verdict does not require burial. It requires declaration.
-
-Once salvation is understood primarily as legal status, baptism can no longer function as the place where death and resurrection occur. It must be reinterpreted as a sign of an already-completed transaction.
+As conversion became centered on immediate decisions and verbal confessions, baptism became easier to delay. Delay normalized. Normalization produced optionality.
 
 ---
 
-## Anxiety About “Means” in Calvinist and Post-Calvinist Theology
+## The Real Disagreement Beneath the Debate
 
-Another pressure point arises from concerns about **means**.
+When the strongest case against water baptism is examined carefully, something crucial becomes visible.
 
-If salvation is determined by eternal decree and regeneration occurs prior to any embodied response, then any identifiable moment of entry can appear theologically dangerous. Baptism, precisely because it is concrete and located, may seem to threaten divine sovereignty.
+The disagreement is not finally about proof texts.
 
-As a result, regeneration is increasingly described as:
-- invisible,
-- instantaneous,
-- detached from bodily action.
+It is about **what salvation is**.
 
-Baptism, in this framework, cannot be the moment of new life. At best, it can confirm what has already occurred.
+### Two Different Questions Being Asked
 
-The concern here is sincere. It reflects a desire to protect God’s initiative. But it also produces an unintended consequence: **salvation becomes increasingly abstract**, while Scripture consistently speaks of death, burial, and resurrection as enacted realities.
+One side is asking:
 
----
+> **How is guilt removed?**
 
-## Revivalism and Decision Theology
+The other is asking:
 
-A further shift occurs in revivalist movements.
+> **How is dominion escaped?**
 
-As evangelism becomes centered on immediate decisions, altar calls, and verbal confessions, salvation is increasingly identified with **a moment of mental assent**. Baptism, requiring preparation, witnesses, and embodied action, does not fit easily into this structure.
-
-Over time:
-- belief becomes the sole decisive act,
-- baptism is postponed,
-- postponement becomes normal,
-- symbolism replaces participation.
-
-This normalization of delay would have been foreign to the apostolic pattern, where baptism followed faith without hesitation.
+Once this is seen, the debate begins to make sense.
 
 ---
 
-## A Brief Note on Infant Baptism
+## Framework Comparison: What Is Really at Stake
 
-By the late second and early third centuries, some Christian writers begin to reference the baptism of children. These references appear within communities that already assumed baptism’s cleansing and regenerative character.
+| Question | Legal / Forensic Framework | Covenantal / Participatory Framework |
+|--------|----------------------------|--------------------------------------|
+| What is salvation? | A verdict declared | A passage entered |
+| Primary image | Courtroom | Exodus / death / resurrection |
+| What does faith do? | Assents | Entrusts and obeys |
+| Faith is | Cognitive belief | Relational allegiance |
+| Role of the body | Symbolic | Participatory |
+| What can matter do? | Point to reality | Serve as means |
+| How is death handled? | Christ dies instead of us | Christ dies so we can die with Him |
+| Where does death occur? | Metaphorically | Concretely |
+| What is baptism? | Symbol of salvation | Entry into death and life |
+| Faith’s relation to baptism | Replaces it | Expresses itself through it |
+| View of obedience | After salvation | Mode of entering salvation |
+| Time of salvation | Instant verdict | Enacted transition |
+| Primary fear | Works-righteousness | Avoidance of death |
+| What is lost if wrong? | Assurance | Participation |
 
-Whatever conclusions one reaches regarding the later theology of infant baptism, its emergence presupposes an earlier and more basic conviction: **baptism was not treated as optional, symbolic, or merely declarative**.
-
-For this reason, infant baptism is not the source of the later “spiritual-only” view. That view emerges much later, shaped primarily by forensic concerns rather than early sacramental practice.
-
----
-
-## Common Scriptural Objections Revisited
-
-Modern objections often appeal to specific texts:
-- the thief on the cross,
-- Cornelius receiving the Spirit,
-- “one baptism” language,
-- references to spiritual baptism.
-
-These passages are important, but none function to replace baptism with an invisible alternative. They address extraordinary circumstances, unity of the Church, or divine agency—not the elimination of water from baptismal practice.
-
-The apostles themselves never conclude from these texts that baptism is unnecessary or merely symbolic. That conclusion emerges only when **later assumptions** are brought to the texts.
-
----
-
-## What Was Lost in the Shift
-
-As baptism was detached from water and redefined as purely spiritual, several things were quietly lost:
-
-- a located moment of death,
-- an embodied burial,
-- a concrete covenant crossing,
-- a clear transfer of dominion,
-- the unity of water, Spirit, and faith.
-
-Salvation became something believed rather than something entered. Death became metaphorical. Resurrection became deferred.
-
-Yet Scripture consistently announces salvation as passage **through death into life**.
+This table exposes why the debate persists. The two sides are often answering different questions, using different metaphors, and guarding different perceived dangers.
 
 ---
 
-## Conclusion: Recovering Without Reaction
+## Why Baptism Becomes the Fault Line
 
-This chapter has not argued that modern theologians acted in bad faith. It has shown that objections to water baptism arise from **specific historical pressures** and **legitimate fears**, but also from assumptions that differ significantly from the apostolic and early Christian framework.
+Baptism sits precisely at the intersection of:
 
-Recovering baptism as participation does not require abandoning grace. It requires recovering the biblical vision of salvation as **death entered by faith**, not a verdict received at a distance.
+- faith and obedience,
+- spirit and body,
+- declaration and enactment,
+- promise and participation.
 
-Water does not compete with Spirit.  
-Faith does not compete with obedience.  
-Participation does not compete with grace.
+If salvation is primarily a verdict, baptism will inevitably become symbolic.
 
-The question is not whether baptism saves mechanically.  
-The question is whether salvation, as Scripture presents it, can be entered without death.
+If salvation is a passage through death into life, baptism will inevitably be the place where that passage is entered **by faith**.
 
-The apostles answered that question clearly.  
-And they baptized accordingly.
+This is why the apostolic writings feel no tension modern readers feel. They are not asking whether baptism adds to grace. They are describing **how grace is entered**.
+
+---
+
+## Conclusion: Where the Question Must Be Settled
+
+The disagreement over baptism is not finally about water.
+
+It is about whether salvation is something **declared about us** or something **enacted upon us**.
+
+Until that question is faced, the debate will never be resolved—not because Scripture is unclear, but because it is being asked to answer a question it was never written to address.
+
+The gospel does not merely announce forgiveness.  
+It announces deliverance.
+
+And deliverance, in Scripture, is not received by verdict alone, but by **passing through death into life**.
+
+If salvation is a passage, it must have an entrance.  
+If death is real, it must occur somewhere.  
+If faith is trust, it must act.
+
+The apostolic witness locates that passage, that death, and that act of faith in baptism.
+
+Not as a work.  
+Not as magic.  
+But as the place where faith finally stops circling death—and enters it.
