@@ -1,4 +1,4 @@
-# Chapter 23 — Gnosticism, Determinism, and Theological Control
+# Chapter 23 — The Ante-Nicene Church Period
 
 ## Draft
 

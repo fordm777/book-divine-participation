@@ -1,2 +1,2 @@
-# Chapter 20 — Hijacked Words: Wrath, Propitiation, Atonement, Justice
+# Chapter 20 — When Words Change but Assumptions Don't
 

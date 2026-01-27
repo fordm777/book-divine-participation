@@ -1,4 +1,4 @@
-# Chapter 17 — Communion, Life, and Spiritual Warfare
+# Chapter 17 — From One Lord to Another: Renunciation, Allegiance, and Baptism
 
 ## Draft
 

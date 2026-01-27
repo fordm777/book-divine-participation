@@ -1,4 +1,4 @@
-# Chapter 18 — Living Free from Death's Dominion
+# Chapter 18 — Spiritual Warfare After Deliverance
 
 ## Draft
 

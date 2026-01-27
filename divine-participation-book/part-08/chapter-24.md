@@ -1,4 +1,4 @@
-# Chapter 24 — How Legal Frameworks Replaced Participatory Ones
+# Chapter 24 — Gnosticism, Determinism, and Theological Control
 
 ## Draft
 
