@@ -215,6 +215,107 @@ They fight as tenants trying to evict an owner they still legally live under.
 That is exhausting.
 
 ---
+## Paul’s Sharpest Warning: Freedom Without License (1 Corinthians 5–6)
+
+Paul’s letters to Corinth make the distinction between freedom and perfection unmistakably clear.
+
+In 1 Corinthians 5, Paul confronts open sexual immorality within the church—behavior so serious that even pagans found it shocking. His response is not casual tolerance, nor is it despair. It is decisive correction.
+
+> *“Know ye not that a little leaven leaveneth the whole lump?  
+> Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened.”*  
+> (1 Corinthians 5:6–7)
+
+Paul does not say, “Become unleavened so that you may belong.”  
+He says, **“You are unleavened—therefore live accordingly.”**
+
+The logic is ontological, not legal. Identity precedes instruction.
+
+Yet Paul is equally clear that returning to patterns of sin is incompatible with the life believers now possess.
+
+---
+
+## “Such Were Some of You”
+
+This same logic intensifies in 1 Corinthians 6.
+
+After listing behaviors associated with the old dominion—sexual immorality, idolatry, drunkenness, greed—Paul states plainly:
+
+> *“And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.”*  
+> (1 Corinthians 6:11)
+
+Paul does not say these things are no longer temptations.  
+He says they no longer define who the believers are.
+
+The tense matters.
+
+“These things **were** you.”  
+They are no longer your identity, your master, or your home.
+
+To persist in them is not weakness alone. It is a contradiction of the new reality believers have entered.
+
+---
+
+## Freedom Is Not Perfection
+
+At this point, many readers raise an immediate objection:
+
+**“But Christians still sin.”**
+
+Paul agrees.
+
+What Paul denies is that sin still **reigns**.
+
+Freedom from the dominion of sin and death does not mean the eradication of temptation, weakness, or failure. It means the end of sin’s authority as master.
+
+This is why Paul can simultaneously:
+- warn believers sharply against sin,
+- grieve over real failures,
+- and still speak with confidence about their changed state.
+
+Perfection is not assumed.  
+Faithfulness is required.
+
+---
+
+## Why the Strawman Persists
+
+Much modern theology resists this framework because it fears an impossible standard. If freedom from dominion is affirmed, it is assumed that sinless perfection must follow—or that hypocrisy is inevitable.
+
+Paul does not make this move.
+
+He distinguishes between:
+- **presence** and **power**,
+- **temptation** and **reign**,
+- **failure** and **slavery**.
+
+Sin can still appear without ruling.  
+Failure can occur without redefining ownership.  
+Repentance restores alignment, not salvation.
+
+This is not an unrealistic gospel.  
+It is a demanding one.
+
+---
+
+## Why This Matters for Deliverance and Discipleship
+
+If freedom meant perfection, Paul’s warnings would be unnecessary.  
+If bondage were inevitable, his commands would be incoherent.
+
+Instead, Paul assumes a real transfer has occurred—and calls believers to live in a way that corresponds to it.
+
+Deliverance without death produces cycles of relief and return.  
+Death without vigilance invites defilement and accusation.  
+
+But death followed by faithful walking produces something Scripture dares to promise:
+
+A people no longer ruled by sin,  
+yet constantly dependent on grace.
+
+That is not sinless perfection.  
+It is resurrection life lived under a new Lord.
+
+---
 
 ## What This Chapter Has Shown
 
