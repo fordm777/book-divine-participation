@@ -84,15 +84,16 @@
 ## PART IX — STEEL-MANNING THE OPPOSING VIEWS  
 **(Fair engagement without conceding the framework)**
 
-- [Chapter 30 — Penal Substitution: The Strongest Biblical Case](part-09/chapter-30.md)
-- [Chapter 31 — Determinism and Eternal Decree: The Strongest Biblical Case](part-09/chapter-31.md)
-- [Chapter 32 — Total Depravity: The Strongest Biblical Case](part-09/chapter-32.md)
-- [Chapter 33 — Renewed Covenant Theology: The Strongest Biblical Case](part-09/chapter-33.md)
-- [Chapter 34 — Baptism Without Water: The Strongest Case](part-09/chapter-34.md)
-- [Chapter 35 — Other Common Objections and Proof Texts](part-09/chapter-35.md)
+- [Chapter 30 — Surety, Priesthood, and the Stability of the Covenant](part-09/chapter-30.md) *(What Hebrews 7 actually secures)*
+- [Chapter 31 — Penal Substitution: The Strongest Biblical Case](part-09/chapter-31.md)
+- [Chapter 32 — Determinism and Eternal Decree: The Strongest Biblical Case](part-09/chapter-32.md)
+- [Chapter 33 — Total Depravity: The Strongest Biblical Case](part-09/chapter-33.md)
+- [Chapter 34 — Renewed Covenant Theology: The Strongest Biblical Case](part-09/chapter-34.md)
+- [Chapter 35 — Baptism Without Water: The Strongest Case](part-09/chapter-35.md)
+- [Chapter 36 — Other Common Objections and Proof Texts](part-09/chapter-36.md)
 
 ---
 
 ## PART X — CONCLUSION
 
-- [Chapter 36 — Death Defeated, Life Restored](part-10/chapter-36.md)
+- [Chapter 37 — Death Defeated, Life Restored](part-10/chapter-37.md)

@@ -1,423 +1,362 @@
-# Chapter 32 — Total Depravity: The Strongest Biblical Case
+# Chapter 32 — Determinism and Eternal Decree: The Strongest Biblical Case
 
-## Why Total Depravity Must Be Taken Seriously
+> Whatever framework you bring to the text will govern which semantic lanes you allow the words to travel in—whether you are reading English, Greek, or Hebrew.  
+> A framework does not usually announce itself. It simply governs which meanings feel natural.  
+> **Of course it feels obvious. That’s how frameworks work.**
 
-Total Depravity is not a peripheral doctrine in Reformed theology. It is foundational. If humanity is not spiritually dead in the specific way Calvinism requires—namely, **ontologically incapable of responding to God**—then irresistible grace, regeneration preceding faith, and theological determinism lose their footing.
+This chapter is not written to caricature determinism, nor to dismiss those who find its arguments compelling. It is written to **steel-man the strongest biblical case** for determinism and eternal decree, because many sincere Christians encounter these passages early, and they feel decisive.
 
-Because of this, Total Depravity deserves its strongest possible hearing.
-
-Reformed theologians consistently point to **Romans 5** and **Ephesians 2** as their clearest biblical support. If Total Depravity is taught anywhere, it must be taught here.
-
-But when these passages are read carefully and allowed to define their own categories, something decisive emerges:  
-Paul speaks in the language of **dominion and bondage**, not ontology.
-
-That distinction governs everything that follows.
-
-## Dominion Language vs Ontological Claims
-
-An **ontological claim** is a claim about *being*—about what something **is by nature**.
-
-When Calvinism says humanity is “spiritually dead,” it usually means:
-- the human will is nonfunctional toward God,
-- the capacity to respond is absent,
-- faith is impossible until regeneration occurs.
-
-Those are **ontological claims**.
-
-By contrast, **dominion language** describes rule and control:
-- a power reigning over persons,
-- slavery rather than non-existence,
-- captivity rather than incapacity.
-
-Paul consistently uses dominion language.
-
-## Romans 5: Death Reigns, Humanity Does Not Cease
-
-Romans 5:12–21 is the most sustained apostolic reflection on Adam, sin, death, and the human condition.
-
-Paul writes:
-
-> “Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned…” (Romans 5:12)
-
-The central problem is not inherited guilt or metaphysical inability.  
-The problem is **the reign of death**.
-
-Paul repeats this emphasis:
-- “Death **reigned** from Adam to Moses” (v.14)
-- “Many **died**” (v.15)
-- “Death **exercised dominion**” (v.17)
-
-This is not courtroom language.  
-It is not ontological language.  
-It is **dominion language**.
-
-Death is a tyrant, not the substance of human nature.
-
-### Death Rules Over People Who Still Act
-
-During death’s reign:
-- humans still sin,
-- humans still respond,
-- humans still believe, obey, resist, and rebel.
-
-Paul does not describe humanity as spiritually inert. He describes humanity as **alive under a hostile power**.
-
-That is why liberation—not secret regeneration—is the solution Paul advances.
-
-## Ephesians 2: “Dead in Sins” Explained by Dominion
-
-Ephesians 2 is often cited as decisive proof of ontological spiritual death:
-
-> “You were dead in trespasses and sins…” (Ephesians 2:1)
-
-But Paul immediately explains what this “deadness” looks like:
-
-> “in which you once **walked**, following the course of this world, following the prince of the power of the air…” (v.2)
-
-Dead people do not walk.
-
-Paul defines “dead in sins” as **enslavement**:
-- ruled by the world,
-- governed by hostile powers,
-- driven by disordered desires.
-
-This is dominion language, not ontology.
-
-Reading verse 1 ontologically while verses 2–3 dominionally fractures Paul’s argument. Paul himself never makes that move.
+If this book is going to ask readers to reconsider inherited frameworks, it must first demonstrate that those frameworks are understood at their strongest.
 
 ---
 
-### Sidebar: Ontology vs Dominion (Why the Difference Matters)
+## What Determinism Means in This Chapter
 
-**Ontology** concerns *being*—what a person **is by nature**.  
-An ontological claim says a person cannot respond because the capacity is absent.
+By *determinism*, this chapter refers to the claim that:
 
-**Dominion** concerns *rule*—what **controls or governs** a person.  
-A dominion claim says a person acts under constraint or slavery.
+1. God’s eternal decree **causally determines** all events, including every human choice.
+2. Election and reprobation are **individual**, **unconditional**, and **fixed from eternity**.
+3. Grace is not merely enabling, but **irresistible**, such that the elect cannot finally resist and the non-elect cannot genuinely respond.
 
-Paul’s language of death is dominion language:
-- death reigns,
-- death enslaves,
-- death must be defeated.
+This view often insists it is not fate, because God is personal rather than impersonal. But the functional question remains:
 
-Calvinism tends to read these texts ontologically.  
-Paul speaks covenantally and dominionally.
-
-That difference determines whether salvation bypasses humanity or liberates humanity.
+Are we dealing with providence that genuinely engages human response,  
+or an exhaustive causal script in which response is only apparent?
 
 ---
 
-## The Internal Contradiction Created by Ontological Death
+## The Strongest Biblical Case for Determinism
 
-The ontological model introduces a problem Paul never has.
+### Romans 9 — “It Depends Not on Human Will”
 
-According to the Calvinist sequence:
-1. Humans are already spiritually dead (ontologically)
-2. God regenerates them so they can believe
-3. They believe because they are now alive
-4. They then “die with Christ”
-5. They are made alive again in Christ
+If a single chapter is made to carry the weight of eternal decree, it is Romans 9.
 
-This yields an incoherent pattern:
-**dead → alive → dead → alive**
+Paul speaks of Jacob and Esau being distinguished before they had done anything good or bad. God’s choice is said to be “not because of works.” Pharaoh is raised up to display God’s power. Mercy and hardening are described as God’s prerogative. The potter has authority over the clay.
 
-Paul never teaches this.
+The anticipated objection—*“Why does he still find fault?”*—sounds exactly like a protest against determinism. And Paul does not respond by appealing to human freedom, but to God’s right.
 
-## Dying with Christ in Baptism
+This is the strongest text. Any honest treatment must admit that.
 
-Paul’s baptismal theology is explicit:
+### Ephesians 1 — Chosen Before the Foundation of the World
 
-> “Do you not know that all of us who were baptized into Christ Jesus were baptized into His **death**?” (Romans 6:3)
+Ephesians 1 stacks language that, read in a certain lane, sounds conclusive:
 
-Dying with Christ only makes sense if:
-- humans are alive under death’s dominion,
-- death is something that can be entered,
-- death is something that can be passed through.
+- chosen before the foundation of the world  
+- predestined according to his purpose  
+- working all things according to the counsel of his will  
+
+If “all things” is read as exhaustive causal determination, the conclusion feels unavoidable.
+
+### John 6 — “No One Can Come Unless the Father Draws”
+
+John 6 is often treated as the experiential engine of determinism:
+
+- the Father gives people to the Son  
+- those given will come  
+- no one can come unless drawn  
+- none given will be lost  
+
+Read in a deterministic lane, this becomes: coming is guaranteed for some and impossible for others.
+
+### Acts 13:48 — “As Many as Were Appointed Believed”
+
+This verse is short, blunt, and endlessly quoted. Appointment appears to precede belief.
+
+### Judas, the Cross, and Fulfillment
+
+Add the passion narratives:
+
+- Scripture “must” be fulfilled  
+- the Son of Man goes as it is written  
+- Judas fulfills prophecy  
+
+From here many conclude: if the worst sin in history is scripted, everything must be.
+
+---
+
+## How the Early Church Recognized and Rejected the Fatalistic Lane
+
+What is often missing from modern discussions is that **this debate arose very early**, and the church did not treat deterministic conclusions as neutral options.
+
+### Justin Martyr — Foreknowledge Is Not Fatal Necessity
+
+Justin explicitly rejects the idea that divine foreknowledge implies inevitability. If everything happens by necessity, he argues, moral responsibility collapses.
+
+God’s knowledge does not force action.  
+Prophecy does not create compulsion.
+
+Justin is not resisting Scripture. He is resisting a **fatalistic inference**.
+
+### Irenaeus — “By Nature” Salvation and Gnostic Sorting
+
+Irenaeus repeatedly attacks the idea that some people are, by nature, incapable of receiving life.
+
+He insists that God exhorts without coercing, and that humans genuinely respond. He explicitly ties deterministic sorting to Gnostic systems that divided humanity into fixed categories—material, psychic, spiritual.
+
+For Irenaeus, the claim that some cannot receive life because of what they *are* is not apostolic teaching. It is theological corruption.
+
+---
+
+## Why the Greek Alone Cannot Rescue a Bad Framework
+
+Determinism often presents itself as humble submission to “what the words plainly say.”
+
+But the fathers recognized something modern readers often miss:  
+words can be accurate, and the **lane** can still be wrong.
+
+If salvation is assumed to be an eternal sorting of individuals, then:
+
+- “choose” becomes “exclude”  
+- “predestine” becomes “script every choice”  
+- “harden” becomes “create for damnation”  
+- “cannot” becomes “no capacity in principle”  
+
+The early church refused that lane, not by denying the texts, but by refusing the fatalistic conclusion.
+
+---
+
+## Dominion, Not Diagnosis — Romans 5 Sets the Frame
+
+Romans 5 does not speak of death as mere condition. It speaks of death as **reigning power**.
+
+> “Death reigned from Adam to Moses.”  
+> “Sin reigned in death.”
+
+Reigning language matters.
+
+You do not reign over corpses.  
+You reign over **living subjects under authority**.
+
+Paul’s argument is not that humans are metaphysically inert, but that they are **enslaved**.
+
+---
+
+## If You Are Already Dead, How Do You Die With Christ?
+
+Romans 6 and Colossians 2 make the sequence explicit:
+
+1. You are living under the reign of sin and death.  
+2. You are united with Christ in his death.  
+3. That dominion is broken.  
+4. You are raised to walk in newness of life.
+
+This sequence is destroyed if “spiritual death” means total incapacity.
+
+If you are already dead in the Calvinist sense, how do you **die with Christ**?
+
+Does this mean:
+- everyone is already dead *in Christ*, and only some are later raised?
+- or that death with Christ is merely something God does apart from participation?
+- or that baptismal language is symbolic rather than real?
+
+None of these fit Paul.
+
+Burial is not diagnosis.  
+Burial is event.
+
+> “Having been buried with him in baptism, in which you were also raised with him through faith…”
+
+You cannot be buried into something that already happened.
+
+---
+
+## “Are You Saving Yourself?” — The Reframing That Twists the Gospel
+
+A familiar objection follows immediately:
+
+**“Are you saving yourself?”**
+
+But this question only works after the problem has been reframed.
+
+### Two Competing Diagnoses
+
+**Calvinist framing:**
+- You are already dead.
+- Dead people can do nothing.
+- God must give life first, apart from response.
+
+**Apostolic framing:**
+- You are living under the reign of death.
+- Death is a dominion.
+- You must **die with Christ** to be freed.
+
+These are not compatible.
+
+No one saves themselves by dying.
+
+Death is not achievement.  
+It is surrender.  
+It is the end of self-rule.
+
+Participation is not self-salvation.  
+It is the only way death’s reign actually ends.
+
+Calvinism brilliantly reframes the discussion:
+
+- death becomes incapacity instead of dominion  
+- grace becomes replacement instead of deliverance  
+- faith becomes evidence instead of allegiance  
+- obedience becomes suspicion  
+- participation becomes “works”  
+
+Once the frame shifts, waiting feels like humility.
+
+---
+
+## Waiting for a “Magical Moment”
+
+This reframing trains people to wait.
+
+They wait for:
+- enlightenment  
+- certainty  
+- an internal switch to flip  
+- God to act apart from them  
+
+Many people have a genuine *“aha”* moment.  
+They realize Jesus is who he said he is.
+
+But they never enter death with him.
+
+They believe *about* Christ,  
+but never join him in death.
+
+So they remain living from the place Scripture calls **death**, trying to manage it rather than pass through it.
+
+The New Testament never tells people to wait for regeneration.
+
+It commands:
+> Repent.  
+> Believe.  
+> Be baptized.  
+> Die.  
+> Walk in newness of life.
+
+---
+
+## The Parable of the Sower and the Collapse of Determinism
+
+Jesus teaches that seed is sown widely.
+
+Some receive it.  
+Some fall away.  
+Some are choked.  
+And some have the seed **stolen by the devil so that they may not believe and be saved**.
+
+If determinism were true in the strong sense:
+- the devil could not prevent belief  
+- resistance would be illusory  
+- warnings would be theater  
+
+But Jesus presents real conflict over real outcomes.
+
+Determinism turns spiritual warfare into a stage play.  
+Jesus treats it as genuine struggle.
+
+---
+
+## Conclusion — Why This Is Not a Side Issue
+
+This debate is not academic.
+
+It determines whether people:
+- respond or wait  
+- die or manage  
+- obey or analyze  
+
+If salvation is a script, repentance is cosmetic.  
+If salvation is fate, participation is unnecessary.  
+If salvation is inevitable, warnings are empty.
+
+But if salvation is **union with Christ through death and resurrection**, then the call is urgent, concrete, and costly.
+
+You do not wait for resurrection life.
+
+You enter death with Christ.
+
+Now.
+
+## Born Again Without Dying — The Final Inversion
+
+Another quiet but decisive shift occurs in how Calvinist theology emphasizes **being born again** while functionally sidelining **dying with Christ**.
+
+To be clear, Scripture absolutely teaches new birth. Jesus himself uses the language. But in the apostolic writings, **new birth never replaces death**. It follows it.
+
+Calvinism reverses that order.
+
+By framing regeneration as an irresistible act that happens *to* a person apart from response, the focus shifts almost entirely to being made alive—while the call to die quietly disappears.
+
+### Why This Matters
+
+In the New Testament, death is not optional, symbolic, or assumed. It is commanded.
 
 Paul does not say:
-> “You discovered you were already dead.”
+> “You were regenerated, therefore live differently.”
 
 He says:
-> “You **died** with Christ.”
+> **“You died.”**  
+> **“You were buried.”**  
+> **“Your old man was crucified.”**
 
-If humans are already ontologically dead, baptism becomes symbolic theater rather than real participation.
+Life comes *after* death, not instead of it.
 
-## The Solution Scripture Gives: Death (Not a Work)
+But if regeneration is framed as something God does unilaterally, apart from participation, then death becomes unnecessary—or worse, redundant.
 
-Scripture’s solution to death’s dominion is not bypassing death.  
-It is **going through it**.
+And once death is removed, something subtle happens: salvation becomes something **received without relinquishment**.
 
-The person must die.
+### It Is Not a Work to Die
 
-This death is not a work of the law.
-It is not an achievement or contribution.
-It is not something earned.
+This is the theological hinge.
 
-Death is the **end of self-rescue**.
+Calvinism often hears the call to die with Christ and immediately responds:
+**“That sounds like works.”**
 
-To die with Christ is not to do something, but to **cease clinging to life under death’s reign** and to entrust oneself wholly to God’s act of resurrection.
+But dying is not a work.
 
-This is why Paul can insist salvation is not by works while insisting participation in Christ’s death is necessary.
+Death is the **end of works**.
 
-Dying is not a work.  
-It is the surrender of all works.
+Death is surrender.  
+Death is relinquishment.  
+Death is the collapse of self-rule.  
 
-## A Biblical Version of “Total Depravity”
+No one boasts about dying.  
+No one achieves death.  
+No one earns life by surrendering it.
 
-If Scripture defines the problem, a biblical version of total depravity would sound like this:
+To label death-with-Christ as “self-salvation” is to fundamentally misunderstand what death is.
 
-- Humanity is totally under the dominion of death  
-- Humanity is totally unable to free itself  
-- Humanity is totally corrupted by mortality and fear  
-- Humanity requires divine rescue  
+### How the Inversion Happens
 
-But Scripture does *not* say:
-- humanity is incapable of response,
-- faith is impossible prior to regeneration,
-- humans are ontologically dead in their being.
+When theology emphasizes *birth without death*, several distortions follow:
 
-That is a later theological move, not an apostolic one.
+- Regeneration becomes an internal event rather than a transfer of dominion.
+- Faith becomes recognition rather than allegiance.
+- Obedience becomes evidence rather than participation.
+- Baptism becomes symbolic rather than burial.
+- The old life is managed instead of ended.
 
-## Common Calvinist Objection: “But Slaves Can’t Free Themselves”
+People are told they are already alive in Christ before anything has actually died.
 
-A common response is:
+But Scripture never teaches resurrection without crucifixion.
 
-> “If humans are enslaved to death, they still cannot respond. Slavery implies inability.”
+### The Apostolic Pattern Is Consistent
 
-This objection fails on Paul’s own terms.
+Paul’s pattern is unwavering:
 
-Slavery does not mean non-existence.  
-It means **lack of self-liberation**.
+- Death with Christ  
+- Burial with Christ  
+- Resurrection with Christ  
+- Newness of life  
 
-Throughout Scripture:
-- slaves hear commands,
-- captives cry out,
-- prisoners respond to deliverance.
+Calvinism speaks constantly of life, while bypassing the doorway Scripture insists upon.
 
-What slaves cannot do is **free themselves**.
+That doorway is death.
 
-Paul never says faith is self-rescue.  
-He says faith is **receiving rescue**.
+### The “Aha” That Changes Everything
 
-Responding to liberation is not the same as producing liberation.
+Once this is seen, the pieces lock into place.
 
-## A Brief Historical Turning Point: Augustine
-
-The shift from dominion language to ontological incapacity does not come from the apostles or the Ante-Nicene Fathers. It develops gradually and becomes pronounced in Augustine’s later anti-Pelagian writings.
-
-Responding to real errors, Augustine increasingly framed the fall as resulting in a will unable to turn toward God without prior grace. Death was no longer primarily a reigning power to be destroyed, but an internal condition of inability.
-
-This was not yet full Calvinism, but it laid its groundwork.
-
-Earlier Christian writers consistently spoke of corruption, bondage, and mortality—not metaphysical non-response.
-
-Recognizing this development allows Augustine to be taken seriously without treating him as apostolic.
-
-## Conclusion: Dominion, Not Ontology
-
-Romans 5 and Ephesians 2 do not teach Total Depravity as ontological inability.
-
-They teach **total bondage to a reigning power**.
-
-Paul’s solution is not secret regeneration before faith.  
-It is union with Christ through death and resurrection.
-
-Death is real.  
-Bondage is real.  
-Dominion is real.
-
-And so is the call:
-
-> “Awake, O sleeper, and arise from the dead, and Christ will shine on you.” (Ephesians 5:14)
-
-Dead things cannot awaken.  
-Enslaved people can be freed.
-
-And that difference changes the entire gospel.
-
-## Why This Critique Is Different
-
-Many critiques of Total Depravity already exist. Some come from Arminian or Wesleyan traditions, others from Eastern Christianity, others from modern biblical scholarship. Most agree that the Reformed account of human inability goes too far.
-
-What distinguishes this critique is not the conclusion, but the **method**.
-
-This chapter has not attempted to soften the human problem, reduce the seriousness of sin, or defend human autonomy. It has done the opposite. It has taken death, bondage, and corruption with full seriousness—exactly as Paul describes them.
-
-The difference lies in **category**.
-
-Most critiques of Total Depravity still accept its ontological framing and attempt to solve it by adding a mechanism: prevenient grace, enabling grace, partial regeneration, or some other divine intervention that restores capacity before faith. In those systems, humans remain incapable until something invisible happens first.
-
-This chapter has refused that move.
-
-Instead of asking how humans gain ability, it has asked a prior question:  
-**What does Scripture mean by “death”?**
-
-Paul’s answer is consistent and unavoidable: death is a **reigning power**, not a description of human non-being. Humanity is alive under domination, not erased in its capacity to respond.
-
-Once that category is allowed to stand, the entire Pauline framework becomes coherent:
-- death reigns,
-- Christ enters death,
-- believers die with Him,
-- death’s dominion is broken,
-- resurrection follows.
-
-This critique does not attack Total Depravity from outside Paul’s argument.  
-It allows Paul’s argument to complete itself.
-
-## Death, Not Bypass
-
-Another difference is where this chapter places the solution.
-
-Many systems—both Reformed and non-Reformed—ultimately solve the problem of death by **bypassing it**. Life is given first, then death-language is reinterpreted metaphorically.
-
-Paul never does this.
-
-For Paul, the solution to death is not secret regeneration prior to faith.  
-The solution is **death itself**—shared with Christ.
-
-This death is not a work. It is not an achievement. It is not a contribution. It is the end of self-rescue and the beginning of resurrection by God alone.
-
-Any framework that renders dying with Christ redundant, symbolic, or chronologically incoherent has failed to preserve the structure of the gospel Paul actually preached.
-
-## Letting the Apostolic Grammar Stand
-
-This chapter does not claim novelty. The categories employed here—death as dominion, salvation as participation, resurrection as liberation—are ancient. They are visible in Scripture itself and echoed throughout the early church.
-
-What is unusual is allowing those categories to function **without being subordinated to later ontological frameworks**.
-
-Rather than translating Paul into a different grammar, this chapter has attempted to let the apostolic grammar stand.
-
-And once it does, the conclusion follows naturally:
-
-Romans 5 and Ephesians 2 do not teach Total Depravity as ontological inability.  
-They teach **total bondage to a reigning power**.
-
-The gospel does not begin with bypassed death.  
-It begins with dying—and ends with resurrection.
-
-## Two Competing Progressions: Ontology vs Dominion
-
-One of the clearest ways to see the difference between the Reformed account of Total Depravity and the apostolic account found in Paul is to compare how each framework understands the **starting point**, the **problem**, and the **solution**.
-
-| Question | Reformed Ontological Framework | Apostolic Dominion Framework |
-|--------|-------------------------------|------------------------------|
-| **Starting condition** | Human beings begin **spiritually dead** in their being | Human beings begin **alive under the dominion of death** |
-| **Nature of death** | Ontological inability (capacity is absent) | A reigning power or tyrant |
-| **Human condition** | Will is nonfunctional toward God | Will is enslaved but operative |
-| **Primary problem** | Inability to respond | Bondage requiring liberation |
-| **Meaning of “dead in sins”** | Non-response due to spiritual non-life | Living under hostile rule |
-| **Role of fear and mortality** | Secondary or incidental | Central (Hebrews 2:14–15) |
-| **Solution required** | Regeneration before faith | Death with Christ followed by resurrection |
-| **Order of salvation** | Alive → believe → die (symbolically) → live | Alive under death → die with Christ → live |
-| **Meaning of baptism** | Sign following prior regeneration (not a death-event) | Participation in Christ’s death |
-| **Is dying with Christ real?** | Redundant or metaphorical | Necessary and transformative |
-| **Is death bypassed?** | Yes, functionally | No, death is entered |
-| **Is dying a work?** | Not required, since the person is considered already dead | No—death is required and ends all works |
-| **Final outcome** | Life granted **without dying with Christ** | Resurrection **through dying with Christ** |
-
-The contrast is not whether Christ died, but whether the person must die with Him; Reformed ontology grants life prior to death-with-Christ, while Paul’s framework grants life only through it.
-
-This difference has significant implications.
-
-In the Reformed ontological framework, the person is already considered spiritually dead prior to regeneration, and then made alive so that faith may occur. Baptism therefore cannot function as a real death-event without introducing a contradiction—namely, that a person is made alive, then dies again, and is then made alive again. Reformed theology does not teach this sequence, and rightly avoids it.
-
-As a result, baptism is treated as a sign that follows regeneration rather than as participation in Christ’s death.
-
-In Paul’s framework, however, baptism must be a death-event, because the person is alive under death’s dominion. Dying with Christ is therefore not symbolic or redundant, but necessary. Resurrection follows death, not the other way around.
-
-The issue is not whether Calvinists affirm baptism, but whether their ontological starting point allows baptism to mean what Paul says it means.
-
-
-This comparison does not minimize the seriousness of sin or death. It highlights how differently Scripture and later theological systems **classify** the problem.
-
-Paul does not begin with ontological non-existence.  
-He begins with domination, slavery, and reign.
-
-And because the problem is dominion, the solution is not bypass—but **participation, death, and resurrection**.
-
-If spiritual death is treated as ontological and universal, then no one ever truly dies with Christ—only rises with Him—which quietly empties Paul’s death–burial–resurrection grammar of its meaning.
-
-If Paul’s language of being “baptized into His death” is taken seriously as a real death-event, then an ontological “already dead” starting point creates a deeper incoherence.
-
-In such a framework, people are said to be spiritually dead prior to Christ, but they have never died *with Christ*. Spiritual death in sin is treated as equivalent to participation in Christ’s death, even though Paul clearly distinguishes the two.
-
-As a result, baptism cannot function as dying with Christ without implying that a person is made alive, then dies again, and is then made alive again—a sequence Reformed theology does not teach and rightly avoids.
-
-To preserve coherence, baptism is therefore reclassified as participation only in Christ’s risen life, not in His death. But this means the believer never truly passes through Christ’s death at all, only receives its benefits.
-
-The issue is not whether Christ died for sinners, but whether sinners ever die **with** Christ. Paul’s gospel insists that they must.
-
-## Pastoral Closing: Waiting for Life or Entering Death?
-
-One pastoral danger of the ontological framework is that it trains people to *wait* for a moment of life—an inward quickening that arrives suddenly and produces belief. When that moment comes, the person may sincerely conclude, “I am saved,” because belief is present.
-
-But Paul’s question is not only, “Do you believe?” It is also: **Have you died with Christ?**
-
-If the gospel is a transfer of dominion, then the passage into life is not merely mental assent or an internal sensation of being made alive. It is participation in Christ’s death and resurrection. The old life does not get managed, improved, or crowned with religious confidence. It **ends**.
-
-This is why dying with Christ is not a work of the law. It is the end of works—the collapse of self-rescue, the burial of the old man, the surrender of every claim to establish life by effort, insight, or spiritual experience. Resurrection is God’s gift on the far side of death.
-
-So the question is not meant to torment tender consciences. It is meant to clarify the gospel’s shape: if someone has never died with Christ, they may still be trying to live *toward* freedom rather than living *from* freedom. Paul does not preach a bypass of death. He preaches deliverance through it.
-
-
-                   ┌─────────────────────────────────────────────┐
-                   │        WHAT KIND OF “DEATH”?                 │
-                   │  Dominion (Paul) vs Ontology (Calvinism)     │
-                   └───────────────────────┬─────────────────────┘
-                                           │
-        ┌──────────────────────────────────┼──────────────────────────────────┐
-        │                                  │                                  │
-┌───────▼────────┐               ┌─────────▼─────────┐              ┌─────────▼─────────┐
-│ PAUL (DOMINION) │               │ CALVINISM (ACTUAL) │              │ ONTOLOGICAL LOGIC  │
-│ Apostolic Flow  │               │ What is Taught     │              │ If Baptism Were    │
-│                 │               │                    │              │ a Real Death-Event │
-└───────┬────────┘               └─────────┬─────────┘              └─────────┬─────────┘
-        │                                  │                                  │
-┌───────▼────────────┐          ┌──────────▼──────────┐          ┌───────────▼───────────┐
-│ Alive, but enslaved │          │ Dead in sins        │          │ Dead in sins          │
-│ under death’s reign│          │ (ontological)       │          │ (ontological)         │
-└───────┬────────────┘          └──────────┬──────────┘          └───────────┬───────────┘
-        │                                  │                                  │
-┌───────▼────────────┐          ┌──────────▼──────────┐          ┌───────────▼───────────┐
-│ Hear gospel;        │          │ God regenerates /  │          │ God regenerates /     │
-│ respond in faith    │          │ makes alive        │          │ makes alive           │
-│ (not self-rescue)   │          │ (so belief is      │          │ (life before faith)  │
-└───────┬────────────┘          │ possible)           │          └───────────┬───────────┘
-        │                        └──────────┬──────────┘                      │
-┌───────▼────────────┐          ┌──────────▼──────────┐          ┌───────────▼───────────┐
-│ Baptized into       │          │ Person is alive     │          │ Person believes       │
-│ Christ’s DEATH      │          │ but NOT “in Christ” │          │                       │
-│ (real death-event)  │          │ yet (belief still  │          └───────────┬───────────┘
-└───────┬────────────┘          │ required)           │                      │
-        │                        └──────────┬──────────┘          ┌───────────▼───────────┐
-┌───────▼────────────┐          ┌──────────▼──────────┐          │ “Die with Christ”     │
-│ Buried with Him     │          │ Faith / belief      │          │ must now be           │
-│ (old life ends)     │          │ follows             │          │ symbolic/positional  │
-└───────┬────────────┘          └──────────┬──────────┘          │ to avoid: alive →     │
-        │                                  │                      │ die → alive           │
-┌───────▼────────────┐          ┌──────────▼──────────┐          └───────────┬───────────┘
-│ Raised with Him     │          │ Baptism as sign of  │                      │
-│ (newness of life)   │          │ what already        │          ┌───────────▼───────────┐
-└───────┬────────────┘          │ occurred            │          │ Result: baptism and  │
-        │                        └──────────┬──────────┘          │ dying-with-Christ    │
-┌───────▼────────────┐                     │                     │ lose their force     │
-│ RESULT: death’s     │          ┌──────────▼──────────┐          │ as real transitions  │
-│ dominion broken;    │          │ RESULT: life is     │          └───────────────────────┘
-│ works cease; life   │          │ granted WITHOUT a   │
-│ in the risen Christ │          │ necessary death-    │
-└────────────────────┘          │ with-Christ event   │
-                                 └────────────────────┘
-
-Calvinism does not teach that a person is made alive in Christ, then dies, then is made alive again. It rightly avoids that sequence. The point of this diagram is to show that, because “dead in sins” is treated as ontological and prior to Christ, baptism and “dying with Christ” cannot function as real death-events without creating incoherence. As a result, they are reclassified as symbolic or declarative rather than participatory.
-
-Pastoral thread (to tie it back one last time)
-
-The danger, pastorally, is subtle:
-
-A person may experience belief and conclude they are “alive,” yet never have passed through Christ’s death in a way that ends self-justification, striving, and works. The old life is not buried; it is simply declared forgiven.
-
-Paul’s gospel is more honest—and more freeing.
-
-It does not ask whether you felt alive before believing.
-It asks whether you died with Christ, so that the life you now live is no longer your own.
-
+Why Paul speaks so relentlessly about dying.  
+Why baptism is framed as burial.  
+Why obedience is not suspicion but expectation.  
+Why waiting is never presen

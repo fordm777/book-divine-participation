@@ -1,250 +1,203 @@
-# Chapter 34 — Baptism Without Water: The Strongest Case
+# Chapter 34 — Renewed Covenant Theology: The Strongest Biblical Case
 
-## Introduction: The Question at Hand
+## Introduction: Why This Question Matters
 
-Chapter 14 argued that baptism is the concrete, covenantal moment where believers **enter** Christ’s death and resurrection **by faith**, enacted in water and effected by the Spirit.
+Throughout this book, we have presented Scripture as pointing toward a **new covenant**, rather than a renewed one. We have traced how death functions as the boundary of covenant authority, how release precedes life, and how salvation is consistently framed as participation in Christ’s death and resurrection rather than improvement of an existing state.
 
-Yet a large portion of modern Christianity holds that water baptism is either symbolic-only, non-essential, or a secondary witness to an inward, spiritual baptism that has already occurred. This view is not marginal. It is widely held by sincere Christians who love Scripture and are deeply concerned to protect the gospel of grace.
+At the same time, there is a view held by many sincere believers that understands the work of Christ not as inaugurating a fundamentally new covenant, but as **renewing, restoring, and internalizing** the covenant God made with Israel. This view—often called renewed covenant theology—arises from a desire to honor God’s faithfulness, preserve continuity across Scripture, resist lawlessness, and take seriously the words and practices of Jesus and the apostles.
 
-For that reason, this chapter does not caricature or dismiss the position. It presents the strongest version of the case **on its own terms**, not merely listing verses, but exposing the *framework* that makes those verses persuasive.
-
-Because the real disagreement is not finally about baptism.  
-It is about what salvation itself is.
+Because of this, it deserves careful and fair presentation. This chapter sets out the renewed-covenant position at its strongest, explores why it is compelling, and then considers where tension emerges when it is set alongside the full biblical witness—particularly the framework of **purification, death, and indwelling** that governs Acts, Paul’s letters, and the apostolic gospel as a whole.
 
 ---
 
-## The Core Concern Driving the View
+## The Renewed Covenant Position at Its Strongest
 
-The modern resistance to water baptism as necessary is almost never rooted in a rejection of obedience. It is rooted in fear—often justified fear—of two things:
+### 1. Prophetic Language Emphasizes Restoration
 
-1. **Works-righteousness**  
-   If baptism is required, it can sound as though salvation depends on something we do.
+Renewed covenant theology draws heavily from the prophetic literature, which consistently speaks in terms of **restoration rather than replacement**.
 
-2. **Sacramental mechanism**  
-   If baptism “saves,” it can sound as though water works automatically, apart from faith.
+Jeremiah’s promise of a “new covenant” (Jeremiah 31:31–34) appears within a context of return from exile. The covenant is explicitly with Israel and Judah. The law is not discarded but written on hearts. The covenant formula—“I will be their God, and they shall be my people”—remains unchanged.
 
-Both concerns arise from real historical abuses. They deserve to be taken seriously. But fear can also cause a framework shift that quietly changes the nature of salvation itself.
+Likewise, Ezekiel’s vision focuses on transformation rather than abolition:
 
----
+> “I will sprinkle clean water upon you… I will give you a new heart… and cause you to walk in my statutes.” (Ezekiel 36:25–27)
 
-## Why the Case Against Water Baptism Feels Compelling
+The emphasis is on cleansing, renewal of the heart, and Spirit-enabled obedience. From this perspective, the covenant itself remains intact; what changes is the condition of the people within it.
 
-When stated carefully, the strongest modern case for baptism as symbolic or non-essential usually rests on several converging claims.
-
-### Salvation is by faith alone
-
-Texts such as Romans 3–5, Galatians, and Ephesians 2:8–9 are read to establish a clean sequence:
-
-1. Hear the gospel  
-2. Believe  
-3. Are saved  
-4. Obey (including baptism)
-
-Within this model, baptism is obedience *after* salvation, not the means by which faith enters salvation.
-
-### Spirit baptism is treated as the “one baptism”
-
-Passages like 1 Corinthians 12:13 and Ephesians 4:5 are interpreted to mean that the true baptism is spiritual and inward, with water functioning only as a sign of that deeper reality.
-
-### Exceptional cases appear decisive
-
-The thief on the cross is frequently cited: he was promised paradise without baptism. From this it is inferred that baptism cannot be essential in principle.
-
-### Paul appears to minimize baptism
-
-In 1 Corinthians 1:17, Paul says, “Christ sent me not to baptize, but to preach the gospel.” This is taken to mean that baptism is secondary to the gospel itself.
-
-### Cornelius received the Spirit before baptism
-
-Acts 10 is often treated as proof that salvation precedes baptism, since the Spirit falls before water is applied.
-
-### Many salvation texts mention belief but not baptism
-
-Jesus often promises life to those who believe, especially in John’s Gospel. Paul often calls people to faith and confession without immediately mentioning baptism. This silence is taken as evidence that baptism cannot be necessary.
-
-### Pastoral concern presses hardest
-
-What about the believer who dies before baptism?  
-What about those who lack opportunity?
-
-To preserve assurance, many conclude that baptism cannot be essential, because God can and does save apart from it in exceptional cases.
-
-These arguments are not careless. They arise from a sincere desire to guard grace, protect assurance, and avoid superstition.
+Hosea’s marriage imagery reinforces this reading. Despite Israel’s unfaithfulness, God speaks of betrothing her again. The relationship is healed, not replaced. The same bride is restored.
 
 ---
 
-## The Earliest Christian Baseline
+### 2. God’s Promises to Israel Remain Firm
 
-Before responding to later theological developments, it matters to establish a baseline.
+A second pillar of renewed covenant theology is the conviction that God’s promises are irrevocable.
 
-The earliest Christian writers—apostolic and ante-Nicene—did not treat water baptism as optional, symbolic-only, or secondary. They assumed it as the ordinary point of entry into Christian life, consistently associating it with:
+The Abrahamic covenant is called “everlasting.” Paul insists that God has not cast away his people (Romans 11:1–2) and describes Gentiles as grafted into Israel’s olive tree rather than planted into a different one (Romans 11:17–24).
 
-- cleansing from sins,
-- new birth,
-- reception of the Spirit,
-- renunciation of former dominion,
-- entrance into the Church.
-
-They did not frame baptism as competing with faith. They framed it as **faith’s embodied enactment**.
-
-This does not settle every later debate, but it establishes an important fact: the modern spiritual-only view is **not** the apostolic default.
+From this perspective, covenant continuity safeguards God’s faithfulness. Any account of Christ’s work must preserve Israel’s election rather than nullify it.
 
 ---
 
-## The First Rejection of Water Baptism: Gnostic Assumptions
+### 3. Jesus Affirms the Law and the Prophets
 
-Historically, the earliest groups to deny the necessity or efficacy of water baptism were **gnostic or gnostic-adjacent movements**.
+Jesus’ own words carry significant weight:
 
-Their objection was not fear of works. It was distrust of matter itself. Salvation was conceived as escape from embodiment through knowledge or illumination. Within that worldview, water could not function as a means of salvation because the material order was suspect.
+> “Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.” (Matthew 5:17)
 
-Early Christian writers repeatedly connect the denial of water baptism with a denial of:
-- the goodness of creation,
-- the incarnation,
-- salvation enacted within bodily life.
-
-This matters because it shows that the earliest attempt to “spiritualize” baptism did not arise from a grace-centered concern, but from an ontology that rejected **embodied participation** altogether.
+Renewed covenant theology understands fulfillment as bringing Torah to its intended depth rather than setting it aside. Jesus keeps the law, teaches from it, and summarizes it through love of God and neighbor. Torah is not negated; it is rightly understood.
 
 ---
 
-## How the Modern View Actually Developed
+### 4. Apostolic Practice Appears Continuous
 
-The modern spiritual-only position does not descend from gnosticism. It emerges later, under different pressures.
+The apostles, including Paul, continue to participate in Jewish life after the resurrection. Acts depicts temple worship, feast observance, vows, and purification rituals. Paul insists he has not violated the law or the temple.
 
-### Reformation fear of sacerdotalism
-
-In reacting against real sacramental abuses, the Reformers emphasized faith and Christ’s sufficiency. Over time, this defensive posture sometimes led to suspicion of any concrete means that appeared to mediate salvation.
-
-### Legal and forensic priority
-
-As salvation became framed primarily as a legal verdict, death became metaphorical rather than enacted. Baptism, no longer needed to locate death, was redefined as a sign of a verdict already rendered.
-
-### Anxiety about “means”
-
-In traditions where regeneration is placed prior to any embodied response, baptism cannot function as transition. It must be confirmation. The result is an increasingly abstract salvation.
-
-### Revivalist decision theology
-
-As conversion became centered on immediate decisions and verbal confessions, baptism became easier to delay. Delay normalized. Normalization produced optionality.
+Renewed covenant theology often reads Paul’s letters in light of this practice, understanding his polemic as directed against Torah as a means of justification, not against Torah as a way of life.
 
 ---
 
-## The Real Disagreement Beneath the Debate
+## Acts 15: A Crucial Test Case
 
-When the strongest case against water baptism is examined carefully, something crucial becomes visible.
+Acts 15 is central to renewed and dual-covenant readings. The Jerusalem Council addresses whether Gentile believers must be circumcised and take on the full yoke of the Mosaic law.
 
-The disagreement is not finally about proof texts.
+The council answers decisively: they must not.
 
-It is about **what salvation is**.
+Yet Gentiles are given four prohibitions:
 
-### Two Different Questions Being Asked
+- abstaining from things polluted by idols  
+- abstaining from blood  
+- abstaining from things strangled  
+- abstaining from sexual immorality  
 
-One side is asking:
+These are not arbitrary moral rules. They correspond directly to **categories of bodily defilement** associated with pagan worship and Gentile life.
 
-> **How is guilt removed?**
+For renewed-covenant readers, this is compelling. The apostles do not dismiss purity concerns. They draw directly from Torah categories. They require Gentiles to live in ways compatible with holiness.
 
-The other is asking:
+At the same time, the decision is carefully limited. Circumcision is not required. Sabbath observance is not mandated. Gentiles are not placed under the jurisdiction of the Mosaic covenant. The focus is not covenant entry, but **purity of life and shared fellowship**.
 
-> **How is dominion escaped?**
-
-Once this is seen, the debate begins to make sense.
-
----
-
-## Framework Comparison: What Is Really at Stake
-
-### Why Frameworks Matter More Than Proof Texts
-
-At this point, it becomes clear that the disagreement over baptism is not driven primarily by isolated verses. It is driven by deeper assumptions about what salvation itself is and what kind of problem it is addressing.
-
-These assumptions form what can be called a *framework*. A framework is not a denial of Scripture, but a way of organizing Scripture, deciding which questions are primary, and determining what counts as an answer.
-
-When two readers approach the same texts with different frameworks, they may agree on the words while disagreeing on their meaning, force, and function.
-
-The debate over baptism persists because the two sides are often operating within different frameworks while assuming they are asking the same question.
-
-The following comparison makes this difference visible.
-
-| Question | Legal / Forensic Framework | Covenantal / Participatory Framework |
-|--------|----------------------------|--------------------------------------|
-| What is salvation? | A verdict declared | A passage entered |
-| Primary image | Courtroom | Exodus / death / resurrection |
-| What does faith do? | Assents | Entrusts and obeys |
-| Faith is | Cognitive belief | Relational allegiance |
-| Role of the body | Symbolic | Participatory |
-| What can matter do? | Point to reality | Serve as means |
-| How is death handled? | Christ dies instead of us | Christ dies so we can die with Him |
-| Where does death occur? | Metaphorically | Concretely |
-| What is baptism? | Symbol of salvation | Entry into death and life |
-| Faith’s relation to baptism | Replaces it | Expresses itself through it |
-| View of obedience | After salvation | Mode of entering salvation |
-| Time of salvation | Instant verdict | Enacted transition |
-| Primary fear | Works-righteousness | Avoidance of death |
-| What is lost if wrong? | Assurance | Participation |
-
-This table exposes why the debate persists. The two sides are often answering different questions, using different metaphors, and guarding different perceived dangers.
+This raises an important question: *what kind of framework best explains this decision?*
 
 ---
 
-## Why Baptism Becomes the Fault Line
+## Acts 15 Read Through Paul’s Teaching in 1 Corinthians
 
-Baptism sits precisely at the intersection of:
+The purification logic of Acts 15 becomes clearer when read alongside Paul’s teaching in 1 Corinthians. As Paul addresses the same categories of concern—idolatry, blood, sexual immorality, and participation—he consistently frames them in terms of **temple cleanness**. What is striking is not that concern for holiness disappears, but that it is relocated. Language once used to guard the sanctity of a physical sanctuary is now applied to the **body itself**, because, as Paul goes on to explain, the body has become the dwelling place of God’s Spirit. Holiness has not diminished; the location of God’s presence has changed.
 
-- faith and obedience,
-- spirit and body,
-- declaration and enactment,
-- promise and participation.
+### Food Offered to Idols (1 Corinthians 8–10)
 
-If salvation is primarily a verdict, baptism will inevitably become symbolic.
+Paul acknowledges that idols have no real existence. Yet participation in idol feasts is not neutral. Such participation involves communion and produces contamination.
 
-If salvation is a passage through death into life, baptism will inevitably be the place where that passage is entered **by faith**.
+> “Ye cannot drink the cup of the Lord, and the cup of devils.” (1 Corinthians 10:21)
 
-This is why the apostolic writings feel no tension modern readers feel. They are not asking whether baptism adds to grace. They are describing **how grace is entered**.
+The concern is not covenant legality, but **contamination through participation**.
+
+### Blood and Participation
+
+Paul’s language surrounding the cup and the body of Christ emphasizes that participation is real and embodied. What enters the body matters, because the body itself is now claimed by Christ. Participation joins the believer not only to Christ, but to whatever power is encountered at the table.
+
+### Sexual Immorality (1 Corinthians 5–6)
+
+Paul’s strongest warnings concern sexual immorality, and his reasoning is explicitly purification-oriented.
+
+> “Know ye not that your bodies are the members of Christ?”  
+> “He that committeth fornication sinneth against his own body.”
+
+Sexual immorality is not framed primarily as law-breaking, but as desecration of what has been claimed as holy.
+
+### The Body as Temple
+
+Paul states the underlying reality plainly:
+
+> “Your body is the temple of the Holy Spirit.”
+
+This becomes the controlling category. The Spirit dwells in what has been cleansed. Contamination does not primarily threaten legal standing, but the integrity of indwelling presence.
+
+Read in this light, Acts 15 does not function as renewed covenant legislation. It operates as a **purification framework**, governing how bodies formerly shaped by idolatry may now participate in a holy community in which God dwells.
+
 
 ---
 
-## Conclusion: The Question Beneath the Question
+## A Central Question Emerges
 
-The disagreement over baptism is not finally a disagreement about water.
+At this point, a central question emerges for the renewed-covenant position:
 
-It is a disagreement about **what salvation itself is**.
+**How does renewal alone account for Scripture’s insistence that death is the mechanism of release from covenant authority?**
 
-One framework understands salvation primarily as a **verdict**: guilt is removed, status is changed, and assurance follows immediately. Within that framework, baptism can only function as a symbol, because nothing embodied is needed once the verdict is declared.
+Paul states the principle clearly:
 
-The other framework understands salvation as a **passage**: a movement from one dominion to another, from death into life. Within that framework, salvation must be *entered*, not merely announced, and death must be *undergone*, not merely affirmed.
+> “The law has dominion over a person as long as he lives.” (Romans 7:1)
 
-This is why the debate cannot be settled by isolated verses.
+Covenant authority persists as long as jurisdiction persists. Renewal repairs what exists; it does not end jurisdiction. Yet Paul repeatedly describes salvation in terms of **death, release, and transfer**.
 
-Each side is asking Scripture a different question.
+This is where tension begins to surface.
 
-One side is asking, **“How is guilt removed?”**  
-The other is asking, **“How is dominion escaped?”**
+---
 
-One side is guarding grace from being turned into mechanism.  
-The other is guarding salvation from being turned into abstraction.
+## Why Death Becomes Decisive
 
-Once this is seen, the persistence of the disagreement makes sense.
+Romans 6–7 does not frame covenant transition as restoration within the same bond, but as release through death followed by new union.
 
-The apostles were not attempting to decide whether baptism “adds” something to grace. They were announcing deliverance through death and describing how that deliverance is entered **by faith**.
+- dying with Christ  
+- burial  
+- release from prior dominion  
+- marriage to another  
+- newness of life  
 
-If salvation is only a declaration, baptism will always feel unnecessary.  
-If salvation is a passage through death into life, baptism will always be unavoidable.
+This is jurisdictional language, not merely experiential language.
 
-The apostolic witness does not spiritualize death.  
-It locates it.
+Renewed covenant theology explains transformation well. It explains continuity well. But it struggles to explain why **death**, rather than renewal, is presented as the decisive boundary.
 
-It does not redefine obedience as optional.  
-It presents obedience as the form faith takes when it entrusts itself fully to God.
+If covenant authority remains continuous, death cannot function as release.  
+If death functions as release, renewal alone cannot account for the transition.
 
-It does not ask whether God *can* save apart from baptism in extraordinary circumstances.  
-It declares how God has chosen to save ordinarily—by bringing people **through** death, not around it.
+---
 
-And for the apostles, that passage has a name, a moment, and a shape.
+## Pastoral Consequences of Missing the Purification Framework
 
-It is entered **by faith**.  
-It is enacted in baptism.  
-It is completed in resurrection life.
+When purification and cleansing are not the controlling categories, several patterns often emerge—sometimes unintentionally.
 
-The question is no longer whether baptism fits our framework.
+- Acts 15 becomes reduced to minimal ethics rather than bodily holiness  
+- 1 Corinthians becomes moral exhortation rather than temple protection  
+- Baptism becomes symbolic rather than participatory  
+- Romans 7 becomes normalized as the Christian condition  
+- Freedom becomes managed struggle rather than decisive release  
 
-The question is whether our framework aligns with what is found in the scriptures and the gospel the apostles preached.
+These outcomes are not inevitable, but they are common. They reflect what happens when death, cleansing, and indwelling are treated as metaphors rather than realities.
 
+---
+
+## Why Renewal and Penal Substitution Both Strain Here
+
+Both renewed-covenant theology and penal substitution models often struggle at the same point—not because they agree, but because **neither places purification at the center**.
+
+- Renewal emphasizes continuity but lacks a mechanism for release  
+- Penal substitution emphasizes legal resolution but bypasses cleansing  
+- Both tend to relocate the problem to guilt rather than contamination  
+- Both struggle to integrate temple, body, and indwelling coherently  
+
+Scripture, by contrast, consistently treats sin as something that **defiles**, not merely something that condemns.
+
+---
+
+## Conclusion: Why the Covenant Must Be New
+
+Renewed covenant theology presents a serious and thoughtful reading of Scripture. It honors God’s faithfulness, takes Jesus’ words seriously, preserves continuity, and resists lawlessness.
+
+At the same time, it encounters increasing strain when set alongside Scripture’s consistent insistence that **death precedes life**, **cleansing precedes indwelling**, and **release precedes obedience**.
+
+Acts 15 and 1 Corinthians do not function as covenant-renewal texts. They function as purification texts. They assume bodies that must be cleansed because God now dwells within them.
+
+Romans 6–7 does not describe improved covenant fidelity, but **release through death** and **union with another**.
+
+This is why the covenant cannot merely be renewed.  
+It must be **new**.
+
+Not because God abandons his promises,  
+but because only death can end bondage,  
+only cleansing can prepare a dwelling place,  
+and only resurrection can bring a people into life they could never produce.
+
+The covenant is new because the people are new—  
+cleansed, released, and indwelt.
+
+And that is the logic that holds the whole witness of Scripture together.
