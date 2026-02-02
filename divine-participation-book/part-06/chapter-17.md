@@ -1,212 +1,105 @@
-# Chapter 17 — From One Lord to Another: Renunciation, Allegiance, and Baptism
+# Chapter 17 — Delivered Through Death: What Was Actually Broken
 
-## Salvation as Transfer, Not Mere Decision
+## Introduction: Deliverance, Not Management
 
-If salvation is a passage from one dominion to another, then it necessarily involves more than inward belief. It requires the severing of one allegiance and the taking up of another. Scripture consistently presents salvation not as a private conviction, but as a public transfer of lordship.
+Much of modern Christianity speaks about salvation in ways that assume freedom must be continually managed. Forgiveness is proclaimed as complete, yet bondage is treated as something that must still be overcome through effort, discipline, prayer, or repeated spiritual intervention. The result is a vision of Christian life marked by vigilance rather than rest, struggle rather than stability.
 
-This is why the earliest Christians did not treat baptism as an optional symbol appended to faith. They understood it as the **decisive moment of renunciation and re-allegiance**, enacted in the body and confessed with the mouth.
+The New Testament, however, does not describe salvation as gradual relief from an ongoing captor. It describes deliverance as something far more decisive: a dominion being broken, a claim being cancelled, and a power being disarmed. What follows deliverance is not escape, but resistance. Not therapy, but faithfulness.
 
-What modern theology often fragments into separate ideas—faith, repentance, confession, baptism—the early church held together as a single, coherent act of transfer.
-
----
-
-## Renunciation Before Confession
-
-In the earliest Christian practice, baptism was preceded by an explicit renunciation of former masters. This was not dramatic excess or superstition. It was the logical consequence of believing that humanity exists under real dominions.
-
-To renounce Satan was to renounce false gods, the power of death, the dominion of sin, and the authority of the accuser. Only after this renunciation was allegiance to Christ confessed.
-
-This pattern appears clearly in early Christian catechesis.
-
-### Hippolytus of Rome  
-*(early 3rd century)*
-
-In *The Apostolic Tradition*, Hippolytus describes the baptismal rite used in Rome:
-
-> “When he who is to be baptized goes down into the water, let him who baptizes lay hand on him, saying thus: ‘Dost thou renounce Satan, and all his service, and all his works?’  
-> And when he has said, ‘I renounce him,’ let him baptize him once.  
-> And again he shall say, ‘Dost thou believe in Christ Jesus, the Son of God…?’”
-
-Renunciation comes first. Confession follows. Baptism enacts the transfer.
-
-This sequence was not regional or idiosyncratic. It reflects how early Christians understood **what salvation is**.
+Few passages make this clearer than Colossians 2.
 
 ---
 
-## Calling on a New Name
+## A Framework Difference, Not a Disagreement Over Effort
 
-Scripture speaks of salvation as calling upon the name of the Lord. The early church understood this not as a mental act alone, but as a **public invocation of a new Lord** in the act of baptism.
+The tension described here does not arise from carelessness or lack of devotion. It arises from two different frameworks used to understand what salvation is and how it works.
 
-To call on the name of Jesus was to declare Him as the new ruler and master of one’s life.
+Within a **legal or forensic framework**, salvation is primarily understood as a verdict. Guilt is removed, status is changed, and acceptance before God is secured. Deliverance from sin’s power is then treated as a subsequent process, pursued through effort, discipline, and spiritual struggle.
 
-### Justin Martyr  
-*(mid-2nd century)*
+Within an **ontological and participatory framework**, salvation is understood as death and rebirth. The problem being addressed is dominion rather than guilt, because death ends the jurisdiction under which guilt exercised its claim. The solution is not merely a declaration, but an enacted passage out of one realm and into another through participation in Christ’s death and resurrection.
 
-Justin describes Christian baptism to a pagan audience:
+Because these frameworks ask different questions, they generate different expectations. In a verdict-based framework, it is coherent to speak of someone as forgiven while still governed by the same powers, since the verdict has already been rendered. In a participatory framework, this category does not exist. If the governing power remains intact, then the passage out from under that dominion has not yet occurred.
 
-> “As many as are persuaded and believe that what we teach and say is true, and undertake to be able to live accordingly, are instructed to pray and entreat God with fasting, for the remission of their sins that are past, we praying and fasting with them.  
-> Then they are brought by us where there is water, and are regenerated in the same manner in which we were ourselves regenerated…  
-> For in the name of God, the Father and Lord of the universe, and of our Savior Jesus Christ, and of the Holy Spirit, they then receive the washing with water.”
+This difference explains why modern Christianity can proclaim forgiveness as complete while treating freedom from bondage as an ongoing struggle. It is not because deliverance is denied, but because deliverance has been relocated from the decisive moment of salvation to the ongoing experience of the Christian life.
 
-Notice the logic: belief, repentance, prayer, and then invocation of the name in baptism. The name is not a formula. It is a declaration of lordship.
+Colossians 2 does not speak from within the verdict framework. It speaks in terms of death, burial, disarmament, and transfer. The record that granted authority is removed. The powers that exercised that authority are stripped. The old body is put off. All of this is described as the action of God, not the outcome of human effort.
 
----
-
-## Baptism as the Moment of Transfer
-
-For the early church, baptism was not a mere testimony of something already completed. It was the **moment when the old life was abandoned and the new life entered**.
-
-This is why baptism was consistently linked with forgiveness, deliverance, new birth, and reception of the Spirit.
-
-### Tertullian  
-*(late 2nd–early 3rd century)*
-
-Tertullian writes plainly:
-
-> “We are not washed in order that we may cease sinning, but because we have ceased, since in heart we have been bathed already. For the first baptism of a learner is this: repentance.”
-
-And elsewhere:
-
-> “When we are going to enter the water, but a little before, in the presence of the congregation and under the hand of the bishop, we solemnly profess that we renounce the devil, and his pomp, and his angels.”
-
-For Tertullian, baptism is not magic, but it is **decisive**. It is the embodied point where repentance and allegiance take form.
+What is at stake, then, is not whether forgiveness is real, but whether salvation is understood primarily as a declaration about us or as a passage we are brought through in Christ.
 
 ---
 
-## Confession and New Allegiance
+## The Record That Stood Against Us
 
-Confession in the early church was not reduced to a private prayer. It was a public declaration of loyalty.
+Paul writes that God forgave believers by addressing something specific and concrete:
 
-To confess “Jesus is Lord” was to declare that Caesar was not, the demons were not, and death was not.
+> *“Having blotted out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross.”*  
+> (Colossians 2:14)
 
-### Cyril of Jerusalem  
-*(4th century)*
+This “handwriting” is not merely a list of moral failures. It is a record of accusation, a written claim that stood against humanity. In Paul’s thought, accusation is never abstract. Accusation establishes jurisdiction. It grants authority to those who wield it.
 
-Cyril instructs catechumens preparing for baptism:
+As long as accusation stands, dominion stands.
 
-> “First you enter the vestibule of the baptistery, and there you face the west and are told to stretch forth your hand, and as in the presence of Satan you renounce him.  
-> Then you are told to say, ‘I renounce thee, Satan, and all thy works, and all thy pomp, and all thy service.’  
->  
-> Then you turn from the west to the east, the place of light, and say, ‘I believe in the Father, and in the Son, and in the Holy Spirit.’”
-
-The physical movement itself preaches the theology: west to east, darkness to light, old lord to new.
+Forgiveness, therefore, is not simply God deciding to overlook guilt. It is God removing the basis by which authority was exercised. The record of accusation establishes jurisdiction, and for that reason it was not ignored or set aside. It was taken out of the way and nailed to the cross through death, not because justice was ignored, but because the realm in which the record exercised authority ceased to exist.
 
 ---
 
-## One Master Replaced by Another: The Apostolic Logic
+## Disarmed, Not Appeased
 
-What the early church practiced did not arise in a vacuum. It reflects the logic of Scripture itself, especially the apostolic teaching concerning lordship, service, and dominion.
+Paul immediately connects the removal of accusation to the defeat of hostile powers:
 
-Paul is explicit that salvation involves a change of masters, not merely a change of status.
+> *“And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.”*  
+> (Colossians 2:15)
 
-> *“Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?”*  
-> (Romans 6:16)
+The rulers and authorities are not negotiated with or appeased. They are disarmed. Their weapon was accusation, and their claim was grounded in death. When the record is removed, the authority that depended on it collapses.
 
-For Paul, obedience is not a generic moral category. It reveals **ownership**. To obey is to serve, and to serve is to belong.
-
-He continues:
-
-> *“But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.  
-> Being then made free from sin, ye became the servants of righteousness.”*  
-> (Romans 6:17–18)
-
-Freedom, in Paul’s language, does not mean independence. It means **transfer**. One servitude ends. Another begins.
-
-This is why Paul does not describe the Christian life as managing sin while forgiven. He describes it as having **died** to one master and come alive to another.
-
-> *“For he that is dead is freed from sin.”*  
-> (Romans 6:7)
-
-Death ends claims. Death ends jurisdiction. Death ends ownership.
-
-Romans 7 reinforces this same logic through covenant imagery. Paul compares the law’s claim to a marriage bond that only death can dissolve.
-
-> *“Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead.”*  
-> (Romans 7:4)
-
-Here again, the solution is not modification or improvement. It is **death**, followed by a new belonging.
+This is not psychological relief or internal reassurance. It is cosmic displacement. Deliverance occurs not because the powers relent, but because they lose the ground on which they stood.
 
 ---
 
-## No Shared Allegiance
+## The Operation of God, Not Human Effort
 
-Jesus Himself speaks in precisely these terms.
+Paul then makes a striking clarification. This deliverance is not accomplished by human resolve, ritual precision, or inner striving. It is accomplished by God’s own action:
 
-> *“No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other.”*  
-> (Matthew 6:24)
+> *“In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ: buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.”*  
+> (Colossians 2:11–12)
 
-This is not a warning about divided attention. It is a statement about **incompatible lordship**. Service implies exclusivity. Allegiance cannot be shared between competing rulers.
+Here Paul names what actually effects the transition: the operation of God. Deliverance is not self-generated, not maintained by effort, and not achieved by technique. God acts. The old body is put off. Burial occurs. Resurrection follows.
 
-This is why Jesus never presents salvation as partial liberation. One master must be displaced for another to rule.
-
----
-
-## The House Must Change Ownership
-
-Jesus’ teaching on deliverance follows the same logic.
-
-When accused of casting out demons by demonic power, Jesus responds:
-
-> *“How can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.”*  
-> (Matthew 12:29)
-
-Deliverance is not negotiation. It is conquest. The strong man must be bound, and his claim must be broken.
-
-Later, Jesus warns of what happens when this logic is ignored:
-
-> *“When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest…  
-> Then he saith, I will return into **my house** from whence I came out…  
-> And the last state of that man is worse than the first.”*  
-> (Matthew 12:43–45)
-
-Jesus’ language is precise. The spirit refers to the person as “my house.” The problem is not that the house was swept. The problem is that its ownership was never decisively transferred. Jesus does not describe the spirit as trespassing, rather he describes it as returning to what it still considers its own.
-
-Removal without replacement leaves jurisdiction unresolved. A house that is merely cleared but not re-claimed remains vulnerable to return, because no new lord has taken possession.
-
-This is why deliverance alone is never presented in Scripture as sufficient. Authority must change hands. Ownership must be broken and reestablished. The house must not only be emptied, but claimed.
-
-This is precisely why the early church insisted on renunciation, confession, and baptism together. They understood that freedom requires more than expulsion. It requires transfer of lordship.
+Faith is not contrasted with this action. Faith is the means by which one entrusts oneself to it.
 
 ---
 
-## Scripture and Practice Speak with One Voice
+## Burial Comes Before Standing
 
-Romans teaches that death ends mastery.  
-Jesus teaches that service cannot be shared.  
-The early church enacted this reality through renunciation, allegiance, and baptism.
+Paul is careful with sequence. Before there is standing, there is burial. Before there is resistance, there is death. Before there is warfare, there is deliverance.
 
-These are not competing accounts. They are the same truth expressed through doctrine, teaching, and embodied practice.
-
-Salvation is not the suppression of one master while another waits politely.  
-It is the replacement of one lord with another.
-
-This is why deliverance is not merely release, but **reassignment**.  
-Why baptism is not merely symbolic, but **decisive**.  
-And why confession is not merely verbal, but **allegiant**.
-
-Only where dominion has changed can freedom be sustained.
+For this reason, the New Testament never instructs believers to fight in order to become free. It instructs them to stand because freedom has already been accomplished. The dominion of death is not weakened by effort. It is ended by death itself.
 
 ---
 
-## Not a Ritual, but a Reality
+## Why “Forgiven but Unchanged” Is Not a Biblical Category
 
-The early church did not believe that exact wording or ritual precision saved a person. They did believe that **salvation involved real transfer**, and that this transfer had to be enacted, confessed, and embodied.
+If accusation has been removed and the powers have been disarmed, then ongoing dominion cannot be explained as normal Christian life. To speak of someone as forgiven while remaining governed by the same master is to separate forgiveness from deliverance. Scripture does not do this.
 
-Renunciation without allegiance was incomplete.  
-Allegiance without renunciation was incoherent.  
-Baptism without faith was meaningless.  
-Faith without passage was unfinished.
+In Colossians, the “record that stood against us” functions as a written claim that established authority, like a charge or bond that held a person under obligation. Such records operated within systems of slavery and debt, granting legitimate jurisdiction over those they named. When the record is removed, the claim it enforced is removed with it.
 
-What held these together was not sacramental anxiety, but **ontological realism**. They believed dominions were real, and so was liberation.
+Forgiveness, then, is not merely the announcement that guilt is overlooked. It is the declaration that the written claim has been taken out of the way and that the authority it supported has been stripped of its right to rule. This is why Paul speaks not only of forgiveness, but of transfer:
+
+> *“Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son.”*  
+> (Colossians 1:13)
+
+Deliverance is not psychological relief. It is relocation. Forgiveness announces that the claim is gone. Deliverance is the consequence that rule has ended. Where dominion remains intact, forgiveness has been reduced to abstraction, severed from the very transfer Scripture insists has taken place.
 
 ---
 
-## Why This Matters for What Follows
+## What This Chapter Has Established
 
-If salvation is fundamentally a transfer of lordship, then many modern attempts at deliverance begin in the wrong place. One cannot cast out an authority that still rules by right. One cannot maintain freedom without first changing allegiance.
+Colossians 2 does not describe salvation as internal improvement or moral management. It describes an objective rupture: a record removed, powers disarmed, death enacted, burial completed, and resurrection begun, all by the operation of God through faith.
 
-This is why the earliest Christians did not treat renunciation, confession, and baptism as optional steps. They understood them as **the means by which deliverance was established**, not merely expressed.
+This raises a necessary question, which the next chapter must address:
 
-Only after dominion had been broken did spiritual warfare take its proper form—not as escape, but as resistance.
+**If dominion has been broken, when and how does a person actually pass out from under the old lord and into the new?**
 
-That distinction will matter greatly in what follows.
+The earliest Christians answered that question very clearly.
+
+And they did not answer it with metaphor.

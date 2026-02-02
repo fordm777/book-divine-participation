@@ -1,4 +1,4 @@
-## Chapter 34 — Death Defeated, Life Restored  
+## Chapter 36 — Death Defeated, Life Restored  
 ### Closing Summary
 
 Throughout this book, one central claim has quietly guided every chapter: the gospel does not merely announce forgiveness. It announces **deliverance from death itself**.
@@ -17,7 +17,7 @@ If it is entered, then faith must take shape at a real moment, not merely as ass
 
 The apostolic witness never treats death as an idea to be managed or a symbol to be affirmed. Death is an enemy to be defeated, and it is defeated not by avoiding it, but by passing through it with Christ.
 
-This is why baptism occupies such a central place in the New Testament and in the earliest Christian proclamation. Baptism is not presented as an addition to grace, nor as a mechanical ritual, nor as a symbolic afterthought. It is presented as the **faithful entry point** into Christ’s death and resurrection. It is where deliverance is enacted, where dominion changes, and where life begins.
+This is why baptism occupies such a central place in the New Testament and in the earliest Christian proclamation. Baptism is not presented as an addition to grace, nor as a mechanical ritual, nor as a symbolic afterthought. It is presented as the **faithful entry point** into Christ's death and resurrection. It is where deliverance is enacted, where dominion changes, and where life begins.
 
 The resistance to this claim has never been merely about water. It has always been about the kind of salvation being proclaimed.
 

@@ -1,234 +1,268 @@
-# Chapter 27 — Needs-Based Christianity: When the Gospel Became Therapeutic
+# Chapter 27 — How Legal Frameworks Replaced Participatory Ones  
+*(When the temple gave way to the courtroom)*
 
-## Introduction: A Gospel That No Longer Requires Death
+## Why this chapter matters
 
-In many churches, the gospel is frequently proclaimed in therapeutic terms. People are invited to “come as you are,” and are assured that Jesus will help them change, grow through discipleship, and in some cases receive healing through dedicated ministries. These ways of speaking are familiar and often well-intended. Yet they tend to frame salvation primarily as assistance and improvement after believing in Jesus.
+By the time we reach the Reformation debates, many readers assume that salvation has *always* been discussed in legal terms. Words like *guilt*, *verdict*, *imputation*, *satisfaction*, and *acquittal* feel native to Christianity itself.
 
-This framing has become so normalized in modern evangelical and Protestant churches that many believers assume it *is* the gospel.
+Chapter 23 showed that this assumption is historically false.
 
-But is this really the gospel proclaimed by Jesus and the Apostles?  
-Is something essential missing?
+Chapter 24 showed how salvation can be quietly reframed into a **mechanism** rather than a **participation**, whether through knowledge, decree, or irresistible inner change.
 
-When Christ is presented primarily as the one who meets emotional, psychological, relational, or circumstantial needs, a particular framework is formed. Salvation is understood less as deliverance from a dominion, and more as ongoing help within one’s existing life. Growth becomes improvement. Healing becomes emotional stabilization. Discipleship becomes management of the self over time.
+This chapter explains **how that reframing happened historically**, especially in the Western church, and why it gradually displaced the earlier **temple-shaped, covenantal, participatory** grammar without ever announcing itself as a replacement.
 
-This therapeutic framework may be described as **needs-based Christianity**.
-
-This chapter is not written to mock sincere believers who may inhabit this framework and truly desire God. But desire alone does not determine how the gospel is understood or lived. The question is not whether people are seeking help, but **what story they are being initiated into**, and how that story quietly shapes their expectations, instincts, and sense of what the Christian life is meant to be.
-
-The apostolic gospel tells a different story. Christ is not presented merely as the one who helps humanity cope, but as the one who **delivers humanity from the dominion of death through death itself**. Salvation is not framed as improvement after belief, but as **participation in Christ’s death and resurrection**, followed by the renewing of the mind.
-
-The apostles did not preach a gospel of fixing the old man under the dominion of death.  
-They preached a gospel of crucifixion, burial, and resurrection, so that a new life might be lived no longer under the dominion of death.
+The shift was not a conspiracy.  
+It was a slow change of metaphors that eventually hardened into mechanisms.
 
 ---
 
-## From Deliverance to Management
+## A. Two fundamentally different frameworks
 
-In the apostolic proclamation, the human problem is not framed as unmet needs, damaged self-esteem, or lack of purpose. It is framed as **bondage** to sin, fear, and death.
+Before tracing history, we need to be clear about the difference between the two frameworks involved. These are not merely different emphases. They ask different questions, assume different problems, and produce different forms of Christian life.
 
-Paul identifies humanity’s condition not as a lack of reassurance, but as captivity under a ruling power. Humanity is under the dominion of sin and death. The problem is not primarily internal fragility, but external domination.
+| Participatory / Temple Framework | Legal / Forensic Framework |
+|---------------------------------|----------------------------|
+| Sin **defiles and enslaves** | Sin is primarily **guilt** |
+| Death reigns as a **power or dominion** | Death is a **penalty** or consequence |
+| The problem is **corruption and bondage** | The problem is **liability before divine justice** |
+| God’s presence requires **cleansing and consecration** | God’s justice requires **satisfaction or payment** |
+| Humanity retains **image**, loses **likeness** (restoration is participatory growth) | Image and likeness are often **collapsed**, so “true image” is functionally tied to **renewal** |
+| The human condition is **wounded and enslaved**, yet still addressable and responsible | The human condition is framed as **total inability**, making salvation chiefly an inward intervention |
+| Salvation is **entry into Christ** | Salvation is a **verdict or status change** |
+| Death must be **passed through and destroyed** | Death must be **avoided or absorbed** |
+| Righteousness is **shared life** | Righteousness is **counted or credited** |
+| Covenant rites **enact real transitions** | Covenant rites **signify a prior reality** |
+| Baptism is **participation in Christ’s death and resurrection** | Baptism is a **sign, seal, or testimony** |
+| Eucharist is **ongoing communion and participation** | Eucharist is **remembrance or proclamation** |
+| Worship is **participation in divine life** | Worship is **recognition of a completed transaction** |
+| The sanctuary and altar shape meaning | The courtroom and ledger shape meaning |
 
-Accordingly, the cure Paul proclaims is not learning how to cope within death, but **deliverance** from it. Humanity is not stabilized within its fallen condition, but released from it. Salvation is announced as death to the old life, liberation from a former dominion, and entry into a new one.
 
-The gospel is no longer announced as:
+The controlling questions reveal the difference.
 
-> “You are a captive of death and must die and be raised in newness of life.”
+**Participatory / Temple Framework asks:**  
+> How is corruption healed?  
+> How is death defeated?  
+> How does a person move from one dominion to another?
 
-It is subtly reframed as:
+**Legal / Forensic Framework asks:**  
+> How is guilt removed so that punishment is avoided?
 
-> “You are accepted, and now Christ will help you cope.”
+Once the legal question becomes primary, everything else is inevitably reinterpreted around it.
 
-This shift does not happen all at once. It happens when **death disappears from the center of the gospel**, and resurrection is reduced to metaphor.
-
----
-
-## “Come as You Are” and the Loss of the Threshold
-
-The phrase “come as you are” is often defended as an expression of grace. In a limited sense, it is true: no one cleans themselves before coming to Christ. But when this phrase is allowed to function as a *summary of the gospel*, it becomes profoundly misleading.
-
-In Scripture, people do come as they are, but this statement is often softened in ways that still obscure the truth. It is commonly followed by the reassurance that *“they do not remain as they are.”* While this sounds corrective, it can still mislead if death is no longer part of the Gospel.
-
-The issue is not merely that a person changes after coming to Christ.  
-The issue is that the person who comes to Christ **does not survive the encounter**.
-
-The apostolic gospel does not describe salvation as the gradual improvement of an existing identity. It describes salvation as **the death and burial of that original identity**, followed by the emergence of a new one.  What is left out by softer language is the necessity of death as a real and decisive break with the former life.
-
-This is precisely why the invitation to “come as you are” is true, but only within the apostolic gospel. One comes as one is because nothing from that former life is carried through unchanged. There is no requirement to improve oneself beforehand, because the self that comes is about to die, be buried, and be raised anew in Christ.
-
-“Come as you are” was never meant to imply that the old life is preserved. It assumes the opposite. One comes as one is in order to pass through death with Christ, not in order to remain as one is with Christ’s assistance.
-
-In Scripture, the one who comes to Christ:
-- is crucified with Him  
-- is buried with Him  
-- passes out of a former dominion  
-
-Only then does Christ bring forth what Scripture calls *new creation*, not a repaired self or rehabilitated self, but a self that comes **out of the grave** in newness of life.
-
-The problem is not the invitation.  
-The problem is what has been removed from it.
-
-In the apostolic witness, coming to Christ always involves a **threshold**:
-
-- death to the old man  
-- burial with Christ  
-- release from a former dominion  
-
-When that threshold disappears, initiation into Christ is replaced with **affirmation of the self** -- the self under the dominion of death. The gospel becomes a reassurance that one is safe, valued, and welcomed, without ever requiring the death of the one being welcomed.
-
-What once marked the **end of an identity** now becomes the preservation of it.
 
 ---
 
-## Therapy Is Not Healing
+## B. Scripture itself did not force this shift
 
-Needs-based Christianity often borrows its language from therapeutic culture. This is not accidental. Therapy, by design, aims to help people function *within* their present condition. It seeks stability, coping mechanisms, and resilience.
+It is important to say this clearly.
 
-The gospel does something entirely different.
+The New Testament does use legal language at times. Courts, judgments, and justification metaphors are present. But metaphors are not frameworks by default.
 
-Therapy asks:
+In Scripture:
 
-> “How can I live better in this condition?”
+- legal imagery exists **alongside**
+- temple imagery
+- covenant imagery
+- exile-and-return imagery
+- slavery-and-liberation imagery
+- sickness-and-healing imagery
 
-The gospel asks:
+The problem arose when **one metaphor was elevated into a controlling system**, and the others were reinterpreted through it.
 
-> “How do I die out of this condition entirely?”
-
-The early church did not view salvation as God helping humanity manage death more gently. They understood salvation as **God destroying death by leading humanity through it**.
-
-This only makes sense if death itself is understood rightly. Scripture does not present death as God’s final solution, but as a temporary mercy that restrains corruption and prevents sin from becoming immortal. Death limits evil; it does not justify it.
-
-Needs-based Christianity quietly reverses this logic. It treats death as something to be delayed emotionally, avoided spiritually, and softened psychologically. Healing becomes the art of making death livable.
-
-The gospel does the opposite. It teaches people how to enter death rightly with Christ, so that death may lose its power altogether. Christ does not rescue humanity from death by bypassing it. He rescues humanity through death by transforming it.
-
-Therapeutic Christianity tries to heal the person **while leaving the person in death**.  
-The gospel heals wounds by **killing the thing that causes them**.
+The legal framework did not replace the temple framework because Scripture demanded it.  
+It replaced it because history nudged theology in that direction.
 
 ---
 
-## A Gospel Without Participation
+## C. Rome, law, and the Western imagination
 
-Once the problem is redefined as unmet need rather than bondage, participation becomes unnecessary.
+The Western church developed inside a world saturated with Roman law.
 
-If salvation is reassurance, then:
-- baptism becomes symbolic at best  
-- obedience becomes optional  
-- transformation becomes gradual self-improvement  
-- faith becomes mental assent or trust in outcomes  
+Roman law was:
 
-But the apostolic gospel insists on participation:
-- participation in Christ’s death  
-- participation in His burial  
-- participation in His resurrection  
+- systematic
+- codified
+- obsessed with status, obligation, penalty, and satisfaction
+- deeply influential in education and governance
 
-Paul does not frame salvation as something that happens merely *because* Christ died, as though His death were an external transaction applied from a distance. He consistently frames salvation as something that happens *by participation*, specifically **by dying with Christ**.
+As Christianity became increasingly Western, its theologians naturally reached for the intellectual tools they already trusted.
 
-> “Do you not know that as many of us as were baptized into Christ Jesus were baptized into His death?”  
-> (Romans 6:3, KJV)
+This did not immediately change doctrine.  
+It changed **how problems were explained**.
 
-> “Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.”  
-> (Romans 6:4, KJV)
+Instead of asking, “How does death lose its dominion?” theologians increasingly asked, “How is God’s justice satisfied?”
 
-> “For if we have been united together in the likeness of His death, certainly we also shall be in the likeness of His resurrection.”  
-> (Romans 6:5, KJV)
+The temple did not disappear overnight.  
+But the courtroom slowly became the primary explanatory space.
 
-Salvation is not applied to those who remain alive in Adam. It is entered only through death.
-
-> “I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me.”  
-> (Galatians 2:20, KJV)
-
-> “If any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.”  
-> (2 Corinthians 5:17, KJV)
-
-The old does not improve.  
-The old **passes away**.
-
-Christ’s death is not merely something that benefits us. It is something we are called to **enter**. Apart from dying with Him, there is no resurrection life to receive.
-
-Needs-based Christianity keeps Christ’s death safely external. The cross becomes inspirational rather than participatory.
-
-But a cross that does not crucify **you** is no longer the cross of Christ.
+Notice that the framework shift is not only about atonement language. It is also about anthropology: once image and likeness collapse, participation becomes structurally difficult, and mechanism becomes structurally plausible.
 
 ---
 
-## Why This Produces Burnout, Not Freedom
+## D. Augustine as a pivot point, not a villain
 
-One of the great ironies of needs-based Christianity is that it promises rest, but often produces exhaustion.
+Augustine does not invent the legal framework by himself. But he becomes the **hinge** through which Western theology pivots.
 
-Why?
+Several things converge in Augustine:
 
-Because people are asked to live the Christian life **without ever having died out of the old one**.
+- intense concern with guilt and culpability
+- a strong doctrine of inherited sin
+- an emphasis on divine will and necessity
+- a pastoral fear of presumption and pride
 
-They are told:
-- they are forgiven, but not freed  
-- accepted, but not released  
-- loved, but still trapped  
+Augustine still speaks about healing, participation, and transformation. But his dominant anxiety increasingly centers on **condemnation and grace as rescue from guilt**.
 
-So they try to:
-- manage sin rather than escape it  
-- cope with fear rather than conquer it  
-- discipline the flesh rather than crucify it  
+This creates a subtle but powerful shift:
 
-This leads to cycles of guilt, striving, collapse, and recommitment. The burden remains because people are taught to manage patterns of life that belong to a dominion they have never fully exited.
+- grace becomes primarily what *forgives*
+- rather than what *recreates*
+- salvation becomes primarily what *covers*
+- rather than what *liberates*
 
-The gospel of participation, by contrast, begins with burial. And what has been buried does not need to be managed.
+Later Western theology inherits Augustine’s concerns more than his balance.
 
-Paul’s language is precise:
+---
 
-> “That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;  
-> And be renewed in the spirit of your mind;  
-> And that ye put on the new man, which after God is created in righteousness and true holiness.”  
-> (Ephesians 4:22–24, KJV)
+## E. Satisfaction theory and the logic of debt
 
-The *former conversation* refers to habits and patterns learned under a former dominion. These do not constitute the old man himself, but they were shaped by him. What is renewed is not the old man, but the *spirit of the mind*. Renewal follows burial, it does not replace it.
+By the medieval period, the legal frame becomes more explicit.
 
-This pattern is already present in the Old Testament. Israel was truly delivered from Egypt. Pharaoh’s dominion was broken. Yet Egypt remained in them. Israel carried habits, fears, and patterns of thinking formed under slavery. The wilderness was not a second Egypt, but the place where a delivered people had to learn how to live free.
+Anselm’s *Cur Deus Homo* does not argue from temple purification or death’s defeat. It argues from **honor, debt, and satisfaction**.
 
-The difference between needs-based Christianity and the apostolic gospel can be summarized clearly:
+The logic is simple:
 
-| Aspect | Needs-Based Christianity | Apostolic Gospel |
-|------|--------------------------|------------------|
-| Invitation | “Come as you are” | “Come as you are” |
-| Perceived Meaning of the Invitation | You are welcomed so that your existing life can be helped and improved | You are welcomed because the life you bring is about to die |
-| Primary Diagnosis | Unmet needs, wounds, dysfunction | Bondage to sin, fear, and death |
-| View of the Old Life | Preserved and managed | Crucified and buried |
-| Role of Death | Avoided, softened, or spiritualized | Central, necessary, and transformative |
-| Salvation | Help within the same life | Death to one life and entry into another |
-| Discipleship | Gradual self-improvement | Learning to live resurrection life |
-| Healing | Emotional stabilization | Liberation through death and new life |
-| Renewal | Improving habits within the old identity | Renewing the mind after burial |
-| Cross | Inspirational example | Participatory death |
-| Resurrection | Metaphor for growth | New creation life |
-| Outcome | Coping and burnout | Freedom and life under a new dominion |
+- God’s honor has been violated
+- humanity owes a debt it cannot pay
+- satisfaction must be made
+- Christ pays it on humanity’s behalf
 
-## Forgiveness Spoken Apart from Death
+This is not yet penal substitution, but the groundwork is laid.
 
-At this point, a clarification is necessary. Much confusion arises when forgiveness is spoken as though it were automatically possessed, apart from death and new life in Christ.
+The problem is no longer dominion or corruption.  
+The problem is unpaid obligation.
 
-In contemporary Christian language, people are often told they are forgiven simply because they have believed, prayed, or expressed sincere desire for God. But in the apostolic gospel, forgiveness is not a psychological reassurance spoken over an unchanged life. It is the result of having passed out of one dominion and into another.
+Once debt replaces defilement as the central issue, the courtroom wins.
 
-If a person has not died with Christ, then they are still living from the place Scripture calls death. They may be seeking God sincerely, but sincerity alone does not constitute union. Forgiveness, as Scripture uses the term, belongs to those who are **in Christ**, not merely oriented toward Him.
+---
 
+## F. The Reformation and the hardening of the legal model
 
-Paul makes this connection explicit when he writes:
+The Reformers did not invent legal categories either. But they **formalized and centralized** them.
 
-> “For he that is dead is freed from sin.”
-> 
-> (Romans 6:7, KJV)
+Several pressures contributed:
 
-Freedom from sin, including its guilt and defilement, is not announced apart from death. It is spoken over those who have died with Christ and therefore no longer live under sin’s dominion.
+- genuine abuses in late medieval penitential systems
+- anxiety over assurance
+- conflict with Rome’s sacramental economy
+- polemical need for clarity and boundaries
 
-This is why Paul does not speak of forgiveness as something that floats freely over humanity. He speaks of it in Christ. Outside of Christ there is still bondage, still death, and still uncleanness. Forgiveness is not a sentiment that makes death more bearable; it is a reality that belongs to resurrection life.
+Justification becomes the doctrine by which everything else is measured.
 
-Paul says the same thing using the language of burial and cleansing:
+And justification is defined primarily as:
 
-> “Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.
-> And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses.”
-> 
-> (Colossians 2:12–13, KJV)
+> a legal declaration concerning one’s standing before God
 
-Notice the order. Burial with Christ comes first. New life follows. Forgiveness is spoken after death and quickening, not before.
+Even when sanctification is affirmed, it is carefully separated so that it cannot threaten the verdict.
 
-To tell someone they are forgiven while they remain in the old life is to risk offering assurance without transformation, peace without cleansing, and hope without deliverance. Such language may comfort for a time, but it leaves a person attempting to live the Christian life from the wrong side of the grave.
+At this point, the temple framework is no longer primary. It survives as illustration, but not as architecture.
 
-The apostolic gospel does not begin by assuring people that they are already forgiven. It begins by calling people to die with Christ, so that forgiveness, cleansing, and new life may be truly received.
+---
+
+## G. What was lost in the transition
+
+This shift had consequences, even when motivated by sincere reform.
+
+### 1) Death becomes background noise
+
+If salvation is mainly about guilt, then death is no longer the enemy to be destroyed, but the penalty to be avoided.
+
+Resurrection becomes proof of acceptance, not the center of victory.
+
+### 2) Baptism becomes optional or symbolic
+
+If the decisive act is a legal declaration, baptism cannot be the place where one passes through death into life.
+
+It must be redefined as:
+- a sign
+- a seal
+- a testimony
+
+Participation becomes confirmation.
+
+### 3) Eucharist becomes remembrance
+
+If salvation is already secured in a legal sense, Eucharist cannot be ongoing participation in life.
+
+It becomes:
+- memorial
+- proclamation
+- mental recollection
+
+The table becomes a lecture.
+
+### 4) Faith becomes mental assent
+
+In a legal framework, faith must be something that can be *counted*.
+
+Trust collapses into belief.
+Allegiance collapses into agreement.
+Fidelity collapses into confidence.
+
+---
+
+## H. How metaphors became mechanisms
+
+This is the heart of Part VIII.
+
+A metaphor explains something.  
+A mechanism controls something.
+
+When the legal metaphor became the controlling frame:
+
+- justification became a transaction
+- grace became a transfer
+- election became a classification
+- salvation became a status
+- assurance became introspection
+
+The earlier participatory metaphors were not denied.  
+They were **reinterpreted until they could no longer do real work**.
+
+---
+
+## I. Why this matters pastorally
+
+This shift does not only affect doctrine. It affects people.
+
+A participatory framework asks:
+
+> Are you living in Christ?  
+> Are you sharing His life?  
+> Are you remaining in the covenant?
+
+A legal framework asks:
+
+> Are you really forgiven?  
+> Was your faith genuine enough?  
+> Can you prove you were justified?
+
+The first forms disciples.  
+The second produces auditors.
+
+---
+
+## J. Preparing the reader for Chapter 26
+
+By the time penal substitution emerges as the dominant atonement explanation, the legal framework is already in place.
+
+Penal substitution does not appear in a vacuum.  
+It is the *logical conclusion* of a long transition:
+
+- from temple to courtroom
+- from participation to transaction
+- from death defeated to penalty absorbed
+
+Chapter 26 will examine that final step directly, and show how salvation came to be understood less as **entering Christ’s death and life**, and more as **benefiting from His punishment**.
+
+That shift changes everything.

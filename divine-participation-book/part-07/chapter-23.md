@@ -1,4 +1,4 @@
-# Chapter 21 — Hijacked Words: How Meaning Drift Reshaped Theology
+# Chapter 23 — Hijacked Words: How Meaning Drift Reshaped Theology
 
 ## Introduction: Why This Argument Keeps Failing
 

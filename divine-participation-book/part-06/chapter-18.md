@@ -1,334 +1,212 @@
-# Chapter 18 — Deliverance Without Death: Why Freedom Often Fails to Hold
+# Chapter 18 — From One Lord to Another: Renunciation, Allegiance, and Baptism
 
-## Real Authority, Real Effects, Real Limits
+## Salvation as Transfer, Not Mere Decision
 
-The New Testament leaves no doubt that the authority of Christ is real and effective against the powers of darkness. Jesus casts out demons. The apostles cast out demons. Scripture does not present this authority as symbolic or psychological, but as genuine and operative.
+If salvation is a passage from one dominion to another, then it necessarily involves more than inward belief. It requires the severing of one allegiance and the taking up of another. Scripture consistently presents salvation not as a private conviction, but as a public transfer of lordship.
 
-A striking example appears in Acts, when Paul commands a spirit to leave a woman who had followed him persistently:
+This is why the earliest Christians did not treat baptism as an optional symbol appended to faith. They understood it as the **decisive moment of renunciation and re-allegiance**, enacted in the body and confessed with the mouth.
 
-> *“I command thee in the name of Jesus Christ to come out of her.”*  
-> (Acts 16:18)
-
-The spirit obeys immediately.
-
-This matters. It establishes that demonic influence can be restrained or expelled by the authority of Christ, even when the deeper question of dominion has not yet been resolved. Authority can be exercised *over* a person or situation without yet changing who owns it.
-
-For this reason, it would be inaccurate and unfair to dismiss modern deliverance ministries as imaginary or ineffective. Many people experience genuine relief. Some experience clarity, peace, and real interruption of torment. Something real is often happening.
-
-And yet, something essential is often missing.
+What modern theology often fragments into separate ideas—faith, repentance, confession, baptism—the early church held together as a single, coherent act of transfer.
 
 ---
 
-## The Pattern of Relief and Return
+## Renunciation Before Confession
 
-A troubling pattern repeats itself across many deliverance contexts.
+In the earliest Christian practice, baptism was preceded by an explicit renunciation of former masters. This was not dramatic excess or superstition. It was the logical consequence of believing that humanity exists under real dominions.
 
-People seek freedom from oppression, fear, compulsions, or recurring sin. Prayer is offered. Spirits are confronted. Confession is made. Renunciations are spoken. Ties are broken. Relief follows. Testimonies are shared.
+To renounce Satan was to renounce false gods, the power of death, the dominion of sin, and the authority of the accuser. Only after this renunciation was allegiance to Christ confessed.
 
-And then, often, the struggle returns.
+This pattern appears clearly in early Christian catechesis.
 
-Sometimes the same behaviors reappear—sexual immorality, drunkenness, rage, despair. Sometimes the person feels worse than before. They are told they need deeper deliverance, further renunciation, more prayer, or additional sessions.
+### Hippolytus of Rome  
+*(early 3rd century)*
 
-This cycle is exhausting.
+In *The Apostolic Tradition*, Hippolytus describes the baptismal rite used in Rome:
 
-And it raises an unavoidable question:  
-**If Christ’s authority is real, why does freedom so often fail to hold?**
+> “When he who is to be baptized goes down into the water, let him who baptizes lay hand on him, saying thus: ‘Dost thou renounce Satan, and all his service, and all his works?’  
+> And when he has said, ‘I renounce him,’ let him baptize him once.  
+> And again he shall say, ‘Dost thou believe in Christ Jesus, the Son of God…?’”
 
----
+Renunciation comes first. Confession follows. Baptism enacts the transfer.
 
-## Binding Is Not the Same as Transfer
-
-Part of the confusion arises from failing to distinguish between **restraint** and **dispossession**.
-
-Scripture shows that demonic powers recognize authority. They can be silenced, bound, or driven back by the name of Christ. This explains why binding spirits during prayer or gospel proclamation can have real effects. Resistance weakens. Deception loosens. The person may feel immediate relief.
-
-But restraint is not the same thing as a change of ownership.
-
-Authority can be exercised *over* a domain without transferring who that domain belongs to. This is why Jesus warns that an unclean spirit can leave a person and still regard them as *“my house.”*
-
-> *“I will return into my house from whence I came out.”*  
-> (Matthew 12:44)
-
-The spirit does not describe itself as trespassing. It describes itself as returning to what it still considers its own.
-
-Removal without transfer leaves jurisdiction unresolved.
+This sequence was not regional or idiosyncratic. It reflects how early Christians understood **what salvation is**.
 
 ---
 
-## Confession, Renunciation, and Breaking Ties — Necessary but Not Sufficient
+## Calling on a New Name
 
-Many deliverance ministries rightly emphasize confession, renunciation, and the breaking of ties with past sins, practices, curses, and allegiances. These actions are not meaningless. Scripture consistently affirms the power of confession to bring darkness into the light and weaken accusation.
+Scripture speaks of salvation as calling upon the name of the Lord. The early church understood this not as a mental act alone, but as a **public invocation of a new Lord** in the act of baptism.
 
-Such practices can dismantle specific footholds. They can interrupt patterns of deception and shame. They can bring real, measurable relief.
+To call on the name of Jesus was to declare Him as the new ruler and master of one’s life.
 
-However, confession alone does not change dominion.
+### Justin Martyr  
+*(mid-2nd century)*
 
-Repentance turns the heart.  
-Renunciation names what must be left behind.  
-But **death transfers ownership**.
+Justin describes Christian baptism to a pagan audience:
 
-Without death in Christ, the underlying structure remains intact. The house may be swept. Agreements may be revoked. Access points may be closed. Yet the land itself remains under the same authority.
+> “As many as are persuaded and believe that what we teach and say is true, and undertake to be able to live accordingly, are instructed to pray and entreat God with fasting, for the remission of their sins that are past, we praying and fasting with them.  
+> Then they are brought by us where there is water, and are regenerated in the same manner in which we were ourselves regenerated…  
+> For in the name of God, the Father and Lord of the universe, and of our Savior Jesus Christ, and of the Holy Spirit, they then receive the washing with water.”
 
-This is the distinction that is often missed.
+Notice the logic: belief, repentance, prayer, and then invocation of the name in baptism. The name is not a formula. It is a declaration of lordship.
 
 ---
 
-## Sin as Master, Not Merely Spirits as Influences
+## Baptism as the Moment of Transfer
 
-Paul’s analysis in Romans exposes the deeper issue.
+For the early church, baptism was not a mere testimony of something already completed. It was the **moment when the old life was abandoned and the new life entered**.
 
-He does not locate humanity’s primary bondage in spirits. He locates it in **Sin as a reigning power**.
+This is why baptism was consistently linked with forgiveness, deliverance, new birth, and reception of the Spirit.
+
+### Tertullian  
+*(late 2nd–early 3rd century)*
+
+Tertullian writes plainly:
+
+> “We are not washed in order that we may cease sinning, but because we have ceased, since in heart we have been bathed already. For the first baptism of a learner is this: repentance.”
+
+And elsewhere:
+
+> “When we are going to enter the water, but a little before, in the presence of the congregation and under the hand of the bishop, we solemnly profess that we renounce the devil, and his pomp, and his angels.”
+
+For Tertullian, baptism is not magic, but it is **decisive**. It is the embodied point where repentance and allegiance take form.
+
+---
+
+## Confession and New Allegiance
+
+Confession in the early church was not reduced to a private prayer. It was a public declaration of loyalty.
+
+To confess “Jesus is Lord” was to declare that Caesar was not, the demons were not, and death was not.
+
+### Cyril of Jerusalem  
+*(4th century)*
+
+Cyril instructs catechumens preparing for baptism:
+
+> “First you enter the vestibule of the baptistery, and there you face the west and are told to stretch forth your hand, and as in the presence of Satan you renounce him.  
+> Then you are told to say, ‘I renounce thee, Satan, and all thy works, and all thy pomp, and all thy service.’  
+>  
+> Then you turn from the west to the east, the place of light, and say, ‘I believe in the Father, and in the Son, and in the Holy Spirit.’”
+
+The physical movement itself preaches the theology: west to east, darkness to light, old lord to new.
+
+---
+
+## One Master Replaced by Another: The Apostolic Logic
+
+What the early church practiced did not arise in a vacuum. It reflects the logic of Scripture itself, especially the apostolic teaching concerning lordship, service, and dominion.
+
+Paul is explicit that salvation involves a change of masters, not merely a change of status.
 
 > *“Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?”*  
 > (Romans 6:16)
 
-For Paul, obedience reveals ownership. Sin is not merely an act. It is a **master**.
+For Paul, obedience is not a generic moral category. It reveals **ownership**. To obey is to serve, and to serve is to belong.
 
-This becomes unmistakable in Romans 7:
+He continues:
 
-> *“For I know that in me (that is, in my flesh,) dwelleth no good thing…  
-> Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.”*  
-> (Romans 7:18, 20)
+> *“But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.  
+> Being then made free from sin, ye became the servants of righteousness.”*  
+> (Romans 6:17–18)
 
-Paul is not excusing sin. He is diagnosing **power**.
+Freedom, in Paul’s language, does not mean independence. It means **transfer**. One servitude ends. Another begins.
 
-The struggle he describes is not primarily demonic possession. It is enslavement to a ruling power operating through the flesh. This is why people can sincerely renounce behaviors and still return to them. The governing power has not been displaced.
-
-Deliverance alone cannot solve Romans 7. 
-
----
-
-## Paul’s Pastoral Warning: Returning to Sin After Transfer
-
-Paul’s letters make clear that death with Christ does not eliminate the possibility of returning to sinful patterns. But he is equally clear that such return is not normal, expected, or harmless.
-
-In his second letter to the Corinthians, Paul expresses concern that some within the church have already begun to drift back into former practices:
-
-> *“Lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.”*  
-> (2 Corinthians 12:21)
-
-Paul is not addressing unbelievers.  
-He is not describing people who were never transferred.  
-He is speaking to members of the church.
-
-This matters.
-
-Their sin does not mean death and transfer never occurred. But it does mean that **defilement has returned**, and with it renewed vulnerability to accusation and spiritual exploitation.
-
-Paul’s concern is not framed in terms of lost justification. It is framed in terms of **uncleanness**, lack of repentance, and disrupted fellowship. His language is covenantal and temple-oriented, not forensic.
-
----
-
-## Return Is Possible — But Not Neutral
-
-Paul’s warning shows that post-transfer sin is possible, but it is not neutral.
-
-Returning to practices like sexual immorality and impurity does not restore the old master as rightful owner. But it **reopens space** within the life of someone who now belongs to Christ.
-
-This aligns precisely with Paul’s other warnings:
-
-> *“Neither give place to the devil.”*  
-> (Ephesians 4:27)
-
-The danger is not that sin reclaims lawful dominion.  
-The danger is that sin **gives ground** to an enemy who has already been disarmed.
-
-This is why repentance and cleansing remain necessary—not to reestablish deliverance, but to restore order, clarity, and fellowship within a life that has already changed ownership.
-
----
-
-## Why This Strengthens the Argument, Not Weakens It
-
-Paul’s warnings in 2 Corinthians do not contradict death-and-transfer theology. They presuppose it.
-
-Only someone who has been transferred can meaningfully be said to:
-- defile what has been made holy,
-- disrupt fellowship rather than lose identity,
-- give place rather than obey as a slave.
-
-If sin still ruled by right, Paul’s warnings would be unnecessary.  
-If sin were inevitable, his grief would be incoherent.
-
-Instead, Paul assumes freedom—and warns against misusing it.
-
----
-
-## Dominion Broken, Responsibility Restored
-
-Death with Christ breaks dominion.  
-Resurrection life restores responsibility.
-
-Paul’s pastoral concern is not that believers are still enslaved, but that they are **failing to live in alignment with the freedom they have received**.
-
-This is why he weeps.  
-This is why he warns.  
-This is why he calls for repentance.
-
-Not because ownership is uncertain,  
-but because holiness matters where God now dwells.
-
----
-## Why People Return to sin
-
-When people “cut ties” but remain under the dominion of sin and death, relapse is not mysterious. It is expected.
-
-Paul explains why:
+This is why Paul does not describe the Christian life as managing sin while forgiven. He describes it as having **died** to one master and come alive to another.
 
 > *“For he that is dead is freed from sin.”*  
 > (Romans 6:7)
 
-Freedom from mastery comes through death, not intention. Until death has occurred, sin remains a ruling power, even if its activity is temporarily restrained by prayer or authority.
+Death ends claims. Death ends jurisdiction. Death ends ownership.
 
-This is why deliverance can be real yet incomplete. Spirits may be forced to leave, but sin continues to reign. The behaviors return because the master has not been removed and then the person gives the spirits legal right to return.
+Romans 7 reinforces this same logic through covenant imagery. Paul compares the law’s claim to a marriage bond that only death can dissolve.
 
-Spirits exploit that dominion.  
-They are not its source.
+> *“Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead.”*  
+> (Romans 7:4)
 
----
-
-## Baptism as the Decisive Act of Transfer
-
-The early church did not attempt deliverance without baptism, nor baptism without renunciation. They understood baptism as the moment when death occurred, allegiance shifted, and ownership changed.
-
-> *“Buried with him in baptism… wherein also ye are risen with him through faith.”*  
-> (Colossians 2:12)
-
-This is not about ritual precision or sacramental anxiety. It is about **ontological reality**.
-
-Without death, deliverance remains provisional.  
-Without transfer, authority remains contested.  
-Without baptismal participation, the old claim persists.
-
-A person must pass out of one realm and into another.
+Here again, the solution is not modification or improvement. It is **death**, followed by a new belonging.
 
 ---
 
-## Deliverance and the Trap of Needs-Based Christianity
+## No Shared Allegiance
 
-When deliverance is separated from death and transfer, it can unintentionally become another form of needs-based Christianity.
+Jesus Himself speaks in precisely these terms.
 
-The focus shifts from belonging to Christ to managing symptoms. Freedom becomes episodic rather than decisive. Prayer becomes a mechanism for relief rather than communion. Spiritual life becomes reactive rather than grounded.
+> *“No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other.”*  
+> (Matthew 6:24)
 
-People are repeatedly treated as though they are free while still living under the same authority they are trying to escape.
+This is not a warning about divided attention. It is a statement about **incompatible lordship**. Service implies exclusivity. Allegiance cannot be shared between competing rulers.
 
-They fight as tenants trying to evict an owner they still legally live under.  
-That is exhausting.
-
----
-## Paul’s Sharpest Warning: Freedom Without License (1 Corinthians 5–6)
-
-Paul’s letters to Corinth make the distinction between freedom and perfection unmistakably clear.
-
-In 1 Corinthians 5, Paul confronts open sexual immorality within the church—behavior so serious that even pagans found it shocking. His response is not casual tolerance, nor is it despair. It is decisive correction.
-
-> *“Know ye not that a little leaven leaveneth the whole lump?  
-> Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened.”*  
-> (1 Corinthians 5:6–7)
-
-Paul does not say, “Become unleavened so that you may belong.”  
-He says, **“You are unleavened—therefore live accordingly.”**
-
-The logic is ontological, not legal. Identity precedes instruction.
-
-Yet Paul is equally clear that returning to patterns of sin is incompatible with the life believers now possess.
+This is why Jesus never presents salvation as partial liberation. One master must be displaced for another to rule.
 
 ---
 
-## “Such Were Some of You”
+## The House Must Change Ownership
 
-This same logic intensifies in 1 Corinthians 6.
+Jesus’ teaching on deliverance follows the same logic.
 
-After listing behaviors associated with the old dominion—sexual immorality, idolatry, drunkenness, greed—Paul states plainly:
+When accused of casting out demons by demonic power, Jesus responds:
 
-> *“And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.”*  
-> (1 Corinthians 6:11)
+> *“How can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.”*  
+> (Matthew 12:29)
 
-Paul does not say these things are no longer temptations.  
-He says they no longer define who the believers are.
+Deliverance is not negotiation. It is conquest. The strong man must be bound, and his claim must be broken.
 
-The tense matters.
+Later, Jesus warns of what happens when this logic is ignored:
 
-“These things **were** you.”  
-They are no longer your identity, your master, or your home.
+> *“When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest…  
+> Then he saith, I will return into **my house** from whence I came out…  
+> And the last state of that man is worse than the first.”*  
+> (Matthew 12:43–45)
 
-To persist in them is not weakness alone. It is a contradiction of the new reality believers have entered.
+Jesus’ language is precise. The spirit refers to the person as “my house.” The problem is not that the house was swept. The problem is that its ownership was never decisively transferred. Jesus does not describe the spirit as trespassing, rather he describes it as returning to what it still considers its own.
 
----
+Removal without replacement leaves jurisdiction unresolved. A house that is merely cleared but not re-claimed remains vulnerable to return, because no new lord has taken possession.
 
-## Freedom Is Not Perfection
+This is why deliverance alone is never presented in Scripture as sufficient. Authority must change hands. Ownership must be broken and reestablished. The house must not only be emptied, but claimed.
 
-At this point, many readers raise an immediate objection:
-
-**“But Christians still sin.”**
-
-Paul agrees.
-
-What Paul denies is that sin still **reigns**.
-
-Freedom from the dominion of sin and death does not mean the eradication of temptation, weakness, or failure. It means the end of sin’s authority as master.
-
-This is why Paul can simultaneously:
-- warn believers sharply against sin,
-- grieve over real failures,
-- and still speak with confidence about their changed state.
-
-Perfection is not assumed.  
-Faithfulness is required.
+This is precisely why the early church insisted on renunciation, confession, and baptism together. They understood that freedom requires more than expulsion. It requires transfer of lordship.
 
 ---
 
-## Why the Strawman Persists
+## Scripture and Practice Speak with One Voice
 
-Much modern theology resists this framework because it fears an impossible standard. If freedom from dominion is affirmed, it is assumed that sinless perfection must follow—or that hypocrisy is inevitable.
+Romans teaches that death ends mastery.  
+Jesus teaches that service cannot be shared.  
+The early church enacted this reality through renunciation, allegiance, and baptism.
 
-Paul does not make this move.
+These are not competing accounts. They are the same truth expressed through doctrine, teaching, and embodied practice.
 
-He distinguishes between:
-- **presence** and **power**,
-- **temptation** and **reign**,
-- **failure** and **slavery**.
+Salvation is not the suppression of one master while another waits politely.  
+It is the replacement of one lord with another.
 
-Sin can still appear without ruling.  
-Failure can occur without redefining ownership.  
-Repentance restores alignment, not salvation.
+This is why deliverance is not merely release, but **reassignment**.  
+Why baptism is not merely symbolic, but **decisive**.  
+And why confession is not merely verbal, but **allegiant**.
 
-This is not an unrealistic gospel.  
-It is a demanding one.
-
----
-
-## Why This Matters for Deliverance and Discipleship
-
-If freedom meant perfection, Paul’s warnings would be unnecessary.  
-If bondage were inevitable, his commands would be incoherent.
-
-Instead, Paul assumes a real transfer has occurred—and calls believers to live in a way that corresponds to it.
-
-Deliverance without death produces cycles of relief and return.  
-Death without vigilance invites defilement and accusation.  
-
-But death followed by faithful walking produces something Scripture dares to promise:
-
-A people no longer ruled by sin,  
-yet constantly dependent on grace.
-
-That is not sinless perfection.  
-It is resurrection life lived under a new Lord.
+Only where dominion has changed can freedom be sustained.
 
 ---
 
-## What This Chapter Has Shown
+## Not a Ritual, but a Reality
 
-Deliverance ministries often address real problems with real authority. But when death, transfer, and new lordship are not established first, freedom cannot be sustained.
+The early church did not believe that exact wording or ritual precision saved a person. They did believe that **salvation involved real transfer**, and that this transfer had to be enacted, confessed, and embodied.
 
-Scripture does not present deliverance as the doorway into Christ.  
-It presents deliverance as what follows **after** the doorway has been passed through.
+Renunciation without allegiance was incomplete.  
+Allegiance without renunciation was incoherent.  
+Baptism without faith was meaningless.  
+Faith without passage was unfinished.
 
-The doorway has a name.  
-It has a shape.  
-And it has always involved death.
+What held these together was not sacramental anxiety, but **ontological realism**. They believed dominions were real, and so was liberation.
 
-The next chapter will turn to what life looks like **after** deliverance has been properly grounded—how believers stand, resist, repent, and walk faithfully without confusion about who rules.
+---
 
-Freedom is not rewon.  
-It is lived.
+## Why This Matters for What Follows
+
+If salvation is fundamentally a transfer of lordship, then many modern attempts at deliverance begin in the wrong place. One cannot cast out an authority that still rules by right. One cannot maintain freedom without first changing allegiance.
+
+This is why the earliest Christians did not treat renunciation, confession, and baptism as optional steps. They understood them as **the means by which deliverance was established**, not merely expressed.
+
+Only after dominion had been broken did spiritual warfare take its proper form—not as escape, but as resistance.
+
+That distinction will matter greatly in what follows.

@@ -1,126 +1,170 @@
-# Chapter 22 — Why Translation Is Never Neutral
+# Chapter 22 — When Words Change but Assumptions Don't
 
-## Introduction: The Lanes Were Set Before You Read
+## Introduction: The Illusion of Progress
 
-Whatever framework you bring to the text will govern which semantic lanes you allow the words to travel in—whether you are reading English, Greek, or Hebrew.
+Theological language changes more easily than theological imagination. Words are updated, softened, or replaced, but the underlying assumptions often remain untouched. This creates the illusion of doctrinal development while leaving the governing framework intact.
 
-This is the point most theological debates never reach.
+This chapter is not primarily about mistranslation or bad faith. It is about **conceptual inertia**—the tendency of inherited assumptions to survive even when the vocabulary meant to express them has changed. When this happens, new words are quietly conscripted to serve old ideas.
 
-Disagreements are often framed as conflicts between translations, or between English readers and those who appeal to the original languages. But beneath those disputes lies a more basic reality: **framework precedes definition**. Long before a reader asks what a word means, a framework has already determined which meanings feel possible, which feel obvious, and which feel implausible.
+The result is a strange theological situation: Christians appear to be saying different things, but are often still imagining the same world.
 
-This chapter exists to make that dynamic visible.
-
----
-
-## Frameworks Do Not Announce Themselves
-
-A penal framework does not usually announce itself. It does not declare, “I am now interpreting this text legally.” It simply governs which meanings feel natural.
-
-When readers approach Scripture assuming guilt must be punished, words like justice, wrath, and atonement instinctively move down punitive lanes. Other semantic possibilities remain technically available, but they feel strained, artificial, or evasive.
-
-This is not because the language demands punishment, but because the framework does.
-
-The reader experiences this not as interpretation, but as obviousness.
-
-“Of course it means that.”  
-“Of course this is what the word implies.”  
-
-Of course it feels obvious. That’s how frameworks work.
+This chapter prepares the ground for the next two. Before examining specific hijacked terms such as wrath, propitiation, atonement, and justice, and before exploring why translation itself is never neutral, we must first expose the deeper problem: **unchallenged assumptions that outlive the words that once carried them**.
 
 ---
 
-## Why the Greek Does Not Rescue Us
+## The Difference Between Words and Worlds
 
-At this point, many readers instinctively reach for the original languages.
+Words do not exist in isolation. They belong to **worlds of meaning**—networks of assumptions about God, humanity, sin, justice, and salvation. When a word is spoken, it does not merely communicate a definition; it invokes a framework.
 
-“If we just get back to the Greek.”  
-“If we just see what the Hebrew really says.”  
+Two people may use the same term—justice, wrath, atonement, faith—while imagining entirely different realities.
 
-These instincts are understandable. They are also insufficient.
+One may imagine a courtroom.  
+Another a temple.  
+Another a battlefield.  
+Another a hospital.
 
-Greek and Hebrew words do not float free of conceptual worlds. They, too, are heard through frameworks. A reader who brings a penal imagination to the Greek text will still gravitate toward punitive meanings, even when the lexical range allows for cleansing, healing, restoration, or liberation.
+The disagreement is not lexical. It is **cosmological**.
 
-So even the Greek doesn’t rescue us if our framework is wrong.
-
-Lexicons list semantic ranges. They do not tell the reader which range to inhabit. Grammar constrains meaning, but it does not dictate theology. Two readers can work from the same Greek text, the same lexicon, and the same syntax—and still hear entirely different things—because they are listening from different worlds.
-
----
-
-## Translation as Lane Selection
-
-Translation does not merely transfer meaning from one language to another. It selects which semantic lane will be paved and which will be narrowed.
-
-Biblical terms often carry multiple metaphors at once:
-- legal
-- covenantal
-- ritual
-- relational
-- therapeutic
-- cosmic
-
-Ancient languages can hold these together with remarkable flexibility. English often cannot. When a translator must choose a single word, that choice inevitably foregrounds one metaphor and backgrounds others.
-
-Once that choice is repeated across verses, books, and centuries, the metaphor hardens into a framework. The framework then feels biblical simply because it is familiar.
-
-This is not corruption. It is inheritance.
+When debates stall, it is often because both sides believe the disagreement is about definitions, when it is actually about **the world the definition presupposes**.
 
 ---
 
-## Why Translation Debates Never Settle Theology
+## How Theological Frameworks Persist
 
-If translation were neutral, theological disagreement would end with better dictionaries.
+Frameworks are rarely argued into existence. They are inherited.
 
-It does not.
+Most Christians do not consciously choose a legal or penal model of salvation. They receive it implicitly through catechisms, sermon structures, evangelistic scripts, gospel summaries, and discipleship language.
 
-Because the real disagreement is not about what a word *can* mean, but about what kind of world the reader believes Scripture is describing.
+Once received, the framework becomes invisible. Scripture is read through it, questions are asked from within it, and alternative readings feel immediately suspect—not because they are weak, but because they sound foreign.
 
-Is salvation primarily:
-- legal resolution or liberation?
-- punishment absorbed or death defeated?
-- satisfaction rendered or life restored?
-
-Translation choices tend to follow answers to those questions, not settle them.
+This is how assumptions survive even when their original vocabulary is abandoned.
 
 ---
 
-## The Feedback Loop We Rarely Notice
+## When Old Ideas Put On New Clothes
 
-Once a framework governs translation, a feedback loop forms.
+This pattern appears repeatedly:
 
-- The translation reinforces the framework  
-- The framework explains the translation  
-- Alternative readings feel unnatural  
-- Objections sound like evasions  
+- Punishment becomes consequence  
+- Legal guilt becomes relational brokenness  
+- Penalty becomes cost  
+- Appeasement becomes satisfaction  
 
-At that point, the reader is no longer aware of interpreting. They feel as though they are simply repeating what Scripture says.
+At the surface level, the language appears softer, more biblical, and more relational. But beneath the surface, the same logic often remains:
 
-The framework disappears from view, and certainty takes its place.
+- God must be satisfied  
+- A debt must be paid  
+- A problem must be resolved before relationship can be restored  
 
----
+The words have changed. The assumptions have not.
 
-## Learning to Read Without Escape Routes
-
-This chapter closes several common escape routes.
-
-It prevents the reader from saying:
-- “That’s just an English problem.”
-- “The Greek clears this up.”
-- “You’re reading too much into words.”
-
-It asks the reader to consider something more demanding:  
-*What if the difficulty is not the language, but the world we assume the language must inhabit?*
+This is not reform. It is **rebranding**.
 
 ---
 
-## Conclusion: Awareness Before Agreement
+## The Unquestioned Center: Order Before Life
 
-Translation is not betrayal.  
-But it is never neutral.
+One of the most persistent assumptions in Western theology is this:
 
-Every reader stands inside a framework before the text is opened. That framework quietly governs which meanings feel faithful and which feel foreign.
+> God’s primary problem is the violation of order, not the corruption of life.
 
-Faithful reading does not require abandoning English, nor mastering Greek and Hebrew, nor distrusting translators. It requires **awareness**—awareness of the lenses we bring, the lanes we open, and the worlds we assume.
+Once this assumption is in place, everything else follows naturally:
 
-Only with that awareness can Scripture be allowed to challenge not just our answers, but the questions we thought were obvious.
+- Justice must be satisfied before healing can occur  
+- Wrath must be addressed before reconciliation is possible  
+- Death becomes punishment rather than enemy  
+- Salvation becomes legal resolution rather than liberation  
 
-And that, ultimately, is where real theological renewal begins.
+Even when the language shifts toward participation, union, or restoration, this assumption quietly governs the logic.
+
+The early church did not begin here.
+
+They began with **death as corruption**, **sin as bondage**, and **salvation as restoration to life**.
+
+---
+
+## Why This Matters More Than Definitions
+
+If the disagreement were merely about words, dictionaries could resolve it. But dictionaries cannot adjudicate between worlds.
+
+This is why debates over atonement, baptism, faith, and judgment often feel circular. Each side appeals to Scripture, each uses biblical language, and yet neither persuades the other.
+
+They are not disagreeing over verses.
+
+They are disagreeing over:
+
+- What kind of problem salvation addresses  
+- What kind of world Scripture describes  
+- What kind of God is revealed  
+
+Until those assumptions are surfaced, arguments remain misaligned.
+
+---
+
+## The Cost of Unexamined Assumptions
+
+When assumptions go unchallenged, several pastoral consequences follow:
+
+- Faith becomes anxiety-driven rather than participatory  
+- Salvation becomes fragile, dependent on correct legal standing  
+- Discipleship becomes self-management rather than transformation  
+- Death becomes meaningful, rather than something to be destroyed  
+
+Most importantly, Christ’s work is subtly reframed.
+
+He no longer comes primarily to defeat death and restore life, but to manage a problem about God before addressing the problem of humanity.
+
+This inversion is rarely stated explicitly. It is simply assumed.
+
+---
+
+## Why Scripture Alone Does Not Settle This
+
+Appealing to Scripture does not automatically resolve framework disagreements, because Scripture itself must be imagined.
+
+Is the controlling image:
+
+- Courtroom or temple?  
+- Sentence or surgery?  
+- Transaction or transformation?  
+- Substitution or participation?  
+
+Scripture contains multiple metaphors, but it does not treat them as equal. Some are explanatory. Others are illustrative.
+
+The problem arises when one metaphor is elevated to the governing framework and all others are forced to conform to it.
+
+---
+
+## Clearing the Ground
+
+This chapter is intentionally diagnostic, not corrective.
+
+Its purpose is to help the reader recognize when disagreements are not about what words mean, but about what world they assume.
+
+Only once that ground is cleared can we responsibly examine:
+
+- How specific theological words have been redefined  
+- How translation choices reinforce certain frameworks  
+- How Scripture sounds different when read from a different starting point  
+
+The next chapters will take up those tasks directly.
+
+---
+
+## Conclusion: Hearing What We Are Actually Saying
+
+Words change easily. Assumptions do not.
+
+If theology is to be genuinely reformed rather than cosmetically adjusted, it must interrogate not only its vocabulary, but its imagination.
+
+Before asking whether a term is biblical, we must ask:
+
+- What problem does this term assume?  
+- What kind of God does it imagine?  
+- What kind of salvation does it require?  
+
+Until those questions are faced, theological debates will continue to generate heat without light.
+
+The issue is not that Christians are using the wrong words.
+
+It is that they are often using **new words to protect old worlds**.
