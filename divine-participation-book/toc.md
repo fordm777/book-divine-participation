@@ -84,7 +84,7 @@
 ## PART IX — STEEL-MANNING THE OPPOSING VIEWS  
 **(Fair engagement without conceding the framework)**
 
-- [Chapter 30 — Surety, Priesthood, and the Stability of the Covenant](part-09/chapter-30.md) *(What Hebrews 7 actually secures)*
+- [Chapter 30 — Surety, Priesthood, and the Stability of the Covenant](part-09/chapter-30.md)
 - [Chapter 31 — Penal Substitution: The Strongest Biblical Case](part-09/chapter-31.md)
 - [Chapter 32 — Determinism and Eternal Decree: The Strongest Biblical Case](part-09/chapter-32.md)
 - [Chapter 33 — Total Depravity: The Strongest Biblical Case](part-09/chapter-33.md)
