@@ -1,5 +1,23 @@
 # Chapter 4 — Passover: Salvation Through Death, Not Punishment
 
+## Introduction: Born in Captivity
+
+The Exodus story does not begin with Israel choosing slavery, nor with Israel being judged for guilt. It begins with Israel **being born into captivity**.
+
+From the opening chapters of Exodus, Israel exists as God’s firstborn while living under the authority of another king. Their bondage is not the result of a courtroom verdict rendered against them. It is the result of living within a **foreign dominion** that claims ownership over their bodies, their labor, and their future. Pharaoh does not merely oppress Israel. He rules them. He exercises jurisdiction over their lives.
+
+This is the biblical pattern for understanding salvation. Scripture does not describe humanity as neutral subjects awaiting a legal declaration, but as people born into a world already governed by powers that do not give life. As Israel was born into Egypt’s rule, so humanity is born into the dominion of death. Bondage precedes choice. Captivity precedes transgression.
+
+Because the problem is dominion, the solution cannot be acquittal alone. A court may pardon a captive and still leave him under the same authority. But salvation, as Scripture presents it, requires **rescue from one kingdom into another**. It requires the collapse of the old rule and the transfer of allegiance to a new Lord.
+
+The Exodus is therefore not an illustration added later to explain salvation. It is the **original shape of salvation itself**.
+
+What follows in the plagues, the Passover, and the crossing of the sea is not the settling of accounts, but the dismantling of a regime. Egypt’s authority is exposed as false. Its power to sustain life is stripped away. And Israel is not merely spared within Egypt, but brought out from under its rule entirely.
+
+Only within this framework can Passover be understood correctly. It is not punishment redirected, nor judgment exchanged. It is the moment when a people born under one dominion are marked for departure into another.
+
+---
+
 ## Egypt, Pharaoh, and Cosmic Judgment
 
 The story of the Exodus unfolds within a world ordered by competing claims to authority. Egypt is not presented merely as a political power, but as a comprehensive system—religious, economic, and cosmic—claiming the ability to sustain life, preserve order, and secure the future. Pharaoh stands at the center of this system as its representative head. He embodies Egypt’s claim to sovereignty, stability, and control.
