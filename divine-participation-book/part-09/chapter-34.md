@@ -1,203 +1,268 @@
-# Chapter 34 — Renewed Covenant Theology: The Strongest Biblical Case
+# Chapter 34 — “No One Can Come Unless the Father Draws”: John 6:44, ἕλκω, and the Reversal of the Gospel Sequence
 
-## Introduction: Why This Question Matters
+## The Text Itself
 
-Throughout this book, we have presented Scripture as pointing toward a **new covenant**, rather than a renewed one. We have traced how death functions as the boundary of covenant authority, how release precedes life, and how salvation is consistently framed as participation in Christ’s death and resurrection rather than improvement of an existing state.
+> “No man can come to me, except the Father which hath sent me **draw** him: and I will raise him up at the last day.”  
+> *(John 6:44, KJV)*
 
-At the same time, there is a view held by many sincere believers that understands the work of Christ not as inaugurating a fundamentally new covenant, but as **renewing, restoring, and internalizing** the covenant God made with Israel. This view—often called renewed covenant theology—arises from a desire to honor God’s faithfulness, preserve continuity across Scripture, resist lawlessness, and take seriously the words and practices of Jesus and the apostles.
+John 6:44 is one of the most frequently cited texts in determinist and Calvinist arguments for irresistible grace and regeneration preceding faith. It deserves careful, patient handling, because it is often treated as if it settles the entire debate by itself.
 
-Because of this, it deserves careful and fair presentation. This chapter sets out the renewed-covenant position at its strongest, explores why it is compelling, and then considers where tension emerges when it is set alongside the full biblical witness—particularly the framework of **purification, death, and indwelling** that governs Acts, Paul’s letters, and the apostolic gospel as a whole.
-
----
-
-## The Renewed Covenant Position at Its Strongest
-
-### 1. Prophetic Language Emphasizes Restoration
-
-Renewed covenant theology draws heavily from the prophetic literature, which consistently speaks in terms of **restoration rather than replacement**.
-
-Jeremiah’s promise of a “new covenant” (Jeremiah 31:31–34) appears within a context of return from exile. The covenant is explicitly with Israel and Judah. The law is not discarded but written on hearts. The covenant formula—“I will be their God, and they shall be my people”—remains unchanged.
-
-Likewise, Ezekiel’s vision focuses on transformation rather than abolition:
-
-> “I will sprinkle clean water upon you… I will give you a new heart… and cause you to walk in my statutes.” (Ezekiel 36:25–27)
-
-The emphasis is on cleansing, renewal of the heart, and Spirit-enabled obedience. From this perspective, the covenant itself remains intact; what changes is the condition of the people within it.
-
-Hosea’s marriage imagery reinforces this reading. Despite Israel’s unfaithfulness, God speaks of betrothing her again. The relationship is healed, not replaced. The same bride is restored.
+This chapter moves slowly and methodically, because the issue is not merely theological. It is linguistic, contextual, and structural.
 
 ---
 
-### 2. God’s Promises to Israel Remain Firm
+## How Calvinism Commonly Presents John 6:44
 
-A second pillar of renewed covenant theology is the conviction that God’s promises are irrevocable.
+To be fair, we should state the Calvinist reading in its strongest form.
 
-The Abrahamic covenant is called “everlasting.” Paul insists that God has not cast away his people (Romans 11:1–2) and describes Gentiles as grafted into Israel’s olive tree rather than planted into a different one (Romans 11:17–24).
+In the standard Reformed account:
 
-From this perspective, covenant continuity safeguards God’s faithfulness. Any account of Christ’s work must preserve Israel’s election rather than nullify it.
+1. Humanity is “dead in sin” in the sense of **moral and spiritual inability**.  
+2. Therefore, no one can truly come to Christ unless God first acts.  
+3. In John 6:44, “draw” is read as **effectual pulling**, not mere invitation.  
+4. This “drawing” is identified with **regeneration (new birth)** or the **effectual call**.  
+5. The one drawn will certainly come, and the one who comes will certainly be raised.
 
----
+In other words, John 6:44 becomes proof that the decisive saving action happens *prior* to faith, and it is *irresistible*.
 
-### 3. Jesus Affirms the Law and the Prophets
+That reading has internal consistency—but only if one key move is made and sustained: **draw must be treated as regeneration, and it must function as causation rather than attraction.**
 
-Jesus’ own words carry significant weight:
-
-> “Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.” (Matthew 5:17)
-
-Renewed covenant theology understands fulfillment as bringing Torah to its intended depth rather than setting it aside. Jesus keeps the law, teaches from it, and summarizes it through love of God and neighbor. Torah is not negated; it is rightly understood.
-
----
-
-### 4. Apostolic Practice Appears Continuous
-
-The apostles, including Paul, continue to participate in Jewish life after the resurrection. Acts depicts temple worship, feast observance, vows, and purification rituals. Paul insists he has not violated the law or the temple.
-
-Renewed covenant theology often reads Paul’s letters in light of this practice, understanding his polemic as directed against Torah as a means of justification, not against Torah as a way of life.
+That is the move we now examine.
 
 ---
 
-## Acts 15: A Crucial Test Case
+## The Greek Verb Behind “Draw”
 
-Acts 15 is central to renewed and dual-covenant readings. The Jerusalem Council addresses whether Gentile believers must be circumcised and take on the full yoke of the Mosaic law.
+The verb in John 6:44 is **ἕλκω / ἑλκύω** (*helkō / helkyō*).
 
-The council answers decisively: they must not.
+Lexically, it is not controversial that the verb can be used in **more than one way**.
 
-Yet Gentiles are given four prohibitions:
+Greek lexicons list a forceful sense:
 
-- abstaining from things polluted by idols  
-- abstaining from blood  
-- abstaining from things strangled  
-- abstaining from sexual immorality  
+- draw, drag, haul by exertion or force
 
-These are not arbitrary moral rules. They correspond directly to **categories of bodily defilement** associated with pagan worship and Gentile life.
+But they also list a second semantic domain that matters greatly for John’s Gospel:
 
-For renewed-covenant readers, this is compelling. The apostles do not dismiss purity concerns. They draw directly from Torah categories. They require Gentiles to live in ways compatible with holiness.
+- draw to oneself  
+- attract  
+- persuade  
+- pull toward (often of desire, influence, or value)
 
-At the same time, the decision is carefully limited. Circumcision is not required. Sabbath observance is not mandated. Gentiles are not placed under the jurisdiction of the Mosaic covenant. The focus is not covenant entry, but **purity of life and shared fellowship**.
+So the question is not, *Can the word ever mean drag?*  
+It can.
 
-This raises an important question: *what kind of framework best explains this decision?*
+The question is, **Which sense does the context require in John 6:44?**
+
+Words are not defined by dictionaries alone. They are defined by how they function in sentences.
 
 ---
 
-## Acts 15 Read Through Paul’s Teaching in 1 Corinthians
+## The Contextual Signal in John 6:44: Two Actions, Not One
 
-The purification logic of Acts 15 becomes clearer when read alongside Paul’s teaching in 1 Corinthians. As Paul addresses the same categories of concern—idolatry, blood, sexual immorality, and participation—he consistently frames them in terms of **temple cleanness**. What is striking is not that concern for holiness disappears, but that it is relocated. Language once used to guard the sanctity of a physical sanctuary is now applied to the **body itself**, because, as Paul goes on to explain, the body has become the dwelling place of God’s Spirit. Holiness has not diminished; the location of God’s presence has changed.
+John 6:44 explicitly contains **two distinct movements**:
 
-### Food Offered to Idols (1 Corinthians 8–10)
+1. The Father **draws**  
+2. The person **comes**
 
-Paul acknowledges that idols have no real existence. Yet participation in idol feasts is not neutral. Such participation involves communion and produces contamination.
+> “No man can **come** … unless the Father … **draw** him …”
 
-> “Ye cannot drink the cup of the Lord, and the cup of devils.” (1 Corinthians 10:21)
+This structure matters.
 
-The concern is not covenant legality, but **contamination through participation**.
+When *ἕλκω* is used in the **coercive sense**—dragging a body, hauling a net, pulling a prisoner—the action is **complete in itself**. The verb alone describes the entire movement. The object is relocated by force, and no further response is implied or required.
 
-### Blood and Participation
+In ordinary language (Greek included), when a verb of influence or movement is followed by a **second verb of response**, the first verb cannot be functioning as completed force.
 
-Paul’s language surrounding the cup and the body of Christ emphasizes that participation is real and embodied. What enters the body matters, because the body itself is now claimed by Christ. Participation joins the believer not only to Christ, but to whatever power is encountered at the table.
+Instead:
 
-### Sexual Immorality (1 Corinthians 5–6)
+- the first verb describes an **initiating action**, and  
+- the second verb describes the **response** that follows.
 
-Paul’s strongest warnings concern sexual immorality, and his reasoning is explicitly purification-oriented.
+Force completes an action.  
+Attraction invites continuation.
 
-> “Know ye not that your bodies are the members of Christ?”  
-> “He that committeth fornication sinneth against his own body.”
+If someone is dragged, they do not subsequently *come*.  
+If someone is attracted, they may.
 
-Sexual immorality is not framed primarily as law-breaking, but as desecration of what has been claimed as holy.
+This is a basic linguistic distinction, not a theological one.
 
-### The Body as Temple
+### Why John 6:44 Fits the Two-Verb Pattern
 
-Paul states the underlying reality plainly:
+John 6:44 does not describe a single completed action. It describes a **sequence**:
 
-> “Your body is the temple of the Holy Spirit.”
+- the Father **draws**  
+- the person **comes**
 
-This becomes the controlling category. The Spirit dwells in what has been cleansed. Contamination does not primarily threaten legal standing, but the integrity of indwelling presence.
+Crucially, the text does not say the person *will* come, but that the person **can** come. The language is explicitly one of **possibility**, not inevitability.
 
-Read in this light, Acts 15 does not function as renewed covenant legislation. It operates as a **purification framework**, governing how bodies formerly shaped by idolatry may now participate in a holy community in which God dwells.
+The verb *can* indicates capacity, not compulsion or certainty. It signals that drawing makes coming **possible**, not unavoidable. This fits naturally with drawing understood as attraction or summons, and it resists reading drawing as a force that overrides response.
+
+The verb *come* only makes sense if drawing does **not** already accomplish arrival. Drawing here functions as an initiating movement that **invites approach**, not as a force that replaces approach.
+
+If the person has already been brought near by irresistible force, the capacity to “come” becomes redundant. John’s sentence structure deliberately avoids that redundancy and instead preserves the grammar of invitation and response.
 
 
 ---
 
-## A Central Question Emerges
+## The LXX Confirms This Usage: Song of Songs 1:4
 
-At this point, a central question emerges for the renewed-covenant position:
+The Greek Old Testament provides a clear parallel:
 
-**How does renewal alone account for Scripture’s insistence that death is the mechanism of release from covenant authority?**
+> “Draw me; **we will run after you**.”  
+> *(Song of Songs 1:4, LXX)*
 
-Paul states the principle clearly:
+Here again, the structure is the same:
 
-> “The law has dominion over a person as long as he lives.” (Romans 7:1)
+- drawing initiates  
+- response follows
 
-Covenant authority persists as long as jurisdiction persists. Renewal repairs what exists; it does not end jurisdiction. Yet Paul repeatedly describes salvation in terms of **death, release, and transfer**.
+No coercion is present. The drawing awakens desire, and the response is voluntary pursuit.
 
-This is where tension begins to surface.
+John 6:44 follows this same linguistic pattern. Drawing is the summons that precedes coming, not the force that replaces it.
 
----
-
-## Why Death Becomes Decisive
-
-Romans 6–7 does not frame covenant transition as restoration within the same bond, but as release through death followed by new union.
-
-- dying with Christ  
-- burial  
-- release from prior dominion  
-- marriage to another  
-- newness of life  
-
-This is jurisdictional language, not merely experiential language.
-
-Renewed covenant theology explains transformation well. It explains continuity well. But it struggles to explain why **death**, rather than renewal, is presented as the decisive boundary.
-
-If covenant authority remains continuous, death cannot function as release.  
-If death functions as release, renewal alone cannot account for the transition.
+This matters because John’s Gospel frequently operates in **relational and covenantal categories**, love and hate, light and darkness. The LXX already supplied a well-established register in which *ἕλκω* functions as **attraction that invites response**.
 
 ---
 
-## Pastoral Consequences of Missing the Purification Framework
+## To Be Fair: Coercive Uses Exist
 
-When purification and cleansing are not the controlling categories, several patterns often emerge—sometimes unintentionally.
+The New Testament itself uses *ἕλκω* in plainly forceful contexts—dragging people before authorities, hauling nets, pulling with physical exertion.
 
-- Acts 15 becomes reduced to minimal ethics rather than bodily holiness  
-- 1 Corinthians becomes moral exhortation rather than temple protection  
-- Baptism becomes symbolic rather than participatory  
-- Romans 7 becomes normalized as the Christian condition  
-- Freedom becomes managed struggle rather than decisive release  
+So the issue is not whether Calvinists can point to coercive examples. They can.
 
-These outcomes are not inevitable, but they are common. They reflect what happens when death, cleansing, and indwelling are treated as metaphors rather than realities.
+The issue is whether John 6:44 belongs to that category.
+
+The presence of a second verb of response (*come*) strongly indicates that it does not.
 
 ---
 
-## Why Renewal and Penal Substitution Both Strain Here
+## Extra-Biblical Greek Usage: Both Senses Are Real
 
-Both renewed-covenant theology and penal substitution models often struggle at the same point—not because they agree, but because **neither places purification at the center**.
+Greek literature outside Scripture confirms the same pattern.
 
-- Renewal emphasizes continuity but lacks a mechanism for release  
-- Penal substitution emphasizes legal resolution but bypasses cleansing  
-- Both tend to relocate the problem to guilt rather than contamination  
-- Both struggle to integrate temple, body, and indwelling coherently  
+### Forceful Usage
 
-Scripture, by contrast, consistently treats sin as something that **defiles**, not merely something that condemns.
+In classical literature (e.g., Homer), *ἕλκω* is used for dragging bodies or hauling objects. The action is complete in itself. No response is implied or expected.
+
+### Attraction Usage
+
+In philosophical and moral contexts, *ἕλκω* is used for:
+
+- the soul being drawn toward the good  
+- desire pulling the will  
+- persuasion rather than compulsion  
+
+Across these sources, one pattern holds:
+
+> When *ἕλκω* means force, the action is complete.  
+> When it means attraction, it is followed by a response verb.
+
+John 6:44 belongs to the second category.
 
 ---
 
-## Conclusion: Why the Covenant Must Be New
+## The System Move: Redefining “Draw” as Regeneration
 
-Renewed covenant theology presents a serious and thoughtful reading of Scripture. It honors God’s faithfulness, takes Jesus’ words seriously, preserves continuity, and resists lawlessness.
+At this point, determinist theology makes a necessary move.
 
-At the same time, it encounters increasing strain when set alongside Scripture’s consistent insistence that **death precedes life**, **cleansing precedes indwelling**, and **release precedes obedience**.
+Because John 6:44 contains both:
+- divine initiative (the Father draws), and
+- human response (the person comes),
 
-Acts 15 and 1 Corinthians do not function as covenant-renewal texts. They function as purification texts. They assume bodies that must be cleansed because God now dwells within them.
+the system collapses the two into one.
 
-Romans 6–7 does not describe improved covenant fidelity, but **release through death** and **union with another**.
+The functional redefinition becomes:
 
-This is why the covenant cannot merely be renewed.  
-It must be **new**.
+> **draw = regenerate (new birth)**
 
-Not because God abandons his promises,  
-but because only death can end bondage,  
-only cleansing can prepare a dwelling place,  
-and only resurrection can bring a people into life they could never produce.
+So the verse is effectively read as:
 
-The covenant is new because the people are new—  
-cleansed, released, and indwelt.
+> “No one can come unless the Father first makes him alive so that he must come.”
 
-And that is the logic that holds the whole witness of Scripture together.
+But this is not what the text says; however, it is what the determistic system requires.
+
+---
+
+## Why “Come” Becomes Strange Under This Reading
+
+If drawing already places the person **in Christ** through regeneration, then the notion of subsequently *coming* to Christ becomes conceptually awkward.
+
+The verse begins to describe someone who is made alive *in relation to Christ* in order to then approach Christ.
+
+That is not how the sentence reads.
+
+John keeps both verbs because they describe **different actions**:
+- drawing enables approach
+- coming completes approach
+
+---
+
+## John 12:32 — Not a Countertext, but a Clarifier
+
+Many debates rush immediately to John 12:32, but the deeper issue is not the word *all*. It is the meaning of *draw*.
+
+> “And I, if I be lifted up from the earth, will **draw all** men unto me.”  
+> *(John 12:32, KJV)*
+
+This is the same verb, used by the same author, in the same Gospel.
+
+If *draw* means irresistible regeneration in John 6, then John 12 implies universal regeneration or universal salvation.
+
+To avoid this, determinist readings quietly split the verb:
+- effectual in John 6  
+- general in John 12
+
+But John himself locates the drawing in the public, revelatory event of Christ being “lifted up.” This aligns naturally with attraction, not secret regeneration.
+
+John 12 does not contradict John 6. It **defines the mode of drawing**.
+
+---
+
+## Why This Matters for Dying With Christ
+
+Chapter 33 established that Paul speaks of death as **dominion**, not ontological non-being, and that freedom from sin comes through **dying with Christ**.
+
+If John 6:44 is read as regeneration first (life first), the gospel sequence is reversed:
+
+- life is granted before death-with-Christ  
+- dying-with-Christ is reclassified as symbolic or sanctification language  
+
+But Paul says:
+
+> “He that is dead is freed from sin.”  
+> *(Romans 6:7)*
+
+If a person is already ontologically dead before Christ, then—by Paul’s logic, they should already be free from sin. Yet Paul insists that freedom comes through **participation in Christ’s death**.
+
+The regeneration-first reading forces this contradiction and then resolves it by quietly diminishing baptismal death and participatory union.
+
+---
+
+## Conclusion: John 6:44 Does Not Teach the Bypass of Death
+
+John 6:44 only becomes a determinist proof text if:
+
+- drawing is equated with regeneration,  
+- coming is treated as guaranteed and redundant,  
+- John 12 is redefined to preserve the system, and  
+- Paul’s death-with-Christ is reduced to metaphor.
+
+If the Johannine grammar is allowed to stand, the verse reads naturally:
+
+- The Father draws through revelation and attraction.  
+- Drawing enables coming.  
+- Coming is real response, not self-rescue.  
+- Those who come are raised because they enter Christ.
+
+And if the apostolic grammar is allowed to stand, the gospel remains coherent:
+
+- Humanity lives under death’s dominion.  
+- God draws us to Christ.  
+- We come, not as liberators, but as those receiving rescue.  
+- We die with Christ, and having died, we are freed from sin.  
+- We rise with Christ into newness of life.
+
+Any reading of John 6:44 that grants life prior to death-with-Christ does not merely rearrange a verse. It rearranges the gospel—and turns Paul’s language of dying with Christ into nonsense.
+
+The Father’s drawing is real and powerful.  
+But it is not the bypass of death.  
+It is the summons into Christ, where death is entered and defeated through participation, not avoided through a hidden mechanism.

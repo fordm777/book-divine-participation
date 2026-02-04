@@ -88,12 +88,13 @@
 - [Chapter 31 — Penal Substitution: The Strongest Biblical Case](part-09/chapter-31.md)
 - [Chapter 32 — Determinism and Eternal Decree: The Strongest Biblical Case](part-09/chapter-32.md)
 - [Chapter 33 — Total Depravity: The Strongest Biblical Case](part-09/chapter-33.md)
-- [Chapter 34 — Renewed Covenant Theology: The Strongest Biblical Case](part-09/chapter-34.md)
-- [Chapter 35 — Baptism Without Water: The Strongest Case](part-09/chapter-35.md)
-- [Chapter 36 — Other Common Objections and Proof Texts](part-09/chapter-36.md)
+- [Chapter 34 — "No One Can Come Unless the Father Draws": John 6:44, ἕλκω, and the Reversal of the Gospel Sequence](part-09/chapter-34.md)
+- [Chapter 35 — Renewed Covenant Theology: The Strongest Biblical Case](part-09/chapter-35.md)
+- [Chapter 36 — Baptism Without Water: The Strongest Case](part-09/chapter-36.md)
+- [Chapter 37 — Other Common Objections and Proof Texts](part-09/chapter-37.md)
 
 ---
 
 ## PART X — CONCLUSION
 
-- [Chapter 37 — Death Defeated, Life Restored](part-10/chapter-37.md)
+- [Chapter 38 — Death Defeated, Life Restored](part-10/chapter-38.md)
