@@ -2,13 +2,15 @@
 
 ## Introduction
 
-To understand what went wrong, we must first understand what was right. The opening chapters of Genesis reveal not merely a historical account of origins, but a theological vision of humanity's original state and intended destiny. At the heart of this vision is the presence of God—the source and sustainer of life itself.
+The opening chapters of Genesis present a world alive with God’s presence. Creation unfolds through God’s word, and life emerges already ordered toward communion. Humanity is formed from the dust and animated by divine breath, placed within a garden where God walks among His creation.
+
+In this setting, life is not merely biological existence. It is shared life—received, sustained, and directed by relationship with God. Humanity’s place in the garden is not that of an independent agent, but of a participant dwelling within the presence that gives life meaning and continuity.
 
 The story begins with life, not death. It begins with presence, not absence. It begins with relationship, not alienation. Understanding this original state is essential, for only then can we grasp the nature of what was lost and what must be restored.
 
 ## Created in the Image of God
 
-Genesis 1:26 records God's declaration: "Let us make man in our image, after our likeness." This dual language—image and likeness—was not lost on the early church. The Ante-Nicene Fathers, particularly in the Eastern tradition, recognized an important distinction between these two terms.
+Genesis 1:26 records God's declaration: "Let us make man in our image, after our likeness." This dual language of image and likeness was not lost on the early church. The Ante-Nicene Fathers, particularly in the Eastern tradition, recognized an important distinction between these two terms.
 
 ### The Image: What We Are by Creation
 
