@@ -1,4 +1,4 @@
-# Chapter 34 — “No One Can Come Unless the Father Draws”: John 6:44, ἕλκω, and the Reversal of the Gospel Sequence
+# Chapter 40 — “No One Can Come Unless the Father Draws”: John 6:44 Revisited
 
 ## The Text Itself
 

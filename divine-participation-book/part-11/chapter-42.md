@@ -1,4 +1,4 @@
-# Chapter 36 — Baptism Without Water: The Strongest Case
+# Chapter 42 — Baptism Without Water: The Strongest Case
 
 ## Introduction: The Question at Hand
 

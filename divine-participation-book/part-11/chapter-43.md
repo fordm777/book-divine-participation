@@ -1,4 +1,4 @@
-# Chapter 37 — Common Questions, Familiar Words, and Misheard Meanings
+# Chapter 43 — Common Questions, Familiar Words, and Misheard Meanings
 
 By this point in the book, many disagreements have already been resolved—not because every verse has been individually addressed, but because the *framework itself* has shifted. When death is understood as dominion rather than punishment, when salvation is understood as rescue rather than transaction, and when Christ's work is understood as participation rather than legal substitution, many objections simply lose their force.
 

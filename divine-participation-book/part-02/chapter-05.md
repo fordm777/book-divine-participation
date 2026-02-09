@@ -1,24 +1,29 @@
 # Chapter 5 — Dying Before Living
 
-## The Seed and the Law of Life
+## The Seed that Dies
 
-Jesus did not speak of life as something that can be grasped, preserved, or extended indefinitely. He spoke of life as something that must first be lost. "Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit."
+Jesus said, 
 
-With these words, Jesus does not offer a moral lesson or a metaphor about self-sacrifice. He names a reality that governs creation, redemption, and resurrection alike. Life does not emerge by clinging to what already exists. Life comes only through surrender, through a real ending that makes space for something new. The seed that refuses to die does not become fruitful. It remains intact, preserved, and alone. What appears to be survival is, in fact, barrenness. What appears to be loss is the only path to multiplication.
+> "Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit." - John 12:24
+> "For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it." - Matthew 16:25
 
-Jesus speaks this not merely about His own death, but about the pattern into which His followers must also enter. The saying stands at the threshold of His passion, yet it reaches backward into the Exodus and forward into the life of the Church. It reveals the law by which God restores what has fallen: death precedes life. This is not a strategy. It is not an ethical principle. It is the structure of salvation itself.
+With these words, Jesus does not offer a moral lesson or a metaphor about self-sacrifice. He names a reality that governs the structure of salvation. Life does not emerge by clinging to what already exists. Life comes only through a real ending, through death of the old that makes space for something new. The seed that refuses to die does not become fruitful. It remains intact, preserved, and alone. What appears to be survival is, in fact, barrenness. What appears to be loss is the only path to multiplication.
+
+Jesus speaks this not merely about His own death, but about the pattern into which His followers must also enter. The saying stands at the threshold of His passion, yet it reaches backward into the Exodus and forward into the life of the Church. It reveals the law by which God restores what has fallen: death precedes life. This is not a strategy, nor is it an ethical principle. It is the structure of salvation itself.
 
 ## The Order Scripture Refuses to Reverse
 
-From the opening pages of Scripture to the apostolic writings, one pattern remains fixed: life follows death. This is not a poetic flourish or a theological preference. It is the order by which God brings forth new creation. Creation begins with life emerging from chaos. Redemption follows the same path. What has fallen into corruption is not animated as it stands; it is brought to an end so that something new may arise.
+The pattern in Scripture is that death precedes life. This is not a poetic flourish or a theological preference. It is the order by which God brings forth the new. What belongs to the old order is not repaired, refined, or gradually improved. It is brought to an end so that something truly new may arise. Redemption does not polish what has fallen into corruption; it terminates it and brings forth a new creation in its place.
 
-This order is neither arbitrary nor negotiable. Scripture consistently places burial before resurrection, departure before arrival, and surrender before freedom. Where this order is reversed, life becomes illusion. Where it is honored, life becomes real. The Exodus revealed this pattern. Christ embodied it. The apostles proclaimed it. The early Church guarded it.
+This order is neither arbitrary nor negotiable. Scripture consistently places the destruction of the old before the emergence of the new. The world of violence and corruption is ended in the flood before a renewed world is brought forth (Genesis 6–9). Egypt is judged and its power broken before Israel is brought out as a free people (Exodus 1–14). The wilderness generation dies before a new generation enters the land (Numbers 14; Joshua 1). Saul falls before David reigns (1 Samuel 31; 2 Samuel 5). The old man is put to death before the new man is raised to life in Christ (Romans 6:6; Ephesians 4:22–24; Colossians 3:9–10). Even creation itself follows this order: the former heaven and earth pass away before the new heaven and new earth appear (Revelation 21:1).
+
+When the old does not die, life becomes an illusion, sustained by carrying the old forward rather than bringing it to an end. The result is a strained and exhausting existence, where the new is constantly attempted but never allowed to fully emerge.
 
 ## Death as Release, Not Punishment
 
 Death is often assumed to be the primary problem salvation must avoid. Scripture presents it differently. Death is an enemy, but it is also a limit, a boundary placed on corruption so that it does not become eternal. In the Exodus, death does not arrive as a random sentence imposed on individuals. It appears as what remains when a false order collapses. Egypt cannot sustain life; death exposes that truth. Israel is not spared death by avoidance, but by passing through it representatively and then leaving Egypt behind.
 
-This logic carries forward. Death marks the end of one dominion so that another may begin. It is not the goal of salvation, but it is the necessary passage by which salvation occurs.
+This logic carries forward. Death marks the end of one dominion so that another may begin; it is the collapse of a false lord, not the execution of a sentence. It is not the goal of salvation, but it is the necessary passage by which salvation occurs.
 
 ## Burial Comes Before Resurrection
 

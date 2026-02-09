@@ -1,4 +1,4 @@
-# Chapter 2 — Exile from Life
+# Chapter 2 — Exile from Life: Death as Mercy, Not Punishment
 
 ## Where Are You?
 

@@ -1,4 +1,4 @@
-# Chapter 3 — Death as Dominion
+# Chapter 3 — Death as Dominion: Bondage, Corruption, and Fear
 
 ## From Exile to Rule
 

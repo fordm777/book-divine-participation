@@ -1,4 +1,4 @@
-# Chapter 4 — Passover: Salvation Through Death, Not Punishment
+# Chapter 4 — Passover: Salvation Through Death
 
 ## Introduction: Born in Captivity
 

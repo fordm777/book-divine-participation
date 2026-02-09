@@ -1,4 +1,4 @@
-# Chapter 33 — Total Depravity: The Strongest Biblical Case
+# Chapter 39 — Total Depravity: The Strongest Biblical Case
 
 ## Why Total Depravity Must Be Taken Seriously
 

@@ -1,4 +1,4 @@
-# Chapter 32 — Determinism and Eternal Decree: The Strongest Biblical Case
+# Chapter 38 — Determinism and Eternal Decree: The Strongest Biblical Case
 
 > Whatever framework you bring to the text will govern which semantic lanes you allow the words to travel in—whether you are reading English, Greek, or Hebrew.  
 > A framework does not usually announce itself. It simply governs which meanings feel natural.  

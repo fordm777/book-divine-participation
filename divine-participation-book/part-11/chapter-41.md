@@ -1,4 +1,4 @@
-# Chapter 35 — Renewed Covenant Theology: The Strongest Biblical Case
+# Chapter 41 — Renewed Covenant Theology: The Strongest Biblical Case
 
 ## Introduction: Why This Question Matters
 

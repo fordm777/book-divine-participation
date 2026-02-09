@@ -1,4 +1,4 @@
-# Chapter 29 — Needs-Based Christianity: When the Gospel Became Therapeutic
+# Chapter 35 — Needs-Based Christianity: When the Gospel Became Therapeutic
 
 ## Introduction: A Gospel That No Longer Requires Death
 

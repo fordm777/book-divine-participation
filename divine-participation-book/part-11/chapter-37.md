@@ -1,4 +1,4 @@
-# Chapter 31 — Penal Substitution: The Strongest Biblical Case
+# Chapter 37 — Penal Substitution: The Strongest Biblical Case
 
 ---
 

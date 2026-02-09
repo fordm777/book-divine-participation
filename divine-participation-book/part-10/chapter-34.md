@@ -1,4 +1,4 @@
-# Chapter 28 — Penal Substitution and the Legalization of Salvation  
+# Chapter 34 — Penal Substitution and the Legalization of Salvation  
 *(When punishment replaced participation)*
 
 ## Why this chapter is necessary
