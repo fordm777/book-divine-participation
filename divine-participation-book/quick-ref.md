@@ -25,7 +25,14 @@ When Adam sinned, he did not instantly collapse. He entered a state of dying.
 
 Humanity was exiled from the garden. Access to the Tree of Life was cut off. Mortality began.
 
-Death in Scripture is separation from the source of life.
+> “Lest he reach out his hand and take also of the tree of life and eat, and live forever…” — Genesis 3:22  
+
+God prevented Adam and Eve from eating of the Tree of Life in their corrupted state.
+
+This was not cruelty.  
+It was mercy.
+
+To live forever in corruption would have meant permanent separation with no hope of restoration. Death limited corruption and preserved the possibility of redemption.
 
 Sin brought separation.  
 Separation brought death.  
@@ -37,7 +44,7 @@ Death began to reign.
 
 > “Death reigned…” — Romans 5:14  
 > “Through fear of death they were subject to lifelong slavery.” — Hebrews 2:15  
-> “You were dead in trespasses and sins.” — Ephesians 2:1  
+> “You were dead in trespasses and sins… according to the prince of the power of the air.” — Ephesians 2:1–2  
 
 Death is described as a ruler.
 
@@ -45,33 +52,43 @@ It reigns.
 It enslaves.  
 It produces fear.
 
-People are biologically alive, yet living under the dominion of death.
+Paul says we were “dead” while walking — living under another authority, following the course of this world and the prince of the power of the air.
+
+---
+
+### The Cry of the Enslaved
+
+> “The children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God.” — Exodus 2:23  
+
+They were not asking for a legal adjustment.  
+They were crying out for deliverance.
+
+> “O wretched man that I am! Who shall deliver me from the body of this death?” — Romans 7:24  
+
+This is the cry of a slave.
 
 Humanity is not merely guilty.  
 Humanity is living in death.
 
-If death is the tyrant, salvation must be deliverance from its rule.
+If death is the tyrant, salvation must be rescue.
 
 ---
 
-## 4. Passover and the Red Sea — Salvation Through Passage
+## 4. Christ Enters the Human Condition
 
-> “The LORD will pass over the door.” — Exodus 12:23  
-> “All were baptized into Moses in the cloud and in the sea.” — 1 Corinthians 10:2  
+> “Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.” — Isaiah 7:14  
+> “Since the children share in flesh and blood, He Himself likewise partook of the same.” — Hebrews 2:14  
 
-Israel was not in a courtroom. They were in bondage.
+God heard the cry.
 
-The lamb marked them.  
-The sea separated them.  
-Egypt's dominion was broken.
+The Son became flesh.
 
-They passed from slavery into covenant life.
+He was born of a woman.  
+He entered our mortality.  
+He shared in flesh and blood.  
 
-The Exodus becomes the pattern:
-
-- Bondage  
-- Passage through death  
-- New life under a new Lord  
+Before He could conquer death,  
+He entered the realm where death reigns.
 
 ---
 
@@ -79,15 +96,14 @@ The Exodus becomes the pattern:
 
 > “Through death He destroyed the one who has the power of death.” — Hebrews 2:14  
 > “The last enemy to be destroyed is death.” — 1 Corinthians 15:26  
-> “God raised Him up.” — Acts 2:24  
+> “God raised Him up, having loosed the pains of death, because it was not possible that He should be held by it.” — Acts 2:24  
 
-Jesus entered our condition fully.
+Jesus entered death itself.
 
-He took on flesh.  
-He shared in mortality.  
-He entered death.
+He did not die as a victim.  
+He entered death as its conqueror.
 
-But death could not hold Him.
+The grave could not hold Him.
 
 Through death He broke death’s dominion.  
 Through resurrection He opened the way into new creation.
@@ -99,10 +115,13 @@ The resurrection begins new life.
 
 ## 6. Faith, Baptism, and New Life — The Transfer of Dominion
 
+> “He that believeth and is baptized shall be saved.” — Mark 16:16  
+> “Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins.” — Acts 2:38  
+> “As many of you as have been baptized into Christ have put on Christ.” — Galatians 3:27  
 > “As many of us as were baptized into Christ Jesus were baptized into His death.” — Romans 6:3  
-> “We were buried with Him… that we should walk in newness of life.” — Romans 6:4  
+> “We were buried with Him by baptism into death… that we should walk in newness of life.” — Romans 6:4  
 > “He who has died is freed from sin.” — Romans 6:7 (KJV)  
-> “He has delivered us from the dominion of darkness.” — Colossians 1:13  
+> “Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son.” — Colossians 1:13 (KJV)
 
 Romans 6 speaks the language of dominion and release.
 
@@ -118,6 +137,7 @@ Rising from the water:
 
 - We walk in newness of life  
 - We live under a new King  
+- We belong to a new kingdom  
 
 Salvation is a transfer of dominion.
 
@@ -130,6 +150,10 @@ Life with God
 Separation  
 ↓  
 Death Reigns  
+↓  
+Humanity Cries Out  
+↓  
+Christ Enters the Human Condition  
 ↓  
 Christ Enters Death  
 ↓  
@@ -151,16 +175,23 @@ When the Ethiopian heard the good news about Jesus, he did not ask for a theory.
 
 > “See, here is water. What prevents me from being baptized?” — Acts 8:36  
 
-He understood the pattern.
+Philip answered:
 
-Christ died.  
-Christ rose.  
-Entrance into Christ meant participation.
+> “If thou believest with all thine heart, thou mayest.”  
+> And he answered and said, “I believe that Jesus Christ is the Son of God.” — Acts 8:37  
 
-The gospel is not merely something to agree with.  
-It is something to enter.
+When Paul encountered the risen Christ, he was told:
+
+> “Arise, and be baptized, and wash away thy sins, calling on the name of the Lord.” — Acts 22:16  
+
+Christ entered our condition.  
+Christ entered death.  
+Christ rose in victory.
+
+Entrance into Christ means participation.
 
 Believe in Jesus Christ.  
+Confess that He is the Son of God.  
 Trust that He has destroyed death.  
 Turn from the old dominion.
 
@@ -168,32 +199,13 @@ And like the Ethiopian, ask:
 
 **“What prevents me from being baptized?”**
 
-Pass through the waters.  
-Die with Christ.  
-Rise into new life.
+
+
+Arise.  
+Be baptized.  
+Wash away your sins.  
+Call on the name of the Lord.
 
 Death no longer has dominion.  
 Life is offered.
 
-flowchart LR
-
-A[Creation<br>Life with God] --> B[Fall<br>Separation]
-B --> C[Death Reigns<br>Slavery & Fear]
-C --> D[Passover Pattern<br>Deliverance Through Death]
-D --> E[Christ<br>Death Destroyed]
-E --> F[Faith & Baptism<br>Buried and Raised]
-F --> G[New Life<br>New Dominion]
-
-Life with God
-      ↓
-Separation
-      ↓
-Death Reigns (Slavery & Fear)
-      ↓
-Christ Enters Death
-      ↓
-Death Destroyed
-      ↓
-Faith + Baptism
-      ↓
-New Life Under a New Lord
