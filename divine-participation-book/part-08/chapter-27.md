@@ -1,4 +1,4 @@
-# Chapter 27 — Judgment Without Courtrooms: The Destruction of Death
+# Chapter 27 — The Destruction of Death
 
 ---
 

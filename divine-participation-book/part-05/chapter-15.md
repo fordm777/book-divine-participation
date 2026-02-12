@@ -72,6 +72,8 @@ Peter clarifies two things at once.
 
 The saving reality is not the water as an object. The saving reality is the appeal of conscience toward God, grounded in resurrection. In other words, baptism is **faith's covenantal appeal**, enacted in the appointed sign, anchored in Christ's resurrection.
 
+The flood destroyed the violent world, but preserved the righteous through it. Baptism does not eliminate judgment. It locates the believer within Christ so that judgment becomes passage rather than destruction.
+
 ---
 
 ## The Apostolic Practice in Acts

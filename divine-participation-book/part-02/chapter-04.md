@@ -32,7 +32,7 @@ On the night of Passover, death moves through Egypt. This is not introduced as a
 
 The distinction the text draws is not between those who experience death and those who do not, but between those for whom death becomes an end and those for whom it becomes a passage. The blood placed on the doorposts is explicitly called a sign. It marks the threshold of the household, the boundary between one realm and another. The blood does not function as payment or exchange. It identifies the household as one already claimed, already counted, already prepared to leave.
 
-Israel is not spared because death is redirected elsewhere. Israel is spared because death has already been acknowledged and passed through representatively. The household is marked as no longer belonging to Egypt's order.
+Israel is not spared because death is redirected elsewhere. The blood does not prevent death from passing through Egypt. It marks the household as one in which death has already been accounted for. Those under the blood will still leave Egypt by passing through the sea. The blood does not cancel crossing, but rather enables a safe crossing. It makes it survivable.
 
 ## The Firstborn and the Household
 

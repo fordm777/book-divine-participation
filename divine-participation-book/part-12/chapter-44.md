@@ -3,6 +3,8 @@
 
 Throughout this book, one central claim has quietly guided every chapter: the gospel does not merely announce forgiveness. It announces **deliverance from death itself**.
 
+Scripture presents the world as divided between two dominions: the reign of death and the reign of life. Humanity is not treated as God’s enemy, but as enslaved under a power that destroys. Judgment, therefore, is not aimed at mankind as a class to be punished, but at the kingdom that holds them in bondage. The gospel is announced by ambassadors of light who infiltrate the realm of darkness to proclaim escape.  The message: you must die out of the old dominion, trust Christ to carry you through death, and receive a new life no longer ruled by sin or death. Salvation is not a legal verdict handed down from a distance. It is liberation accomplished through participation in Christ’s death and resurrection!
+
 Modern theology often agrees with parts of this claim. Many scholars have recognized that Scripture is not primarily answering abstract legal questions, but narrating a movement from exile to return, from bondage to freedom, from death to life. They have identified the tension between forensic and participatory frameworks, exposed how legal categories came to dominate Western theology, and recovered participation in Christ as central to salvation.
 
 These insights are important, and they are not novel. Yet they are often left incomplete.
@@ -13,7 +15,7 @@ This book has pressed that unresolved question to its conclusion.
 
 If salvation truly involves dying with Christ, then death cannot be bypassed.  
 If death cannot be bypassed, then it must be *entered*.  
-If it is entered, then faith must take shape at a real moment, not merely as assent, but as surrender.  
+If it is entered, then faith must take shape at a real moment, not merely as assent, but as trusting the one who holds the keys to death and hell.  
 
 The apostolic witness never treats death as an idea to be managed or a symbol to be affirmed. Death is an enemy to be defeated, and it is defeated not by avoiding it, but by passing through it with Christ.
 
@@ -24,7 +26,7 @@ The resistance to this claim has never been merely about water. It has always be
 When salvation is reduced to a verdict, death becomes unnecessary.  
 When salvation is proclaimed as a passage, death becomes unavoidable.
 
-The apostles proclaimed the latter.
+The story of Exodus and the apostles proclaimed the latter.
 
 They did not ask whether God *can* save apart from baptism in extraordinary circumstances. They proclaimed how God has chosen to save ordinarily: by bringing people **through death**, not around it, and raising them into newness of life.
 

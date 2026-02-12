@@ -76,7 +76,7 @@
 
 - [Chapter 25 — Why the Powers Would Never Have Crucified Him](part-08/chapter-25.md)
 - [Chapter 26 — Not Taking the Blame: Innocence, Overreach, and Defeat](part-08/chapter-26.md)
-- [Chapter 27 — Judgment Without Courtrooms: The Destruction of Death](part-08/chapter-27.md)
+- [Chapter 27 — The Destruction of Death](part-08/chapter-27.md)
 
 ---
 

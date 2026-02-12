@@ -45,6 +45,8 @@ This is why the apostolic witness insists on both. Passing through water without
 
 ## Old Testament Witness: The Pattern Was Always There
 
+In the flood, the world of violence is buried before a new creation emerges. In the sea, Egypt’s power collapses before Israel sings. In the tomb, death is entered before resurrection life appears. The pattern is not symbolic. It is structural.
+
 The Scriptures of Israel consistently anticipate this order. The flood brings death before a new world emerges. Israel passes through the sea before entering freedom. The wilderness precedes the land. Exile comes before restoration. Sacrifice precedes communion. Life is never given to what refuses to end. Renewal always follows surrender.
 
 These stories are not moral examples. They are revelations of how God restores creation.

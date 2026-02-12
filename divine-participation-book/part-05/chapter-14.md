@@ -78,6 +78,8 @@ Ownership does not survive death.
 
 Pharaoh's power collapses because the realm he rules — the realm of death — no longer holds Israel.
 
+Death ends ownership — unless the one who dies remains under the dominion of death. That is why Christ’s resurrection is not optional to the argument. Death must be entered, but it must not retain.
+
 ---
 
 ## The Sea: Baptism Before It Had a Name
