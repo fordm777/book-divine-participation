@@ -1,294 +1,212 @@
-# Chapter 20 — Living Free from Death’s Dominion
+# Chapter 20 — From One Lord to Another: Renunciation and Allegiance
 
-## When Letting Go Feels Like Loss
+## Salvation as Transfer, Not Mere Decision
 
-If letting go of what belongs to darkness produces fear, resentment, or grief, Scripture would not interpret that as maturity being challenged. It would interpret it as **allegiance being exposed**.
+If salvation is a passage from one dominion to another, then it necessarily involves more than inward belief. It requires the severing of one allegiance and the taking up of another. Scripture consistently presents salvation not as a private conviction, but as a public transfer of lordship.
 
-Not because the person is evil,  
-but because **dominion shapes desire**.
+This is why the earliest Christians did not treat baptism as an optional symbol appended to faith. They understood it as the **decisive moment of renunciation and re-allegiance**, enacted in the body and confessed with the mouth.
 
-Jesus names this principle plainly:
+What modern theology often fragments into separate ideas—faith, repentance, confession, baptism—the early church held together as a single, coherent act of transfer.
 
-> *“Where your treasure is, there will your heart be also.”*  
-> (Matthew 6:21)
+---
 
-What we cling to reveals who has been forming us.
+## Renunciation Before Confession
 
-Fear does not arise because God is harsh. It arises because **another lord has been providing comfort, identity, stimulation, or control**. When those “toys” are threatened, the flesh reacts the same way any dependent system reacts when its supply is interrupted.
+In the earliest Christian practice, baptism was preceded by an explicit renunciation of former masters. This was not dramatic excess or superstition. It was the logical consequence of believing that humanity exists under real dominions.
 
-That reaction tells the truth.
+To renounce Satan was to renounce false gods, the power of death, the dominion of sin, and the authority of the accuser. Only after this renunciation was allegiance to Christ confessed.
 
-It does not mean the person is hopeless.  
-It means the person is **still entangled**.
+This pattern appears clearly in early Christian catechesis.
 
-This is not about moral superiority. It is about honesty.
+### Hippolytus of Rome  
+*(early 3rd century)*
 
-The claim is not, “Good Christians don’t struggle to let go.”  
-The claim is, “Struggle reveals where death has not yet been fully embraced.”
+In *The Apostolic Tradition*, Hippolytus describes the baptismal rite used in Rome:
 
-Paul says the same thing without embarrassment:
+> “When he who is to be baptized goes down into the water, let him who baptizes lay hand on him, saying thus: ‘Dost thou renounce Satan, and all his service, and all his works?’  
+> And when he has said, ‘I renounce him,’ let him baptize him once.  
+> And again he shall say, ‘Dost thou believe in Christ Jesus, the Son of God…?’”
 
-> *“Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey…?”*  
+Renunciation comes first. Confession follows. Baptism enacts the transfer.
+
+This sequence was not regional or idiosyncratic. It reflects how early Christians understood **what salvation is**.
+
+---
+
+## Calling on a New Name
+
+Scripture speaks of salvation as calling upon the name of the Lord. The early church understood this not as a mental act alone, but as a **public invocation of a new Lord** in the act of baptism.
+
+To call on the name of Jesus was to declare Him as the new ruler and master of one’s life.
+
+### Justin Martyr  
+*(mid-2nd century)*
+
+Justin describes Christian baptism to a pagan audience:
+
+> “As many as are persuaded and believe that what we teach and say is true, and undertake to be able to live accordingly, are instructed to pray and entreat God with fasting, for the remission of their sins that are past, we praying and fasting with them.  
+> Then they are brought by us where there is water, and are regenerated in the same manner in which we were ourselves regenerated…  
+> For in the name of God, the Father and Lord of the universe, and of our Savior Jesus Christ, and of the Holy Spirit, they then receive the washing with water.”
+
+Notice the logic: belief, repentance, prayer, and then invocation of the name in baptism. The name is not a formula. It is a declaration of lordship.
+
+---
+
+## Baptism as the Moment of Transfer
+
+For the early church, baptism was not a mere testimony of something already completed. It was the **moment when the old life was abandoned and the new life entered**.
+
+This is why baptism was consistently linked with forgiveness, deliverance, new birth, and reception of the Spirit.
+
+### Tertullian  
+*(late 2nd–early 3rd century)*
+
+Tertullian writes plainly:
+
+> “We are not washed in order that we may cease sinning, but because we have ceased, since in heart we have been bathed already. For the first baptism of a learner is this: repentance.”
+
+And elsewhere:
+
+> “When we are going to enter the water, but a little before, in the presence of the congregation and under the hand of the bishop, we solemnly profess that we renounce the devil, and his pomp, and his angels.”
+
+For Tertullian, baptism is not magic, but it is **decisive**. It is the embodied point where repentance and allegiance take form.
+
+---
+
+## Confession and New Allegiance
+
+Confession in the early church was not reduced to a private prayer. It was a public declaration of loyalty.
+
+To confess “Jesus is Lord” was to declare that Caesar was not, the demons were not, and death was not.
+
+### Cyril of Jerusalem  
+*(4th century)*
+
+Cyril instructs catechumens preparing for baptism:
+
+> “First you enter the vestibule of the baptistery, and there you face the west and are told to stretch forth your hand, and as in the presence of Satan you renounce him.  
+> Then you are told to say, ‘I renounce thee, Satan, and all thy works, and all thy pomp, and all thy service.’  
+>  
+> Then you turn from the west to the east, the place of light, and say, ‘I believe in the Father, and in the Son, and in the Holy Spirit.’”
+
+The physical movement itself preaches the theology: west to east, darkness to light, old lord to new.
+
+---
+
+## One Master Replaced by Another: The Apostolic Logic
+
+What the early church practiced did not arise in a vacuum. It reflects the logic of Scripture itself, especially the apostolic teaching concerning lordship, service, and dominion.
+
+Paul is explicit that salvation involves a change of masters, not merely a change of status.
+
+> *“Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?”*  
 > (Romans 6:16)
 
-Yielding forms attachment.  
-Attachment forms desire.  
-Desire reveals dominion.
+For Paul, obedience is not a generic moral category. It reveals **ownership**. To obey is to serve, and to serve is to belong.
 
-Resentment toward God over holiness almost always arises where a **penal framework** is mixed with **unbroken dominion**.
+He continues:
 
-The penal framework says: *God is taking something from me.*  
-Unbroken dominion says: *I need this to live.*
+> *“But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.  
+> Being then made free from sin, ye became the servants of righteousness.”*  
+> (Romans 6:17–18)
 
-Together they produce bitterness.
+Freedom, in Paul’s language, does not mean independence. It means **transfer**. One servitude ends. Another begins.
 
-Once death has occurred, the same command feels different. What once felt like loss begins to feel like relief.
+This is why Paul does not describe the Christian life as managing sin while forgiven. He describes it as having **died** to one master and come alive to another.
 
----
+> *“For he that is dead is freed from sin.”*  
+> (Romans 6:7)
 
-## Freedom That Must Be Lived, Not Rewon
+Death ends claims. Death ends jurisdiction. Death ends ownership.
 
-If death’s dominion has truly been broken, and if allegiance has genuinely been transferred, then the Christian life cannot be described as an ongoing attempt to get free. Freedom is not the goal toward which believers strive. It is the ground on which they now stand.
+Romans 7 reinforces this same logic through covenant imagery. Paul compares the law’s claim to a marriage bond that only death can dissolve.
 
-This is precisely the posture assumed in Paul’s exhortation in Ephesians 6. When Paul turns to the subject of spiritual conflict, he does not instruct believers to fight their way out of bondage. He addresses those who are already free and calls them to remain so.
+> *“Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead.”*  
+> (Romans 7:4)
 
-> *“Be strong in the Lord, and in the power of his might.”*  
-> (Ephesians 6:10)
-
-The struggle Paul describes does not arise because dominion remains intact, but because opposition persists after dominion has been broken. For this reason, the repeated command is not to advance, escape, or overthrow, but to **stand**.
-
-> *“Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.”*  
-> (Ephesians 6:11)
-
-Paul does not frame the believer’s posture as one of desperate pursuit of freedom. He assumes a position already secured and urges believers to hold it.
-
-> *“Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.”*  
-> (Ephesians 6:13)
-
-One does not stand *in order to become free*.  
-One stands **because freedom has already been accomplished**.
-
-The armor of God is not given to those still under the dominion of Satan, but to those who have already been transferred into the kingdom of Christ. It is not designed to liberate captives, but to stabilize those who are already free.
-
-At the same time, Scripture is clear that resurrection life must be lived. Salvation is not fragile or reversible, but neither is it passive. Life in Christ is real life—one that must be walked in, guarded, and nourished amid ongoing opposition.
+Here again, the solution is not modification or improvement. It is **death**, followed by a new belonging.
 
 ---
 
-## Dominion Broken Does Not Mean Struggle Removed
+## No Shared Allegiance
 
-The early Christian claim was not that a delivered person could never sin again. It was that sin no longer ruled as master. Dominion had changed. Authority had been transferred. The old lord had been displaced.
+Jesus Himself speaks in precisely these terms.
 
-This distinction matters.
+> *“No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other.”*  
+> (Matthew 6:24)
 
-Temptation can persist without ownership.  
-Pressure can remain without dominion.  
-Conflict can exist without slavery.
+This is not a warning about divided attention. It is a statement about **incompatible lordship**. Service implies exclusivity. Allegiance cannot be shared between competing rulers.
 
-When believers sin after deliverance, they are not returning to their former lord as rightful owner. They are yielding ground to an enemy who has already been disarmed. The failure is real, but the relationship has changed.
-
-This is why the New Testament speaks seriously about sin after salvation without treating it as a collapse back into bondage by default.
+This is why Jesus never presents salvation as partial liberation. One master must be displaced for another to rule.
 
 ---
 
-## Satan After Transfer: Accuser, Not Owner
+## The House Must Change Ownership
 
-Scripture consistently identifies Satan as *the accuser*. The name itself points to his function. He is not primarily portrayed as a ruler acting by right, but as an adversary who brings charges, presses claims, and seeks to undermine confidence before God.
+Jesus’ teaching on deliverance follows the same logic.
 
-Once a person has been transferred from the power of darkness into the kingdom of God’s Son, Satan’s strategy changes. Ownership has been lost. Jurisdiction has been stripped. What remains is opposition through accusation.
+When accused of casting out demons by demonic power, Jesus responds:
 
-He cannot rule by authority, but he can harass through accusation.  
-He cannot reclaim ownership, but he can attempt to destabilize fellowship, provoke fear, and draw believers into hiding or despair.
+> *“How can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.”*  
+> (Matthew 12:29)
 
-This is why Scripture calls him *“the accuser of the brethren.”* Accusation is no longer a verdict; it is an attempt to erode confidence and faithfulness in those who already belong to God.
+Deliverance is not negotiation. It is conquest. The strong man must be bound, and his claim must be broken.
 
----
+Later, Jesus warns of what happens when this logic is ignored:
 
-## A House, a Former Tenant, and the Question of Standing
+> *“When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest…  
+> Then he saith, I will return into **my house** from whence I came out…  
+> And the last state of that man is worse than the first.”*  
+> (Matthew 12:43–45)
 
-There was a man who owned a house.
+Jesus’ language is precise. The spirit refers to the person as “my house.” The problem is not that the house was swept. The problem is that its ownership was never decisively transferred. Jesus does not describe the spirit as trespassing, rather he describes it as returning to what it still considers its own.
 
-The deed was in his name.  
-The former tenant had been lawfully removed.  
-The locks had been changed.  
-Ownership was no longer in question.
+Removal without replacement leaves jurisdiction unresolved. A house that is merely cleared but not re-claimed remains vulnerable to return, because no new lord has taken possession.
 
-Yet the owner, out of carelessness rather than malice, allowed traces of the former tenant to remain.
+This is why deliverance alone is never presented in Scripture as sufficient. Authority must change hands. Ownership must be broken and reestablished. The house must not only be emptied, but claimed.
 
-Old furniture was kept in the spare room.  
-Mail still arrived under the former name.  
-A spare key was never reclaimed.  
-The owner continued to use some of the tenant’s old habits because they felt familiar.
-
-When conflict later arose, the former tenant did not claim ownership.  
-He claimed **standing**.
-
-He pointed to the furniture.  
-He pointed to the mail.  
-He pointed to the key.
-
-The question before the judge was not, “Who owns the house?”  
-The question was, “Why does the former tenant still have access?”
-
-Only after hearing the story does the truth become clear:
-
-The problem was not ownership.  
-The problem was what had been allowed to remain.
-
-This is how Scripture speaks about life after deliverance.
-
-In Christ, ownership has changed.  
-Death has occurred.  
-The former lord has no rightful claim.
-
-But access can still be granted.
-
-Not because the enemy has authority,  
-but because standing has been tolerated.
-
-This is why Scripture warns believers not to “give place” to the devil.  
-Not because he owns the house,  
-but because he exploits what is left behind.
-
-
-Scripture often explains spiritual realities through domestic imagery.
-
-A house belongs to its builder and ruler.
-
-> *“For every house is builded by some man; but he that built all things is God.”*  
-> (Hebrews 3:4)
-
-Jesus’ warning about an unclean spirit returning is not about temporary cleanliness, but about **occupancy and rule**.
-
-> *“I will return into my house from whence I came out.”*  
-> (Matthew 12:44)
-
-The spirit does not speak as a trespasser.  
-It speaks as one who still claims standing.
-
-The problem is not that the house was swept.  
-The problem is that ownership was never decisively settled.
-
-Removal without transfer leaves jurisdiction unresolved.
-
-This is why vigilance feels like fear only within a penal framework.
-
-If God is imagined primarily as an angry judge, then removing what belongs to darkness feels like appeasement.
-
-But if God is understood as the rightful owner who **dwells** in the house, then removing those belongings is not penal. It is relational.
-
-The image is closer to marriage than to a courtroom.
-
-A wife who fills her home with reminders of former lovers—photographs, letters, mementos—may insist that she has chosen her husband. Yet those objects quietly contradict her confession. The husband’s grief is not legal outrage. It is relational betrayal.
-
-The issue is not punishment.  
-The issue is **fidelity**.
-
-Scripture repeatedly uses this language when describing Israel’s unfaithfulness. Through Jeremiah, God speaks not as a judge tallying violations, but as a wounded spouse:
-
-> *“Surely as a wife treacherously departeth from her husband, so have ye dealt treacherously with me.”*  
-> (Jeremiah 3:20)
-
-Judah’s sin is not framed merely as lawbreaking. It is framed as *whoredom*—a divided heart that continues to welcome former lovers while claiming a new covenant.
-
-In this light, holiness is not about avoiding penalty.  
-It is about honoring presence.
-
-Removing what belongs to the old life is not fear-driven obedience.  
-It is the natural act of faithfulness when a new relationship has truly begun.
-
-
-The issue is not earning ownership.  
-The issue is refusing access.
-
+This is precisely why the early church insisted on renunciation, confession, and baptism together. They understood that freedom requires more than expulsion. It requires transfer of lordship.
 
 ---
 
-## Cleansing, Not Re-Deliverance
+## Scripture and Practice Speak with One Voice
 
-This is where covenant logic becomes essential.
+Romans teaches that death ends mastery.  
+Jesus teaches that service cannot be shared.  
+The early church enacted this reality through renunciation, allegiance, and baptism.
 
-In Scripture, sin after deliverance does not automatically undo belonging, but it does defile what has been made holy. Under the old covenant, Israel did not cease to be God’s people every time they sinned. Yet sin disrupted fellowship, polluted the sanctuary, and required cleansing so that God’s presence could continue among them.
+These are not competing accounts. They are the same truth expressed through doctrine, teaching, and embodied practice.
 
-Ezekiel’s vision makes this clear. He is shown idols set up *inside* the temple—within the very space where God’s presence was meant to dwell. The issue was not loss of covenant identity, but defilement of God’s dwelling.
+Salvation is not the suppression of one master while another waits politely.  
+It is the replacement of one lord with another.
 
-Cleansing was required, not re-adoption.
+This is why deliverance is not merely release, but **reassignment**.  
+Why baptism is not merely symbolic, but **decisive**.  
+And why confession is not merely verbal, but **allegiant**.
 
-The same pattern governs the Christian life.
-
-Repentance and cleansing are not about re-crossing from death to life. They are about restoring alignment, communion, and clarity where sin has introduced disorder. They remove the ground on which accusation stands.
-
----
-
-## Walking in the Light: 1 John and Covenant Cleansing
-
-This is precisely the concern of 1 John.
-
-John does not write to people trying to escape dominion. He writes to those who already belong to God and exhorts them to *walk in the light*. His concern is not ownership, but fellowship.
-
-> *“If we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.”*
-
-Cleansing here is covenantal, not forensic. It restores fellowship, not dominion. Forgiveness addresses the disruption of relationship, not the reestablishment of salvation.
-
-John assumes transfer has already occurred. What he guards against is the corrosive power of accusation when sin is hidden, denied, or rationalized.
+Only where dominion has changed can freedom be sustained.
 
 ---
 
-## Why Confession Silences Accusation
+## Not a Ritual, but a Reality
 
-Accusation thrives in darkness. It gains leverage where sin is concealed, rationalized, or carried alone in the conscience.
+The early church did not believe that exact wording or ritual precision saved a person. They did believe that **salvation involved real transfer**, and that this transfer had to be enacted, confessed, and embodied.
 
-This is why confession is not a threat to freedom, but one of its primary protections.
+Renunciation without allegiance was incomplete.  
+Allegiance without renunciation was incoherent.  
+Baptism without faith was meaningless.  
+Faith without passage was unfinished.
 
-> *“Confess your faults one to another, and pray one for another, that ye may be healed.”*  
-> (James 5:16)
-
-James does not speak to people trying to escape dominion. He speaks to those already within the community of faith. Confession here is not a means of reentering covenant, but a means of healing what sin has disrupted within it.
-
-Confession breaks isolation.  
-It exposes accusation to the light.  
-It restores alignment between conscience, community, and truth.
-
-Where sin is confessed, accusation cannot rule.
+What held these together was not sacramental anxiety, but **ontological realism**. They believed dominions were real, and so was liberation.
 
 ---
 
-## Deliverance Without Death, and Death Without Vigilance
+## Why This Matters for What Follows
 
-Much modern confusion arises from mixing categories that Scripture carefully keeps distinct.
+If salvation is fundamentally a transfer of lordship, then many modern attempts at deliverance begin in the wrong place. One cannot cast out an authority that still rules by right. One cannot maintain freedom without first changing allegiance.
 
-Some fight for freedom they have not yet entered.  
-Others neglect vigilance after freedom has been given.
+This is why the earliest Christians did not treat renunciation, confession, and baptism as optional steps. They understood them as **the means by which deliverance was established**, not merely expressed.
 
-Deliverance without death produces cycles of relief and return, because the underlying dominion has never been displaced. Death without vigilance produces avoidable defilement and unnecessary accusation, because what has been made God’s dwelling must still be kept aligned with its new Lord.
+Only after dominion had been broken did spiritual warfare take its proper form—not as escape, but as resistance.
 
-Where ownership has not changed, eviction efforts become endless.  
-Where ownership has changed, vigilance becomes meaningful.
-
-This is why the apostles urge believers to **stand**, not to escape again.
-
-And this is why so many believers today are exhausted.
-
-They fight as tenants trying to evict an owner they still legally live under.  
-That is exhausting.
-
----
-
-## Life After Transfer
-
-To live free from death’s dominion is not to live without vigilance. It is to live without confusion about who rules.
-
-Prayer is no longer a mechanism for containing the old self.  
-It is communion with the new Lord.
-
-Obedience is no longer an attempt to secure standing.  
-It is the expression of a new allegiance.
-
-Repentance is no longer panic over lost salvation.  
-It is the honest restoration of fellowship.
-
-Death has been passed through.  
-Dominion has been broken.  
-Accusation has been answered.
-
-What remains is not deliverance to be rewon,  
-but life to be lived.
+That distinction will matter greatly in what follows.

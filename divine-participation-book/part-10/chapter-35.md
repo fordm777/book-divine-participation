@@ -1,234 +1,230 @@
-# Chapter 35 — Needs-Based Christianity: When the Gospel Became Therapeutic
+# Chapter 35 — Gnosticism, Determinism, and Theological Control  
+*(When salvation becomes a classification, and grace becomes a mechanism)*
 
-## Introduction: A Gospel That No Longer Requires Death
+## Why place these side by side
 
-In many churches, the gospel is frequently proclaimed in therapeutic terms. People are invited to “come as you are,” and are assured that Jesus will help them change, grow through discipleship, and in some cases receive healing through dedicated ministries. These ways of speaking are familiar and often well-intended. Yet they tend to frame salvation primarily as assistance and improvement after believing in Jesus.
+This chapter is not claiming that Calvinism is Gnosticism.
 
-This framing has become so normalized in modern evangelical and Protestant churches that many believers assume it *is* the gospel.
+Having something in common with an earlier movement is not automatically wrong. What matters is **which features overlap**, and what those overlaps *do* to the way people imagine salvation.
 
-But is this really the gospel proclaimed by Jesus and the Apostles?  
-Is something essential missing?
+The reason this comparison matters is simple:
 
-When Christ is presented primarily as the one who meets emotional, psychological, relational, or circumstantial needs, a particular framework is formed. Salvation is understood less as deliverance from a dominion, and more as ongoing help within one’s existing life. Growth becomes improvement. Healing becomes emotional stabilization. Discipleship becomes management of the self over time.
+- **Gnosticism** often reframed salvation as a kind of **enlightened rescue** for a particular kind of person, mediated by a kind of knowing.  
+- **High determinism** can reframe salvation as a kind of **decreed rescue** for a particular kind of person, mediated by an irresistible act.
 
-This therapeutic framework may be described as **needs-based Christianity**.
+In both cases, the danger is that salvation becomes something that happens **to** someone in a way that can bypass the covenantal, participatory, temple-shaped pattern Scripture presents, and the Ante-Nicene church defended.
 
-This chapter is not written to mock sincere believers who may inhabit this framework and truly desire God. But desire alone does not determine how the gospel is understood or lived. The question is not whether people are seeking help, but **what story they are being initiated into**, and how that story quietly shapes their expectations, instincts, and sense of what the Christian life is meant to be.
+This chapter will do two things:
 
-The apostolic gospel tells a different story. Christ is not presented merely as the one who helps humanity cope, but as the one who **delivers humanity from the dominion of death through death itself**. Salvation is not framed as improvement after belief, but as **participation in Christ’s death and resurrection**, followed by the renewing of the mind.
-
-The apostles did not preach a gospel of fixing the old man under the dominion of death.  
-They preached a gospel of crucifixion, burial, and resurrection, so that a new life might be lived no longer under the dominion of death.
-
----
-
-## From Deliverance to Management
-
-In the apostolic proclamation, the human problem is not framed as unmet needs, damaged self-esteem, or lack of purpose. It is framed as **bondage** to sin, fear, and death.
-
-Paul identifies humanity’s condition not as a lack of reassurance, but as captivity under a ruling power. Humanity is under the dominion of sin and death. The problem is not primarily internal fragility, but external domination.
-
-Accordingly, the cure Paul proclaims is not learning how to cope within death, but **deliverance** from it. Humanity is not stabilized within its fallen condition, but released from it. Salvation is announced as death to the old life, liberation from a former dominion, and entry into a new one.
-
-The gospel is no longer announced as:
-
-> “You are a captive of death and must die and be raised in newness of life.”
-
-It is subtly reframed as:
-
-> “You are accepted, and now Christ will help you cope.”
-
-This shift does not happen all at once. It happens when **death disappears from the center of the gospel**, and resurrection is reduced to metaphor.
+1. Describe the relevant Gnostic distinctives with enough precision to avoid caricature.  
+2. Identify several parallels that often appear in deterministic grace frameworks, without collapsing the two into the same thing.
 
 ---
 
-## “Come as You Are” and the Loss of the Threshold
+## A. What “Gnosticism” means, and why definitions matter
 
-The phrase “come as you are” is often defended as an expression of grace. In a limited sense, it is true: no one cleans themselves before coming to Christ. But when this phrase is allowed to function as a *summary of the gospel*, it becomes profoundly misleading.
+“Gnosticism” is an umbrella term modern scholars use for a set of movements in the first and second centuries (and beyond) that shared family resemblances, especially a story about the world and salvation that centered on **gnosis**, a saving kind of insight or knowledge. The term covers multiple groups, and they were not all identical. [^1]
 
-In Scripture, people do come as they are, but this statement is often softened in ways that still obscure the truth. It is commonly followed by the reassurance that *“they do not remain as they are.”* While this sounds corrective, it can still mislead if death is no longer part of the Gospel.
+Even so, a few themes recur often enough to matter for this chapter:
 
-The issue is not merely that a person changes after coming to Christ.  
-The issue is that the person who comes to Christ **does not survive the encounter**.
-
-The apostolic gospel does not describe salvation as the gradual improvement of an existing identity. It describes salvation as **the death and burial of that original identity**, followed by the emergence of a new one.  What is left out by softer language is the necessity of death as a real and decisive break with the former life.
-
-This is precisely why the invitation to “come as you are” is true, but only within the apostolic gospel. One comes as one is because nothing from that former life is carried through unchanged. There is no requirement to improve oneself beforehand, because the self that comes is about to die, be buried, and be raised anew in Christ.
-
-“Come as you are” was never meant to imply that the old life is preserved. It assumes the opposite. One comes as one is in order to pass through death with Christ, not in order to remain as one is with Christ’s assistance.
-
-In Scripture, the one who comes to Christ:
-- is crucified with Him  
-- is buried with Him  
-- passes out of a former dominion  
-
-Only then does Christ bring forth what Scripture calls *new creation*, not a repaired self or rehabilitated self, but a self that comes **out of the grave** in newness of life.
-
-The problem is not the invitation.  
-The problem is what has been removed from it.
-
-In the apostolic witness, coming to Christ always involves a **threshold**:
-
-- death to the old man  
-- burial with Christ  
-- release from a former dominion  
-
-When that threshold disappears, initiation into Christ is replaced with **affirmation of the self** -- the self under the dominion of death. The gospel becomes a reassurance that one is safe, valued, and welcomed, without ever requiring the death of the one being welcomed.
-
-What once marked the **end of an identity** now becomes the preservation of it.
+- salvation framed as a form of **deliverance by awakening**
+- a tendency toward **elite identity**, sometimes expressed as a spiritual class
+- a devaluing of the material order in many strands
+- a tendency to re-describe Christian words while changing their underlying grammar
 
 ---
 
-## Therapy Is Not Healing
+## B. The “three kinds of people” and the drift toward fixed destinies
 
-Needs-based Christianity often borrows its language from therapeutic culture. This is not accidental. Therapy, by design, aims to help people function *within* their present condition. It seeks stability, coping mechanisms, and resilience.
+One recurring Gnostic pattern, especially in Valentinian materials and their reception, is a threefold anthropology:
 
-The gospel does something entirely different.
+- **pneumatic** (spiritual)
+- **psychic** (soulish)
+- **hylic** (material)
 
-Therapy asks:
+In several tellings of this scheme, the “spiritual” are described as the group destined for salvation, while others have a lesser or uncertain outcome, or are doomed. [^2] [^3] [^4]
 
-> “How can I live better in this condition?”
+The important point is not the labels. The important point is the *shape* of the story:
 
-The gospel asks:
+> salvation is attached to what you are, not merely to what you do,  
+> and the decisive “rescue” arrives through a special kind of knowing.
 
-> “How do I die out of this condition entirely?”
-
-The early church did not view salvation as God helping humanity manage death more gently. They understood salvation as **God destroying death by leading humanity through it**.
-
-This only makes sense if death itself is understood rightly. Scripture does not present death as God’s final solution, but as a temporary mercy that restrains corruption and prevents sin from becoming immortal. Death limits evil; it does not justify it.
-
-Needs-based Christianity quietly reverses this logic. It treats death as something to be delayed emotionally, avoided spiritually, and softened psychologically. Healing becomes the art of making death livable.
-
-The gospel does the opposite. It teaches people how to enter death rightly with Christ, so that death may lose its power altogether. Christ does not rescue humanity from death by bypassing it. He rescues humanity through death by transforming it.
-
-Therapeutic Christianity tries to heal the person **while leaving the person in death**.  
-The gospel heals wounds by **killing the thing that causes them**.
+This is one way determinism emerges socially, even if the metaphysics differ from later Christian determinism. It produces a world where the “saved” are identifiable as a kind of person, and where the mechanism is not covenantal participation, but insight and awakening.
 
 ---
 
-## A Gospel Without Participation
+## C. “Irresistible” rescue by illumination
 
-Once the problem is redefined as unmet need rather than bondage, participation becomes unnecessary.
+Many Gnostic systems place heavy weight on a saving knowledge, an awakening to what is true about the divine, the world, and the self. [^1] The rescue is often described as a *revelation* that changes perception, and for those who are “of” the spiritual class, that revelation is in some sense fitting, even inevitable.
 
-If salvation is reassurance, then:
-- baptism becomes symbolic at best  
-- obedience becomes optional  
-- transformation becomes gradual self-improvement  
-- faith becomes mental assent or trust in outcomes  
+This becomes important when later Christian systems develop a salvation-story in which:
 
-But the apostolic gospel insists on participation:
-- participation in Christ’s death  
-- participation in His burial  
-- participation in His resurrection  
+- the unregenerate person is said to be unable to respond,
+- and the decisive saving act is described as an irresistible change that occurs prior to and underneath the person’s response.
 
-Paul does not frame salvation as something that happens merely *because* Christ died, as though His death were an external transaction applied from a distance. He consistently frames salvation as something that happens *by participation*, specifically **by dying with Christ**.
-
-> “Do you not know that as many of us as were baptized into Christ Jesus were baptized into His death?”  
-> (Romans 6:3, KJV)
-
-> “Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.”  
-> (Romans 6:4, KJV)
-
-> “For if we have been united together in the likeness of His death, certainly we also shall be in the likeness of His resurrection.”  
-> (Romans 6:5, KJV)
-
-Salvation is not applied to those who remain alive in Adam. It is entered only through death.
-
-> “I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me.”  
-> (Galatians 2:20, KJV)
-
-> “If any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.”  
-> (2 Corinthians 5:17, KJV)
-
-The old does not improve.  
-The old **passes away**.
-
-Christ’s death is not merely something that benefits us. It is something we are called to **enter**. Apart from dying with Him, there is no resurrection life to receive.
-
-Needs-based Christianity keeps Christ’s death safely external. The cross becomes inspirational rather than participatory.
-
-But a cross that does not crucify **you** is no longer the cross of Christ.
+Again, this does not make the systems identical, but it creates a similar pastoral effect: salvation is received as something that happens *behind the person’s participation*, and the person’s role becomes mainly to recognize and narrate what has already been done.
 
 ---
 
-## Why This Produces Burnout, Not Freedom
+## D. The Reformed deterministic cluster, stated carefully
 
-One of the great ironies of needs-based Christianity is that it promises rest, but often produces exhaustion.
+Within the Reformed tradition, there are multiple streams. This chapter is not addressing every form of Reformed theology, but the specific cluster often summarized as:
 
-Why?
+- unconditional election
+- effectual calling
+- irresistible grace (in the sense of grace that infallibly brings about the intended response)
+- perseverance of the saints
 
-Because people are asked to live the Christian life **without ever having died out of the old one**.
+Classical Reformed sources present predestination as an eternal decree, and they often argue that what God wills is necessary, in the sense that it will certainly come to pass. Calvin, for example, explicitly appeals to Augustine while discussing necessity and the will of God. [^5]
 
-They are told:
-- they are forgiven, but not freed  
-- accepted, but not released  
-- loved, but still trapped  
+That is the determinist spine this chapter is engaging, not as a personal insult, but as a framework that can easily reshape salvation into a mechanism.
 
-So they try to:
-- manage sin rather than escape it  
-- cope with fear rather than conquer it  
-- discipline the flesh rather than crucify it  
+---
 
-This leads to cycles of guilt, striving, collapse, and recommitment. The burden remains because people are taught to manage patterns of life that belong to a dominion they have never fully exited.
+## E. The parallels, and why they are worth noticing
 
-The gospel of participation, by contrast, begins with burial. And what has been buried does not need to be managed.
+### 1) Both can turn salvation into a classification
 
-Paul’s language is precise:
+- In some Gnostic schemes, humanity is divided into spiritual classes, and salvation maps onto that identity. [^2] [^3] [^4]  
+- In high determinism, humanity is divided into elect and non-elect by an eternal decree, and salvation maps onto that identity.
 
-> “That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;  
-> And be renewed in the spirit of your mind;  
-> And that ye put on the new man, which after God is created in righteousness and true holiness.”  
-> (Ephesians 4:22–24, KJV)
+The labels differ, and the metaphysics differ, but the pastoral feel can converge:
 
-The *former conversation* refers to habits and patterns learned under a former dominion. These do not constitute the old man himself, but they were shaped by him. What is renewed is not the old man, but the *spirit of the mind*. Renewal follows burial, it does not replace it.
+> “There are two kinds of people, and the difference is not finally located in an enacted covenantal passage, but in an underlying identity or decree.”
 
-This pattern is already present in the Old Testament. Israel was truly delivered from Egypt. Pharaoh’s dominion was broken. Yet Egypt remained in them. Israel carried habits, fears, and patterns of thinking formed under slavery. The wilderness was not a second Egypt, but the place where a delivered people had to learn how to live free.
+### 2) Both can move “salvation” away from participation and toward an interior mechanism
 
-The difference between needs-based Christianity and the apostolic gospel can be summarized clearly:
+- In many Gnostic accounts, salvation arrives through “knowing,” awakening, illumination. [^1]  
+- In deterministic grace frameworks, salvation can be narrated as an inward act that produces faith irresistibly, with covenantal rites positioned as secondary signs.
 
-| Aspect | Needs-Based Christianity | Apostolic Gospel |
-|------|--------------------------|------------------|
-| Invitation | “Come as you are” | “Come as you are” |
-| Perceived Meaning of the Invitation | You are welcomed so that your existing life can be helped and improved | You are welcomed because the life you bring is about to die |
-| Primary Diagnosis | Unmet needs, wounds, dysfunction | Bondage to sin, fear, and death |
-| View of the Old Life | Preserved and managed | Crucified and buried |
-| Role of Death | Avoided, softened, or spiritualized | Central, necessary, and transformative |
-| Salvation | Help within the same life | Death to one life and entry into another |
-| Discipleship | Gradual self-improvement | Learning to live resurrection life |
-| Healing | Emotional stabilization | Liberation through death and new life |
-| Renewal | Improving habits within the old identity | Renewing the mind after burial |
-| Cross | Inspirational example | Participatory death |
-| Resurrection | Metaphor for growth | New creation life |
-| Outcome | Coping and burnout | Freedom and life under a new dominion |
+### 3) Both can interpret inability in a way that reduces agency
 
-## Forgiveness Spoken Apart from Death
+A number of Gnostic stories treat people as trapped by nature, fate, cosmic rulers, or the structure of the world story itself.
 
-At this point, a clarification is necessary. Much confusion arises when forgiveness is spoken as though it were automatically possessed, apart from death and new life in Christ.
+Deterministic systems often treat fallen humanity as totally unable to respond until acted upon, then interpret the response as the infallible effect of that act.
 
-In contemporary Christian language, people are often told they are forgiven simply because they have believed, prayed, or expressed sincere desire for God. But in the apostolic gospel, forgiveness is not a psychological reassurance spoken over an unchanged life. It is the result of having passed out of one dominion and into another.
+The systems are not the same, but they can produce the same functional message:
 
-If a person has not died with Christ, then they are still living from the place Scripture calls death. They may be seeking God sincerely, but sincerity alone does not constitute union. Forgiveness, as Scripture uses the term, belongs to those who are **in Christ**, not merely oriented toward Him.
+> you did not cross a threshold, you were switched.
 
+This is precisely where the Ante-Nicene emphasis on real agency becomes relevant again. Irenaeus, for example, insists that God exercises no compulsion. [This was highlighted in Chapter 23.]
 
-Paul makes this connection explicit when he writes:
+---
 
-> “For he that is dead is freed from sin.”
-> 
-> (Romans 6:7, KJV)
+## F. Baptism, why this becomes a flashpoint
 
-Freedom from sin, including its guilt and defilement, is not announced apart from death. It is spoken over those who have died with Christ and therefore no longer live under sin’s dominion.
+You flagged this as a key distinctive, and it is.
 
-This is why Paul does not speak of forgiveness as something that floats freely over humanity. He speaks of it in Christ. Outside of Christ there is still bondage, still death, and still uncleanness. Forgiveness is not a sentiment that makes death more bearable; it is a reality that belongs to resurrection life.
+We need to state it precisely because it is easy to overstate it.
 
-Paul says the same thing using the language of burial and cleansing:
+### 1) Gnostic movements and baptism
 
-> “Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.
-> And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses.”
-> 
-> (Colossians 2:12–13, KJV)
+Some Gnostic and gnostic-adjacent groups did practice rites that looked like baptism and Eucharist, and some scholarship notes that Valentinian sacramental practice could resemble other Christian communities in outward form. [^6]
 
-Notice the order. Burial with Christ comes first. New life follows. Forgiveness is spoken after death and quickening, not before.
+The issue was often not that they had no rites at all, but that the rites were frequently **reinterpreted** so that the decisive “salvation” remained a matter of awakening and knowledge.
 
-To tell someone they are forgiven while they remain in the old life is to risk offering assurance without transformation, peace without cleansing, and hope without deliverance. Such language may comfort for a time, but it leaves a person attempting to live the Christian life from the wrong side of the grave.
+So, rather than saying, “Gnostics rejected baptism,” a more accurate claim is:
 
-The apostolic gospel does not begin by assuring people that they are already forgiven. It begins by calling people to die with Christ, so that forgiveness, cleansing, and new life may be truly received.
+> Many gnosticizing movements relocate salvation away from covenantal entry and into illumination, which tends to downgrade baptism from an enacted passage into a symbol or a secondary rite.
+
+### 2) Reformed theology and baptism
+
+Reformed churches do not reject baptism as a practice. They baptize, sometimes infants, sometimes believers, depending on the branch.
+
+What they generally reject is baptism as the required covenantal entry in the strong, enacted sense the Ante-Nicene writers often describe.
+
+For example, the Westminster Confession explicitly states that grace and salvation are not so inseparably attached to baptism that the unbaptized cannot be saved, or that all the baptized are saved. [^7] [^8]
+
+That is not a small distinction. It changes the story.
+
+In the participatory framework, baptism is where one passes through death into life with Christ. In the sign-and-seal framework, baptism testifies to a reality that may be granted apart from the act, and the act is not itself the decisive crossing.
+
+This difference is one of the reasons baptism becomes such a contested topic in modern debates, and it is why “anti-baptism as entry” aligns so easily with mechanized accounts of salvation.
+
+---
+
+## G. Augustine as a historical hinge, and what can and cannot be claimed
+
+You also raised Augustine, and this needs care.
+
+### 1) What can be stated plainly
+
+Augustine spent roughly nine years as a “hearer” among the Manichees before his conversion to Nicene Christianity. This is a standard biographical point in major reference works. [^9]
+
+Manichaeism is not identical to “Gnosticism,” but it is a dualistic religious movement with an elect and hearers, and it shaped a great deal of late antique religious imagination. [^10]
+
+### 2) What should be stated cautiously
+
+Some scholars argue that certain Manichaean patterns may have influenced Augustine’s thought, even after he rejected Manichaeism, although this is a matter of scholarly debate and it is easy to oversimplify. [^10]
+
+So, rather than claiming, “Augustine had a gnostic background,” it is better to say:
+
+> Augustine had a long Manichaean period, and Western theology developed with Augustine as a dominant voice, so it is historically plausible that some late antique habits of thought contributed to how later Western systems framed sin, grace, and necessity. [^9] [^10]
+
+### 3) Calvin and Augustine
+
+Calvin’s reliance on Augustine is widely recognized in scholarship, and Calvin explicitly cites Augustine when discussing necessity and the divine will. [^5] Scholarship on Calvin’s use of Augustine regularly notes how central Augustine is to Calvin’s self-understanding and polemics. [^11]
+
+This matters for Part VIII because Augustine becomes a seedbed for later developments, and Calvin consciously harvests a great deal from that field.
+
+---
+
+## H. What this comparison is trying to protect
+
+The goal here is not to win by guilt-by-association.
+
+The goal is to protect the reader from a framework shift.
+
+When salvation is narrated primarily as:
+
+- a decree applied irresistibly,
+- an inward illumination that defines your status,
+- a classification that explains why some cannot respond,
+
+then the temple-shaped, participatory pattern fades:
+
+- cleansing and consecration
+- covenantal entry
+- death with Christ
+- Eucharistic participation
+- lived fidelity as communion, not performance
+
+Chapter 23 showed that the Ante-Nicene church defended that participatory pattern.
+
+Chapter 24 shows how easy it is, historically and theologically, for salvation to be re-described as a mechanism.
+
+---
+
+## Bridge to Chapter 25
+
+Now we can ask the historical question:
+
+How did Western Christianity move from a participatory, temple-shaped grammar to a legal and mechanized grammar that many believers now assume is simply “the gospel”?
+
+That is the work of Chapter 25.
+
+---
+
+## Footnotes
+
+[^1]: “Gnosticism” overview, including the use of the term for a loosely organized movement and its emphasis on gnosis. Internet Encyclopedia of Philosophy. <https://iep.utm.edu/gnostic/>
+
+[^2]: Discussion of Valentinian threefold anthropology and the idea that “only those of a spiritual nature” receive gnosis and attain the highest salvation. (Summary style reference.) <https://en.wikipedia.org/wiki/Valentinus_(Gnostic)>
+
+[^3]: Scholarly discussion of the tripartite division (pneumatic, psychic, material) and its relation to salvation in a Nag Hammadi tractate. Brill, *The Ethics of The Tripartite Tractate (NHC I, 5)* (introduction excerpt). <https://brill.com/display/book/9789004407763/BP000008.xml>
+
+[^4]: Survey noting the Valentinian division of mankind into three classes and citing older scholarship on the theme. Edwin Yamauchi, “The Gnostics and History,” *Journal of the Evangelical Theological Society* (PDF). <https://etsjets.org/wp-content/uploads/2010/09/files_JETS-PDFs_14_14-1_14-1-pp029-040_JETS.pdf>
+
+[^5]: Calvin appeals to Augustine on necessity and the will of God (Institutes, discussion of providence and necessity). CCEL, *Institutes of the Christian Religion*. <https://www.ccel.org/ccel/calvin/institutes.v.xxiv.html>
+
+[^6]: Note that Valentinian sacramental practice could resemble other second and third century Christian communities, even when interpreted differently. Gnosis.org library page on Valentinian sacramental practice. <https://www.gnosis.org/library/valentinus/Valentinian_Sacramental.htm>
+
+[^7]: Westminster Confession of Faith, Chapter 28, interpreted as teaching that salvation is not inseparably tied to baptism. Westminster Reformed Seminary course notes PDF. <https://www.wrs.edu/assets/docs/Courses/Westminster%20Standards/WCF_28--Baptism.pdf>
+
+[^8]: A. A. Hodge’s exposition summarizing that grace and salvation are not so inseparably united to baptism that only the baptized are saved, or that all baptized are saved. Confessional Collective. <https://www.confessionalcollective.com/confessions/westminster-confession-of-faith/hodge/a-a-hodge-westminster-confession-chapter-28/>
+
+[^9]: Augustine’s nine-year adherence to Manichaeism as a “hearer” noted in a major academic reference. Stanford Encyclopedia of Philosophy, “Augustine of Hippo.” <https://plato.stanford.edu/entries/augustine/>
+
+[^10]: Overview noting Augustine’s adherence for nine or ten years, and the claim that some scholars suggest Manichaean ways of thinking may have influenced some of Augustine’s ideas (presented as a scholarly suggestion, not a settled conclusion). “Manichaeism,” Wikipedia (with cited academic works listed). <https://en.wikipedia.org/wiki/Manichaeism>
+
+[^11]: Scholarly discussion of Calvin’s appropriation of Augustine and the “Augustinus totus noster” theme in Calvin studies. “An investigation into Calvin’s use of Augustine” (PDF, University of the Free State journals site). <https://journals.ufs.ac.za/index.php/at/article/download/2219/2177/4271>

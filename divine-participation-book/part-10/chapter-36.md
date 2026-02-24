@@ -1,4 +1,4 @@
-# Chapter 33 — How Legal Frameworks Replaced Participatory Ones  
+# Chapter 36 — How Legal Frameworks Replaced Participatory Ones  
 *(When the temple gave way to the courtroom)*
 
 ## Why this chapter matters

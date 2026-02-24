@@ -1,5 +1,0 @@
-# Chapter 25 — Why the Powers Would Never Have Crucified Him
-
----
-
-*[Chapter content to be added.]*

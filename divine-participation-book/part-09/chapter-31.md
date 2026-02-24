@@ -1,4 +1,4 @@
-# Chapter 28 — When Words Change but Assumptions Don't
+# Chapter 31 — When Words Change but Assumptions Don't
 
 ## Introduction: The Illusion of Progress
 

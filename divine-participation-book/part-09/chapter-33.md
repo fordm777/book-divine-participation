@@ -1,4 +1,4 @@
-# Chapter 30 — Why Translation Is Never Neutral
+# Chapter 33 — Why Translation Is Never Neutral
 
 ## Introduction: The Lanes Were Set Before You Read
 

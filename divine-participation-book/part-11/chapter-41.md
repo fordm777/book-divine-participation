@@ -1,203 +1,362 @@
-# Chapter 41 — Renewed Covenant Theology: The Strongest Biblical Case
+# Chapter 41 — Determinism and Eternal Decree: The Strongest Biblical Case
 
-## Introduction: Why This Question Matters
+> Whatever framework you bring to the text will govern which semantic lanes you allow the words to travel in—whether you are reading English, Greek, or Hebrew.  
+> A framework does not usually announce itself. It simply governs which meanings feel natural.  
+> **Of course it feels obvious. That’s how frameworks work.**
 
-Throughout this book, we have presented Scripture as pointing toward a **new covenant**, rather than a renewed one. We have traced how death functions as the boundary of covenant authority, how release precedes life, and how salvation is consistently framed as participation in Christ’s death and resurrection rather than improvement of an existing state.
+This chapter is not written to caricature determinism, nor to dismiss those who find its arguments compelling. It is written to **steel-man the strongest biblical case** for determinism and eternal decree, because many sincere Christians encounter these passages early, and they feel decisive.
 
-At the same time, there is a view held by many sincere believers that understands the work of Christ not as inaugurating a fundamentally new covenant, but as **renewing, restoring, and internalizing** the covenant God made with Israel. This view—often called renewed covenant theology—arises from a desire to honor God’s faithfulness, preserve continuity across Scripture, resist lawlessness, and take seriously the words and practices of Jesus and the apostles.
-
-Because of this, it deserves careful and fair presentation. This chapter sets out the renewed-covenant position at its strongest, explores why it is compelling, and then considers where tension emerges when it is set alongside the full biblical witness—particularly the framework of **purification, death, and indwelling** that governs Acts, Paul’s letters, and the apostolic gospel as a whole.
-
----
-
-## The Renewed Covenant Position at Its Strongest
-
-### 1. Prophetic Language Emphasizes Restoration
-
-Renewed covenant theology draws heavily from the prophetic literature, which consistently speaks in terms of **restoration rather than replacement**.
-
-Jeremiah’s promise of a “new covenant” (Jeremiah 31:31–34) appears within a context of return from exile. The covenant is explicitly with Israel and Judah. The law is not discarded but written on hearts. The covenant formula—“I will be their God, and they shall be my people”—remains unchanged.
-
-Likewise, Ezekiel’s vision focuses on transformation rather than abolition:
-
-> “I will sprinkle clean water upon you… I will give you a new heart… and cause you to walk in my statutes.” (Ezekiel 36:25–27)
-
-The emphasis is on cleansing, renewal of the heart, and Spirit-enabled obedience. From this perspective, the covenant itself remains intact; what changes is the condition of the people within it.
-
-Hosea’s marriage imagery reinforces this reading. Despite Israel’s unfaithfulness, God speaks of betrothing her again. The relationship is healed, not replaced. The same bride is restored.
+If this book is going to ask readers to reconsider inherited frameworks, it must first demonstrate that those frameworks are understood at their strongest.
 
 ---
 
-### 2. God’s Promises to Israel Remain Firm
+## What Determinism Means in This Chapter
 
-A second pillar of renewed covenant theology is the conviction that God’s promises are irrevocable.
+By *determinism*, this chapter refers to the claim that:
 
-The Abrahamic covenant is called “everlasting.” Paul insists that God has not cast away his people (Romans 11:1–2) and describes Gentiles as grafted into Israel’s olive tree rather than planted into a different one (Romans 11:17–24).
+1. God’s eternal decree **causally determines** all events, including every human choice.
+2. Election and reprobation are **individual**, **unconditional**, and **fixed from eternity**.
+3. Grace is not merely enabling, but **irresistible**, such that the elect cannot finally resist and the non-elect cannot genuinely respond.
 
-From this perspective, covenant continuity safeguards God’s faithfulness. Any account of Christ’s work must preserve Israel’s election rather than nullify it.
+This view often insists it is not fate, because God is personal rather than impersonal. But the functional question remains:
 
----
-
-### 3. Jesus Affirms the Law and the Prophets
-
-Jesus’ own words carry significant weight:
-
-> “Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.” (Matthew 5:17)
-
-Renewed covenant theology understands fulfillment as bringing Torah to its intended depth rather than setting it aside. Jesus keeps the law, teaches from it, and summarizes it through love of God and neighbor. Torah is not negated; it is rightly understood.
+Are we dealing with providence that genuinely engages human response,  
+or an exhaustive causal script in which response is only apparent?
 
 ---
 
-### 4. Apostolic Practice Appears Continuous
+## The Strongest Biblical Case for Determinism
 
-The apostles, including Paul, continue to participate in Jewish life after the resurrection. Acts depicts temple worship, feast observance, vows, and purification rituals. Paul insists he has not violated the law or the temple.
+### Romans 9 — “It Depends Not on Human Will”
 
-Renewed covenant theology often reads Paul’s letters in light of this practice, understanding his polemic as directed against Torah as a means of justification, not against Torah as a way of life.
+If a single chapter is made to carry the weight of eternal decree, it is Romans 9.
 
----
+Paul speaks of Jacob and Esau being distinguished before they had done anything good or bad. God’s choice is said to be “not because of works.” Pharaoh is raised up to display God’s power. Mercy and hardening are described as God’s prerogative. The potter has authority over the clay.
 
-## Acts 15: A Crucial Test Case
+The anticipated objection—*“Why does he still find fault?”*—sounds exactly like a protest against determinism. And Paul does not respond by appealing to human freedom, but to God’s right.
 
-Acts 15 is central to renewed and dual-covenant readings. The Jerusalem Council addresses whether Gentile believers must be circumcised and take on the full yoke of the Mosaic law.
+This is the strongest text. Any honest treatment must admit that.
 
-The council answers decisively: they must not.
+### Ephesians 1 — Chosen Before the Foundation of the World
 
-Yet Gentiles are given four prohibitions:
+Ephesians 1 stacks language that, read in a certain lane, sounds conclusive:
 
-- abstaining from things polluted by idols  
-- abstaining from blood  
-- abstaining from things strangled  
-- abstaining from sexual immorality  
+- chosen before the foundation of the world  
+- predestined according to his purpose  
+- working all things according to the counsel of his will  
 
-These are not arbitrary moral rules. They correspond directly to **categories of bodily defilement** associated with pagan worship and Gentile life.
+If “all things” is read as exhaustive causal determination, the conclusion feels unavoidable.
 
-For renewed-covenant readers, this is compelling. The apostles do not dismiss purity concerns. They draw directly from Torah categories. They require Gentiles to live in ways compatible with holiness.
+### John 6 — “No One Can Come Unless the Father Draws”
 
-At the same time, the decision is carefully limited. Circumcision is not required. Sabbath observance is not mandated. Gentiles are not placed under the jurisdiction of the Mosaic covenant. The focus is not covenant entry, but **purity of life and shared fellowship**.
+John 6 is often treated as the experiential engine of determinism:
 
-This raises an important question: *what kind of framework best explains this decision?*
+- the Father gives people to the Son  
+- those given will come  
+- no one can come unless drawn  
+- none given will be lost  
 
----
+Read in a deterministic lane, this becomes: coming is guaranteed for some and impossible for others.
 
-## Acts 15 Read Through Paul’s Teaching in 1 Corinthians
+### Acts 13:48 — “As Many as Were Appointed Believed”
 
-The purification logic of Acts 15 becomes clearer when read alongside Paul’s teaching in 1 Corinthians. As Paul addresses the same categories of concern—idolatry, blood, sexual immorality, and participation—he consistently frames them in terms of **temple cleanness**. What is striking is not that concern for holiness disappears, but that it is relocated. Language once used to guard the sanctity of a physical sanctuary is now applied to the **body itself**, because, as Paul goes on to explain, the body has become the dwelling place of God’s Spirit. Holiness has not diminished; the location of God’s presence has changed.
+This verse is short, blunt, and endlessly quoted. Appointment appears to precede belief.
 
-### Food Offered to Idols (1 Corinthians 8–10)
+### Judas, the Cross, and Fulfillment
 
-Paul acknowledges that idols have no real existence. Yet participation in idol feasts is not neutral. Such participation involves communion and produces contamination.
+Add the passion narratives:
 
-> “Ye cannot drink the cup of the Lord, and the cup of devils.” (1 Corinthians 10:21)
+- Scripture “must” be fulfilled  
+- the Son of Man goes as it is written  
+- Judas fulfills prophecy  
 
-The concern is not covenant legality, but **contamination through participation**.
-
-### Blood and Participation
-
-Paul’s language surrounding the cup and the body of Christ emphasizes that participation is real and embodied. What enters the body matters, because the body itself is now claimed by Christ. Participation joins the believer not only to Christ, but to whatever power is encountered at the table.
-
-### Sexual Immorality (1 Corinthians 5–6)
-
-Paul’s strongest warnings concern sexual immorality, and his reasoning is explicitly purification-oriented.
-
-> “Know ye not that your bodies are the members of Christ?”  
-> “He that committeth fornication sinneth against his own body.”
-
-Sexual immorality is not framed primarily as law-breaking, but as desecration of what has been claimed as holy.
-
-### The Body as Temple
-
-Paul states the underlying reality plainly:
-
-> “Your body is the temple of the Holy Spirit.”
-
-This becomes the controlling category. The Spirit dwells in what has been cleansed. Contamination does not primarily threaten legal standing, but the integrity of indwelling presence.
-
-Read in this light, Acts 15 does not function as renewed covenant legislation. It operates as a **purification framework**, governing how bodies formerly shaped by idolatry may now participate in a holy community in which God dwells.
-
+From here many conclude: if the worst sin in history is scripted, everything must be.
 
 ---
 
-## A Central Question Emerges
+## How the Early Church Recognized and Rejected the Fatalistic Lane
 
-At this point, a central question emerges for the renewed-covenant position:
+What is often missing from modern discussions is that **this debate arose very early**, and the church did not treat deterministic conclusions as neutral options.
 
-**How does renewal alone account for Scripture’s insistence that death is the mechanism of release from covenant authority?**
+### Justin Martyr — Foreknowledge Is Not Fatal Necessity
 
-Paul states the principle clearly:
+Justin explicitly rejects the idea that divine foreknowledge implies inevitability. If everything happens by necessity, he argues, moral responsibility collapses.
 
-> “The law has dominion over a person as long as he lives.” (Romans 7:1)
+God’s knowledge does not force action.  
+Prophecy does not create compulsion.
 
-Covenant authority persists as long as jurisdiction persists. Renewal repairs what exists; it does not end jurisdiction. Yet Paul repeatedly describes salvation in terms of **death, release, and transfer**.
+Justin is not resisting Scripture. He is resisting a **fatalistic inference**.
 
-This is where tension begins to surface.
+### Irenaeus — “By Nature” Salvation and Gnostic Sorting
 
----
+Irenaeus repeatedly attacks the idea that some people are, by nature, incapable of receiving life.
 
-## Why Death Becomes Decisive
+He insists that God exhorts without coercing, and that humans genuinely respond. He explicitly ties deterministic sorting to Gnostic systems that divided humanity into fixed categories—material, psychic, spiritual.
 
-Romans 6–7 does not frame covenant transition as restoration within the same bond, but as release through death followed by new union.
-
-- dying with Christ  
-- burial  
-- release from prior dominion  
-- marriage to another  
-- newness of life  
-
-This is jurisdictional language, not merely experiential language.
-
-Renewed covenant theology explains transformation well. It explains continuity well. But it struggles to explain why **death**, rather than renewal, is presented as the decisive boundary.
-
-If covenant authority remains continuous, death cannot function as release.  
-If death functions as release, renewal alone cannot account for the transition.
+For Irenaeus, the claim that some cannot receive life because of what they *are* is not apostolic teaching. It is theological corruption.
 
 ---
 
-## Pastoral Consequences of Missing the Purification Framework
+## Why the Greek Alone Cannot Rescue a Bad Framework
 
-When purification and cleansing are not the controlling categories, several patterns often emerge—sometimes unintentionally.
+Determinism often presents itself as humble submission to “what the words plainly say.”
 
-- Acts 15 becomes reduced to minimal ethics rather than bodily holiness  
-- 1 Corinthians becomes moral exhortation rather than temple protection  
-- Baptism becomes symbolic rather than participatory  
-- Romans 7 becomes normalized as the Christian condition  
-- Freedom becomes managed struggle rather than decisive release  
+But the fathers recognized something modern readers often miss:  
+words can be accurate, and the **lane** can still be wrong.
 
-These outcomes are not inevitable, but they are common. They reflect what happens when death, cleansing, and indwelling are treated as metaphors rather than realities.
+If salvation is assumed to be an eternal sorting of individuals, then:
 
----
+- “choose” becomes “exclude”  
+- “predestine” becomes “script every choice”  
+- “harden” becomes “create for damnation”  
+- “cannot” becomes “no capacity in principle”  
 
-## Why Renewal and Penal Substitution Both Strain Here
-
-Both renewed-covenant theology and penal substitution models often struggle at the same point—not because they agree, but because **neither places purification at the center**.
-
-- Renewal emphasizes continuity but lacks a mechanism for release  
-- Penal substitution emphasizes legal resolution but bypasses cleansing  
-- Both tend to relocate the problem to guilt rather than contamination  
-- Both struggle to integrate temple, body, and indwelling coherently  
-
-Scripture, by contrast, consistently treats sin as something that **defiles**, not merely something that condemns.
+The early church refused that lane, not by denying the texts, but by refusing the fatalistic conclusion.
 
 ---
 
-## Conclusion: Why the Covenant Must Be New
+## Dominion, Not Diagnosis — Romans 5 Sets the Frame
 
-Renewed covenant theology presents a serious and thoughtful reading of Scripture. It honors God’s faithfulness, takes Jesus’ words seriously, preserves continuity, and resists lawlessness.
+Romans 5 does not speak of death as mere condition. It speaks of death as **reigning power**.
 
-At the same time, it encounters increasing strain when set alongside Scripture’s consistent insistence that **death precedes life**, **cleansing precedes indwelling**, and **release precedes obedience**.
+> “Death reigned from Adam to Moses.”  
+> “Sin reigned in death.”
 
-Acts 15 and 1 Corinthians do not function as covenant-renewal texts. They function as purification texts. They assume bodies that must be cleansed because God now dwells within them.
+Reigning language matters.
 
-Romans 6–7 does not describe improved covenant fidelity, but **release through death** and **union with another**.
+You do not reign over corpses.  
+You reign over **living subjects under authority**.
 
-This is why the covenant cannot merely be renewed.  
-It must be **new**.
+Paul’s argument is not that humans are metaphysically inert, but that they are **enslaved**.
 
-Not because God abandons his promises,  
-but because only death can end bondage,  
-only cleansing can prepare a dwelling place,  
-and only resurrection can bring a people into life they could never produce.
+---
 
-The covenant is new because the people are new—  
-cleansed, released, and indwelt.
+## If You Are Already Dead, How Do You Die With Christ?
 
-And that is the logic that holds the whole witness of Scripture together.
+Romans 6 and Colossians 2 make the sequence explicit:
+
+1. You are living under the reign of sin and death.  
+2. You are united with Christ in his death.  
+3. That dominion is broken.  
+4. You are raised to walk in newness of life.
+
+This sequence is destroyed if “spiritual death” means total incapacity.
+
+If you are already dead in the Calvinist sense, how do you **die with Christ**?
+
+Does this mean:
+- everyone is already dead *in Christ*, and only some are later raised?
+- or that death with Christ is merely something God does apart from participation?
+- or that baptismal language is symbolic rather than real?
+
+None of these fit Paul.
+
+Burial is not diagnosis.  
+Burial is event.
+
+> “Having been buried with him in baptism, in which you were also raised with him through faith…”
+
+You cannot be buried into something that already happened.
+
+---
+
+## “Are You Saving Yourself?” — The Reframing That Twists the Gospel
+
+A familiar objection follows immediately:
+
+**“Are you saving yourself?”**
+
+But this question only works after the problem has been reframed.
+
+### Two Competing Diagnoses
+
+**Calvinist framing:**
+- You are already dead.
+- Dead people can do nothing.
+- God must give life first, apart from response.
+
+**Apostolic framing:**
+- You are living under the reign of death.
+- Death is a dominion.
+- You must **die with Christ** to be freed.
+
+These are not compatible.
+
+No one saves themselves by dying.
+
+Death is not achievement.  
+It is surrender.  
+It is the end of self-rule.
+
+Participation is not self-salvation.  
+It is the only way death’s reign actually ends.
+
+Calvinism brilliantly reframes the discussion:
+
+- death becomes incapacity instead of dominion  
+- grace becomes replacement instead of deliverance  
+- faith becomes evidence instead of allegiance  
+- obedience becomes suspicion  
+- participation becomes “works”  
+
+Once the frame shifts, waiting feels like humility.
+
+---
+
+## Waiting for a “Magical Moment”
+
+This reframing trains people to wait.
+
+They wait for:
+- enlightenment  
+- certainty  
+- an internal switch to flip  
+- God to act apart from them  
+
+Many people have a genuine *“aha”* moment.  
+They realize Jesus is who he said he is.
+
+But they never enter death with him.
+
+They believe *about* Christ,  
+but never join him in death.
+
+So they remain living from the place Scripture calls **death**, trying to manage it rather than pass through it.
+
+The New Testament never tells people to wait for regeneration.
+
+It commands:
+> Repent.  
+> Believe.  
+> Be baptized.  
+> Die.  
+> Walk in newness of life.
+
+---
+
+## The Parable of the Sower and the Collapse of Determinism
+
+Jesus teaches that seed is sown widely.
+
+Some receive it.  
+Some fall away.  
+Some are choked.  
+And some have the seed **stolen by the devil so that they may not believe and be saved**.
+
+If determinism were true in the strong sense:
+- the devil could not prevent belief  
+- resistance would be illusory  
+- warnings would be theater  
+
+But Jesus presents real conflict over real outcomes.
+
+Determinism turns spiritual warfare into a stage play.  
+Jesus treats it as genuine struggle.
+
+---
+
+## Conclusion — Why This Is Not a Side Issue
+
+This debate is not academic.
+
+It determines whether people:
+- respond or wait  
+- die or manage  
+- obey or analyze  
+
+If salvation is a script, repentance is cosmetic.  
+If salvation is fate, participation is unnecessary.  
+If salvation is inevitable, warnings are empty.
+
+But if salvation is **union with Christ through death and resurrection**, then the call is urgent, concrete, and costly.
+
+You do not wait for resurrection life.
+
+You enter death with Christ.
+
+Now.
+
+## Born Again Without Dying — The Final Inversion
+
+Another quiet but decisive shift occurs in how Calvinist theology emphasizes **being born again** while functionally sidelining **dying with Christ**.
+
+To be clear, Scripture absolutely teaches new birth. Jesus himself uses the language. But in the apostolic writings, **new birth never replaces death**. It follows it.
+
+Calvinism reverses that order.
+
+By framing regeneration as an irresistible act that happens *to* a person apart from response, the focus shifts almost entirely to being made alive—while the call to die quietly disappears.
+
+### Why This Matters
+
+In the New Testament, death is not optional, symbolic, or assumed. It is commanded.
+
+Paul does not say:
+> “You were regenerated, therefore live differently.”
+
+He says:
+> **“You died.”**  
+> **“You were buried.”**  
+> **“Your old man was crucified.”**
+
+Life comes *after* death, not instead of it.
+
+But if regeneration is framed as something God does unilaterally, apart from participation, then death becomes unnecessary—or worse, redundant.
+
+And once death is removed, something subtle happens: salvation becomes something **received without relinquishment**.
+
+### It Is Not a Work to Die
+
+This is the theological hinge.
+
+Calvinism often hears the call to die with Christ and immediately responds:
+**“That sounds like works.”**
+
+But dying is not a work.
+
+Death is the **end of works**.
+
+Death is surrender.  
+Death is relinquishment.  
+Death is the collapse of self-rule.  
+
+No one boasts about dying.  
+No one achieves death.  
+No one earns life by surrendering it.
+
+To label death-with-Christ as “self-salvation” is to fundamentally misunderstand what death is.
+
+### How the Inversion Happens
+
+When theology emphasizes *birth without death*, several distortions follow:
+
+- Regeneration becomes an internal event rather than a transfer of dominion.
+- Faith becomes recognition rather than allegiance.
+- Obedience becomes evidence rather than participation.
+- Baptism becomes symbolic rather than burial.
+- The old life is managed instead of ended.
+
+People are told they are already alive in Christ before anything has actually died.
+
+But Scripture never teaches resurrection without crucifixion.
+
+### The Apostolic Pattern Is Consistent
+
+Paul’s pattern is unwavering:
+
+- Death with Christ  
+- Burial with Christ  
+- Resurrection with Christ  
+- Newness of life  
+
+Calvinism speaks constantly of life, while bypassing the doorway Scripture insists upon.
+
+That doorway is death.
+
+### The “Aha” That Changes Everything
+
+Once this is seen, the pieces lock into place.
+
+Why Paul speaks so relentlessly about dying.  
+Why baptism is framed as burial.  
+Why obedience is not suspicion but expectation.  
+Why waiting is never presen

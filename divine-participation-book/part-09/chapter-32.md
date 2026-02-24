@@ -1,4 +1,4 @@
-# Chapter 29 — Hijacked Words: Wrath, Propitiation, Atonement, Justice
+# Chapter 32 — Hijacked Words: Wrath, Propitiation, Atonement, Justice
 
 ## Introduction: Why This Argument Keeps Failing
 
