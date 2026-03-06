@@ -1,5 +1,8 @@
 # Chapter 4 — Passover: Salvation Through Death
 
+
+<p align="center">< [← Previous](../part-01/chapter-03.md) | [Next →](chapter-05.md) ></p>
+
 ## Introduction: Born in Captivity
 
 The book of Exodus begins with Israel in bondage. They live as slaves in a foreign kingdom, under the rule of a king who is not their own. From the opening chapters, Israel exists as God's firstborn while living under Pharaoh's authority. Their slavery is not something they chose, nor is it the result of a verdict rendered against them. They were born into this captivity. Pharaoh does not merely oppress Israel; he rules them, exercising jurisdiction over their bodies, their labor, and their future. Their bondage is the result of living within a foreign dominion that claims ownership over their lives.
@@ -88,3 +91,6 @@ Deliverance comes when death is entered under divine presence, and life is recei
 
 ---
 
+---
+
+<p align="center">< [← Previous](../part-01/chapter-03.md) | [Next →](chapter-05.md) ></p>

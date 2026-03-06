@@ -1,5 +1,8 @@
 # Chapter 40 — Penal Substitution: The Strongest Biblical Case
 
+
+<p align="center">< [← Previous](chapter-39.md) | [Next →](chapter-41.md) ></p>
+
 ---
 
 **Note:** This is the revised version incorporating recommendations from the review. Save this as `part-09/chapter-26.md` to replace your current version.
@@ -716,3 +719,7 @@ You are not left to manage the old life with divine assistance.
 You have been brought through death into new life.
 
 This is the gospel. And it is better news than we dared imagine.
+
+---
+
+<p align="center">< [← Previous](chapter-39.md) | [Next →](chapter-41.md) ></p>

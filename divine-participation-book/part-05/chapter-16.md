@@ -1,5 +1,8 @@
 # Chapter 16 — Calling on the Name: Baptism, Allegiance, and the Temple Body
 
+
+<p align="center">< [← Previous](chapter-15.md) | [Next →](chapter-17.md) ></p>
+
 ## Why this chapter matters
 
 By this point in the book, baptism has already been presented as **participation in Christ’s death and resurrection**, not a symbolic gesture or a legal formality. But Scripture speaks of baptism in another closely related way that is often flattened or misunderstood: **calling on the name of the Lord**.
@@ -117,3 +120,7 @@ Faith is what makes baptism intelligible.
 ---
 
 ## The body as claimed sp
+
+---
+
+<p align="center">< [← Previous](chapter-15.md) | [Next →](chapter-17.md) ></p>

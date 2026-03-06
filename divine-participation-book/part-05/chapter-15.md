@@ -1,5 +1,8 @@
 # Chapter 15 — Baptism: Participation in Death and New Life
 
+
+<p align="center">< [← Previous](chapter-14.md) | [Next →](chapter-16.md) ></p>
+
 ## Introduction: Participation Is Entered by Faith
 
 Faith is not mere agreement with a set of claims. Faith is trust that yields itself to God. Scripture repeatedly portrays saving faith as obedient reliance, the kind of trust that submits to God's appointed means without trying to redefine them.
@@ -207,3 +210,7 @@ Not as an optional symbol detached from entrance.
 But as covenantal participation **by faith**, where the old man is put to death with Christ, and newness of life begins in Him.
 
 > "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead… even so we also should walk in newness of life." (Romans 6:4)
+
+---
+
+<p align="center">< [← Previous](chapter-14.md) | [Next →](chapter-16.md) ></p>

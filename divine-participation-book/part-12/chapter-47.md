@@ -1,4 +1,7 @@
 ## Chapter 47 — Death Defeated, Life Restored  
+
+<p align="center">< [← Previous](../part-11/chapter-46.md) | ></p>
+
 ### Closing Summary
 
 Throughout this book, one central claim has quietly guided every chapter: the gospel does not merely announce forgiveness. It announces **deliverance from death itself**.

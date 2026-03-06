@@ -1,5 +1,8 @@
 # Chapter 6 — What the Sacrifices Were: Their Purpose, Shape, and Meaning
 
+
+<p align="center">< [← Previous](../part-02/chapter-05.md) | [Next →](chapter-07.md) ></p>
+
 ## The Offerings as Identified in Leviticus
 
 The book of Leviticus describes Israel’s worship and relationship with God with the levitical priesthood as the mediators.  These activities include distinct offerings, rites, and appointed times, each with its own purpose and effect. The following table lists the scripture reference, the offering or rite, description, the purpose, and the result.
@@ -149,6 +152,6 @@ This distinction is further underscored by the movement of the rites themselves.
 
 Leviticus thus carefully separates death from the presence of God. What is brought near is not the animal as a substitute, but the life God has given in the blood. Sacred space receives life for cleansing, not a corpse for substitutional punishment.
 
+---
 
-
-
+<p align="center">< [← Previous](../part-02/chapter-05.md) | [Next →](chapter-07.md) ></p>

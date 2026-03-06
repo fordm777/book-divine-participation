@@ -1,6 +1,9 @@
 # Chapter 34 — The Ante-Nicene Church Period  
 *(How the earliest post-apostolic church framed salvation before later legal mechanisms hardened)*
 
+
+<p align="center">< [← Previous](../part-09/chapter-33.md) | [Next →](chapter-35.md) ></p>
+
 ## Why this chapter exists
 
 When modern readers cite the Ante-Nicene fathers (roughly AD 95–325), they often do one of two things:
@@ -294,3 +297,7 @@ If Chapter 23 establishes the early church’s participatory grammar, then:
 [^9]: Tertullian, *On Baptism*. New Advent: https://www.newadvent.org/fathers/0321.htm  
 [^10]: Justin Martyr, *First Apology* 66. New Advent: https://www.newadvent.org/fathers/0126.htm  
 [^11]: Ignatius of Antioch, *Letter to the Smyrnaeans* 7. New Advent: https://www.newadvent.org/fathers/0109.htm
+
+---
+
+<p align="center">< [← Previous](../part-09/chapter-33.md) | [Next →](chapter-35.md) ></p>

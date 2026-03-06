@@ -6,6 +6,9 @@
 
 This chapter is not written to caricature determinism, nor to dismiss those who find its arguments compelling. It is written to **steel-man the strongest biblical case** for determinism and eternal decree, because many sincere Christians encounter these passages early, and they feel decisive.
 
+<p align="center">< [← Previous](chapter-40.md) | [Next →](chapter-42.md) ></p>
+
+
 If this book is going to ask readers to reconsider inherited frameworks, it must first demonstrate that those frameworks are understood at their strongest.
 
 ---
@@ -360,3 +363,7 @@ Why Paul speaks so relentlessly about dying.
 Why baptism is framed as burial.  
 Why obedience is not suspicion but expectation.  
 Why waiting is never presen
+
+---
+
+<p align="center">< [← Previous](chapter-40.md) | [Next →](chapter-42.md) ></p>

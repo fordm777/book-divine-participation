@@ -1,5 +1,8 @@
 # Chapter 18 — Adoption: From Slaves to Sons
 
+
+<p align="center">< [← Previous](chapter-17.md) | [Next →](../part-06/chapter-19.md) ></p>
+
 ## The Strongest Form of the Objection
 
 Galatians 4:4–7 states:
@@ -199,3 +202,7 @@ And if a son, then an heir.
 Adoption, rightly understood, strengthens the participatory framework.
 
 It does not weaken it.
+
+---
+
+<p align="center">< [← Previous](chapter-17.md) | [Next →](../part-06/chapter-19.md) ></p>

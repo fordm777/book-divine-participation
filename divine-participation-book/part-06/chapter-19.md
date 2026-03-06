@@ -1,5 +1,8 @@
 # Chapter 19 — Delivered Through Death: What Was Actually Broken
 
+
+<p align="center">< [← Previous](../part-05/chapter-18.md) | [Next →](chapter-20.md) ></p>
+
 ## Introduction: Deliverance, Not Management
 
 Much of modern Christianity speaks about salvation in ways that assume freedom must be continually managed. Forgiveness is proclaimed as complete, yet bondage is treated as something that must still be overcome through effort, discipline, prayer, or repeated spiritual intervention. The result is a vision of Christian life marked by vigilance rather than rest, struggle rather than stability.
@@ -103,3 +106,7 @@ This raises a necessary question, which the next chapter must address:
 The earliest Christians answered that question very clearly.
 
 And they did not answer it with metaphor.
+
+---
+
+<p align="center">< [← Previous](../part-05/chapter-18.md) | [Next →](chapter-20.md) ></p>

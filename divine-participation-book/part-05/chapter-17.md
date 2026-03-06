@@ -1,5 +1,8 @@
 # Chapter 17 — Dead Indeed: Reckoning What Really Happened
 
+
+<p align="center">< [← Previous](chapter-16.md) | [Next →](chapter-18.md) ></p>
+
 ## The Question That Must Be Asked
 
 Paul writes:
@@ -114,3 +117,6 @@ Transfer.
 
 ---
 
+---
+
+<p align="center">< [← Previous](chapter-16.md) | [Next →](chapter-18.md) ></p>

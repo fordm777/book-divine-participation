@@ -1,5 +1,8 @@
 # Chapter 45 — Baptism Without Water: The Strongest Case
 
+
+<p align="center">< [← Previous](chapter-44.md) | [Next →](chapter-46.md) ></p>
+
 ## Introduction: The Question at Hand
 
 Chapter 14 argued that baptism is the concrete, covenantal moment where believers **enter** Christ’s death and resurrection **by faith**, enacted in water and effected by the Spirit.
@@ -248,3 +251,6 @@ The question is no longer whether baptism fits our framework.
 
 The question is whether our framework aligns with what is found in the scriptures and the gospel the apostles preached.
 
+---
+
+<p align="center">< [← Previous](chapter-44.md) | [Next →](chapter-46.md) ></p>

@@ -1,5 +1,8 @@
 # Chapter 10 — New Covenant or Renewed Covenant?
 
+
+<p align="center">< [← Previous](../part-03/chapter-09.md) | [Next →](chapter-11.md) ></p>
+
 ## Introduction
 
 The question matters more than it might first appear. Did Jesus establish a **new covenant**, fundamentally distinct from what came before? Or did he **renew** the existing covenant made at Mount Sinai, essentially restoring and updating what was already there?

@@ -7,6 +7,9 @@ Paul reinforces this in covenant terms.
 
 Death ends a covenant bond.
 
+<p align="center">< [← Previous](chapter-20.md) | [Next →](chapter-22.md) ></p>
+
+
 The law’s claim ends not because it was ignored, but because death dissolved the relationship.
 
 Again, death precedes release.
@@ -326,3 +329,7 @@ Not to become one.
 But because you already are.
 
 ---
+
+---
+
+<p align="center">< [← Previous](chapter-20.md) | [Next →](chapter-22.md) ></p>

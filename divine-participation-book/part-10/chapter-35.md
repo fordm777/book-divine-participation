@@ -1,6 +1,9 @@
 # Chapter 35 — Gnosticism, Determinism, and Theological Control  
 *(When salvation becomes a classification, and grace becomes a mechanism)*
 
+
+<p align="center">< [← Previous](chapter-34.md) | [Next →](chapter-36.md) ></p>
+
 ## Why place these side by side
 
 This chapter is not claiming that Calvinism is Gnosticism.
@@ -228,3 +231,7 @@ That is the work of Chapter 25.
 [^10]: Overview noting Augustine’s adherence for nine or ten years, and the claim that some scholars suggest Manichaean ways of thinking may have influenced some of Augustine’s ideas (presented as a scholarly suggestion, not a settled conclusion). “Manichaeism,” Wikipedia (with cited academic works listed). <https://en.wikipedia.org/wiki/Manichaeism>
 
 [^11]: Scholarly discussion of Calvin’s appropriation of Augustine and the “Augustinus totus noster” theme in Calvin studies. “An investigation into Calvin’s use of Augustine” (PDF, University of the Free State journals site). <https://journals.ufs.ac.za/index.php/at/article/download/2219/2177/4271>
+
+---
+
+<p align="center">< [← Previous](chapter-34.md) | [Next →](chapter-36.md) ></p>

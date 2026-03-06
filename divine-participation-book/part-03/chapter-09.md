@@ -1,5 +1,8 @@
 # Chapter 9 — Covenant Cleanness, Divine Presence, and Relational Judgment
 
+
+<p align="center">< [← Previous](chapter-08.md) | [Next →](../part-04/chapter-10.md) ></p>
+
 ## Introduction
 
 Scripture frequently describes situations where people suffer consequences, where God’s anger is kindled, and where death follows sin. Two stories in particular stand out as difficult and troubling: the sin of Achan, where one man’s theft results in Israel’s defeat and the death of thirty-six men, and David’s census, where the king’s decision to count his army results in a plague that kills seventy thousand.
@@ -151,3 +154,7 @@ These texts do not depict God as executing legal sentences. They depict God resp
 This chapter does not redefine atonement—that work has already been done. Instead, it safeguards that definition by showing that judgment in Scripture is often **relational before it is legal**, and **ontological before it is forensic**.
 
 Without this framework, later discussions of Christ’s work are easily pulled back into legal categories Scripture itself does not require. With it, we are prepared to read the cross not as a courtroom transaction, but as the decisive act by which God restores access to the presence that gives life.
+
+---
+
+<p align="center">< [← Previous](chapter-08.md) | [Next →](../part-04/chapter-10.md) ></p>

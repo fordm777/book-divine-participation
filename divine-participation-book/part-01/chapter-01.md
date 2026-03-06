@@ -1,5 +1,8 @@
 # Chapter 1 — Life and Divine Fellowship
 
+
+<p align="center">< | [Next →](chapter-02.md) ></p>
+
 ## Introduction
 
 The story of Scripture opens with life.
@@ -50,3 +53,4 @@ The story begins with life received in relationship and with a word that defines
 
 ---
 
+<p align="center">< | [Next →](chapter-02.md) ></p>

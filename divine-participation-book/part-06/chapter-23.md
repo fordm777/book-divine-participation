@@ -1,5 +1,8 @@
 # Chapter 23 — Living Free from Death’s Dominion
 
+
+<p align="center">< [← Previous](chapter-22.md) | [Next →](chapter-24.md) ></p>
+
 ## When Letting Go Feels Like Loss
 
 If letting go of what belongs to darkness produces fear, resentment, or grief, Scripture would not interpret that as maturity being challenged. It would interpret it as **allegiance being exposed**.
@@ -292,3 +295,7 @@ Accusation has been answered.
 
 What remains is not deliverance to be rewon,  
 but life to be lived.
+
+---
+
+<p align="center">< [← Previous](chapter-22.md) | [Next →](chapter-24.md) ></p>

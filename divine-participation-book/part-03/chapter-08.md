@@ -1,5 +1,8 @@
 # Chapter 8 — What Atonement Is (and Is Not)
 
+
+<p align="center">< [← Previous](chapter-07.md) | [Next →](chapter-09.md) ></p>
+
 ---
 
 ## Introduction: The Problem with "Atonement Theories"
@@ -390,3 +393,7 @@ When Scripture's own categories are allowed to stand, the confusion dissolves. O
 This is not a new theory. It is the biblical pattern, clearly stated and consistently maintained from Leviticus to Hebrews.
 
 And it is the foundation upon which the rest of this section will build.
+
+---
+
+<p align="center">< [← Previous](chapter-07.md) | [Next →](chapter-09.md) ></p>

@@ -1,5 +1,8 @@
 # Chapter 42 — Total Depravity: The Strongest Biblical Case
 
+
+<p align="center">< [← Previous](chapter-41.md) | [Next →](chapter-43.md) ></p>
+
 ## Why Total Depravity Must Be Taken Seriously
 
 Total Depravity is not a peripheral doctrine in Reformed theology. It is foundational. If humanity is not spiritually dead in the specific way Calvinism requires—namely, **ontologically incapable of responding to God**—then irresistible grace, regeneration preceding faith, and theological determinism lose their footing.
@@ -421,3 +424,6 @@ Paul’s gospel is more honest—and more freeing.
 It does not ask whether you felt alive before believing.
 It asks whether you died with Christ, so that the life you now live is no longer your own.
 
+---
+
+<p align="center">< [← Previous](chapter-41.md) | [Next →](chapter-43.md) ></p>

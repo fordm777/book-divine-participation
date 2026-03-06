@@ -1,6 +1,9 @@
 # Chapter 11 — Covenant Death and Release from Bondage  
 *(Romans 7)*
 
+
+<p align="center">< [← Previous](chapter-10.md) | [Next →](chapter-12.md) ></p>
+
 ## Introduction: Why Renewal Cannot Explain Romans 7
 
 Romans 7 is one of the most debated chapters in the New Testament. Who is the “I” who struggles with sin? Is Paul describing his pre-Christian life, his Christian life, or humanity in general? Why does he say, “I am carnal, sold under sin,” if believers are supposed to be free? And what does the marriage analogy at the beginning of the chapter have to do with the struggle described later?
@@ -224,3 +227,7 @@ This is why the covenant is new.
 Death comes before life.  
 Burial before resurrection.  
 Covenant death before covenant life.
+
+---
+
+<p align="center">< [← Previous](chapter-10.md) | [Next →](chapter-12.md) ></p>

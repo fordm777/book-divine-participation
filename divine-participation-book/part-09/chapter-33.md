@@ -1,5 +1,8 @@
 # Chapter 33 — Why Translation Is Never Neutral
 
+
+<p align="center">< [← Previous](chapter-32.md) | [Next →](../part-10/chapter-34.md) ></p>
+
 ## Introduction: The Lanes Were Set Before You Read
 
 Whatever framework you bring to the text will govern which semantic lanes you allow the words to travel in—whether you are reading English, Greek, or Hebrew.
@@ -124,3 +127,7 @@ Faithful reading does not require abandoning English, nor mastering Greek and He
 Only with that awareness can Scripture be allowed to challenge not just our answers, but the questions we thought were obvious.
 
 And that, ultimately, is where real theological renewal begins.
+
+---
+
+<p align="center">< [← Previous](chapter-32.md) | [Next →](../part-10/chapter-34.md) ></p>

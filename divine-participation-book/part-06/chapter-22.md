@@ -1,5 +1,8 @@
 # Chapter 22 — Spiritual Warfare After Deliverance
 
+
+<p align="center">< [← Previous](chapter-21.md) | [Next →](chapter-23.md) ></p>
+
 ## Real Authority, Real Effects, Real Limits
 
 The New Testament leaves no doubt that the authority of Christ is real and effective against the powers of darkness. Jesus casts out demons. The apostles cast out demons. Scripture does not present this authority as symbolic or psychological, but as genuine and operative.
@@ -332,3 +335,7 @@ The next chapter will turn to what life looks like **after** deliverance has bee
 
 Freedom is not rewon.  
 It is lived.
+
+---
+
+<p align="center">< [← Previous](chapter-21.md) | [Next →](chapter-23.md) ></p>

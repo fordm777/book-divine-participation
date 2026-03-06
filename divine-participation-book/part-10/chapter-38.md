@@ -1,5 +1,8 @@
 # Chapter 38 — Needs-Based Christianity: When the Gospel Became Therapeutic
 
+
+<p align="center">< [← Previous](chapter-37.md) | [Next →](../part-11/chapter-39.md) ></p>
+
 ## Introduction: A Gospel That No Longer Requires Death
 
 In many churches, the gospel is frequently proclaimed in therapeutic terms. People are invited to “come as you are,” and are assured that Jesus will help them change, grow through discipleship, and in some cases receive healing through dedicated ministries. These ways of speaking are familiar and often well-intended. Yet they tend to frame salvation primarily as assistance and improvement after believing in Jesus.
@@ -232,3 +235,7 @@ Notice the order. Burial with Christ comes first. New life follows. Forgiveness 
 To tell someone they are forgiven while they remain in the old life is to risk offering assurance without transformation, peace without cleansing, and hope without deliverance. Such language may comfort for a time, but it leaves a person attempting to live the Christian life from the wrong side of the grave.
 
 The apostolic gospel does not begin by assuring people that they are already forgiven. It begins by calling people to die with Christ, so that forgiveness, cleansing, and new life may be truly received.
+
+---
+
+<p align="center">< [← Previous](chapter-37.md) | [Next →](../part-11/chapter-39.md) ></p>

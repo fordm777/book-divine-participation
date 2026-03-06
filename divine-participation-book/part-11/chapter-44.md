@@ -1,5 +1,8 @@
 # Chapter 44 — Renewed Covenant Theology: The Strongest Biblical Case
 
+
+<p align="center">< [← Previous](chapter-43.md) | [Next →](chapter-45.md) ></p>
+
 ## Introduction: Why This Question Matters
 
 Throughout this book, we have presented Scripture as pointing toward a **new covenant**, rather than a renewed one. We have traced how death functions as the boundary of covenant authority, how release precedes life, and how salvation is consistently framed as participation in Christ’s death and resurrection rather than improvement of an existing state.
@@ -201,3 +204,7 @@ The covenant is new because the people are new—
 cleansed, released, and indwelt.
 
 And that is the logic that holds the whole witness of Scripture together.
+
+---
+
+<p align="center">< [← Previous](chapter-43.md) | [Next →](chapter-45.md) ></p>

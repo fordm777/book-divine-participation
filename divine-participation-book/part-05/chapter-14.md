@@ -1,6 +1,9 @@
 # Chapter 14 — The Record of Debt: Exodus, Not Courtrooms  
 *(Passover, Baptism, and Freedom from Bondage)*
 
+
+<p align="center">< [← Previous](chapter-13.md) | [Next →](chapter-15.md) ></p>
+
 ## Introduction: Why Exodus Is the Pattern
 
 The Exodus is not merely an Old Testament story.  
@@ -220,3 +223,7 @@ And salvation is not a courtroom verdict.
 It is **an Exodus through death into life**.
 
 The gospel becomes unrecognizable when Exodus is forgotten.
+
+---
+
+<p align="center">< [← Previous](chapter-13.md) | [Next →](chapter-15.md) ></p>

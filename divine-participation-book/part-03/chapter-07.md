@@ -1,5 +1,8 @@
 # Chapter 7 — The Two Birds: Death Entered, Life Released
 
+
+<p align="center">< [← Previous](chapter-06.md) | [Next →](chapter-08.md) ></p>
+
 ## Introduction: A Ritual and a Story
 
 In Leviticus 14, God prescribes a ritual for cleansing from skin disease. Two living birds, cedar wood, scarlet yarn, hyssop, running water, and an earthen vessel. One bird is killed. The other is dipped in its blood and then released into the open field. The person is sprinkled seven times and declared clean.
@@ -417,3 +420,7 @@ The two birds reveal what the cross accomplishes. Naaman's story shows what it l
 One bird slain. One bird released. Death entered. Life set free.
 
 This is how God saves.
+
+---
+
+<p align="center">< [← Previous](chapter-06.md) | [Next →](chapter-08.md) ></p>

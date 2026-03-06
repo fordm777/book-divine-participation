@@ -1,5 +1,8 @@
 # Chapter 43 — “No One Can Come Unless the Father Draws”: John 6:44 Revisited
 
+
+<p align="center">< [← Previous](chapter-42.md) | [Next →](chapter-44.md) ></p>
+
 ## The Text Itself
 
 > “No man can come to me, except the Father which hath sent me **draw** him: and I will raise him up at the last day.”  
@@ -266,3 +269,7 @@ Any reading of John 6:44 that grants life prior to death-with-Christ does not me
 The Father’s drawing is real and powerful.  
 But it is not the bypass of death.  
 It is the summons into Christ, where death is entered and defeated through participation, not avoided through a hidden mechanism.
+
+---
+
+<p align="center">< [← Previous](chapter-42.md) | [Next →](chapter-44.md) ></p>

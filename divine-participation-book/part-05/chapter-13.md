@@ -1,5 +1,8 @@
 # Chapter 13 — Faith, Belief, and Works
 
+
+<p align="center">< [← Previous](../part-04/chapter-12.md) | [Next →](chapter-14.md) ></p>
+
 ## Introduction
 
 Few topics generate more confusion and division among Christians than the relationship between faith, belief, and works. One group emphasizes “faith alone” and sees works as evidence. Another emphasizes that “faith without works is dead” and sees works as essential. Still others speak of “obedience” and “discipleship” in ways that seem to contradict “grace alone.”
@@ -232,3 +235,7 @@ This is why Scripture can speak of faith as something that must be obeyed, conti
 Scripture presents something richer and riskier than faith as internal agreement.
 
 Biblical faith is not confidence in a verdict already issued, but trust lived out in response to God’s word. It is embodied faith, a faith that moves, obeys, risks, and endures, not to earn life, but because life is promised. Faith is lived where God has spoken, and it places the whole person where God has pledged to act.
+
+---
+
+<p align="center">< [← Previous](../part-04/chapter-12.md) | [Next →](chapter-14.md) ></p>

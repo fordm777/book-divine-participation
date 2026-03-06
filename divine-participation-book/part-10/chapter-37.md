@@ -1,6 +1,9 @@
 # Chapter 37 — Penal Substitution and the Legalization of Salvation  
 *(When punishment replaced participation)*
 
+
+<p align="center">< [← Previous](chapter-36.md) | [Next →](chapter-38.md) ></p>
+
 ## Why this chapter is necessary
 
 By the time most modern Christians encounter the cross, they have already inherited a settled assumption:
@@ -289,3 +292,7 @@ Chapter 27 will examine that outcome directly, and show how a legalized salvatio
 
 That is not a separate problem.  
 It is the fruit of the same tree.
+
+---
+
+<p align="center">< [← Previous](chapter-36.md) | [Next →](chapter-38.md) ></p>

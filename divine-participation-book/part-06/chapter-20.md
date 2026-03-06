@@ -1,5 +1,8 @@
 # Chapter 20 — From One Lord to Another: Renunciation and Allegiance
 
+
+<p align="center">< [← Previous](chapter-19.md) | [Next →](chapter-21.md) ></p>
+
 ## Salvation as Transfer, Not Mere Decision
 
 If salvation is a passage from one dominion to another, then it necessarily involves more than inward belief. It requires the severing of one allegiance and the taking up of another. Scripture consistently presents salvation not as a private conviction, but as a public transfer of lordship.
@@ -210,3 +213,7 @@ This is why the earliest Christians did not treat renunciation, confession, and 
 Only after dominion had been broken did spiritual warfare take its proper form—not as escape, but as resistance.
 
 That distinction will matter greatly in what follows.
+
+---
+
+<p align="center">< [← Previous](chapter-19.md) | [Next →](chapter-21.md) ></p>

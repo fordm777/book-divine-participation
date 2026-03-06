@@ -1,6 +1,9 @@
 # Chapter 24 — Warnings in the House of God: Temple Participation, Not Courtroom Threats  
 *(Temple Participation, Not Courtroom Threats)*
 
+
+<p align="center">< [← Previous](chapter-23.md) | [Next →](../part-07/chapter-25.md) ></p>
+
 ## Why this chapter matters
 
 Few parts of the New Testament generate more confusion, anxiety, or division than the warning passages. Statements like *“will not inherit the kingdom,” “God will destroy,” “cut off,”* or *“no repentance found”* often sound, to modern ears, like threats of lost salvation or renewed condemnation.
@@ -171,3 +174,7 @@ They are meant to:
 - keep life intact  
 - guard holiness  
 - pr
+
+---
+
+<p align="center">< [← Previous](chapter-23.md) | [Next →](../part-07/chapter-25.md) ></p>

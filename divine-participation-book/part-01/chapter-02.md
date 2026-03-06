@@ -1,5 +1,8 @@
 # Chapter 2 — Exile from Life: Death as Mercy, Not Punishment
 
+
+<p align="center">< [← Previous](chapter-01.md) | [Next →](chapter-03.md) ></p>
+
 ## Where Are You?
 
 One day in the garden, the serpent deceives the woman, and both she and the man eat from the Tree of the Knowledge of Good and Evil. After eating the fruit, their eyes are opened. Awareness enters where innocence once rested. They hear the sound of the LORD God walking in the garden, and for the first time, they hide.
@@ -54,3 +57,6 @@ The story pauses here, not resolved, but preserved. Humanity lives on, outside t
 
 ---
 
+---
+
+<p align="center">< [← Previous](chapter-01.md) | [Next →](chapter-03.md) ></p>

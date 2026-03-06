@@ -1,5 +1,8 @@
 # Chapter 3 — Death as Dominion: Bondage, Corruption, and Fear
 
+
+<p align="center">< [← Previous](chapter-02.md) | [Next →](../part-02/chapter-04.md) ></p>
+
 ## From Exile to Rule
 
 Genesis does not move directly from exile to resolution. Instead, it opens into a world where life continues outside the garden, yet no longer as it once was. Humanity is alive, but life is now fragile. Bodies decay. Fear emerges. The ground resists. Existence unfolds under limits.
@@ -104,3 +107,6 @@ The world that emerges after the garden is a world under death's reign. Humanity
 
 ---
 
+---
+
+<p align="center">< [← Previous](chapter-02.md) | [Next →](../part-02/chapter-04.md) ></p>

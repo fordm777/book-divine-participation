@@ -1,6 +1,9 @@
 # Chapter 39 — Surety, Priesthood, and the Stability of the Covenant  
 *(What Hebrews 7 actually secures)*
 
+
+<p align="center">< [← Previous](../part-10/chapter-38.md) | [Next →](chapter-40.md) ></p>
+
 ## Why this chapter comes first
 
 Before engaging questions of sacrifice, punishment, or cleansing, we must allow **the Epistle to the Hebrews** to establish its own categories.
@@ -253,3 +256,7 @@ The text does not relocate that surety onto the participants, nor does it guaran
 And because that priest knows our infirmities and ever lives to intercede, the invitation of Hebrews is not fear or inevitability, but confidence:
 
 > **Let us draw near.**
+
+---
+
+<p align="center">< [← Previous](../part-10/chapter-38.md) | [Next →](chapter-40.md) ></p>

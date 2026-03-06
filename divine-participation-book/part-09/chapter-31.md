@@ -1,5 +1,8 @@
 # Chapter 31 — When Words Change but Assumptions Don't
 
+
+<p align="center">< [← Previous](../part-08/chapter-30.md) | [Next →](chapter-32.md) ></p>
+
 ## Introduction: The Illusion of Progress
 
 Theological language changes more easily than theological imagination. Words are updated, softened, or replaced, but the underlying assumptions often remain untouched. This creates the illusion of doctrinal development while leaving the governing framework intact.
@@ -168,3 +171,7 @@ Until those questions are faced, theological debates will continue to generate h
 The issue is not that Christians are using the wrong words.
 
 It is that they are often using **new words to protect old worlds**.
+
+---
+
+<p align="center">< [← Previous](../part-08/chapter-30.md) | [Next →](chapter-32.md) ></p>

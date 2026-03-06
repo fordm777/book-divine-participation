@@ -1,5 +1,8 @@
 # Chapter 12 — The Jealous Husband
 
+
+<p align="center">< [← Previous](chapter-11.md) | [Next →](../part-05/chapter-13.md) ></p>
+
 ## Introduction: Covenant, Marriage, and Participation
 
 Scripture consistently frames God’s relationship with His people in marital terms. Israel is not merely a subject people, nor merely a contractual partner, but a **bride**. The covenant at Sinai is repeatedly described as a marriage covenant, and God identifies Himself as Israel’s husband.
@@ -125,3 +128,7 @@ The covenant instituted by Jesus Christ is not a renewal of Sinai. It is a genui
 This is not substitution without us.
 
 It is participation unto life.
+
+---
+
+<p align="center">< [← Previous](chapter-11.md) | [Next →](../part-05/chapter-13.md) ></p>

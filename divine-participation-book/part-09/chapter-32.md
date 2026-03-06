@@ -1,5 +1,8 @@
 # Chapter 32 — Hijacked Words: Wrath, Propitiation, Atonement, Justice
 
+
+<p align="center">< [← Previous](chapter-31.md) | [Next →](chapter-33.md) ></p>
+
 ## Introduction: Why This Argument Keeps Failing
 
 Theological debates over words like wrath, propitiation, atonement, and justice usually collapse into one of two positions.
@@ -177,3 +180,7 @@ Recovering these words requires recovering their world.
 Not a new theology, but an older memory.
 
 And once that memory is restored, Scripture begins to sound like good news again—not legal relief, but the announcement that life has returned.
+
+---
+
+<p align="center">< [← Previous](chapter-31.md) | [Next →](chapter-33.md) ></p>

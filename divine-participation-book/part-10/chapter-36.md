@@ -1,6 +1,9 @@
 # Chapter 36 — How Legal Frameworks Replaced Participatory Ones  
 *(When the temple gave way to the courtroom)*
 
+
+<p align="center">< [← Previous](chapter-35.md) | [Next →](chapter-37.md) ></p>
+
 ## Why this chapter matters
 
 By the time we reach the Reformation debates, many readers assume that salvation has *always* been discussed in legal terms. Words like *guilt*, *verdict*, *imputation*, *satisfaction*, and *acquittal* feel native to Christianity itself.
@@ -266,3 +269,7 @@ It is the *logical conclusion* of a long transition:
 Chapter 26 will examine that final step directly, and show how salvation came to be understood less as **entering Christ’s death and life**, and more as **benefiting from His punishment**.
 
 That shift changes everything.
+
+---
+
+<p align="center">< [← Previous](chapter-35.md) | [Next →](chapter-37.md) ></p>

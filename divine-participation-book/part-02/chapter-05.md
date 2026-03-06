@@ -1,5 +1,8 @@
 # Chapter 5 — Dying Before Living
 
+
+<p align="center">< [← Previous](chapter-04.md) | [Next →](../part-03/chapter-06.md) ></p>
+
 ## The Seed that Dies
 
 Jesus said, 

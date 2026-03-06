@@ -6,6 +6,9 @@ Still, certain questions persist. Not because Scripture is unclear, but because 
 
 What follows is not a defense against critics, but a translation for readers who want to hear Scripture on its own terms.
 
+<p align="center">< [← Previous](chapter-45.md) | [Next →](../part-12/chapter-47.md) ></p>
+
+
 ---
 
 ## Q: Doesn't "redeemed" mean a price was paid?
@@ -155,3 +158,7 @@ Most of these questions persist not because Scripture is unclear, but because wo
 This book has not attempted to discard familiar language, but to hear it rightly. When that happens, the story regains coherence. Salvation is no longer a legal fiction, death is no longer divine punishment, and forgiveness is no longer abstract.
 
 What emerges instead is a gospel of rescue, liberation, participation, and life—one that does not minimize sin, but actually defeats it.
+
+---
+
+<p align="center">< [← Previous](chapter-45.md) | [Next →](../part-12/chapter-47.md) ></p>
