@@ -1,7 +1,7 @@
-# Chapter 27 — From Stone to Flesh: Why the Temple Could Not Be Rebuilt
+# Chapter 27 — Sabbath, Rest, and the End of Death's Administration
 
 
-<p align="center"><a href="../part-07/chapter-26.md">← Previous</a> | <a href="../part-08/chapter-28.md">Next →</a></p>
+<p align="center"><a href="../part-07/chapter-26.md">← Previous</a> | <a href="../part-07/chapter-28.md">Next →</a></p>
 
 ---
 
@@ -9,4 +9,4 @@
 
 ---
 
-<p align="center"><a href="../part-07/chapter-26.md">← Previous</a> | <a href="../part-08/chapter-28.md">Next →</a></p>
+<p align="center"><a href="../part-07/chapter-26.md">← Previous</a> | <a href="../part-07/chapter-28.md">Next →</a></p>

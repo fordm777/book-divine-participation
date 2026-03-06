@@ -1,340 +1,334 @@
-# Chapter 22 — Spiritual Warfare After Deliverance
-
+## Covenant Release: Romans 7
 
 <p align="center"><a href="../part-06/chapter-21.md">← Previous</a> | <a href="../part-06/chapter-23.md">Next →</a></p>
 
-## Real Authority, Real Effects, Real Limits
+Paul reinforces this in covenant terms.
 
-The New Testament leaves no doubt that the authority of Christ is real and effective against the powers of darkness. Jesus casts out demons. The apostles cast out demons. Scripture does not present this authority as symbolic or psychological, but as genuine and operative.
+> “Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another.”
+> (Romans 7:4)
 
-A striking example appears in Acts, when Paul commands a spirit to leave a woman who had followed him persistently:
+Death ends a covenant bond.
 
-> *“I command thee in the name of Jesus Christ to come out of her.”*  
-> (Acts 16:18)
 
-The spirit obeys immediately.
+The law’s claim ends not because it was ignored, but because death dissolved the relationship.
 
-This matters. It establishes that demonic influence can be restrained or expelled by the authority of Christ, even when the deeper question of dominion has not yet been resolved. Authority can be exercised *over* a person or situation without yet changing who owns it.
+Again, death precedes release.
 
-For this reason, it would be inaccurate and unfair to dismiss modern deliverance ministries as imaginary or ineffective. Many people experience genuine relief. Some experience clarity, peace, and real interruption of torment. Something real is often happening.
-
-And yet, something essential is often missing.
+The judge does not invent freedom.
+He acknowledges that death has severed jurisdiction.
 
 ---
 
-## The Pattern of Relief and Return
+## What Reckoning Actually Means
 
-A troubling pattern repeats itself across many deliverance contexts.
+The Greek word Paul uses, *logizomai*, means to count, to account, to regard as true.
 
-People seek freedom from oppression, fear, compulsions, or recurring sin. Prayer is offered. Spirits are confronted. Confession is made. Renunciations are spoken. Ties are broken. Relief follows. Testimonies are shared.
+It does not mean to fabricate.
 
-And then, often, the struggle returns.
+Reckoning assumes an event has occurred.
 
-Sometimes the same behaviors reappear—sexual immorality, drunkenness, rage, despair. Sometimes the person feels worse than before. They are told they need deeper deliverance, further renunciation, more prayer, or additional sessions.
+Just as a death certificate records a real death, Paul calls believers to live in light of a real execution:
 
-This cycle is exhausting.
+The old man has died.
 
-And it raises an unavoidable question:  
-**If Christ’s authority is real, why does freedom so often fail to hold?**
+The former master has lost jurisdiction.
 
----
+The certificate of slavery is no longer valid.
 
-## Binding Is Not the Same as Transfer
-
-Part of the confusion arises from failing to distinguish between **restraint** and **dispossession**.
-
-Scripture shows that demonic powers recognize authority. They can be silenced, bound, or driven back by the name of Christ. This explains why binding spirits during prayer or gospel proclamation can have real effects. Resistance weakens. Deception loosens. The person may feel immediate relief.
-
-But restraint is not the same thing as a change of ownership.
-
-Authority can be exercised *over* a domain without transferring who that domain belongs to. This is why Jesus warns that an unclean spirit can leave a person and still regard them as *“my house.”*
-
-> *“I will return into my house from whence I came out.”*  
-> (Matthew 12:44)
-
-The spirit does not describe itself as trespassing. It describes itself as returning to what it still considers its own.
-
-Removal without transfer leaves jurisdiction unresolved.
+This is not psychological affirmation.
+It is ontological recognition.
 
 ---
 
-## Confession, Renunciation, and Breaking Ties — Necessary but Not Sufficient
+## Death and Justification
 
-Many deliverance ministries rightly emphasize confession, renunciation, and the breaking of ties with past sins, practices, curses, and allegiances. These actions are not meaningless. Scripture consistently affirms the power of confession to bring darkness into the light and weaken accusation.
+Romans 6:7 is decisive:
 
-Such practices can dismantle specific footholds. They can interrupt patterns of deception and shame. They can bring real, measurable relief.
+> “He that is dead is justified from sin.”
 
-However, confession alone does not change dominion.
+Death ends the claim.
 
-Repentance turns the heart.  
-Renunciation names what must be left behind.  
-But **death transfers ownership**.
+Justification is not the engine.
+Death is.
 
-Without death in Christ, the underlying structure remains intact. The house may be swept. Agreements may be revoked. Access points may be closed. Yet the land itself remains under the same authority.
+This does not minimize justification. It clarifies its place.
 
-This is the distinction that is often missed.
+God’s declaration corresponds to what has occurred through union with Christ.
 
----
-
-## Sin as Master, Not Merely Spirits as Influences
-
-Paul’s analysis in Romans exposes the deeper issue.
-
-He does not locate humanity’s primary bondage in spirits. He locates it in **Sin as a reigning power**.
-
-> *“Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?”*  
-> (Romans 6:16)
-
-For Paul, obedience reveals ownership. Sin is not merely an act. It is a **master**.
-
-This becomes unmistakable in Romans 7:
-
-> *“For I know that in me (that is, in my flesh,) dwelleth no good thing…  
-> Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.”*  
-> (Romans 7:18, 20)
-
-Paul is not excusing sin. He is diagnosing **power**.
-
-The struggle he describes is not primarily demonic possession. It is enslavement to a ruling power operating through the flesh. This is why people can sincerely renounce behaviors and still return to them. The governing power has not been displaced.
-
-Deliverance alone cannot solve Romans 7. 
+He declares freedom because death has severed mastery.
 
 ---
 
-## Paul’s Pastoral Warning: Returning to Sin After Transfer
+## From Fiction to Freedom
 
-Paul’s letters make clear that death with Christ does not eliminate the possibility of returning to sinful patterns. But he is equally clear that such return is not normal, expected, or harmless.
+If death is symbolic, then freedom must be maintained through effort.
 
-In his second letter to the Corinthians, Paul expresses concern that some within the church have already begun to drift back into former practices:
+If death is real, then freedom is foundational.
 
-> *“Lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.”*  
-> (2 Corinthians 12:21)
+Paul does not tell believers to fight in order to become dead.
+He tells them to reckon death and therefore live differently.
 
-Paul is not addressing unbelievers.  
-He is not describing people who were never transferred.  
-He is speaking to members of the church.
+The command rests on accomplished reality.
 
-This matters.
+This is why he can say:
 
-Their sin does not mean death and transfer never occurred. But it does mean that **defilement has returned**, and with it renewed vulnerability to accusation and spiritual exploitation.
+> “Let not sin therefore reign in your mortal body.”
+> (Romans 6:12)
 
-Paul’s concern is not framed in terms of lost justification. It is framed in terms of **uncleanness**, lack of repentance, and disrupted fellowship. His language is covenantal and temple-oriented, not forensic.
-
----
-
-## Return Is Possible — But Not Neutral
-
-Paul’s warning shows that post-transfer sin is possible, but it is not neutral.
-
-Returning to practices like sexual immorality and impurity does not restore the old master as rightful owner. But it **reopens space** within the life of someone who now belongs to Christ.
-
-This aligns precisely with Paul’s other warnings:
-
-> *“Neither give place to the devil.”*  
-> (Ephesians 4:27)
-
-The danger is not that sin reclaims lawful dominion.  
-The danger is that sin **gives ground** to an enemy who has already been disarmed.
-
-This is why repentance and cleansing remain necessary—not to reestablish deliverance, but to restore order, clarity, and fellowship within a life that has already changed ownership.
+Sin no longer reigns by right. It can only reign if invited.
 
 ---
 
-## Why This Strengthens the Argument, Not Weakens It
+## What This Chapter Establishes
 
-Paul’s warnings in 2 Corinthians do not contradict death-and-transfer theology. They presuppose it.
+Reckoning is not pretending.
 
-Only someone who has been transferred can meaningfully be said to:
-- defile what has been made holy,
-- disrupt fellowship rather than lose identity,
-- give place rather than obey as a slave.
+It is acknowledging participation in Christ’s death.
 
-If sin still ruled by right, Paul’s warnings would be unnecessary.  
-If sin were inevitable, his grief would be incoherent.
+Death has occurred.
+Dominion has ended.
+Jurisdiction has been severed.
 
-Instead, Paul assumes freedom—and warns against misusing it.
+Therefore live accordingly.
 
----
+If death has not occurred, none of Paul’s exhortations make sense.
 
-## Dominion Broken, Responsibility Restored
+But if it has, then freedom is not fragile.
 
-Death with Christ breaks dominion.  
-Resurrection life restores responsibility.
+It is decisive.
 
-Paul’s pastoral concern is not that believers are still enslaved, but that they are **failing to live in alignment with the freedom they have received**.
+And adoption is not sentimental.
 
-This is why he weeps.  
-This is why he warns.  
-This is why he calls for repentance.
-
-Not because ownership is uncertain,  
-but because holiness matters where God now dwells.
-
----
-## Why People Return to sin
-
-When people “cut ties” but remain under the dominion of sin and death, relapse is not mysterious. It is expected.
-
-Paul explains why:
-
-> *“For he that is dead is freed from sin.”*  
-> (Romans 6:7)
-
-Freedom from mastery comes through death, not intention. Until death has occurred, sin remains a ruling power, even if its activity is temporarily restrained by prayer or authority.
-
-This is why deliverance can be real yet incomplete. Spirits may be forced to leave, but sin continues to reign. The behaviors return because the master has not been removed and then the person gives the spirits legal right to return.
-
-Spirits exploit that dominion.  
-They are not its source.
+It is relocation.
 
 ---
 
-## Baptism as the Decisive Act of Transfer
+# Chapter 21 — Citizens of a New Kingdom
 
-The early church did not attempt deliverance without baptism, nor baptism without renunciation. They understood baptism as the moment when death occurred, allegiance shifted, and ownership changed.
+**(Behavior, Allegiance, and Representation)**
 
-> *“Buried with him in baptism… wherein also ye are risen with him through faith.”*  
-> (Colossians 2:12)
+## From Death to Citizenship
 
-This is not about ritual precision or sacramental anxiety. It is about **ontological reality**.
+Death with Christ is not an abstract event. It is an exit.
 
-Without death, deliverance remains provisional.  
-Without transfer, authority remains contested.  
-Without baptismal participation, the old claim persists.
+But exit is not the end.
 
-A person must pass out of one realm and into another.
+Paul says:
 
----
+> “Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son.”
+> (Colossians 1:13)
 
-## Deliverance and the Trap of Needs-Based Christianity
+Deliverance is relocation.
 
-When deliverance is separated from death and transfer, it can unintentionally become another form of needs-based Christianity.
+You are not merely freed.
+You are transferred.
 
-The focus shifts from belonging to Christ to managing symptoms. Freedom becomes episodic rather than decisive. Prayer becomes a mechanism for relief rather than communion. Spiritual life becomes reactive rather than grounded.
-
-People are repeatedly treated as though they are free while still living under the same authority they are trying to escape.
-
-They fight as tenants trying to evict an owner they still legally live under.  
-That is exhausting.
-
----
-## Paul’s Sharpest Warning: Freedom Without License (1 Corinthians 5–6)
-
-Paul’s letters to Corinth make the distinction between freedom and perfection unmistakably clear.
-
-In 1 Corinthians 5, Paul confronts open sexual immorality within the church—behavior so serious that even pagans found it shocking. His response is not casual tolerance, nor is it despair. It is decisive correction.
-
-> *“Know ye not that a little leaven leaveneth the whole lump?  
-> Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened.”*  
-> (1 Corinthians 5:6–7)
-
-Paul does not say, “Become unleavened so that you may belong.”  
-He says, **“You are unleavened—therefore live accordingly.”**
-
-The logic is ontological, not legal. Identity precedes instruction.
-
-Yet Paul is equally clear that returning to patterns of sin is incompatible with the life believers now possess.
+The language shifts from death to kingdom.
 
 ---
 
-## “Such Were Some of You”
+## Our Citizenship Is Elsewhere
 
-This same logic intensifies in 1 Corinthians 6.
+Paul writes:
 
-After listing behaviors associated with the old dominion—sexual immorality, idolatry, drunkenness, greed—Paul states plainly:
+> “For our conversation [citizenship] is in heaven; from whence also we look for the Saviour.”
+> (Philippians 3:20)
 
-> *“And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.”*  
-> (1 Corinthians 6:11)
+The word translated “conversation” refers to citizenship.
 
-Paul does not say these things are no longer temptations.  
-He says they no longer define who the believers are.
+Believers are not refugees without allegiance.
+They are citizens of another realm.
 
-The tense matters.
+This changes everything.
 
-“These things **were** you.”  
-They are no longer your identity, your master, or your home.
-
-To persist in them is not weakness alone. It is a contradiction of the new reality believers have entered.
+Behavior is no longer rule-keeping.
+It is representation.
 
 ---
 
-## Freedom Is Not Perfection
+## Ambassadors, Not Assimilated Residents
 
-At this point, many readers raise an immediate objection:
+Paul continues:
 
-**“But Christians still sin.”**
+> “Now then we are ambassadors for Christ.”
+> (2 Corinthians 5:20)
 
-Paul agrees.
+An ambassador lives in a foreign land but represents his own king.
 
-What Paul denies is that sin still **reigns**.
+He may adopt local language.
+He may understand local customs.
+He may even adapt culturally for the sake of persuasion.
 
-Freedom from the dominion of sin and death does not mean the eradication of temptation, weakness, or failure. It means the end of sin’s authority as master.
+But he does not abandon the directives of his sovereign.
 
-This is why Paul can simultaneously:
-- warn believers sharply against sin,
-- grieve over real failures,
-- and still speak with confidence about their changed state.
+If he does, he ceases to represent.
 
-Perfection is not assumed.  
-Faithfulness is required.
+Jesus embodied this perfectly.
 
----
+He ate with sinners.
+He spoke their language.
+He entered their homes.
 
-## Why the Strawman Persists
-
-Much modern theology resists this framework because it fears an impossible standard. If freedom from dominion is affirmed, it is assumed that sinless perfection must follow—or that hypocrisy is inevitable.
-
-Paul does not make this move.
-
-He distinguishes between:
-- **presence** and **power**,
-- **temptation** and **reign**,
-- **failure** and **slavery**.
-
-Sin can still appear without ruling.  
-Failure can occur without redefining ownership.  
-Repentance restores alignment, not salvation.
-
-This is not an unrealistic gospel.  
-It is a demanding one.
+But He did not adopt their lord.
 
 ---
 
-## Why This Matters for Deliverance and Discipleship
+## Resurrection Ethics
 
-If freedom meant perfection, Paul’s warnings would be unnecessary.  
-If bondage were inevitable, his commands would be incoherent.
+The teachings of Jesus make sense only here.
 
-Instead, Paul assumes a real transfer has occurred—and calls believers to live in a way that corresponds to it.
+“Love your enemies.”
+“Turn the other cheek.”
+“Bless those who curse you.”
 
-Deliverance without death produces cycles of relief and return.  
-Death without vigilance invites defilement and accusation.  
+These commands are impossible under the dominion of death.
 
-But death followed by faithful walking produces something Scripture dares to promise:
+They assume resurrection life.
 
-A people no longer ruled by sin,  
-yet constantly dependent on grace.
+Paul echoes this in 1 Corinthians:
 
-That is not sinless perfection.  
-It is resurrection life lived under a new Lord.
+> “Why do ye not rather suffer wrong?”
+> (1 Corinthians 6:7)
+
+Only those who have passed through death can afford to lose.
+
+Only those who no longer fear death can refuse retaliation.
 
 ---
 
-## What This Chapter Has Shown
+## From Flesh to Spirit
 
-Deliverance ministries often address real problems with real authority. But when death, transfer, and new lordship are not established first, freedom cannot be sustained.
+Citizenship produces new behavior because life has changed.
 
-Scripture does not present deliverance as the doorway into Christ.  
-It presents deliverance as what follows **after** the doorway has been passed through.
+> “If ye then be risen with Christ, seek those things which are above.”
+> (Colossians 3:1)
 
-The doorway has a name.  
-It has a shape.  
-And it has always involved death.
+Seeking above is not escapism.
 
-The next chapter will turn to what life looks like **after** deliverance has been properly grounded—how believers stand, resist, repent, and walk faithfully without confusion about who rules.
+It is alignment with your homeland.
 
-Freedom is not rewon.  
-It is lived.
+Paul’s exhortations in Colossians and Ephesians are not legal demands. They are identity reminders.
+
+Put off what belongs to the old realm.
+Put on what belongs to the new.
+
+Not to earn citizenship,
+but because you have it.
+
+---
+
+## Freedom Does Not Mean Lawlessness
+
+Paul anticipates misunderstanding.
+
+> “All things are lawful unto me, but all things are not expedient.”
+> (1 Corinthians 6:12)
+
+Citizenship does not eliminate responsibility.
+
+It intensifies it.
+
+Because your body is now a temple.
+Because your life now represents a King.
+
+Freedom is not autonomy.
+It is alignment.
+
+---
+
+## Representation in the World
+
+Jesus prayed:
+
+> “They are not of the world, even as I am not of the world.”
+> (John 17:16)
+
+Not of does not mean removed from.
+
+It means governed by another realm.
+
+The citizen of the kingdom lives among those still under death’s dominion.
+
+He speaks gently.
+He forgives freely.
+He refuses corruption.
+
+Not because he fears punishment,
+but because he serves another King.
+
+---
+
+## Behavior That Only Makes Sense After Death
+
+The Sermon on the Mount is not entrance requirements.
+
+It is resurrection living.
+
+Under death’s dominion:
+
+* Power protects itself.
+* Violence answers violence.
+* Reputation must be defended.
+
+Under resurrection:
+
+* Loss does not threaten identity.
+* Death has already been faced.
+* Vindication belongs to God.
+
+These ethics only fit citizens of a new world.
+
+---
+
+## The Consistent Apostolic Pattern
+
+Throughout Paul’s letters, the structure is identical:
+
+1. Declare what God has done.
+2. Declare who you now are.
+3. Exhort behavior consistent with that reality.
+
+Identity precedes instruction.
+
+Citizenship precedes conduct.
+
+Adoption precedes obedience.
+
+---
+
+## Why This Matters
+
+If ethics are preached without death, they become legalism.
+
+If death is preached without citizenship, freedom becomes chaos.
+
+But if death is real and transfer is real, then ethics become natural.
+
+You live as who you now are.
+
+You represent the kingdom you belong to.
+
+You act as one who has already passed through death and cannot be threatened by it again.
+
+---
+
+## What This Chapter Establishes
+
+Resurrection life is not moral improvement.
+
+It is political relocation.
+
+You have died.
+You have been raised.
+You have been transferred.
+You are a citizen of another kingdom.
+
+Live like it.
+
+Not to become one.
+But because you already are.
+
+---
 
 ---
 

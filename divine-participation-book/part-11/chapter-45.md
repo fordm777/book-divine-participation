@@ -1,255 +1,274 @@
-# Chapter 45 — Baptism Without Water: The Strongest Case
+# Chapter 45 — “No One Can Come Unless the Father Draws”: John 6:44 Revisited
 
 
 <p align="center"><a href="../part-11/chapter-44.md">← Previous</a> | <a href="../part-11/chapter-46.md">Next →</a></p>
 
-## Introduction: The Question at Hand
+## The Text Itself
 
-Chapter 14 argued that baptism is the concrete, covenantal moment where believers **enter** Christ’s death and resurrection **by faith**, enacted in water and effected by the Spirit.
+> “No man can come to me, except the Father which hath sent me **draw** him: and I will raise him up at the last day.”  
+> *(John 6:44, KJV)*
 
-Yet a large portion of modern Christianity holds that water baptism is either symbolic-only, non-essential, or a secondary witness to an inward, spiritual baptism that has already occurred. This view is not marginal. It is widely held by sincere Christians who love Scripture and are deeply concerned to protect the gospel of grace.
+John 6:44 is one of the most frequently cited texts in determinist and Calvinist arguments for irresistible grace and regeneration preceding faith. It deserves careful, patient handling, because it is often treated as if it settles the entire debate by itself.
 
-For that reason, this chapter does not caricature or dismiss the position. It presents the strongest version of the case **on its own terms**, not merely listing verses, but exposing the *framework* that makes those verses persuasive.
-
-Because the real disagreement is not finally about baptism.  
-It is about what salvation itself is.
+This chapter moves slowly and methodically, because the issue is not merely theological. It is linguistic, contextual, and structural.
 
 ---
 
-## The Core Concern Driving the View
+## How Calvinism Commonly Presents John 6:44
 
-The modern resistance to water baptism as necessary is almost never rooted in a rejection of obedience. It is rooted in fear—often justified fear—of two things:
+To be fair, we should state the Calvinist reading in its strongest form.
 
-1. **Works-righteousness**  
-   If baptism is required, it can sound as though salvation depends on something we do.
+In the standard Reformed account:
 
-2. **Sacramental mechanism**  
-   If baptism “saves,” it can sound as though water works automatically, apart from faith.
+1. Humanity is “dead in sin” in the sense of **moral and spiritual inability**.  
+2. Therefore, no one can truly come to Christ unless God first acts.  
+3. In John 6:44, “draw” is read as **effectual pulling**, not mere invitation.  
+4. This “drawing” is identified with **regeneration (new birth)** or the **effectual call**.  
+5. The one drawn will certainly come, and the one who comes will certainly be raised.
 
-Both concerns arise from real historical abuses. They deserve to be taken seriously. But fear can also cause a framework shift that quietly changes the nature of salvation itself.
+In other words, John 6:44 becomes proof that the decisive saving action happens *prior* to faith, and it is *irresistible*.
 
----
+That reading has internal consistency—but only if one key move is made and sustained: **draw must be treated as regeneration, and it must function as causation rather than attraction.**
 
-## Why the Case Against Water Baptism Feels Compelling
-
-When stated carefully, the strongest modern case for baptism as symbolic or non-essential usually rests on several converging claims.
-
-### Salvation is by faith alone
-
-Texts such as Romans 3–5, Galatians, and Ephesians 2:8–9 are read to establish a clean sequence:
-
-1. Hear the gospel  
-2. Believe  
-3. Are saved  
-4. Obey (including baptism)
-
-Within this model, baptism is obedience *after* salvation, not the means by which faith enters salvation.
-
-### Spirit baptism is treated as the “one baptism”
-
-Passages like 1 Corinthians 12:13 and Ephesians 4:5 are interpreted to mean that the true baptism is spiritual and inward, with water functioning only as a sign of that deeper reality.
-
-### Exceptional cases appear decisive
-
-The thief on the cross is frequently cited: he was promised paradise without baptism. From this it is inferred that baptism cannot be essential in principle.
-
-### Paul appears to minimize baptism
-
-In 1 Corinthians 1:17, Paul says, “Christ sent me not to baptize, but to preach the gospel.” This is taken to mean that baptism is secondary to the gospel itself.
-
-### Cornelius received the Spirit before baptism
-
-Acts 10 is often treated as proof that salvation precedes baptism, since the Spirit falls before water is applied.
-
-### Many salvation texts mention belief but not baptism
-
-Jesus often promises life to those who believe, especially in John’s Gospel. Paul often calls people to faith and confession without immediately mentioning baptism. This silence is taken as evidence that baptism cannot be necessary.
-
-### Pastoral concern presses hardest
-
-What about the believer who dies before baptism?  
-What about those who lack opportunity?
-
-To preserve assurance, many conclude that baptism cannot be essential, because God can and does save apart from it in exceptional cases.
-
-These arguments are not careless. They arise from a sincere desire to guard grace, protect assurance, and avoid superstition.
+That is the move we now examine.
 
 ---
 
-## The Earliest Christian Baseline
+## The Greek Verb Behind “Draw”
 
-Before responding to later theological developments, it matters to establish a baseline.
+The verb in John 6:44 is **ἕλκω / ἑλκύω** (*helkō / helkyō*).
 
-The earliest Christian writers—apostolic and ante-Nicene—did not treat water baptism as optional, symbolic-only, or secondary. They assumed it as the ordinary point of entry into Christian life, consistently associating it with:
+Lexically, it is not controversial that the verb can be used in **more than one way**.
 
-- cleansing from sins,
-- new birth,
-- reception of the Spirit,
-- renunciation of former dominion,
-- entrance into the Church.
+Greek lexicons list a forceful sense:
 
-They did not frame baptism as competing with faith. They framed it as **faith’s embodied enactment**.
+- draw, drag, haul by exertion or force
 
-This does not settle every later debate, but it establishes an important fact: the modern spiritual-only view is **not** the apostolic default.
+But they also list a second semantic domain that matters greatly for John’s Gospel:
 
----
+- draw to oneself  
+- attract  
+- persuade  
+- pull toward (often of desire, influence, or value)
 
-## The First Rejection of Water Baptism: Gnostic Assumptions
+So the question is not, *Can the word ever mean drag?*  
+It can.
 
-Historically, the earliest groups to deny the necessity or efficacy of water baptism were **gnostic or gnostic-adjacent movements**.
+The question is, **Which sense does the context require in John 6:44?**
 
-Their objection was not fear of works. It was distrust of matter itself. Salvation was conceived as escape from embodiment through knowledge or illumination. Within that worldview, water could not function as a means of salvation because the material order was suspect.
-
-Early Christian writers repeatedly connect the denial of water baptism with a denial of:
-- the goodness of creation,
-- the incarnation,
-- salvation enacted within bodily life.
-
-This matters because it shows that the earliest attempt to “spiritualize” baptism did not arise from a grace-centered concern, but from an ontology that rejected **embodied participation** altogether.
+Words are not defined by dictionaries alone. They are defined by how they function in sentences.
 
 ---
 
-## How the Modern View Actually Developed
+## The Contextual Signal in John 6:44: Two Actions, Not One
 
-The modern spiritual-only position does not descend from gnosticism. It emerges later, under different pressures.
+John 6:44 explicitly contains **two distinct movements**:
 
-### Reformation fear of sacerdotalism
+1. The Father **draws**  
+2. The person **comes**
 
-In reacting against real sacramental abuses, the Reformers emphasized faith and Christ’s sufficiency. Over time, this defensive posture sometimes led to suspicion of any concrete means that appeared to mediate salvation.
+> “No man can **come** … unless the Father … **draw** him …”
 
-### Legal and forensic priority
+This structure matters.
 
-As salvation became framed primarily as a legal verdict, death became metaphorical rather than enacted. Baptism, no longer needed to locate death, was redefined as a sign of a verdict already rendered.
+When *ἕλκω* is used in the **coercive sense**—dragging a body, hauling a net, pulling a prisoner—the action is **complete in itself**. The verb alone describes the entire movement. The object is relocated by force, and no further response is implied or required.
 
-### Anxiety about “means”
+In ordinary language (Greek included), when a verb of influence or movement is followed by a **second verb of response**, the first verb cannot be functioning as completed force.
 
-In traditions where regeneration is placed prior to any embodied response, baptism cannot function as transition. It must be confirmation. The result is an increasingly abstract salvation.
+Instead:
 
-### Revivalist decision theology
+- the first verb describes an **initiating action**, and  
+- the second verb describes the **response** that follows.
 
-As conversion became centered on immediate decisions and verbal confessions, baptism became easier to delay. Delay normalized. Normalization produced optionality.
+Force completes an action.  
+Attraction invites continuation.
 
----
+If someone is dragged, they do not subsequently *come*.  
+If someone is attracted, they may.
 
-## The Real Disagreement Beneath the Debate
+This is a basic linguistic distinction, not a theological one.
 
-When the strongest case against water baptism is examined carefully, something crucial becomes visible.
+### Why John 6:44 Fits the Two-Verb Pattern
 
-The disagreement is not finally about proof texts.
+John 6:44 does not describe a single completed action. It describes a **sequence**:
 
-It is about **what salvation is**.
+- the Father **draws**  
+- the person **comes**
 
-### Two Different Questions Being Asked
+Crucially, the text does not say the person *will* come, but that the person **can** come. The language is explicitly one of **possibility**, not inevitability.
 
-One side is asking:
+The verb *can* indicates capacity, not compulsion or certainty. It signals that drawing makes coming **possible**, not unavoidable. This fits naturally with drawing understood as attraction or summons, and it resists reading drawing as a force that overrides response.
 
-> **How is guilt removed?**
+The verb *come* only makes sense if drawing does **not** already accomplish arrival. Drawing here functions as an initiating movement that **invites approach**, not as a force that replaces approach.
 
-The other is asking:
+If the person has already been brought near by irresistible force, the capacity to “come” becomes redundant. John’s sentence structure deliberately avoids that redundancy and instead preserves the grammar of invitation and response.
 
-> **How is dominion escaped?**
-
-Once this is seen, the debate begins to make sense.
-
----
-
-## Framework Comparison: What Is Really at Stake
-
-### Why Frameworks Matter More Than Proof Texts
-
-At this point, it becomes clear that the disagreement over baptism is not driven primarily by isolated verses. It is driven by deeper assumptions about what salvation itself is and what kind of problem it is addressing.
-
-These assumptions form what can be called a *framework*. A framework is not a denial of Scripture, but a way of organizing Scripture, deciding which questions are primary, and determining what counts as an answer.
-
-When two readers approach the same texts with different frameworks, they may agree on the words while disagreeing on their meaning, force, and function.
-
-The debate over baptism persists because the two sides are often operating within different frameworks while assuming they are asking the same question.
-
-The following comparison makes this difference visible.
-
-| Question | Legal / Forensic Framework | Covenantal / Participatory Framework |
-|--------|----------------------------|--------------------------------------|
-| What is salvation? | A verdict declared | A passage entered |
-| Primary image | Courtroom | Exodus / death / resurrection |
-| What does faith do? | Assents | Entrusts and obeys |
-| Faith is | Cognitive belief | Relational allegiance |
-| Role of the body | Symbolic | Participatory |
-| What can matter do? | Point to reality | Serve as means |
-| How is death handled? | Christ dies instead of us | Christ dies so we can die with Him |
-| Where does death occur? | Metaphorically | Concretely |
-| What is baptism? | Symbol of salvation | Entry into death and life |
-| Faith’s relation to baptism | Replaces it | Expresses itself through it |
-| View of obedience | After salvation | Mode of entering salvation |
-| Time of salvation | Instant verdict | Enacted transition |
-| Primary fear | Works-righteousness | Avoidance of death |
-| What is lost if wrong? | Assurance | Participation |
-
-This table exposes why the debate persists. The two sides are often answering different questions, using different metaphors, and guarding different perceived dangers.
 
 ---
 
-## Why Baptism Becomes the Fault Line
+## The LXX Confirms This Usage: Song of Songs 1:4
 
-Baptism sits precisely at the intersection of:
+The Greek Old Testament provides a clear parallel:
 
-- faith and obedience,
-- spirit and body,
-- declaration and enactment,
-- promise and participation.
+> “Draw me; **we will run after you**.”  
+> *(Song of Songs 1:4, LXX)*
 
-If salvation is primarily a verdict, baptism will inevitably become symbolic.
+Here again, the structure is the same:
 
-If salvation is a passage through death into life, baptism will inevitably be the place where that passage is entered **by faith**.
+- drawing initiates  
+- response follows
 
-This is why the apostolic writings feel no tension modern readers feel. They are not asking whether baptism adds to grace. They are describing **how grace is entered**.
+No coercion is present. The drawing awakens desire, and the response is voluntary pursuit.
+
+John 6:44 follows this same linguistic pattern. Drawing is the summons that precedes coming, not the force that replaces it.
+
+This matters because John’s Gospel frequently operates in **relational and covenantal categories**, love and hate, light and darkness. The LXX already supplied a well-established register in which *ἕλκω* functions as **attraction that invites response**.
 
 ---
 
-## Conclusion: The Question Beneath the Question
+## To Be Fair: Coercive Uses Exist
 
-The disagreement over baptism is not finally a disagreement about water.
+The New Testament itself uses *ἕλκω* in plainly forceful contexts—dragging people before authorities, hauling nets, pulling with physical exertion.
 
-It is a disagreement about **what salvation itself is**.
+So the issue is not whether Calvinists can point to coercive examples. They can.
 
-One framework understands salvation primarily as a **verdict**: guilt is removed, status is changed, and assurance follows immediately. Within that framework, baptism can only function as a symbol, because nothing embodied is needed once the verdict is declared.
+The issue is whether John 6:44 belongs to that category.
 
-The other framework understands salvation as a **passage**: a movement from one dominion to another, from death into life. Within that framework, salvation must be *entered*, not merely announced, and death must be *undergone*, not merely affirmed.
+The presence of a second verb of response (*come*) strongly indicates that it does not.
 
-This is why the debate cannot be settled by isolated verses.
+---
 
-Each side is asking Scripture a different question.
+## Extra-Biblical Greek Usage: Both Senses Are Real
 
-One side is asking, **“How is guilt removed?”**  
-The other is asking, **“How is dominion escaped?”**
+Greek literature outside Scripture confirms the same pattern.
 
-One side is guarding grace from being turned into mechanism.  
-The other is guarding salvation from being turned into abstraction.
+### Forceful Usage
 
-Once this is seen, the persistence of the disagreement makes sense.
+In classical literature (e.g., Homer), *ἕλκω* is used for dragging bodies or hauling objects. The action is complete in itself. No response is implied or expected.
 
-The apostles were not attempting to decide whether baptism “adds” something to grace. They were announcing deliverance through death and describing how that deliverance is entered **by faith**.
+### Attraction Usage
 
-If salvation is only a declaration, baptism will always feel unnecessary.  
-If salvation is a passage through death into life, baptism will always be unavoidable.
+In philosophical and moral contexts, *ἕλκω* is used for:
 
-The apostolic witness does not spiritualize death.  
-It locates it.
+- the soul being drawn toward the good  
+- desire pulling the will  
+- persuasion rather than compulsion  
 
-It does not redefine obedience as optional.  
-It presents obedience as the form faith takes when it entrusts itself fully to God.
+Across these sources, one pattern holds:
 
-It does not ask whether God *can* save apart from baptism in extraordinary circumstances.  
-It declares how God has chosen to save ordinarily—by bringing people **through** death, not around it.
+> When *ἕλκω* means force, the action is complete.  
+> When it means attraction, it is followed by a response verb.
 
-And for the apostles, that passage has a name, a moment, and a shape.
+John 6:44 belongs to the second category.
 
-It is entered **by faith**.  
-It is enacted in baptism.  
-It is completed in resurrection life.
+---
 
-The question is no longer whether baptism fits our framework.
+## The System Move: Redefining “Draw” as Regeneration
 
-The question is whether our framework aligns with what is found in the scriptures and the gospel the apostles preached.
+At this point, determinist theology makes a necessary move.
+
+Because John 6:44 contains both:
+- divine initiative (the Father draws), and
+- human response (the person comes),
+
+the system collapses the two into one.
+
+The functional redefinition becomes:
+
+> **draw = regenerate (new birth)**
+
+So the verse is effectively read as:
+
+> “No one can come unless the Father first makes him alive so that he must come.”
+
+But this is not what the text says; however, it is what the determistic system requires.
+
+---
+
+## Why “Come” Becomes Strange Under This Reading
+
+If drawing already places the person **in Christ** through regeneration, then the notion of subsequently *coming* to Christ becomes conceptually awkward.
+
+The verse begins to describe someone who is made alive *in relation to Christ* in order to then approach Christ.
+
+That is not how the sentence reads.
+
+John keeps both verbs because they describe **different actions**:
+- drawing enables approach
+- coming completes approach
+
+---
+
+## John 12:32 — Not a Countertext, but a Clarifier
+
+Many debates rush immediately to John 12:32, but the deeper issue is not the word *all*. It is the meaning of *draw*.
+
+> “And I, if I be lifted up from the earth, will **draw all** men unto me.”  
+> *(John 12:32, KJV)*
+
+This is the same verb, used by the same author, in the same Gospel.
+
+If *draw* means irresistible regeneration in John 6, then John 12 implies universal regeneration or universal salvation.
+
+To avoid this, determinist readings quietly split the verb:
+- effectual in John 6  
+- general in John 12
+
+But John himself locates the drawing in the public, revelatory event of Christ being “lifted up.” This aligns naturally with attraction, not secret regeneration.
+
+John 12 does not contradict John 6. It **defines the mode of drawing**.
+
+---
+
+## Why This Matters for Dying With Christ
+
+Chapter 33 established that Paul speaks of death as **dominion**, not ontological non-being, and that freedom from sin comes through **dying with Christ**.
+
+If John 6:44 is read as regeneration first (life first), the gospel sequence is reversed:
+
+- life is granted before death-with-Christ  
+- dying-with-Christ is reclassified as symbolic or sanctification language  
+
+But Paul says:
+
+> “He that is dead is freed from sin.”  
+> *(Romans 6:7)*
+
+If a person is already ontologically dead before Christ, then—by Paul’s logic, they should already be free from sin. Yet Paul insists that freedom comes through **participation in Christ’s death**.
+
+The regeneration-first reading forces this contradiction and then resolves it by quietly diminishing baptismal death and participatory union.
+
+---
+
+## Conclusion: John 6:44 Does Not Teach the Bypass of Death
+
+John 6:44 only becomes a determinist proof text if:
+
+- drawing is equated with regeneration,  
+- coming is treated as guaranteed and redundant,  
+- John 12 is redefined to preserve the system, and  
+- Paul’s death-with-Christ is reduced to metaphor.
+
+If the Johannine grammar is allowed to stand, the verse reads naturally:
+
+- The Father draws through revelation and attraction.  
+- Drawing enables coming.  
+- Coming is real response, not self-rescue.  
+- Those who come are raised because they enter Christ.
+
+And if the apostolic grammar is allowed to stand, the gospel remains coherent:
+
+- Humanity lives under death’s dominion.  
+- God draws us to Christ.  
+- We come, not as liberators, but as those receiving rescue.  
+- We die with Christ, and having died, we are freed from sin.  
+- We rise with Christ into newness of life.
+
+Any reading of John 6:44 that grants life prior to death-with-Christ does not merely rearrange a verse. It rearranges the gospel—and turns Paul’s language of dying with Christ into nonsense.
+
+The Father’s drawing is real and powerful.  
+But it is not the bypass of death.  
+It is the summons into Christ, where death is entered and defeated through participation, not avoided through a hidden mechanism.
 
 ---
 

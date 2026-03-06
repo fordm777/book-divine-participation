@@ -1,6 +1,6 @@
-## Chapter 47 — Death Defeated, Life Restored  
+# Chapter 49 — Death Defeated, Life Restored  
 
-<p align="center"><a href="../part-11/chapter-46.md">← Previous</a></p>
+<p align="center"><a href="../part-11/chapter-48.md">← Previous</a></p>
 
 ### Closing Summary
 

@@ -1,208 +1,122 @@
-# Chapter 18 — Adoption: From Slaves to Sons
+# Chapter 18 — Dead Indeed: Reckoning What Really Happened
 
 
-<p align="center"><a href="../part-05/chapter-17.md">← Previous</a> | <a href="../part-06/chapter-19.md">Next →</a></p>
+<p align="center"><a href="../part-05/chapter-17.md">← Previous</a> | <a href="../part-05/chapter-19.md">Next →</a></p>
 
-## The Strongest Form of the Objection
+## The Question That Must Be Asked
 
-Galatians 4:4–7 states:
+Paul writes:
 
-> "But when the fulness of the time was come, God sent forth his Son…  
-> To redeem them that were under the law, that we might receive the adoption of sons…  
-> Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ."
+> “Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.”
+> (Romans 6:11)
 
-The objection is typically framed like this:
+This command is often softened. “Reckon” is treated as though Paul were urging believers to imagine something that is not yet true. As though death were symbolic. As though freedom were psychological.
 
-1. Adoption is a legal act.  
-2. Legal acts do not require death or participation.  
-3. Therefore salvation is primarily a legal status change.  
-4. Baptism and dying with Christ must therefore be symbolic rather than constitutive.
+But Paul does not say, “Pretend you are dead.”
 
-This argument deserves careful engagement. Paul is using real legal language from his world. But modern readers often misunderstand what "adoption" meant in the first century.
+He says, **reckon** — and the Greek makes the force of the word difficult to evade.
 
----
+The verb is *λογίζεσθε* (*logizesthe*), from *λογίζομαι* (*logizomai*). It belongs to the family of *λόγος* (*logos*): word, reason, account. In ordinary Greek it was used for **counting, calculating, and accounting** — for entering something on a ledger, crediting a sum to an account, or treating a state of affairs as real for the purpose of decision and action. To reckon something so is to **count it as true** and to order one’s life accordingly. It does not mean “act as if” in the sense of pretending. It means to **account for a reality**: to recognize that something has been done, to credit it, and to live in light of it.
 
-## Modern Adoption vs. Roman Adoption
+When Paul says “reckon yourselves dead indeed unto sin,” he is not inviting believers to conjure a feeling or adopt a metaphor. He is calling them to **account for something that has already happened**. Reckoning assumes an event. You do not reckon what has not occurred; you reckon what has. The word itself implies that death and life are being treated as real states to be counted, not as moods to be mustered.
 
-Modern Western Christians often imagine adoption as:
+The question, then, is unavoidable:
 
-- An unwanted infant.
-- No participation by the child.
-- A purely administrative reassignment.
-- A sentimental rescue narrative.
-
-That is not what Paul is describing.
-
-In the Roman world, adoption was not primarily about unwanted infants. It was about **transfer of household authority and inheritance rights**.
-
-It was a legal movement from one father's authority to another.
+**What happened?**
 
 ---
 
-## Roman Adoption in Paul's World
+## Death Before Declaration
 
-Roman adoption (Greek: *huiothesia*; Latin: *adoptio* or *adrogatio*) involved:
+Romans 6 does not begin with a verdict. It begins with death.
 
-- Transfer from one *patria potestas* (father's authority) to another.
-- Severance from the former household.
-- Cancellation of prior familial obligations.
-- Establishment of new inheritance rights.
-- A new legal identity within a new family.
+> “Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?”
+> (Romans 6:3)
 
-The Roman jurist **Gaius** (2nd century AD) describes adoption as a formal procedure by which someone passes into another's paternal authority (*Institutes* 1.97–107).
+Paul does not speak of Christ dying instead of us so that we would not die. He speaks of our participation in His death.
 
-Later, **Justinian's Institutes** preserves the same legal framework, distinguishing between adoptio and adrogatio. Both forms involve formal transfer into a new paternal authority.
+The sequence matters:
 
-Roman legal discussions of *capitis deminutio minima* describe a change of family status — a genuine shift of legal identity.
+* Baptized into Christ
+* Baptized into His death
+* Buried with Him
+* Raised with Him
+* Walking in newness of life
 
-In practical terms:
+Then Paul states:
 
-The adopted son was no longer reckoned as belonging to his former household.  
-He now belonged entirely to the new father.
+> “For he that is dead is freed [justified] from sin.”
+> (Romans 6:7)
 
-Adoption meant transfer.
+Notice the order.
 
-Not addition.  
-Not coexistence.  
+Not:
+Justified → therefore dead.
+
+But:
+Dead → therefore justified.
+
+Death severs sin’s claim.
+
+Justification recognizes that severance.
+
+---
+
+## If Death Is Not Real, Reckoning Becomes Fiction
+
+If Christ died instead of you, and you did not die with Him, then Paul’s language collapses into metaphor.
+
+If you did not actually die to sin:
+
+* Sin’s dominion has not ended.
+* The old master still holds jurisdiction.
+* “Freed from sin” becomes mental fiction or metaphor.
+
+But Paul speaks of dominion ending through death.
+
+He continues:
+
+> “Our old man is crucified with him, that the body of sin might be destroyed.”
+> (Romans 6:6)
+
+This is not imagination. It is execution language.
+
+Reckoning, therefore, is not pretending.
+It is counting as true what God has accomplished.
+
+---
+
+## The Consistent New Testament Pattern
+
+Paul is not alone in this language. The New Testament speaks with one voice.
+
+### Death With Christ
+
+* “I am crucified with Christ.” (Galatians 2:20)
+* “If we be dead with Christ…” (Romans 6:8)
+* “Ye are dead, and your life is hid with Christ in God.” (Colossians 3:3)
+* “If ye be dead with Christ from the rudiments of the world…” (Colossians 2:20)
+
+### Burial With Him
+
+* “Buried with him by baptism into death.” (Romans 6:4)
+* “Buried with him in baptism.” (Colossians 2:12)
+
+### Raised With Him
+
+* “Risen with him through the faith of the operation of God.” (Colossians 2:12)
+* “If ye then be risen with Christ…” (Colossians 3:1)
+* “Made us sit together in heavenly places in Christ Jesus.” (Ephesians 2:6)
+
+This is not scattered metaphor. It is a unified grammar.
+
+Death.
+Burial.
+Resurrection.
 Transfer.
 
 ---
 
-## The Structure of Galatians 4
-
-Paul's argument follows a clear sequence:
-
-1. Bondage under guardians.
-2. Redemption from that bondage.
-3. Adoption as sons.
-4. Inheritance as heirs.
-
-> "To redeem them that were under the law, that we might receive the adoption of sons."
-
-Adoption is not the mechanism of redemption.
-
-Adoption is the result of redemption.
-
-Redemption (*exagorazō*) means to buy out of slavery.
-
-The sequence is:
-
-Bondage → Redemption → Adoption → Inheritance.
-
-Adoption presupposes release.
-
 ---
 
-## Early Church Witness (Ante-Nicene)
-
-The Ante-Nicene Fathers do not treat adoption as a bare legal fiction. They consistently connect it to participation and transformation.
-
-### Irenaeus of Lyons (c. 130–202)
-
-In *Against Heresies*, Irenaeus repeatedly references the "Spirit of adoption" (Romans 8:15; Galatians 4:6). He connects adoption to:
-
-- Receiving the Spirit.
-- Participation in incorruption.
-- Restoration of likeness in Christ.
-
-For Irenaeus, sonship flows from union with Christ, the true Son. Adoption is not external paperwork; it is entrance into divine life.
-
-### Tertullian (c. 155–240)
-
-Tertullian cites Galatians 4:6 ("Abba, Father") to show that believers truly belong to God. The Spirit's indwelling is evidence of sonship. Adoption is relational and Spirit-confirmed.
-
-### Origen (c. 185–254)
-
-Origen treats adoption as growth into sonship through participation in Christ. It is dynamic and transformative, not static or purely declarative.
-
-Across the Ante-Nicene period, adoption is consistently associated with:
-
-- Transfer from slavery to sonship.
-- Reception of the Spirit.
-- Participation in divine life.
-- Entrance into inheritance.
-
-It is not treated as a purely forensic declaration.
-
----
-
-## Adoption and Baptism in Galatians
-
-Immediately before the adoption language, Paul writes:
-
-> "For as many of you as have been baptized into Christ have put on Christ." (Gal 3:27)
-
-The structure is deliberate:
-
-- Baptized into Christ.
-- Clothed with Christ.
-- No longer slave.
-- Now son.
-- Now heir.
-
-Adoption follows incorporation into Christ.
-
-It does not replace it.
-
----
-
-## Severance Is Assumed
-
-The key question is:
-
-From what are we adopted?
-
-Paul answers:
-
-> "Them that were under the law."
-
-Adoption assumes exit from prior authority.
-
-In Roman legal imagery, adoption required severance from the old household.
-
-In Paul's theology elsewhere (Romans 7), release from covenantal authority requires death.
-
-The pattern remains consistent:
-
-Transfer requires release.  
-Release requires severance.  
-Severance, in Paul's theology, is accomplished through participation in Christ's death and resurrection.
-
-Adoption names the new status after that transfer.
-
----
-
-## Conclusion
-
-Modern readers often import a sentimental infant-adoption model into Galatians 4.
-
-Paul's world knew nothing of that model.
-
-In Roman law, adoption meant:
-
-- Transfer of household authority.
-- Severance from former identity.
-- Establishment of new inheritance.
-- Recognition of a new father.
-
-The Ante-Nicene church read it within a participatory and transformative framework.
-
-Paul structures Galatians 4 around bondage, redemption, and transfer.
-
-Adoption does not bypass the dominion-transfer logic of dying with Christ.
-
-It names the result.
-
-You are no longer under the old master.  
-You now belong to a new Father.  
-You are no longer a slave.  
-You are a son.  
-And if a son, then an heir.
-
-Adoption, rightly understood, strengthens the participatory framework.
-
-It does not weaken it.
-
----
-
-<p align="center"><a href="../part-05/chapter-17.md">← Previous</a> | <a href="../part-06/chapter-19.md">Next →</a></p>
+<p align="center"><a href="../part-05/chapter-17.md">← Previous</a> | <a href="../part-05/chapter-19.md">Next →</a></p>

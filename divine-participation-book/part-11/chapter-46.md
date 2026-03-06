@@ -1,164 +1,210 @@
-# Chapter 46 — Common Questions, Familiar Words, and Misheard Meanings
+# Chapter 46 — Renewed Covenant Theology: The Strongest Biblical Case
 
-<p align="center"><a href="../part-11/chapter-45.md">← Previous</a> | <a href="../part-12/chapter-47.md">Next →</a></p>
 
-By this point in the book, many disagreements have already been resolved—not because every verse has been individually addressed, but because the *framework itself* has shifted. When death is understood as dominion rather than punishment, when salvation is understood as rescue rather than transaction, and when Christ's work is understood as participation rather than legal substitution, many objections simply lose their force.
+<p align="center"><a href="../part-11/chapter-45.md">← Previous</a> | <a href="../part-11/chapter-47.md">Next →</a></p>
 
-Still, certain questions persist. Not because Scripture is unclear, but because familiar biblical words are often heard through modern categories foreign to the world in which they were spoken. This chapter addresses several of those common questions—not to reopen earlier debates, but to clarify how Scripture itself uses its language.
+## Introduction: Why This Question Matters
 
-What follows is not a defense against critics, but a translation for readers who want to hear Scripture on its own terms.
+Throughout this book, we have presented Scripture as pointing toward a **new covenant**, rather than a renewed one. We have traced how death functions as the boundary of covenant authority, how release precedes life, and how salvation is consistently framed as participation in Christ’s death and resurrection rather than improvement of an existing state.
+
+At the same time, there is a view held by many sincere believers that understands the work of Christ not as inaugurating a fundamentally new covenant, but as **renewing, restoring, and internalizing** the covenant God made with Israel. This view—often called renewed covenant theology—arises from a desire to honor God’s faithfulness, preserve continuity across Scripture, resist lawlessness, and take seriously the words and practices of Jesus and the apostles.
+
+Because of this, it deserves careful and fair presentation. This chapter sets out the renewed-covenant position at its strongest, explores why it is compelling, and then considers where tension emerges when it is set alongside the full biblical witness—particularly the framework of **purification, death, and indwelling** that governs Acts, Paul’s letters, and the apostolic gospel as a whole.
+
+---
+
+## The Renewed Covenant Position at Its Strongest
+
+### 1. Prophetic Language Emphasizes Restoration
+
+Renewed covenant theology draws heavily from the prophetic literature, which consistently speaks in terms of **restoration rather than replacement**.
+
+Jeremiah’s promise of a “new covenant” (Jeremiah 31:31–34) appears within a context of return from exile. The covenant is explicitly with Israel and Judah. The law is not discarded but written on hearts. The covenant formula—“I will be their God, and they shall be my people”—remains unchanged.
+
+Likewise, Ezekiel’s vision focuses on transformation rather than abolition:
+
+> “I will sprinkle clean water upon you… I will give you a new heart… and cause you to walk in my statutes.” (Ezekiel 36:25–27)
+
+The emphasis is on cleansing, renewal of the heart, and Spirit-enabled obedience. From this perspective, the covenant itself remains intact; what changes is the condition of the people within it.
+
+Hosea’s marriage imagery reinforces this reading. Despite Israel’s unfaithfulness, God speaks of betrothing her again. The relationship is healed, not replaced. The same bride is restored.
+
+---
+
+### 2. God’s Promises to Israel Remain Firm
+
+A second pillar of renewed covenant theology is the conviction that God’s promises are irrevocable.
+
+The Abrahamic covenant is called “everlasting.” Paul insists that God has not cast away his people (Romans 11:1–2) and describes Gentiles as grafted into Israel’s olive tree rather than planted into a different one (Romans 11:17–24).
+
+From this perspective, covenant continuity safeguards God’s faithfulness. Any account of Christ’s work must preserve Israel’s election rather than nullify it.
+
+---
+
+### 3. Jesus Affirms the Law and the Prophets
+
+Jesus’ own words carry significant weight:
+
+> “Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.” (Matthew 5:17)
+
+Renewed covenant theology understands fulfillment as bringing Torah to its intended depth rather than setting it aside. Jesus keeps the law, teaches from it, and summarizes it through love of God and neighbor. Torah is not negated; it is rightly understood.
+
+---
+
+### 4. Apostolic Practice Appears Continuous
+
+The apostles, including Paul, continue to participate in Jewish life after the resurrection. Acts depicts temple worship, feast observance, vows, and purification rituals. Paul insists he has not violated the law or the temple.
+
+Renewed covenant theology often reads Paul’s letters in light of this practice, understanding his polemic as directed against Torah as a means of justification, not against Torah as a way of life.
+
+---
+
+## Acts 15: A Crucial Test Case
+
+Acts 15 is central to renewed and dual-covenant readings. The Jerusalem Council addresses whether Gentile believers must be circumcised and take on the full yoke of the Mosaic law.
+
+The council answers decisively: they must not.
+
+Yet Gentiles are given four prohibitions:
+
+- abstaining from things polluted by idols  
+- abstaining from blood  
+- abstaining from things strangled  
+- abstaining from sexual immorality  
+
+These are not arbitrary moral rules. They correspond directly to **categories of bodily defilement** associated with pagan worship and Gentile life.
+
+For renewed-covenant readers, this is compelling. The apostles do not dismiss purity concerns. They draw directly from Torah categories. They require Gentiles to live in ways compatible with holiness.
+
+At the same time, the decision is carefully limited. Circumcision is not required. Sabbath observance is not mandated. Gentiles are not placed under the jurisdiction of the Mosaic covenant. The focus is not covenant entry, but **purity of life and shared fellowship**.
+
+This raises an important question: *what kind of framework best explains this decision?*
+
+---
+
+## Acts 15 Read Through Paul’s Teaching in 1 Corinthians
+
+The purification logic of Acts 15 becomes clearer when read alongside Paul’s teaching in 1 Corinthians. As Paul addresses the same categories of concern—idolatry, blood, sexual immorality, and participation—he consistently frames them in terms of **temple cleanness**. What is striking is not that concern for holiness disappears, but that it is relocated. Language once used to guard the sanctity of a physical sanctuary is now applied to the **body itself**, because, as Paul goes on to explain, the body has become the dwelling place of God’s Spirit. Holiness has not diminished; the location of God’s presence has changed.
+
+### Food Offered to Idols (1 Corinthians 8–10)
+
+Paul acknowledges that idols have no real existence. Yet participation in idol feasts is not neutral. Such participation involves communion and produces contamination.
+
+> “Ye cannot drink the cup of the Lord, and the cup of devils.” (1 Corinthians 10:21)
+
+The concern is not covenant legality, but **contamination through participation**.
+
+### Blood and Participation
+
+Paul’s language surrounding the cup and the body of Christ emphasizes that participation is real and embodied. What enters the body matters, because the body itself is now claimed by Christ. Participation joins the believer not only to Christ, but to whatever power is encountered at the table.
+
+### Sexual Immorality (1 Corinthians 5–6)
+
+Paul’s strongest warnings concern sexual immorality, and his reasoning is explicitly purification-oriented.
+
+> “Know ye not that your bodies are the members of Christ?”  
+> “He that committeth fornication sinneth against his own body.”
+
+Sexual immorality is not framed primarily as law-breaking, but as desecration of what has been claimed as holy.
+
+### The Body as Temple
+
+Paul states the underlying reality plainly:
+
+> “Your body is the temple of the Holy Spirit.”
+
+This becomes the controlling category. The Spirit dwells in what has been cleansed. Contamination does not primarily threaten legal standing, but the integrity of indwelling presence.
+
+Read in this light, Acts 15 does not function as renewed covenant legislation. It operates as a **purification framework**, governing how bodies formerly shaped by idolatry may now participate in a holy community in which God dwells.
 
 
 ---
 
-## Q: Doesn't "redeemed" mean a price was paid?
+## A Central Question Emerges
 
-This question is understandable, especially in modern Christian usage where *redemption* is often framed as a financial or legal transaction. But this understanding owes more to later theological developments than to Scripture itself.
+At this point, a central question emerges for the renewed-covenant position:
 
-In the Old Testament, redemption language is most clearly defined by the Exodus. God declares that He has **redeemed Israel from bondage in Egypt**. Yet no payment is made to Pharaoh. No transaction is negotiated. Israel is not purchased through exchange. They are **rescued** through power, judgment, and deliverance.
+**How does renewal alone account for Scripture’s insistence that death is the mechanism of release from covenant authority?**
 
-Redemption, in Scripture, names liberation from bondage, not payment to a rightful owner.
+Paul states the principle clearly:
 
-This aligns with older English usage as well. Historically, *redeem* carried the sense of **recovering, rescuing, or reclaiming** something that had fallen into captivity or loss. The word did not inherently imply a financial exchange.
+> “The law has dominion over a person as long as he lives.” (Romans 7:1)
 
-When the New Testament speaks of redemption, it continues this Exodus-shaped logic. Humanity is redeemed from slavery to sin and death—not by satisfying a debt ledger, but by being brought out from under a dominion that enslaved them.
+Covenant authority persists as long as jurisdiction persists. Renewal repairs what exists; it does not end jurisdiction. Yet Paul repeatedly describes salvation in terms of **death, release, and transfer**.
 
-Redemption is not primarily about what is paid. It is about **who now owns**.
-
----
-
-## Q: What about "ransom" and "bought with a price" language?
-
-Ransom language functions similarly. A ransom is what **frees captives**. Scripture consistently emphasizes the result of ransom—release from bondage—while remaining notably silent about *to whom* such a ransom is paid.
-
-This silence is not accidental. The biblical concern is not identifying a recipient, but announcing liberation.
-
-Likewise, when Paul says believers were "bought with a price," the point is not to construct a commercial metaphor, but to establish **transfer of ownership**. What once belonged to sin, death, and the devil now belongs to God.
-
-This is crucial. Forgiveness in Scripture is not merely the cancellation of guilt. It presupposes a **change in lordship**. A slave is not forgiven into freedom while remaining owned by the same master. Ownership must change.
-
-Salvation, then, is not a declaration issued while bondage remains intact. It is emancipation. Only once dominion has been broken can forgiveness be meaningfully spoken.
+This is where tension begins to surface.
 
 ---
 
-## Q: What does it mean that Christ "bore" or "carried" our sins?
+## Why Death Becomes Decisive
 
-This language is frequently assumed to mean that Christ absorbed punishment in our place. But Scripture itself uses *bearing* language differently.
+Romans 6–7 does not frame covenant transition as restoration within the same bond, but as release through death followed by new union.
 
-To "bear" sin in biblical usage does not mean to be punished instead of someone else. It means to **carry, remove, deal with, or take responsibility for resolving** the problem.
+- dying with Christ  
+- burial  
+- release from prior dominion  
+- marriage to another  
+- newness of life  
 
-Priests "bear" the sins of the people by dealing with them sacrificially. Scapegoats "bear" sins by carrying them away from the community. Israel "bears" its sins by living under the consequences of covenant breach.
+This is jurisdictional language, not merely experiential language.
 
-In none of these cases does *bearing* require penal substitution.
+Renewed covenant theology explains transformation well. It explains continuity well. But it struggles to explain why **death**, rather than renewal, is presented as the decisive boundary.
 
-When the New Testament says Christ bore our sins, it is speaking in this priestly and sacrificial register. Christ enters fully into the human condition under sin and death and **carries it through death itself**, removing its claim and power.
-
-He does not stand apart from humanity and receive punishment instead. He stands *with* humanity, entering the depth of the problem in order to exhaust it.
-
----
-
-## Q: What does "wrath" mean if God is not punishing?
-
-Modern theology often treats *wrath* as shorthand for retributive punishment. Scripture does not.
-
-Biblically, wrath frequently names what happens when God **hands people over** to the consequences of covenant breach—withdrawal of protection, exposure to destruction, or removal from life-giving presence. This is relational and covenantal language, not courtroom sentencing.
-
-As discussed earlier (see Chapter 21), many theological words have been **hijacked**, redefined through later legal frameworks that flatten their original meaning. Wrath is one of them.
-
-Wrath is not God losing control. It is God allowing corrupting forces to run their course when covenant is rejected. This is why wrath is often described in terms of exile, uncleanness, and death's reign rather than legal punishment.
+If covenant authority remains continuous, death cannot function as release.  
+If death functions as release, renewal alone cannot account for the transition.
 
 ---
 
-## Q: If God could forgive, why did Jesus have to die?
+## Pastoral Consequences of Missing the Purification Framework
 
-Because the problem was never God's willingness to forgive.
+When purification and cleansing are not the controlling categories, several patterns often emerge—sometimes unintentionally.
 
-The problem was death's dominion.
+- Acts 15 becomes reduced to minimal ethics rather than bodily holiness  
+- 1 Corinthians becomes moral exhortation rather than temple protection  
+- Baptism becomes symbolic rather than participatory  
+- Romans 7 becomes normalized as the Christian condition  
+- Freedom becomes managed struggle rather than decisive release  
 
-Death is not talked away. It is not ignored. It is not forgiven out of existence. Death is **entered, confronted, and defeated**. Christ truly enters death, defeats it from within, and only later—at the resurrection of all things—will death be fully destroyed.
-
-Forgiveness without liberation leaves bondage intact. Christ does not merely announce pardon. He breaks the power that held humanity captive so forgiveness can actually be lived.
-
----
-
-## Q: Isn't this just "Christus Victor"?
-
-Many people treat *Christus Victor* as an atonement model alongside others. Historically, it is not an atonement theory at all. It is a **victory announcement**.
-
-As discussed in Chapter 8, atonement concerns cleansing, reconciliation, and restored communion—not merely conflict imagery. Victory over death and the powers flows from Christ's participation in humanity, not from an alternative legal mechanism.
-
-Christ does not defeat death externally like a warrior overpowering an enemy. He defeats it by **entering it**, exhausting it, and rising beyond it. Victory is the result of participation, not a competing explanation of atonement.
+These outcomes are not inevitable, but they are common. They reflect what happens when death, cleansing, and indwelling are treated as metaphors rather than realities.
 
 ---
 
-## Q: Is Communion just symbolic remembrance?
+## Why Renewal and Penal Substitution Both Strain Here
 
-Many churches have reduced Communion to mental recall: *remember what Jesus did*. Scripture presents something far richer.
+Both renewed-covenant theology and penal substitution models often struggle at the same point—not because they agree, but because **neither places purification at the center**.
 
-Paul explicitly connects the cup and the bread to **participation**: participation in Christ's blood and body (1 Corinthians 10). This mirrors Old Testament participation offerings, where worshipers shared a meal in God's presence as an expression of restored communion.
+- Renewal emphasizes continuity but lacks a mechanism for release  
+- Penal substitution emphasizes legal resolution but bypasses cleansing  
+- Both tend to relocate the problem to guilt rather than contamination  
+- Both struggle to integrate temple, body, and indwelling coherently  
 
-Communion is not transubstantiation, but neither is it bare symbolism. It is **real participation** in the life of the risen Christ. To reduce it to remembrance alone is to sever it from the participatory logic that runs through Scripture.
-
-Christian worship is not merely reflective. It is communal and participatory.
-
----
-
-## Q: Does Scripture teach irresistible grace?
-
-The idea that grace cannot be resisted is often asserted rather than demonstrated. Appeals usually focus on passages such as John 6:44, yet Scripture consistently depicts people resisting God's call, grieving the Spirit, and rejecting grace.
-
-Drawing someone does not negate their capacity to refuse. Scripture portrays grace as powerful, persuasive, and life-giving—but not coercive. This aligns with the broader biblical narrative in which humanity is enslaved yet capable of responding when liberated.
-
-Irresistible grace is not required by Scripture. It is required by determinism.
+Scripture, by contrast, consistently treats sin as something that **defiles**, not merely something that condemns.
 
 ---
 
-## Q: Isn't choosing or participating just "saving yourself"?
+## Conclusion: Why the Covenant Must Be New
 
-This objection is common, especially within Calvinist frameworks, where any emphasis on human response is quickly labeled as self-salvation. But this framing fundamentally misunderstands what Scripture means by choosing, responding, or participating.
+Renewed covenant theology presents a serious and thoughtful reading of Scripture. It honors God’s faithfulness, takes Jesus’ words seriously, preserves continuity, and resists lawlessness.
 
-In Scripture, the person being saved is not rescuing themselves. They are **dying**.
+At the same time, it encounters increasing strain when set alongside Scripture’s consistent insistence that **death precedes life**, **cleansing precedes indwelling**, and **release precedes obedience**.
 
-The controlling image is Exodus.
+Acts 15 and 1 Corinthians do not function as covenant-renewal texts. They function as purification texts. They assume bodies that must be cleansed because God now dwells within them.
 
-Before Israel ever entered covenant at Sinai, before law, before stipulations, before national identity was formalized, they were still slaves in Egypt—under legitimate dominion. Pharaoh truly owned them. They could not free themselves, overthrow their master, or escape by moral effort.
+Romans 6–7 does not describe improved covenant fidelity, but **release through death** and **union with another**.
 
-What, then, were they called to do?
+This is why the covenant cannot merely be renewed.  
+It must be **new**.
 
-They were called to **mark themselves with death**—the blood of the lamb. This was not an act of self-rescue. It was an act of trustful submission to a deliverance they could not accomplish. The blood did not empower them to escape Egypt. It marked them out *for* rescue.
+Not because God abandons his promises,  
+but because only death can end bondage,  
+only cleansing can prepare a dwelling place,  
+and only resurrection can bring a people into life they could never produce.
 
-Only after this did God act decisively:
-- He struck Egypt
-- He broke Pharaoh's power
-- He brought Israel out
-- He led them through the sea and the cloud—Scripture's own baptism imagery
+The covenant is new because the people are new—  
+cleansed, released, and indwelt.
 
-Israel did not save itself by choosing the lamb. They chose to **die under God's promise**, and God alone performed the deliverance.
-
-This order matters.
-
-The covenant at Sinai did not begin in Egypt. It began **after redemption**, not before it. Yet many covenantal systems reverse this logic, reading later covenant categories back into Egypt and treating Israel as if they were already covenant members while enslaved.
-
-Scripture does not do this.
-
-Participation, then, is not self-salvation. It is **consent to die out of one dominion and into another**. A drowning person who stops resisting and allows themselves to be pulled from the water is not saving themselves. Neither is a slave who steps through an opened gate claiming credit for liberation.
-
-Calvinist objections often assume that unless God acts *without* human response, salvation becomes human achievement. Scripture assumes the opposite: that God's saving action **creates the possibility of response**, and that response is the means by which people pass from death into life.
-
-Participation is not competition with grace. It is grace taking effect.
-
-To accuse participation of being "saving yourself" is to mistake dying for climb
+And that is the logic that holds the whole witness of Scripture together.
 
 ---
 
-## Conclusion: Hearing Scripture Clearly Again
-
-Most of these questions persist not because Scripture is unclear, but because words have been asked to do work they were never meant to do. When biblical language is reinserted into its covenantal, participatory, and embodied world, much of the tension dissolves.
-
-This book has not attempted to discard familiar language, but to hear it rightly. When that happens, the story regains coherence. Salvation is no longer a legal fiction, death is no longer divine punishment, and forgiveness is no longer abstract.
-
-What emerges instead is a gospel of rescue, liberation, participation, and life—one that does not minimize sin, but actually defeats it.
-
----
-
-<p align="center"><a href="../part-11/chapter-45.md">← Previous</a> | <a href="../part-12/chapter-47.md">Next →</a></p>
+<p align="center"><a href="../part-11/chapter-45.md">← Previous</a> | <a href="../part-11/chapter-47.md">Next →</a></p>
