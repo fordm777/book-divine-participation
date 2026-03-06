@@ -1,7 +1,7 @@
 # Chapter 19 — Delivered Through Death: What Was Actually Broken
 
 
-<p align="center">< [← Previous](../part-05/chapter-18.md) | [Next →](chapter-20.md) ></p>
+<p align="center">< [← Previous](../part-05/chapter-18.md) | [Next →](../part-06/chapter-20.md) ></p>
 
 ## Introduction: Deliverance, Not Management
 
@@ -109,4 +109,4 @@ And they did not answer it with metaphor.
 
 ---
 
-<p align="center">< [← Previous](../part-05/chapter-18.md) | [Next →](chapter-20.md) ></p>
+<p align="center">< [← Previous](../part-05/chapter-18.md) | [Next →](../part-06/chapter-20.md) ></p>

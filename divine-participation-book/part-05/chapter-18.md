@@ -1,7 +1,7 @@
 # Chapter 18 — Adoption: From Slaves to Sons
 
 
-<p align="center">< [← Previous](chapter-17.md) | [Next →](../part-06/chapter-19.md) ></p>
+<p align="center">< [← Previous](../part-05/chapter-17.md) | [Next →](../part-06/chapter-19.md) ></p>
 
 ## The Strongest Form of the Objection
 
@@ -205,4 +205,4 @@ It does not weaken it.
 
 ---
 
-<p align="center">< [← Previous](chapter-17.md) | [Next →](../part-06/chapter-19.md) ></p>
+<p align="center">< [← Previous](../part-05/chapter-17.md) | [Next →](../part-06/chapter-19.md) ></p>

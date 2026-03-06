@@ -1,7 +1,7 @@
 # Chapter 10 — New Covenant or Renewed Covenant?
 
 
-<p align="center">< [← Previous](../part-03/chapter-09.md) | [Next →](chapter-11.md) ></p>
+<p align="center">< [← Previous](../part-03/chapter-09.md) | [Next →](../part-04/chapter-11.md) ></p>
 
 ## Introduction
 

@@ -1,7 +1,7 @@
 # Chapter 7 — The Two Birds: Death Entered, Life Released
 
 
-<p align="center">< [← Previous](chapter-06.md) | [Next →](chapter-08.md) ></p>
+<p align="center">< [← Previous](../part-03/chapter-06.md) | [Next →](../part-03/chapter-08.md) ></p>
 
 ## Introduction: A Ritual and a Story
 
@@ -423,4 +423,4 @@ This is how God saves.
 
 ---
 
-<p align="center">< [← Previous](chapter-06.md) | [Next →](chapter-08.md) ></p>
+<p align="center">< [← Previous](../part-03/chapter-06.md) | [Next →](../part-03/chapter-08.md) ></p>

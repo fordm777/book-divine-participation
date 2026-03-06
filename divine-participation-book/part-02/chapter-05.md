@@ -1,7 +1,7 @@
 # Chapter 5 — Dying Before Living
 
 
-<p align="center">< [← Previous](chapter-04.md) | [Next →](../part-03/chapter-06.md) ></p>
+<p align="center">< [← Previous](../part-02/chapter-04.md) | [Next →](../part-03/chapter-06.md) ></p>
 
 ## The Seed that Dies
 

@@ -1,7 +1,7 @@
 # Chapter 40 — Penal Substitution: The Strongest Biblical Case
 
 
-<p align="center">< [← Previous](chapter-39.md) | [Next →](chapter-41.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-39.md) | [Next →](../part-11/chapter-41.md) ></p>
 
 ---
 
@@ -722,4 +722,4 @@ This is the gospel. And it is better news than we dared imagine.
 
 ---
 
-<p align="center">< [← Previous](chapter-39.md) | [Next →](chapter-41.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-39.md) | [Next →](../part-11/chapter-41.md) ></p>

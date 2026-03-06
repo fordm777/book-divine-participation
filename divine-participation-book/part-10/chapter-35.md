@@ -2,7 +2,7 @@
 *(When salvation becomes a classification, and grace becomes a mechanism)*
 
 
-<p align="center">< [← Previous](chapter-34.md) | [Next →](chapter-36.md) ></p>
+<p align="center">< [← Previous](../part-10/chapter-34.md) | [Next →](../part-10/chapter-36.md) ></p>
 
 ## Why place these side by side
 
@@ -234,4 +234,4 @@ That is the work of Chapter 25.
 
 ---
 
-<p align="center">< [← Previous](chapter-34.md) | [Next →](chapter-36.md) ></p>
+<p align="center">< [← Previous](../part-10/chapter-34.md) | [Next →](../part-10/chapter-36.md) ></p>

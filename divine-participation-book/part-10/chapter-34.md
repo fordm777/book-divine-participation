@@ -2,7 +2,7 @@
 *(How the earliest post-apostolic church framed salvation before later legal mechanisms hardened)*
 
 
-<p align="center">< [← Previous](../part-09/chapter-33.md) | [Next →](chapter-35.md) ></p>
+<p align="center">< [← Previous](../part-09/chapter-33.md) | [Next →](../part-10/chapter-35.md) ></p>
 
 ## Why this chapter exists
 
@@ -300,4 +300,4 @@ If Chapter 23 establishes the early church’s participatory grammar, then:
 
 ---
 
-<p align="center">< [← Previous](../part-09/chapter-33.md) | [Next →](chapter-35.md) ></p>
+<p align="center">< [← Previous](../part-09/chapter-33.md) | [Next →](../part-10/chapter-35.md) ></p>

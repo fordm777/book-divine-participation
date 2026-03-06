@@ -1,7 +1,7 @@
 # Chapter 45 — Baptism Without Water: The Strongest Case
 
 
-<p align="center">< [← Previous](chapter-44.md) | [Next →](chapter-46.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-44.md) | [Next →](../part-11/chapter-46.md) ></p>
 
 ## Introduction: The Question at Hand
 
@@ -253,4 +253,4 @@ The question is whether our framework aligns with what is found in the scripture
 
 ---
 
-<p align="center">< [← Previous](chapter-44.md) | [Next →](chapter-46.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-44.md) | [Next →](../part-11/chapter-46.md) ></p>

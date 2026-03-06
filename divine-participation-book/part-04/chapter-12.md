@@ -1,7 +1,7 @@
 # Chapter 12 — The Jealous Husband
 
 
-<p align="center">< [← Previous](chapter-11.md) | [Next →](../part-05/chapter-13.md) ></p>
+<p align="center">< [← Previous](../part-04/chapter-11.md) | [Next →](../part-05/chapter-13.md) ></p>
 
 ## Introduction: Covenant, Marriage, and Participation
 
@@ -131,4 +131,4 @@ It is participation unto life.
 
 ---
 
-<p align="center">< [← Previous](chapter-11.md) | [Next →](../part-05/chapter-13.md) ></p>
+<p align="center">< [← Previous](../part-04/chapter-11.md) | [Next →](../part-05/chapter-13.md) ></p>

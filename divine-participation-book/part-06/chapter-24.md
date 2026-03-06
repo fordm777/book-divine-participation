@@ -2,7 +2,7 @@
 *(Temple Participation, Not Courtroom Threats)*
 
 
-<p align="center">< [← Previous](chapter-23.md) | [Next →](../part-07/chapter-25.md) ></p>
+<p align="center">< [← Previous](../part-06/chapter-23.md) | [Next →](../part-07/chapter-25.md) ></p>
 
 ## Why this chapter matters
 
@@ -177,4 +177,4 @@ They are meant to:
 
 ---
 
-<p align="center">< [← Previous](chapter-23.md) | [Next →](../part-07/chapter-25.md) ></p>
+<p align="center">< [← Previous](../part-06/chapter-23.md) | [Next →](../part-07/chapter-25.md) ></p>

@@ -6,7 +6,7 @@ Still, certain questions persist. Not because Scripture is unclear, but because 
 
 What follows is not a defense against critics, but a translation for readers who want to hear Scripture on its own terms.
 
-<p align="center">< [← Previous](chapter-45.md) | [Next →](../part-12/chapter-47.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-45.md) | [Next →](../part-12/chapter-47.md) ></p>
 
 
 ---
@@ -161,4 +161,4 @@ What emerges instead is a gospel of rescue, liberation, participation, and life�
 
 ---
 
-<p align="center">< [← Previous](chapter-45.md) | [Next →](../part-12/chapter-47.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-45.md) | [Next →](../part-12/chapter-47.md) ></p>

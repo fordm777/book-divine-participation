@@ -1,7 +1,7 @@
 # Chapter 9 — Covenant Cleanness, Divine Presence, and Relational Judgment
 
 
-<p align="center">< [← Previous](chapter-08.md) | [Next →](../part-04/chapter-10.md) ></p>
+<p align="center">< [← Previous](../part-03/chapter-08.md) | [Next →](../part-04/chapter-10.md) ></p>
 
 ## Introduction
 
@@ -157,4 +157,4 @@ Without this framework, later discussions of Christ’s work are easily pulled b
 
 ---
 
-<p align="center">< [← Previous](chapter-08.md) | [Next →](../part-04/chapter-10.md) ></p>
+<p align="center">< [← Previous](../part-03/chapter-08.md) | [Next →](../part-04/chapter-10.md) ></p>

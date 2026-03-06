@@ -1,7 +1,7 @@
 # Chapter 16 — Calling on the Name: Baptism, Allegiance, and the Temple Body
 
 
-<p align="center">< [← Previous](chapter-15.md) | [Next →](chapter-17.md) ></p>
+<p align="center">< [← Previous](../part-05/chapter-15.md) | [Next →](../part-05/chapter-17.md) ></p>
 
 ## Why this chapter matters
 
@@ -123,4 +123,4 @@ Faith is what makes baptism intelligible.
 
 ---
 
-<p align="center">< [← Previous](chapter-15.md) | [Next →](chapter-17.md) ></p>
+<p align="center">< [← Previous](../part-05/chapter-15.md) | [Next →](../part-05/chapter-17.md) ></p>

@@ -1,7 +1,7 @@
 # Chapter 4 — Passover: Salvation Through Death
 
 
-<p align="center">< [← Previous](../part-01/chapter-03.md) | [Next →](chapter-05.md) ></p>
+<p align="center">< [← Previous](../part-01/chapter-03.md) | [Next →](../part-02/chapter-05.md) ></p>
 
 ## Introduction: Born in Captivity
 
@@ -93,4 +93,4 @@ Deliverance comes when death is entered under divine presence, and life is recei
 
 ---
 
-<p align="center">< [← Previous](../part-01/chapter-03.md) | [Next →](chapter-05.md) ></p>
+<p align="center">< [← Previous](../part-01/chapter-03.md) | [Next →](../part-02/chapter-05.md) ></p>

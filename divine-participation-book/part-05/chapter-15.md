@@ -1,7 +1,7 @@
 # Chapter 15 — Baptism: Participation in Death and New Life
 
 
-<p align="center">< [← Previous](chapter-14.md) | [Next →](chapter-16.md) ></p>
+<p align="center">< [← Previous](../part-05/chapter-14.md) | [Next →](../part-05/chapter-16.md) ></p>
 
 ## Introduction: Participation Is Entered by Faith
 
@@ -213,4 +213,4 @@ But as covenantal participation **by faith**, where the old man is put to death 
 
 ---
 
-<p align="center">< [← Previous](chapter-14.md) | [Next →](chapter-16.md) ></p>
+<p align="center">< [← Previous](../part-05/chapter-14.md) | [Next →](../part-05/chapter-16.md) ></p>

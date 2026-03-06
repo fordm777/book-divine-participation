@@ -1,7 +1,7 @@
 # Chapter 20 — From One Lord to Another: Renunciation and Allegiance
 
 
-<p align="center">< [← Previous](chapter-19.md) | [Next →](chapter-21.md) ></p>
+<p align="center">< [← Previous](../part-06/chapter-19.md) | [Next →](../part-06/chapter-21.md) ></p>
 
 ## Salvation as Transfer, Not Mere Decision
 
@@ -216,4 +216,4 @@ That distinction will matter greatly in what follows.
 
 ---
 
-<p align="center">< [← Previous](chapter-19.md) | [Next →](chapter-21.md) ></p>
+<p align="center">< [← Previous](../part-06/chapter-19.md) | [Next →](../part-06/chapter-21.md) ></p>

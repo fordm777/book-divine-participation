@@ -1,7 +1,7 @@
 # Chapter 2 — Exile from Life: Death as Mercy, Not Punishment
 
 
-<p align="center">< [← Previous](chapter-01.md) | [Next →](chapter-03.md) ></p>
+<p align="center">< [← Previous](../part-01/chapter-01.md) | [Next →](../part-01/chapter-03.md) ></p>
 
 ## Where Are You?
 
@@ -59,4 +59,4 @@ The story pauses here, not resolved, but preserved. Humanity lives on, outside t
 
 ---
 
-<p align="center">< [← Previous](chapter-01.md) | [Next →](chapter-03.md) ></p>
+<p align="center">< [← Previous](../part-01/chapter-01.md) | [Next →](../part-01/chapter-03.md) ></p>

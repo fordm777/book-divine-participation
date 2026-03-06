@@ -1,7 +1,7 @@
 # Chapter 38 — Needs-Based Christianity: When the Gospel Became Therapeutic
 
 
-<p align="center">< [← Previous](chapter-37.md) | [Next →](../part-11/chapter-39.md) ></p>
+<p align="center">< [← Previous](../part-10/chapter-37.md) | [Next →](../part-11/chapter-39.md) ></p>
 
 ## Introduction: A Gospel That No Longer Requires Death
 
@@ -238,4 +238,4 @@ The apostolic gospel does not begin by assuring people that they are already for
 
 ---
 
-<p align="center">< [← Previous](chapter-37.md) | [Next →](../part-11/chapter-39.md) ></p>
+<p align="center">< [← Previous](../part-10/chapter-37.md) | [Next →](../part-11/chapter-39.md) ></p>

@@ -2,7 +2,7 @@
 *(Romans 7)*
 
 
-<p align="center">< [← Previous](chapter-10.md) | [Next →](chapter-12.md) ></p>
+<p align="center">< [← Previous](../part-04/chapter-10.md) | [Next →](../part-04/chapter-12.md) ></p>
 
 ## Introduction: Why Renewal Cannot Explain Romans 7
 
@@ -230,4 +230,4 @@ Covenant death before covenant life.
 
 ---
 
-<p align="center">< [← Previous](chapter-10.md) | [Next →](chapter-12.md) ></p>
+<p align="center">< [← Previous](../part-04/chapter-10.md) | [Next →](../part-04/chapter-12.md) ></p>

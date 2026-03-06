@@ -6,7 +6,7 @@
 
 This chapter is not written to caricature determinism, nor to dismiss those who find its arguments compelling. It is written to **steel-man the strongest biblical case** for determinism and eternal decree, because many sincere Christians encounter these passages early, and they feel decisive.
 
-<p align="center">< [← Previous](chapter-40.md) | [Next →](chapter-42.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-40.md) | [Next →](../part-11/chapter-42.md) ></p>
 
 
 If this book is going to ask readers to reconsider inherited frameworks, it must first demonstrate that those frameworks are understood at their strongest.
@@ -366,4 +366,4 @@ Why waiting is never presen
 
 ---
 
-<p align="center">< [← Previous](chapter-40.md) | [Next →](chapter-42.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-40.md) | [Next →](../part-11/chapter-42.md) ></p>

@@ -1,7 +1,7 @@
 # Chapter 43 — “No One Can Come Unless the Father Draws”: John 6:44 Revisited
 
 
-<p align="center">< [← Previous](chapter-42.md) | [Next →](chapter-44.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-42.md) | [Next →](../part-11/chapter-44.md) ></p>
 
 ## The Text Itself
 
@@ -272,4 +272,4 @@ It is the summons into Christ, where death is entered and defeated through parti
 
 ---
 
-<p align="center">< [← Previous](chapter-42.md) | [Next →](chapter-44.md) ></p>
+<p align="center">< [← Previous](../part-11/chapter-42.md) | [Next →](../part-11/chapter-44.md) ></p>

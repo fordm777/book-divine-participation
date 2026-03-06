@@ -1,7 +1,7 @@
 # Chapter 1 — Life and Divine Fellowship
 
 
-<p align="center">< | [Next →](chapter-02.md) ></p>
+<p align="center"> [← Previous](../introduction.md) | [Next →](../part-01/chapter-02.md) </p>
 
 ## Introduction
 
@@ -53,4 +53,4 @@ The story begins with life received in relationship and with a word that defines
 
 ---
 
-<p align="center">< | [Next →](chapter-02.md) ></p>
+<p align="center"> [← Previous](../introduction.md) | [Next →](../part-01/chapter-02.md) </p>
