@@ -1,12 +1,12 @@
 # Chapter 41 — Determinism and Eternal Decree: The Strongest Biblical Case
 
+<p align="center"><a href="../part-11/chapter-40.md">← Previous</a> | <a href="../part-11/chapter-42.md">Next →</a></p>
+
 > Whatever framework you bring to the text will govern which semantic lanes you allow the words to travel in—whether you are reading English, Greek, or Hebrew.  
 > A framework does not usually announce itself. It simply governs which meanings feel natural.  
 > **Of course it feels obvious. That’s how frameworks work.**
 
 This chapter is not written to caricature determinism, nor to dismiss those who find its arguments compelling. It is written to **steel-man the strongest biblical case** for determinism and eternal decree, because many sincere Christians encounter these passages early, and they feel decisive.
-
-<p align="center"><a href="../part-11/chapter-40.md">← Previous</a> | <a href="../part-11/chapter-42.md">Next →</a></p>
 
 
 If this book is going to ask readers to reconsider inherited frameworks, it must first demonstrate that those frameworks are understood at their strongest.

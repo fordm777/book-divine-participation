@@ -1,13 +1,13 @@
 ## Covenant Release: Romans 7
 
+<p align="center"><a href="../part-06/chapter-20.md">← Previous</a> | <a href="../part-06/chapter-22.md">Next →</a></p>
+
 Paul reinforces this in covenant terms.
 
 > “Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another.”
 > (Romans 7:4)
 
 Death ends a covenant bond.
-
-<p align="center"><a href="../part-06/chapter-20.md">← Previous</a> | <a href="../part-06/chapter-22.md">Next →</a></p>
 
 
 The law’s claim ends not because it was ignored, but because death dissolved the relationship.

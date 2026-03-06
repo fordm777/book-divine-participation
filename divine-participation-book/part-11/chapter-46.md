@@ -1,12 +1,12 @@
 # Chapter 46 — Common Questions, Familiar Words, and Misheard Meanings
 
+<p align="center"><a href="../part-11/chapter-45.md">← Previous</a> | <a href="../part-12/chapter-47.md">Next →</a></p>
+
 By this point in the book, many disagreements have already been resolved—not because every verse has been individually addressed, but because the *framework itself* has shifted. When death is understood as dominion rather than punishment, when salvation is understood as rescue rather than transaction, and when Christ's work is understood as participation rather than legal substitution, many objections simply lose their force.
 
 Still, certain questions persist. Not because Scripture is unclear, but because familiar biblical words are often heard through modern categories foreign to the world in which they were spoken. This chapter addresses several of those common questions—not to reopen earlier debates, but to clarify how Scripture itself uses its language.
 
 What follows is not a defense against critics, but a translation for readers who want to hear Scripture on its own terms.
-
-<p align="center"><a href="../part-11/chapter-45.md">← Previous</a> | <a href="../part-12/chapter-47.md">Next →</a></p>
 
 
 ---
