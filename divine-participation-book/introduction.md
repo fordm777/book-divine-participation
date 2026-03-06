@@ -1,3 +1,7 @@
+
+<p align="center"><a href="./toc.md">← Previous</a> | <a href="../part-01/chapter-01.md">Next →</a></p>
+
+
 # Foreword
 
 The question that prompted this book was not new. Christians have wrestled with it for centuries: *How does the cross save us?*
@@ -157,3 +161,5 @@ This book is an attempt to remove some of that obscurity, to let Scripture speak
 The cross is not less glorious when understood rightly. It is more so.
 
 Let us begin.
+
+<p align="center"><a href="./toc.md">← Previous</a> | <a href="../part-01/chapter-01.md">Next →</a></p>
