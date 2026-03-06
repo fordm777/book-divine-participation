@@ -1,7 +1,7 @@
 # Chapter 33 — Why Translation Is Never Neutral
 
 
-<p align="center">< [← Previous](../part-09/chapter-32.md) | [Next →](../part-10/chapter-34.md) ></p>
+<p align="center"><a href="../part-09/chapter-32.md">← Previous</a> | <a href="../part-10/chapter-34.md">Next →</a></p>
 
 ## Introduction: The Lanes Were Set Before You Read
 
@@ -130,4 +130,4 @@ And that, ultimately, is where real theological renewal begins.
 
 ---
 
-<p align="center">< [← Previous](../part-09/chapter-32.md) | [Next →](../part-10/chapter-34.md) ></p>
+<p align="center"><a href="../part-09/chapter-32.md">← Previous</a> | <a href="../part-10/chapter-34.md">Next →</a></p>

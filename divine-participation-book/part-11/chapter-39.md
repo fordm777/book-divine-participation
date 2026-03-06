@@ -2,7 +2,7 @@
 *(What Hebrews 7 actually secures)*
 
 
-<p align="center">< [← Previous](../part-10/chapter-38.md) | [Next →](../part-11/chapter-40.md) ></p>
+<p align="center"><a href="../part-10/chapter-38.md">← Previous</a> | <a href="../part-11/chapter-40.md">Next →</a></p>
 
 ## Why this chapter comes first
 
@@ -259,4 +259,4 @@ And because that priest knows our infirmities and ever lives to intercede, the i
 
 ---
 
-<p align="center">< [← Previous](../part-10/chapter-38.md) | [Next →](../part-11/chapter-40.md) ></p>
+<p align="center"><a href="../part-10/chapter-38.md">← Previous</a> | <a href="../part-11/chapter-40.md">Next →</a></p>

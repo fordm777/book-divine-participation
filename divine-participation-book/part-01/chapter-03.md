@@ -1,7 +1,7 @@
 # Chapter 3 — Death as Dominion: Bondage, Corruption, and Fear
 
 
-<p align="center">< [← Previous](../part-01/chapter-02.md) | [Next →](../part-02/chapter-04.md) ></p>
+<p align="center"><a href="../part-01/chapter-02.md">← Previous</a> | <a href="../part-02/chapter-04.md">Next →</a></p>
 
 ## From Exile to Rule
 
@@ -109,4 +109,4 @@ The world that emerges after the garden is a world under death's reign. Humanity
 
 ---
 
-<p align="center">< [← Previous](../part-01/chapter-02.md) | [Next →](../part-02/chapter-04.md) ></p>
+<p align="center"><a href="../part-01/chapter-02.md">← Previous</a> | <a href="../part-02/chapter-04.md">Next →</a></p>

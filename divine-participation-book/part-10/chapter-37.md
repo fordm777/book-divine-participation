@@ -2,7 +2,7 @@
 *(When punishment replaced participation)*
 
 
-<p align="center">< [← Previous](../part-10/chapter-36.md) | [Next →](../part-10/chapter-38.md) ></p>
+<p align="center"><a href="../part-10/chapter-36.md">← Previous</a> | <a href="../part-10/chapter-38.md">Next →</a></p>
 
 ## Why this chapter is necessary
 
@@ -295,4 +295,4 @@ It is the fruit of the same tree.
 
 ---
 
-<p align="center">< [← Previous](../part-10/chapter-36.md) | [Next →](../part-10/chapter-38.md) ></p>
+<p align="center"><a href="../part-10/chapter-36.md">← Previous</a> | <a href="../part-10/chapter-38.md">Next →</a></p>

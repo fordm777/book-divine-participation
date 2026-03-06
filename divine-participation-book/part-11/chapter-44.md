@@ -1,7 +1,7 @@
 # Chapter 44 — Renewed Covenant Theology: The Strongest Biblical Case
 
 
-<p align="center">< [← Previous](../part-11/chapter-43.md) | [Next →](../part-11/chapter-45.md) ></p>
+<p align="center"><a href="../part-11/chapter-43.md">← Previous</a> | <a href="../part-11/chapter-45.md">Next →</a></p>
 
 ## Introduction: Why This Question Matters
 
@@ -207,4 +207,4 @@ And that is the logic that holds the whole witness of Scripture together.
 
 ---
 
-<p align="center">< [← Previous](../part-11/chapter-43.md) | [Next →](../part-11/chapter-45.md) ></p>
+<p align="center"><a href="../part-11/chapter-43.md">← Previous</a> | <a href="../part-11/chapter-45.md">Next →</a></p>

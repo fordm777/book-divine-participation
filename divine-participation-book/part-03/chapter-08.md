@@ -1,7 +1,7 @@
 # Chapter 8 — What Atonement Is (and Is Not)
 
 
-<p align="center">< [← Previous](../part-03/chapter-07.md) | [Next →](../part-03/chapter-09.md) ></p>
+<p align="center"><a href="../part-03/chapter-07.md">← Previous</a> | <a href="../part-03/chapter-09.md">Next →</a></p>
 
 ---
 
@@ -396,4 +396,4 @@ And it is the foundation upon which the rest of this section will build.
 
 ---
 
-<p align="center">< [← Previous](../part-03/chapter-07.md) | [Next →](../part-03/chapter-09.md) ></p>
+<p align="center"><a href="../part-03/chapter-07.md">← Previous</a> | <a href="../part-03/chapter-09.md">Next →</a></p>

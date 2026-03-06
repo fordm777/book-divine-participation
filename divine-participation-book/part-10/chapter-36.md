@@ -2,7 +2,7 @@
 *(When the temple gave way to the courtroom)*
 
 
-<p align="center">< [← Previous](../part-10/chapter-35.md) | [Next →](../part-10/chapter-37.md) ></p>
+<p align="center"><a href="../part-10/chapter-35.md">← Previous</a> | <a href="../part-10/chapter-37.md">Next →</a></p>
 
 ## Why this chapter matters
 
@@ -272,4 +272,4 @@ That shift changes everything.
 
 ---
 
-<p align="center">< [← Previous](../part-10/chapter-35.md) | [Next →](../part-10/chapter-37.md) ></p>
+<p align="center"><a href="../part-10/chapter-35.md">← Previous</a> | <a href="../part-10/chapter-37.md">Next →</a></p>

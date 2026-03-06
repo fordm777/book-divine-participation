@@ -2,7 +2,7 @@
  — The Law as the Administration of Death
 
 
-<p align="center">< [← Previous](../part-06/chapter-24.md) | [Next →](../part-07/chapter-26.md) ></p>
+<p align="center"><a href="../part-06/chapter-24.md">← Previous</a> | <a href="../part-07/chapter-26.md">Next →</a></p>
 
 ---
 
@@ -10,4 +10,4 @@
 
 ---
 
-<p align="center">< [← Previous](../part-06/chapter-24.md) | [Next →](../part-07/chapter-26.md) ></p>
+<p align="center"><a href="../part-06/chapter-24.md">← Previous</a> | <a href="../part-07/chapter-26.md">Next →</a></p>

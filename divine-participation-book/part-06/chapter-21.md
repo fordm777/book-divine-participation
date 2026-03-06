@@ -7,7 +7,7 @@ Paul reinforces this in covenant terms.
 
 Death ends a covenant bond.
 
-<p align="center">< [← Previous](../part-06/chapter-20.md) | [Next →](../part-06/chapter-22.md) ></p>
+<p align="center"><a href="../part-06/chapter-20.md">← Previous</a> | <a href="../part-06/chapter-22.md">Next →</a></p>
 
 
 The law’s claim ends not because it was ignored, but because death dissolved the relationship.
@@ -332,4 +332,4 @@ But because you already are.
 
 ---
 
-<p align="center">< [← Previous](../part-06/chapter-20.md) | [Next →](../part-06/chapter-22.md) ></p>
+<p align="center"><a href="../part-06/chapter-20.md">← Previous</a> | <a href="../part-06/chapter-22.md">Next →</a></p>

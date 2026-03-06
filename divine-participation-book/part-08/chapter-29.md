@@ -1,7 +1,7 @@
 # Chapter 29 — Not Taking the Blame: Innocence, Overreach, and Defeat
 
 
-<p align="center">< [← Previous](../part-08/chapter-28.md) | [Next →](../part-08/chapter-30.md) ></p>
+<p align="center"><a href="../part-08/chapter-28.md">← Previous</a> | <a href="../part-08/chapter-30.md">Next →</a></p>
 
 ---
 
@@ -9,4 +9,4 @@
 
 ---
 
-<p align="center">< [← Previous](../part-08/chapter-28.md) | [Next →](../part-08/chapter-30.md) ></p>
+<p align="center"><a href="../part-08/chapter-28.md">← Previous</a> | <a href="../part-08/chapter-30.md">Next →</a></p>

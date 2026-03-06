@@ -1,7 +1,7 @@
 # Chapter 13 — Faith, Belief, and Works
 
 
-<p align="center">< [← Previous](../part-04/chapter-12.md) | [Next →](../part-05/chapter-14.md) ></p>
+<p align="center"><a href="../part-04/chapter-12.md">← Previous</a> | <a href="../part-05/chapter-14.md">Next →</a></p>
 
 ## Introduction
 
@@ -238,4 +238,4 @@ Biblical faith is not confidence in a verdict already issued, but trust lived ou
 
 ---
 
-<p align="center">< [← Previous](../part-04/chapter-12.md) | [Next →](../part-05/chapter-14.md) ></p>
+<p align="center"><a href="../part-04/chapter-12.md">← Previous</a> | <a href="../part-05/chapter-14.md">Next →</a></p>

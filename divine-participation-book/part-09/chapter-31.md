@@ -1,7 +1,7 @@
 # Chapter 31 — When Words Change but Assumptions Don't
 
 
-<p align="center">< [← Previous](../part-08/chapter-30.md) | [Next →](../part-09/chapter-32.md) ></p>
+<p align="center"><a href="../part-08/chapter-30.md">← Previous</a> | <a href="../part-09/chapter-32.md">Next →</a></p>
 
 ## Introduction: The Illusion of Progress
 
@@ -174,4 +174,4 @@ It is that they are often using **new words to protect old worlds**.
 
 ---
 
-<p align="center">< [← Previous](../part-08/chapter-30.md) | [Next →](../part-09/chapter-32.md) ></p>
+<p align="center"><a href="../part-08/chapter-30.md">← Previous</a> | <a href="../part-09/chapter-32.md">Next →</a></p>

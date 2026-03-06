@@ -1,7 +1,7 @@
 # Chapter 6 — What the Sacrifices Were: Their Purpose, Shape, and Meaning
 
 
-<p align="center">< [← Previous](../part-02/chapter-05.md) | [Next →](../part-03/chapter-07.md) ></p>
+<p align="center"><a href="../part-02/chapter-05.md">← Previous</a> | <a href="../part-03/chapter-07.md">Next →</a></p>
 
 ## The Offerings as Identified in Leviticus
 
@@ -154,4 +154,4 @@ Leviticus thus carefully separates death from the presence of God. What is broug
 
 ---
 
-<p align="center">< [← Previous](../part-02/chapter-05.md) | [Next →](../part-03/chapter-07.md) ></p>
+<p align="center"><a href="../part-02/chapter-05.md">← Previous</a> | <a href="../part-03/chapter-07.md">Next →</a></p>

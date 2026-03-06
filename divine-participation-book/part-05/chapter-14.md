@@ -2,7 +2,7 @@
 *(Passover, Baptism, and Freedom from Bondage)*
 
 
-<p align="center">< [← Previous](../part-05/chapter-13.md) | [Next →](../part-05/chapter-15.md) ></p>
+<p align="center"><a href="../part-05/chapter-13.md">← Previous</a> | <a href="../part-05/chapter-15.md">Next →</a></p>
 
 ## Introduction: Why Exodus Is the Pattern
 
@@ -226,4 +226,4 @@ The gospel becomes unrecognizable when Exodus is forgotten.
 
 ---
 
-<p align="center">< [← Previous](../part-05/chapter-13.md) | [Next →](../part-05/chapter-15.md) ></p>
+<p align="center"><a href="../part-05/chapter-13.md">← Previous</a> | <a href="../part-05/chapter-15.md">Next →</a></p>

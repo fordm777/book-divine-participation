@@ -1,7 +1,7 @@
 # Chapter 17 — Dead Indeed: Reckoning What Really Happened
 
 
-<p align="center">< [← Previous](../part-05/chapter-16.md) | [Next →](../part-05/chapter-18.md) ></p>
+<p align="center"><a href="../part-05/chapter-16.md">← Previous</a> | <a href="../part-05/chapter-18.md">Next →</a></p>
 
 ## The Question That Must Be Asked
 
@@ -119,4 +119,4 @@ Transfer.
 
 ---
 
-<p align="center">< [← Previous](../part-05/chapter-16.md) | [Next →](../part-05/chapter-18.md) ></p>
+<p align="center"><a href="../part-05/chapter-16.md">← Previous</a> | <a href="../part-05/chapter-18.md">Next →</a></p>

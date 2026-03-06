@@ -1,7 +1,7 @@
 # Chapter 42 — Total Depravity: The Strongest Biblical Case
 
 
-<p align="center">< [← Previous](../part-11/chapter-41.md) | [Next →](../part-11/chapter-43.md) ></p>
+<p align="center"><a href="../part-11/chapter-41.md">← Previous</a> | <a href="../part-11/chapter-43.md">Next →</a></p>
 
 ## Why Total Depravity Must Be Taken Seriously
 
@@ -426,4 +426,4 @@ It asks whether you died with Christ, so that the life you now live is no longer
 
 ---
 
-<p align="center">< [← Previous](../part-11/chapter-41.md) | [Next →](../part-11/chapter-43.md) ></p>
+<p align="center"><a href="../part-11/chapter-41.md">← Previous</a> | <a href="../part-11/chapter-43.md">Next →</a></p>

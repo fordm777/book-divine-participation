@@ -1,7 +1,7 @@
 # Chapter 32 — Hijacked Words: Wrath, Propitiation, Atonement, Justice
 
 
-<p align="center">< [← Previous](../part-09/chapter-31.md) | [Next →](../part-09/chapter-33.md) ></p>
+<p align="center"><a href="../part-09/chapter-31.md">← Previous</a> | <a href="../part-09/chapter-33.md">Next →</a></p>
 
 ## Introduction: Why This Argument Keeps Failing
 
@@ -183,4 +183,4 @@ And once that memory is restored, Scripture begins to sound like good news again
 
 ---
 
-<p align="center">< [← Previous](../part-09/chapter-31.md) | [Next →](../part-09/chapter-33.md) ></p>
+<p align="center"><a href="../part-09/chapter-31.md">← Previous</a> | <a href="../part-09/chapter-33.md">Next →</a></p>

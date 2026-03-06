@@ -1,7 +1,7 @@
 # Chapter 23 — Living Free from Death’s Dominion
 
 
-<p align="center">< [← Previous](../part-06/chapter-22.md) | [Next →](../part-06/chapter-24.md) ></p>
+<p align="center"><a href="../part-06/chapter-22.md">← Previous</a> | <a href="../part-06/chapter-24.md">Next →</a></p>
 
 ## When Letting Go Feels Like Loss
 
@@ -298,4 +298,4 @@ but life to be lived.
 
 ---
 
-<p align="center">< [← Previous](../part-06/chapter-22.md) | [Next →](../part-06/chapter-24.md) ></p>
+<p align="center"><a href="../part-06/chapter-22.md">← Previous</a> | <a href="../part-06/chapter-24.md">Next →</a></p>

@@ -1,7 +1,7 @@
 # Chapter 22 — Spiritual Warfare After Deliverance
 
 
-<p align="center">< [← Previous](../part-06/chapter-21.md) | [Next →](../part-06/chapter-23.md) ></p>
+<p align="center"><a href="../part-06/chapter-21.md">← Previous</a> | <a href="../part-06/chapter-23.md">Next →</a></p>
 
 ## Real Authority, Real Effects, Real Limits
 
@@ -338,4 +338,4 @@ It is lived.
 
 ---
 
-<p align="center">< [← Previous](../part-06/chapter-21.md) | [Next →](../part-06/chapter-23.md) ></p>
+<p align="center"><a href="../part-06/chapter-21.md">← Previous</a> | <a href="../part-06/chapter-23.md">Next →</a></p>
