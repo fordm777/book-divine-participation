@@ -38,7 +38,7 @@
 - [Chapter 14 — The Jealous Husband](part-05/chapter-14.md)
 - [Chapter 15 — Baptism: Participation in Death and New Life](part-05/chapter-15.md)
 - [Chapter 16 — Calling on the Name: Baptism, Allegiance, and the Temple Body](part-05/chapter-16.md)
-- [Chapter 17 — Baptized for the Dead? (1 Corinthians 15:29)](part-05/chapter-17.md)
+- [Chapter 17 — Why Are They Baptized for the Dead? (1 Corinthians 15:29)](part-05/chapter-17.md)
 - [Chapter 18 — Reckoning the Old Man Dead](part-05/chapter-18.md)
 - [Chapter 19 — Participation or Substitution](part-05/chapter-19.md)
 
@@ -72,25 +72,20 @@
 
 ---
 
-## PART IX — STEEL-MANNING THE OPPOSING VIEWS
+## PART IX — COMMON OBJECTIONS
 
 - [Chapter 33 — Penal Substitution: The Strongest Biblical Case](part-09/chapter-33.md)
 - [Chapter 34 — Determinism and Eternal Decree: The Strongest Biblical Case](part-09/chapter-34.md)
 - [Chapter 35 — Total Depravity: The Strongest Biblical Case](part-09/chapter-35.md)
-
----
-
-## PART X — RESPONDING TO COMMON OBJECTIONS
-
 - [Chapter 36 — The Thief on the Cross](part-10/chapter-36.md)
-- [Chapter 37 — "Paul Was Not Sent to Baptize"](part-10/chapter-37.md)
+- [Chapter 37 — “Paul Was Not Sent to Baptize”](part-10/chapter-37.md)
 - [Chapter 38 — Baptism Without Water: The Strongest Case](part-10/chapter-38.md)
 - [Chapter 39 — Faith Alone?](part-10/chapter-39.md)
 - [Chapter 40 — Other Common Objections](part-10/chapter-40.md)
 
 ---
 
-## PART XI — COVENANT STABILITY AND ASSURANCE
+## PART X — COVENANT STABILITY AND ASSURANCE
 
 - [Chapter 41 — Surety, Priesthood, and the Stability of the Covenant](part-11/chapter-41.md)
 - [Chapter 42 — Christ the Faithful High Priest](part-11/chapter-42.md)
@@ -98,14 +93,12 @@
 - [Chapter 44 — Apostasy and Covenant Departure](part-11/chapter-44.md)
 - [Chapter 45 — The Warnings of Hebrews Revisited](part-11/chapter-45.md)
 - [Chapter 46 — The Nature of Assurance](part-11/chapter-46.md)
-- [Chapter 47 — Baptism Without Water: The Strongest Case](part-11/chapter-47.md)
-- [Chapter 48 — Faithfulness and the Covenant Path](part-11/chapter-48.md)
 
 ---
 
-## PART XII — CONCLUSION
+## PART XI — CONCLUSION
 
-- [Chapter 49 — Death Defeated, Life Restored](part-12/chapter-49.md)
+- [Chapter 47 — Death Defeated, Life Restored](part-12/chapter-47.md)
 
 ---
 
