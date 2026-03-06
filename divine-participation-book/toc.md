@@ -63,12 +63,12 @@
 
 **(What freedom actually looks like after death's dominion is broken)**
 
-- [Chapter 19 — Delivered Through Death: What Was Actually Broken](part-06/chapter-17.md)
-- [Chapter 20 — From One Lord to Another: Renunciation and Allegiance](part-06/chapter-18.md)
-- **Chapter 21 — Citizens of a New Kingdom: Behavior, Allegiance, and Representation**
-- [Chapter 22 — Spiritual Warfare After Deliverance](part-06/chapter-19.md)
-- [Chapter 23 — Living Free from Death's Dominion](part-06/chapter-20.md)
-- [Chapter 24 — Warnings in the House of God: Temple Participation, Not Courtroom Threats](part-06/chapter-21.md)
+- [Chapter 19 — Delivered Through Death: What Was Actually Broken](part-06/chapter-19.md)
+- [Chapter 20 — From One Lord to Another: Renunciation and Allegiance](part-06/chapter-20.md)
+- [Chapter 21 — Citizens of a New Kingdom: Behavior, Allegiance, and Representation](part-06/chapter-21.md)
+- [Chapter 22 — Spiritual Warfare After Deliverance](part-06/chapter-22.md)
+- [Chapter 23 — Living Free from Death's Dominion](part-06/chapter-23.md)
+- [Chapter 24 — Warnings in the House of God: Temple Participation, Not Courtroom Threats](part-06/chapter-24.md)
 
 ---
 
@@ -76,9 +76,9 @@
 
 **(Why death overreached and could not hold Him)**
 
-- [Chapter 25 — Why the Powers Would Never Have Crucified Him](part-08/chapter-25.md)
-- [Chapter 26 — Not Taking the Blame: Innocence, Overreach, and Defeat](part-08/chapter-26.md)
-- [Chapter 27 — The Destruction of Death](part-08/chapter-27.md)
+- [Chapter 25 — Why the Powers Would Never Have Crucified Him](part-07/chapter-25.md)
+- [Chapter 26 — Not Taking the Blame: Innocence, Overreach, and Defeat](part-07/chapter-26.md)
+- [Chapter 27 — The Destruction of Death](part-07/chapter-27.md)
 
 ---
 
@@ -86,9 +86,9 @@
 
 **(Why returning to the Law misunderstands resurrection)**
 
-- [Chapter 28 — The Law as the Administration of Death](part-07/chapter-22.md)
-- [Chapter 29 — Sabbath, Rest, and the End of Death's Administration](part-07/chapter-23.md)
-- [Chapter 30 — From Stone to Flesh: Why the Temple Could Not Be Rebuilt](part-07/chapter-24.md)
+- [Chapter 28 — The Law as the Administration of Death](part-08/chapter-28.md)
+- [Chapter 29 — Sabbath, Rest, and the End of Death's Administration](part-08/chapter-29.md)
+- [Chapter 30 — From Stone to Flesh: Why the Temple Could Not Be Rebuilt](part-08/chapter-30.md)
 
 ---
 
@@ -96,9 +96,9 @@
 
 **(How language drift reshaped theology)**
 
-- [Chapter 31 — When Words Change but Assumptions Don't](part-09/chapter-28.md)
-- [Chapter 32 — Hijacked Words: Wrath, Propitiation, Atonement, Justice](part-09/chapter-29.md)
-- [Chapter 33 — Why Translation Is Never Neutral](part-09/chapter-30.md)
+- [Chapter 31 — When Words Change but Assumptions Don't](part-09/chapter-31.md)
+- [Chapter 32 — Hijacked Words: Wrath, Propitiation, Atonement, Justice](part-09/chapter-32.md)
+- [Chapter 33 — Why Translation Is Never Neutral](part-09/chapter-33.md)
 
 ---
 
@@ -106,11 +106,11 @@
 
 **(How metaphors became mechanisms)**
 
-- [Chapter 34 — The Ante-Nicene Church Period](part-10/chapter-31.md)
-- [Chapter 35 — Gnosticism, Determinism, and Theological Control](part-10/chapter-32.md)
-- [Chapter 36 — How Legal Frameworks Replaced Participatory Ones](part-10/chapter-33.md)
-- [Chapter 37 — Penal Substitution and the Legalization of Salvation](part-10/chapter-34.md)
-- [Chapter 38 — Needs-Based Christianity: When the Gospel Became Therapeutic](part-10/chapter-35.md)
+- [Chapter 34 — The Ante-Nicene Church Period](part-10/chapter-34.md)
+- [Chapter 35 — Gnosticism, Determinism, and Theological Control](part-10/chapter-35.md)
+- [Chapter 36 — How Legal Frameworks Replaced Participatory Ones](part-10/chapter-36.md)
+- [Chapter 37 — Penal Substitution and the Legalization of Salvation](part-10/chapter-37.md)
+- [Chapter 38 — Needs-Based Christianity: When the Gospel Became Therapeutic](part-10/chapter-38.md)
 
 ---
 
@@ -118,17 +118,17 @@
 
 **(Fair engagement without conceding the framework)**
 
-- [Chapter 39 — Surety, Priesthood, and the Stability of the Covenant](part-11/chapter-36.md)
-- [Chapter 40 — Penal Substitution: The Strongest Biblical Case](part-11/chapter-37.md)
-- [Chapter 41 — Determinism and Eternal Decree: The Strongest Biblical Case](part-11/chapter-38.md)
-- [Chapter 42 — Total Depravity: The Strongest Biblical Case](part-11/chapter-39.md)
-- [Chapter 43 — "No One Can Come Unless the Father Draws": John 6:44 Revisited](part-11/chapter-40.md)
-- [Chapter 44 — Renewed Covenant Theology: The Strongest Biblical Case](part-11/chapter-41.md)
-- [Chapter 45 — Baptism Without Water: The Strongest Case](part-11/chapter-42.md)
-- [Chapter 46 — Other Common Objections and Proof Texts](part-11/chapter-43.md)
+- [Chapter 39 — Surety, Priesthood, and the Stability of the Covenant](part-11/chapter-39.md)
+- [Chapter 40 — Penal Substitution: The Strongest Biblical Case](part-11/chapter-40.md)
+- [Chapter 41 — Determinism and Eternal Decree: The Strongest Biblical Case](part-11/chapter-41.md)
+- [Chapter 42 — Total Depravity: The Strongest Biblical Case](part-11/chapter-42.md)
+- [Chapter 43 — "No One Can Come Unless the Father Draws": John 6:44 Revisited](part-11/chapter-43.md)
+- [Chapter 44 — Renewed Covenant Theology: The Strongest Biblical Case](part-11/chapter-44.md)
+- [Chapter 45 — Baptism Without Water: The Strongest Case](part-11/chapter-45.md)
+- [Chapter 46 — Other Common Objections and Proof Texts](part-11/chapter-46.md)
 
 ---
 
 ## PART XII — CONCLUSION
 
-- [Chapter 47 — Death Defeated, Life Restored](part-12/chapter-44.md)
+- [Chapter 47 — Death Defeated, Life Restored](part-12/chapter-47.md)

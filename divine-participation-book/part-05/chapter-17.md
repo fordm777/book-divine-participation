@@ -11,9 +11,11 @@ This command is often softened. “Reckon” is treated as though Paul were urgi
 
 But Paul does not say, “Pretend you are dead.”
 
-He says, **reckon**.
+He says, **reckon** — and the Greek makes the force of the word difficult to evade.
 
-Reckoning is accounting language. It assumes something has actually occurred.
+The verb is *λογίζεσθε* (*logizesthe*), from *λογίζομαι* (*logizomai*). It belongs to the family of *λόγος* (*logos*): word, reason, account. In ordinary Greek it was used for **counting, calculating, and accounting** — for entering something on a ledger, crediting a sum to an account, or treating a state of affairs as real for the purpose of decision and action. To reckon something so is to **count it as true** and to order one’s life accordingly. It does not mean “act as if” in the sense of pretending. It means to **account for a reality**: to recognize that something has been done, to credit it, and to live in light of it.
+
+When Paul says “reckon yourselves dead indeed unto sin,” he is not inviting believers to conjure a feeling or adopt a metaphor. He is calling them to **account for something that has already happened**. Reckoning assumes an event. You do not reckon what has not occurred; you reckon what has. The word itself implies that death and life are being treated as real states to be counted, not as moods to be mustered.
 
 The question, then, is unavoidable:
 
@@ -65,7 +67,7 @@ If you did not actually die to sin:
 
 * Sin’s dominion has not ended.
 * The old master still holds jurisdiction.
-* “Freed from sin” becomes positional rather than real.
+* “Freed from sin” becomes mental fiction or metaphor.
 
 But Paul speaks of dominion ending through death.
 
