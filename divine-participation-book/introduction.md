@@ -1,5 +1,5 @@
 
-<p align="center"><a href="./toc.md">← Previous</a> | <a href="../part-01/chapter-01.md">Next →</a></p>
+<p align="center"><a href="./toc.md">← Previous</a> | <a href="./part-01/chapter-01.md">Next →</a></p>
 
 
 # Foreword
@@ -162,4 +162,4 @@ The cross is not less glorious when understood rightly. It is more so.
 
 Let us begin.
 
-<p align="center"><a href="./toc.md">← Previous</a> | <a href="../part-01/chapter-01.md">Next →</a></p>
+<p align="center"><a href="./toc.md">← Previous</a> | <a href="./part-01/chapter-01.md">Next →</a></p>
