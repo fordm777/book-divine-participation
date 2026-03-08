@@ -4,6 +4,10 @@
 
 ### Closing Summary
 
+The structure of this book has intentionally followed the shape of the biblical story itself. Scripture begins with creation and the entrance of death. It moves through the Exodus, where deliverance comes through sacrifice and the sea. It develops through the covenant system and the priestly ministry of the sanctuary. And it culminates in Christ, whose death and resurrection accomplish what these earlier patterns anticipated.
+
+The chapters of this book have followed that same movement: creation, death, Passover, sacrifice, covenant, participation, and finally the defeat of death itself. This was not merely a literary decision. It reflects the conviction that the gospel can only be understood correctly when read within the story Scripture itself is telling.
+
 Throughout this book, one central claim has quietly guided every chapter: the gospel does not merely announce forgiveness. It announces **deliverance from death itself**.
 
 Scripture presents the world as divided between two dominions: the reign of death and the reign of life. Humanity is not treated as God’s enemy, but as enslaved under a power that destroys. Judgment, therefore, is not aimed at mankind as a class to be punished, but at the kingdom that holds them in bondage. The gospel is announced by ambassadors of light who infiltrate the realm of darkness to proclaim escape.  The message: you must die out of the old dominion, trust Christ to carry you through death, and receive a new life no longer ruled by sin or death. Salvation is not a legal verdict handed down from a distance. It is liberation accomplished through participation in Christ’s death and resurrection!

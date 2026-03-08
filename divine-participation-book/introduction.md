@@ -2,7 +2,7 @@
 <p align="center"><a href="./toc.md">← Previous</a> | <a href="./part-01/chapter-01.md">Next →</a></p>
 
 
-# Foreword
+# Preface
 
 The question that prompted this book was not new. Christians have wrestled with it for centuries: *How does the cross save us?*
 
@@ -117,6 +117,25 @@ It is written for those who take the early church seriously, who honor the witne
 It is written for pastors, students, and laypeople who find themselves in conversations where everyone is appealing to the same Bible but no one seems to be speaking the same language.
 
 And it is written for anyone who has ever wondered: *Is there more to the gospel than I've been told?*
+
+## The Structure of This Book
+
+The argument of this book unfolds progressively through the biblical story before examining how later frameworks reshaped its interpretation.
+
+| Part | Theme |
+|-----|------|
+| Part 1 | Creation → death enters |
+| Part 2 | Passover → death as deliverance |
+| Part 3 | Sacrifices → atonement clarified |
+| Part 4 | Covenants |
+| Part 5 | Participation in Christ |
+| Part 6 | Life in the risen Christ |
+| Part 7 | Law and temple administration |
+| Part 8 | Powers, crucifixion, defeat of death |
+| Part 9 | Language and theological distortion |
+| Part 10 | Historical development |
+| Part 11 | Objections |
+| Part 12 | Conclusion |
 
 ---
 

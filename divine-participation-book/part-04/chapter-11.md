@@ -1,7 +1,6 @@
 # Chapter 11 — Covenant Death and Release from Bondage  
 *(Romans 7)*
 
-
 <p align="center"><a href="../part-04/chapter-10.md">← Previous</a> | <a href="../part-04/chapter-12.md">Next →</a></p>
 
 ## Introduction: Why Renewal Cannot Explain Romans 7
@@ -31,13 +30,16 @@ This is not a casual illustration. It establishes the **mechanism of release**.
 A woman is bound as long as the husband lives. If she joins herself to another while he lives, she commits adultery. But if death occurs, she is lawfully free.
 
 Paul does not say:
+
 - forgiveness dissolves the bond  
 - repentance dissolves the bond  
 - covenant renewal dissolves the bond  
 
 He says **death** dissolves the bond.
 
-Marriage is among the strongest covenantal relationships Scripture recognizes, and even it ends only at death. Forgiveness may heal a relationship, but it does not terminate covenant authority. Renewal preserves obligation. **Death ends it**.
+Marriage is among the strongest covenantal relationships Scripture recognizes, and even it ends only at death. Forgiveness may heal a relationship, but it does not terminate covenant authority. Renewal preserves obligation.
+
+**Death ends it.**
 
 ---
 
@@ -50,9 +52,10 @@ Paul’s opening claim frames everything that follows:
 This is not merely legal language. It is **dominion language**.
 
 Throughout Romans, Paul speaks this way:
+
 - sin has dominion (Romans 6:14)  
 - death has dominion (Romans 6:9)  
-- the law has dominion (Romans 7:1)  
+- the law has dominion (Romans 7:1)
 
 These are not abstractions. They are **reigning powers**.
 
@@ -78,7 +81,7 @@ He says **you died**.
 
 This single sentence makes covenant renewal impossible.
 
-The law remains alive, holy, just, and good. What changes is the **status of the person**. Death ends jurisdiction without altering the law itself.
+The law remains alive—holy, just, and good. What changes is the **status of the person**. Death ends jurisdiction without altering the law itself.
 
 A renewed covenant requires a living subject still under obligation.  
 A new covenant requires a **dead subject raised into a new order**.
@@ -126,8 +129,9 @@ Release comes **by death**.
 What held us has lost its claim because we have passed out of its jurisdiction. This is not abolition of the law. It is covenant death.
 
 The contrast is between two modes of existence:
+
 - **Oldness of letter** — life under the old covenant, in the flesh  
-- **Newness of spirit** — life in the new covenant, in Christ  
+- **Newness of spirit** — life in the new covenant, in Christ
 
 There is no gradual transition between these. There is death and resurrection.
 
@@ -158,6 +162,7 @@ The second half of Romans 7 describes a condition of bondage:
 This is not the normal Christian life. It is the condition of those who are still “in the flesh” (Romans 7:5), still under law, still under sin’s dominion.
 
 The person:
+
 - knows what is right  
 - wants to do what is right  
 - cannot do what is right  
@@ -185,9 +190,10 @@ The problem is not legal guilt. It is bondage. And bondage cannot be solved by d
 > **Romans 7:25** — “I thank God through Jesus Christ our Lord.”
 
 The answer has already been given:
+
 - death with Christ (Romans 6)  
 - release from the law (Romans 7)  
-- life in the Spirit (Romans 8)  
+- life in the Spirit (Romans 8)
 
 Romans 8 begins:
 
@@ -200,6 +206,7 @@ This is liberation, not mere acquittal.
 ## Why Renewal Theology Fails Here
 
 If the covenant were renewed:
+
 - jurisdiction would remain  
 - death would be unnecessary  
 - Romans 7 would be incoherent  
