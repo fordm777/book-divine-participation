@@ -1,6 +1,5 @@
 # Chapter 1 — Life and Divine Fellowship
 
-
 <p align="center"><a href="../introduction.md">← Previous</a> | <a href="../part-01/chapter-02.md">Next →</a></p>
 
 ## Introduction
@@ -13,7 +12,9 @@ Genesis presents a world brought into being by God's word and sustained by God's
 
 The garden is not merely a location; it is a space of divine presence. Genesis describes God walking among His creation, speaking with humanity, and sustaining life through proximity and relationship. At the center of the garden stands the Tree of Life, signifying that life is continually received, not independently possessed. This presence is not abstract or symbolic. It is the source from which life itself is drawn.
 
-Life, in this sense, means more than biological animation. It is shared life, received from God and lived toward Him. The garden is where this life is meant to be lived, in nearness to God and participation in His presence. Later Scripture will describe this same reality when John writes that "in Him was life, and the life was the light of men," and when Paul declares that "in Him we live and move and have our being." What Genesis shows in the garden, the rest of Scripture names as the fundamental truth of human existence: life flows from God's presence.
+Life, in this sense, means more than biological animation. It is shared life, received from God and lived toward Him. The garden is where this life is meant to be lived, in nearness to God and participation in His presence. Later Scripture describes this same reality when John writes that "in Him was life, and the life was the light of men," and when Paul declares that "in Him we live and move and have our being." What Genesis shows in the garden, the rest of Scripture names as the fundamental truth of human existence: life flows from God's presence.
+
+This matters, because the biblical story does not begin with guilt, judgment, or conflict. It begins with life shared with God.
 
 ## Created in the Image of God
 
@@ -23,7 +24,7 @@ The image is not presented as a moral achievement or a future reward. It is give
 
 ## Likeness as Orientation and Growth
 
-Alongside the image, Genesis speaks of likeness. The likeness of God is not described as something already completed in the opening chapters. Rather, it functions as an orientation, a direction in which human life is meant to grow. Humanity is created with the capacity to reflect God, and with a life meant to deepen in resemblance to Him through continued fellowship.
+Alongside the image, Genesis speaks of likeness. The likeness of God is not described as something already completed in the opening chapters. Rather, it functions as an orientation, a direction in which human life is meant to grow. Humanity is created with the capacity to reflect God and with a life meant to deepen in resemblance to Him through continued fellowship.
 
 This distinction between image and likeness is not fully developed in Genesis itself, but it becomes significant in later Scripture and early Christian reflection. What matters here is simply this: humanity's life is not static. It is meant to mature, deepen, and unfold within ongoing relationship with God. From the beginning, human life is both given and directed. It is rooted in gift and oriented toward growth.
 
@@ -32,6 +33,8 @@ This distinction between image and likeness is not fully developed in Genesis it
 At the center of the garden stands the Tree of Life. The presence of this tree signifies that life is sustained, not possessed. Access to life is continual and relational. Humanity does not generate life from within itself; it receives life by remaining within the provision God has placed before it.
 
 The Tree of Life does not function as a test or a reward. It stands as a sign that life is something to be received again and again, not something secured once and for all. Life, in the biblical vision, is ongoing participation rather than self-contained existence. So long as humanity remains within the garden, life flows uninterrupted. Communion, provision, and purpose remain united.
+
+This reveals something important about the nature of life in Scripture: life is not something humanity possesses independently. It is something continually received from God.
 
 ## Fellowship as the Shape of Human Existence
 

@@ -1,9 +1,6 @@
 # Chapter 8 — What Atonement Is (and Is Not)
 
-
 <p align="center"><a href="../part-03/chapter-07.md">← Previous</a> | <a href="../part-03/chapter-09.md">Next →</a></p>
-
----
 
 ## Introduction: The Problem with "Atonement Theories"
 
@@ -17,9 +14,9 @@ The problem is not that these categories describe nothing real. The problem is t
 
 Scripture does not present atonement as a flexible concept open to various interpretations. It presents atonement as a **defined priestly action** with a specific location, a specific agent, and a specific result. When that definition is allowed to stand, much of the confusion surrounding modern atonement debates dissolves.
 
-This chapter exists to restore that definition and to show why collapsing everything Christ accomplished into the single category of "atonement" distorts rather than clarifies the gospel.
+This matters, because once atonement loses its biblical definition, every other saving work of Christ is easily collapsed into the wrong category.
 
----
+This chapter exists to restore that definition and to show why collapsing everything Christ accomplished into the single category of "atonement" distorts rather than clarifies the gospel.
 
 ## What Scripture Means by Atonement
 
@@ -30,15 +27,16 @@ Atonement is not an abstract theological concept. It is a concrete liturgical ac
 The clearest definition of atonement in the Old Testament comes from Leviticus 16, which describes the Day of Atonement (Yom Kippur). This is not one ritual among many; it is the central act by which Israel's relationship with God is maintained.
 
 On the Day of Atonement:
-- The high priest enters the Most Holy Place
-- He brings blood from the sacrifice
-- He applies that blood before the mercy seat
-- He cleanses the sanctuary from accumulated defilement
-- He restores access between God and the people
+
+- The high priest enters the Most Holy Place.
+- He brings blood from the sacrifice.
+- He applies that blood before the mercy seat.
+- He cleanses the sanctuary from accumulated defilement.
+- He restores access between God and the people.
 
 Atonement is not accomplished when the animal dies. Death provides the blood, but **atonement occurs when the priest enters the sanctuary and presents that blood before God**.
 
-This distinction is structural, not incidental. The animal's death happens outside the sanctuary. The atonement happens inside it. What is presented is not death itself, but **life** (carried in the blood) before God in the holy place.
+This distinction is structural, not incidental. The animal's death happens outside the sanctuary. The atonement happens inside it. What is presented is not death itself, but **life** carried in the blood before God in the holy place.
 
 Leviticus 16:30 states the result clearly:
 
@@ -48,24 +46,25 @@ The text explicitly defines what atonement accomplishes: **cleansing**. The prie
 
 This pattern was explored in detail in **Chapter 6: What Sacrifices Were (and Were Not)**, where the purpose and function of the Levitical offerings were examined carefully. The sacrificial system was never about punishment being transferred. It was about cleansing that restores access to God's presence.
 
-### Hebrews 9-10: Christ's Priestly Atonement
+### Hebrews 9–10: Christ's Priestly Atonement
 
 The book of Hebrews insists that the Levitical system was a **shadow** of a greater reality. Christ's work fulfills what the earthly priesthood could only prefigure.
 
 Hebrews makes several precise claims about where and how atonement occurs:
 
-- Christ is not a priest on earth (Hebrews 8:4)
-- Earthly priests serve in copies and shadows (Hebrews 8:5)
-- Christ ministers in the **true heavenly sanctuary** (Hebrews 8:1-2)
-- Atonement occurs when Christ **enters** as high priest and presents his blood (Hebrews 9:11-12, 24)
+- Christ is not a priest on earth (Hebrews 8:4).
+- Earthly priests serve in copies and shadows (Hebrews 8:5).
+- Christ ministers in the **true heavenly sanctuary** (Hebrews 8:1–2).
+- Atonement occurs when Christ **enters** as high priest and presents His blood (Hebrews 9:11–12, 24).
 
 > "For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us." (Hebrews 9:24)
 
-Christ's death on the cross is necessary—it provides the blood and marks the end of the old covenant order. But Hebrews specifically locates the **atonement** in the heavenly tabernacle, where Christ entered and presented his blood as high priest before God.
+Christ's death on the cross is necessary. It provides the blood and marks the end of the old covenant order. But Hebrews specifically locates the **atonement** in the heavenly tabernacle, where Christ entered and presented His blood as high priest before God.
 
 This is why Hebrews frames salvation in terms of:
+
 - **Cleansing** (Hebrews 9:14)
-- **Access** (Hebrews 10:19-22)
+- **Access** (Hebrews 10:19–22)
 - **Drawing near** (Hebrews 7:19, 25)
 - **Purified conscience** (Hebrews 9:14; 10:22)
 - **Mediated communion** (Hebrews 8:6; 9:15)
@@ -83,8 +82,6 @@ When Scripture speaks of atonement, it means:
 - Restoring **access** to God's presence
 
 This is not one theory among many. This is what the word means in its biblical context.
-
----
 
 ## What Scripture Does Not Call Atonement
 
@@ -110,7 +107,7 @@ Scripture speaks of Christ leading captives free (Ephesians 4:8), releasing thos
 
 This is real. This is essential. But this is not **atonement**.
 
-Liberation describes the **effect** of Christ's victory over death. Those who were enslaved to fear and corruption are set free. This is deliverance, exodus, redemption—but it is not the priestly act of presenting blood in the sanctuary.
+Liberation describes the **effect** of Christ's victory over death. Those who were enslaved to fear and corruption are set free. This is deliverance, exodus, redemption, but it is not the priestly act of presenting blood in the sanctuary.
 
 ### Resurrection Life and New Creation
 
@@ -118,7 +115,7 @@ Paul declares that "if any man be in Christ, he is a new creature: old things ar
 
 This is real. This is essential. But this is not **atonement**.
 
-Resurrection life flows **from** atonement. Because Christ has cleansed and opened access, believers may participate in his risen life. But the resurrection itself is not the priestly act of cleansing the sanctuary.
+Resurrection life flows **from** atonement. Because Christ has cleansed and opened access, believers may participate in His risen life. But the resurrection itself is not the priestly act of cleansing the sanctuary.
 
 ### Moral Transformation and Healing
 
@@ -142,8 +139,6 @@ All of these works are real. All are essential. All are part of the gospel. But 
 
 When everything becomes "atonement," the word loses definition. When the word loses definition, Scripture's own categories collapse, and debates become interminable.
 
----
-
 ## The Liturgical Calendar Analogy
 
 The clearest way to expose the problem with "atonement theories" is to consider Israel's liturgical calendar. Each feast does something specific. They are related, they interpret one another, but they are not interchangeable.
@@ -158,7 +153,7 @@ The clearest way to expose the problem with "atonement theories" is to consider 
 
 **Day of Atonement (Yom Kippur)** — Priestly cleansing and restored access. The high priest enters the Most Holy Place with blood to cleanse the sanctuary and the people.
 
-**Sukkot (Feast of Tabernacles)** — God dwelling with his people. Israel lives in temporary shelters, remembering God's presence during the wilderness journey and anticipating his permanent dwelling among them.
+**Sukkot (Feast of Tabernacles)** — God dwelling with His people. Israel lives in temporary shelters, remembering God's presence during the wilderness journey and anticipating His permanent dwelling among them.
 
 None of these feasts is everything. Each has its own grammar, its own purpose, its own meaning.
 
@@ -178,26 +173,24 @@ But biblically speaking:
 - **Passover is not atonement.** It is deliverance through death.
 - **Firstfruits is not atonement.** It is the beginning of resurrection life.
 - **Pentecost is not atonement.** It is the gift of the Spirit.
-- **Tabernacles is not atonement.** It is God dwelling with his people.
+- **Tabernacles is not atonement.** It is God dwelling with His people.
 
-They are real, essential, God-given acts—but they are not the Day of Atonement.
+They are real, essential, God-given acts, but they are not the Day of Atonement.
 
 Likewise:
 
-- **Christ's victory over death is real**—but it is not atonement.
-- **Christ's liberation of captives is real**—but it is not atonement.
-- **Christ's resurrection life is real**—but it is not atonement.
-- **Christ's indwelling presence is real**—but it is not atonement.
+- **Christ's victory over death is real**, but it is not atonement.
+- **Christ's liberation of captives is real**, but it is not atonement.
+- **Christ's resurrection life is real**, but it is not atonement.
+- **Christ's indwelling presence is real**, but it is not atonement.
 
 Each does something different. Each is necessary. But only one is atonement.
 
 ### Why This Matters
 
-Treating Christ's victory over death, his resurrection, or his dwelling among us as "atonement theories" is no different than collapsing Israel's feasts into a single category. 
+Treating Christ's victory over death, His resurrection, or His dwelling among us as "atonement theories" is no different than collapsing Israel's feasts into a single category.
 
-When everything becomes "atonement," clarity is lost and the biblical structure collapses. Scripture speaks with precision. Modern theology often does not.
-
----
+This reveals something important: when everything becomes "atonement," clarity is lost and the biblical structure collapses. Scripture speaks with precision. Modern theology often does not.
 
 ## Why "Atonement Theories" Creates Confusion
 
@@ -216,13 +209,14 @@ When that definition is lost, the biblical witness becomes obscured.
 If atonement is undefined, it can be redefined. This is precisely what happens in penal substitutionary atonement.
 
 PSA redefines atonement as:
+
 - A courtroom transaction
 - Punishment transferred from sinners to Christ
 - Wrath satisfied through retributive justice
 
-None of this language appears in Leviticus 16 or Hebrews 9-10. But once atonement is detached from its biblical definition, it becomes available for redefinition.
+None of this language appears in Leviticus 16 or Hebrews 9–10. But once atonement is detached from its biblical definition, it becomes available for redefinition.
 
-The legal-forensic framework is **foreign to the Levitical cult**. The Levitical system—the cultic framework God himself established—operates through priestly mediation, blood as cleansing agent, and atonement accomplished in the sanctuary. It knows nothing of courtroom verdicts, legal substitution, or retributive punishment transferred from one party to another.
+The legal-forensic framework is **foreign to the Levitical cult**. The Levitical system, the cultic framework God Himself established, operates through priestly mediation, blood as cleansing agent, and atonement accomplished in the sanctuary. It knows nothing of courtroom verdicts, legal substitution, or retributive punishment transferred from one party to another.
 
 When a legal-forensic framework is imposed upon texts that were written within a cultic-priestly framework, the result is not clarification but distortion.
 
@@ -236,7 +230,7 @@ Because Hebrews insists on priestly precision, it becomes awkward for broad "the
 
 Hebrews says:
 
-- Christ offers himself
+- Christ offers Himself
 - Christ enters the heavenly sanctuary
 - Christ appears before God on our behalf
 - Christ cleanses
@@ -250,9 +244,7 @@ When "atonement theories" language dominates, Hebrews is often reduced to one vo
 
 When people argue about "atonement theories," they are often arguing about **different actions under the same label**.
 
-One person says, "Atonement is victory over Satan" (describing Christus Victor).
-Another says, "Atonement is punishment satisfied" (describing PSA).
-A third says, "Atonement is moral transformation" (describing moral influence).
+One person says, "Atonement is victory over Satan" (describing Christus Victor). Another says, "Atonement is punishment satisfied" (describing PSA). A third says, "Atonement is moral transformation" (describing moral influence).
 
 But they are not actually disagreeing about the same thing. They are describing different aspects of Christ's work and calling all of them "atonement."
 
@@ -275,15 +267,13 @@ But biblically speaking, these are not competing options. They are describing di
 
 All are real. None are rivals. But only one is atonement.
 
----
-
 ## One Atonement, Many Works
 
 The solution is not to choose one "theory" over another. The solution is to let Scripture define atonement and then recognize the many works that flow from it.
 
 ### Atonement Accomplished in the Heavenly Sanctuary
 
-Hebrews is explicit: Christ entered the true sanctuary, presented his blood, and accomplished cleansing. This is **atonement**.
+Hebrews is explicit: Christ entered the true sanctuary, presented His blood, and accomplished cleansing. This is **atonement**.
 
 > "But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building; Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us." (Hebrews 9:11-12)
 
@@ -291,7 +281,7 @@ This is not a metaphor. This is the location and mechanism of atonement.
 
 ### Victory Flows from Resurrection
 
-Christ's victory over death is accomplished through his death and resurrection. He enters death, exhausts its power, and rises victorious.
+Christ's victory over death is accomplished through His death and resurrection. He enters death, exhausts its power, and rises victorious.
 
 > "Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil." (Hebrews 2:14)
 
@@ -307,7 +297,7 @@ This is **liberation**, not atonement.
 
 ### Inheritance Restored Because the Heir Lives
 
-Because Christ rose from the dead, he restores the inheritance that was lost under the curse.
+Because Christ rose from the dead, He restores the inheritance that was lost under the curse.
 
 > "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith." (Galatians 3:14)
 
@@ -315,7 +305,7 @@ This is **restoration of inheritance**, not atonement.
 
 ### Transformation Through Participation
 
-Because believers are united to Christ in his death and resurrection, they are transformed.
+Because believers are united to Christ in His death and resurrection, they are transformed.
 
 > "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new." (2 Corinthians 5:17)
 
@@ -327,15 +317,13 @@ One atoning act → many saving works → all perfectly coherent.
 
 Atonement is the priestly center. Everything else flows from it. But not everything is it.
 
----
-
 ## Why This Clarification Matters
 
 Restoring the biblical definition of atonement does not narrow the gospel. It clarifies it.
 
 ### It Resolves False Debates
 
-When atonement is defined biblically, the debate between "Christus Victor" and "penal substitution" dissolves. They are not rival theories of atonement. One describes victory (real, but not atonement). The other describes a legal mechanism (false, and not atonement).
+When atonement is defined biblically, the debate between "Christus Victor" and "penal substitution" dissolves. They are not rival theories of atonement. One describes victory, real, but not atonement. The other describes a legal mechanism, false, and not atonement.
 
 The real question becomes: **What does Scripture say atonement is?**
 
@@ -349,15 +337,16 @@ When "atonement theories" language dominates, Hebrews is often sidelined. When a
 
 ### It Protects God's Character
 
-Penal substitution depends on redefining atonement as punishment. Once atonement is restored to its biblical meaning—cleansing, not punishment—the entire penal framework collapses.
+Penal substitution depends on redefining atonement as punishment. Once atonement is restored to its biblical meaning, cleansing, not punishment, the entire penal framework collapses.
 
-God is not executing retributive justice on his Son. God is providing the means of cleansing so that communion may be restored.
+God is not executing retributive justice on His Son. God is providing the means of cleansing so that communion may be restored.
 
 ### It Honors the Fullness of Christ's Work
 
 This clarification does not diminish anything Christ accomplished. It honors all of it by refusing to flatten it into a single undifferentiated category.
 
 Christ's work includes:
+
 - Priestly atonement in the sanctuary
 - Victory over death through resurrection
 - Liberation of captives from bondage
@@ -369,8 +358,6 @@ All are real. All are essential. All are part of the gospel.
 
 But not all are atonement.
 
----
-
 ## Conclusion: Clarity, Not Narrowness
 
 This chapter is not an attempt to limit the gospel. It is an attempt to restore clarity to how we speak about it.
@@ -381,9 +368,9 @@ Scripture does not speak this way. It defines atonement with precision and descr
 
 Atonement is what happens when the high priest enters the sanctuary with blood to cleanse and restore access. That is not a theory. That is what the word means.
 
-Christ's victory over death is real.
-Christ's liberation of captives is real.
-Christ's resurrection life is real.
+Christ's victory over death is real.  
+Christ's liberation of captives is real.  
+Christ's resurrection life is real.  
 Christ's indwelling presence is real.
 
 But only one of these is atonement.
@@ -393,7 +380,5 @@ When Scripture's own categories are allowed to stand, the confusion dissolves. O
 This is not a new theory. It is the biblical pattern, clearly stated and consistently maintained from Leviticus to Hebrews.
 
 And it is the foundation upon which the rest of this section will build.
-
----
 
 <p align="center"><a href="../part-03/chapter-07.md">← Previous</a> | <a href="../part-03/chapter-09.md">Next →</a></p>

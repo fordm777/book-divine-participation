@@ -1,11 +1,10 @@
 # Chapter 6 — What the Sacrifices Were: Their Purpose, Shape, and Meaning
 
-
 <p align="center"><a href="../part-02/chapter-05.md">← Previous</a> | <a href="../part-03/chapter-07.md">Next →</a></p>
 
 ## The Offerings as Identified in Leviticus
 
-The book of Leviticus describes Israel’s worship and relationship with God with the levitical priesthood as the mediators.  These activities include distinct offerings, rites, and appointed times, each with its own purpose and effect. The following table lists the scripture reference, the offering or rite, description, the purpose, and the result.
+The book of Leviticus describes Israel’s worship and relationship with God, with the Levitical priesthood serving as mediators. These activities include distinct offerings, rites, and appointed times, each with its own purpose and effect. The following table lists the scripture reference, the offering or rite, description, the purpose, and the result.
 
 | Leviticus Reference | Offering / Rite | Description | Reason / Purpose | Result |
 |--------------------|-----------------|-------------|------------------|--------|
@@ -27,7 +26,7 @@ The book of Leviticus describes Israel’s worship and relationship with God wit
 
 ## Grouping the Offerings by Their Function
 
-When the offerings and rites of Leviticus are viewed together, they naturally cluster around three primary functions. These groupings reflect how Israel lived in relationship with God: sharing life with him, being cleansed to remain in his presence, and expressing devotion and dependence.
+When the offerings and rites of Leviticus are viewed together, they naturally cluster around three primary functions. These groupings reflect how Israel lived in relationship with God: sharing life with Him, being cleansed to remain in His presence, and expressing devotion and dependence.
 
 Some offerings appear in more than one grouping, reflecting the integrated nature of covenant life.
 
@@ -38,6 +37,7 @@ Some offerings appear in more than one grouping, reflecting the integrated natur
 These rites center on **shared life before the LORD**, often involving eating, rejoicing, and remembrance. They assume that life with God is possible and focus on sustaining fellowship rather than repairing rupture.
 
 **Offerings and rites in this group include:**
+
 - Peace / Fellowship Offering (*šĕlāmîm*) — Leviticus 3  
 - Passover (*pesaḥ*, as appointed time) — Leviticus 23:4–8  
 - Portions of the Ordination Offerings — Leviticus 8–9  
@@ -52,6 +52,7 @@ These rites emphasize belonging, identity, and joyful participation in God’s p
 This group addresses situations where impurity—whether caused by sin, bodily conditions, or contact with death—threatens God’s dwelling among the people. The focus is on cleansing and restoration rather than punishment.
 
 **Offerings and rites in this group include:**
+
 - Sin Offering (*ḥaṭṭāʾt*) — Leviticus 4  
 - Guilt Offering (*ʾāšām*) — Leviticus 5–6  
 - Yom Kippur (*yôm hakkippurîm*) — Leviticus 16  
@@ -68,6 +69,7 @@ These rites show that “sin” in Leviticus often functions as a source of **de
 These offerings express surrender, gratitude, and reliance on God as the giver of life. They are oriented toward worship and acknowledgment rather than cleansing or repair.
 
 **Offerings and rites in this group include:**
+
 - Burnt Offering (*ʿōlāh*) — Leviticus 1  
 - Grain Offering (*minḥâ*) — Leviticus 2  
 - Pentecost (Feast of Weeks) — Leviticus 23:15–21  
@@ -81,27 +83,36 @@ These rites embed worship within daily life, harvest, time, and provision, empha
 
 Together, these three groupings show that the sacrificial system is not driven by a single concern about sin. Instead, it is oriented toward **maintaining life with God**—through communion, purification, and devotion. Cleansing exists to preserve presence, and devotion flows from restored fellowship.
 
+This matters, because the sacrifices are not primarily mechanisms for transferring punishment. They are means by which life with God is maintained.
+
 This framework will be essential as we move forward to consider how these realities find their fulfillment in Christ.
+
+---
 
 ## Purpose of the Blood
 
-In Leviticus 17 we see the purpose of the blood, Leviticus 17:11:
+In Leviticus 17 we see the purpose of the blood:
 
-> “For the life of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your lives; for it is the blood that makes atonement by the life.”
+> “For the life of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your lives; for it is the blood that makes atonement by the life.”  
+> — Leviticus 17:11
 
-In Leviticus 16 we see the explanation of **atonement**, Leviticus 16:30
+In Leviticus 16 we see the explanation of **atonement**:
 
-> "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD."
+> "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD."  
+> — Leviticus 16:30
 
-God has given **blood** as a gift for the purpose of **cleansing** from contamination in order to restore fellowship with God. Notice that the cleansing described in Leviticus 16 includes not only people, but also objects and sacred space, Leviticus 16:33
+God has given **blood** as a gift for the purpose of **cleansing** from contamination in order to restore fellowship with God.
 
-> "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation."
+Notice that the cleansing described in Leviticus 16 includes not only people, but also objects and sacred space:
 
-- for the holy sanctuary
-- for the tabernacle of the congregation
-- for the altar
-- for the priests
-- for all the people
+> "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation."  
+> — Leviticus 16:33
+
+- for the holy sanctuary  
+- for the tabernacle of the congregation  
+- for the altar  
+- for the priests  
+- for all the people  
 
 When Leviticus 17 says that blood is given “to make atonement,” Leviticus 16 tells us what that atonement actually accomplishes. Blood is effective because it carries life, and that life is applied to **purify what has been contaminated**.
 
@@ -111,20 +122,22 @@ This chapter in Leviticus leaves no ambiguity: atonement functions to **cleanse*
 
 The logic flows in this order:
 
-1. Impurity prevents fellowship with God and his presence with the people  
-2. God provides life (in the blood) as a means of cleansing
-3. Atonement removes defilement so communion may continue 
+1. Impurity prevents fellowship with God and His presence with the people  
+2. God provides life (in the blood) as a means of cleansing  
+3. Atonement removes defilement so communion may continue  
+
+---
 
 ## Early Jewish, Apostolic, and Patristic Witnesses to Blood as Cleansing
 
 This understanding of blood as a means of purification rather than punishment is not unique to Leviticus itself. It is reflected consistently in Second Temple Jewish interpretation, the New Testament, and the earliest Christian writers.
 
-A clear Second Temple Jewish witness comes from **Philo of Alexandria**, a first-century Jewish interpreter of the Torah.
- In *Special Laws* (1.188–189), commenting on sacrificial practice, Philo explains that blood is brought to the altar not because God delights in slaughter, but because **purification (*katharsis*) is required for those who approach sacred things**. The concern is fitness to draw near to holiness. Blood functions as a purifying agent that removes defilement, not as a bearer of punishment.
+A clear Second Temple Jewish witness comes from **Philo of Alexandria**, a first-century Jewish interpreter of the Torah. In *Special Laws* (1.188–189), commenting on sacrificial practice, Philo explains that blood is brought to the altar not because God delights in slaughter, but because **purification (*katharsis*) is required for those who approach sacred things**. The concern is fitness to draw near to holiness. Blood functions as a purifying agent that removes defilement, not as a bearer of punishment.
 
 This same logic appears explicitly in the New Testament. The author of **the Epistle to the Hebrews** writes:
 
-> “For if the blood of bulls and goats, and the ashes of a heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: how much more shall the blood of Christ… cleanse your conscience from dead works to serve the living God?” (Hebrews 9:13–14)
+> “For if the blood of bulls and goats, and the ashes of a heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: how much more shall the blood of Christ… cleanse your conscience from dead works to serve the living God?”  
+> — Hebrews 9:13–14
 
 Here, sacrificial blood is described in explicitly **purificatory** terms. The comparison assumes that the function of the Levitical blood rites was cleansing. Christ’s blood is then said to accomplish this purification more deeply and effectively, extending it from ritual space to the conscience itself.
 
@@ -134,15 +147,17 @@ Together, these witnesses—from Second Temple Judaism, apostolic teaching, and 
 
 This shared understanding reinforces what the purification rites themselves reveal. Atonement is the act of presenting blood for the purpose of **purification that restores access to God’s presence**.
 
-## The purification rites
+---
+
+## The Purification Rites
 
 The connection between Leviticus 17 and Leviticus 16 is crucial for understanding the impurity offerings as a whole. The sin offering, guilt offering, and Yom Kippur rites all operate within this same framework:
 
 - Life is given to cleanse  
 - Blood is applied to sacred space  
-- The goal is restoration
+- The goal is restoration  
 
-The priest presents blood as a cleansing agent to restore follewship with God.
+The priest presents blood as a cleansing agent to restore fellowship with God.
 
 This distinction is reinforced elsewhere in Leviticus. Contact with a dead body—including the carcass of an animal—renders a person unclean. Death itself is a source of impurity. Yet the blood, which carries life, is never treated as unclean. It is handled by priests, brought into sacred space, and applied to the altar and sanctuary furnishings.
 
@@ -152,6 +167,17 @@ This distinction is further underscored by the movement of the rites themselves.
 
 Leviticus thus carefully separates death from the presence of God. What is brought near is not the animal as a substitute, but the life God has given in the blood. Sacred space receives life for cleansing, not a corpse for substitutional punishment.
 
----
+## The Logic of the Sacrificial System
+
+The sacrificial system operates according to a pattern very different from later courtroom models of salvation.
+
+| Temple Logic | Courtroom Logic |
+|---------------|----------------|
+| Impurity | Guilt |
+| Cleansing | Punishment |
+| Life in the blood restores | Payment satisfies |
+| Presence restored | Sentence resolved |
+
+Leviticus consistently presents sacrifice as a means of purification that restores fellowship with God. The goal is not the transfer of punishment, but the removal of defilement so that God's presence may remain among His people.
 
 <p align="center"><a href="../part-02/chapter-05.md">← Previous</a> | <a href="../part-03/chapter-07.md">Next →</a></p>

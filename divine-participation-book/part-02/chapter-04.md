@@ -1,6 +1,5 @@
 # Chapter 4 — Passover: Salvation Through Death
 
-
 <p align="center"><a href="../part-01/chapter-03.md">← Previous</a> | <a href="../part-02/chapter-05.md">Next →</a></p>
 
 ## Introduction: Born in Captivity
@@ -13,7 +12,7 @@ Egypt's authority is exposed as false. Its power to sustain life is stripped awa
 
 ## Egypt, Pharaoh, and Cosmic Judgment
 
-The story of the Exodus unfolds within a world ordered by competing claims to authority. Egypt is not presented merely as a political power, but as a comprehensive system, religious, economic, and cosmic, claiming the ability to sustain life, preserve order, and secure the future. Pharaoh stands at the center of this system as its representative head. He embodies Egypt's claim to sovereignty, stability, and control.
+The story of the Exodus unfolds within a world ordered by competing claims to authority. Egypt is not presented merely as a political power, but as a comprehensive system — religious, economic, and cosmic — claiming the ability to sustain life, preserve order, and secure the future. Pharaoh stands at the center of this system as its representative head. He embodies Egypt's claim to sovereignty, stability, and control.
 
 When Scripture speaks of judgment against Egypt, it is not describing a courtroom proceeding directed at individual moral guilt. It is describing the collapse of a world-order that falsely claims the power to give life. Judgment, in this sense, is the exposure and dismantling of a dominion that cannot sustain what it promises. The plagues unfold as a progressive unmaking of Egypt's claimed mastery over creation. Each plague strikes a domain through which Egypt asserted order, blessing, or continuity. Together, they reveal that the powers governing Egypt are unable to preserve life when confronted by the living God.
 
@@ -22,6 +21,8 @@ When Scripture speaks of judgment against Egypt, it is not describing a courtroo
 The first plague turns water to blood, striking at the source of life itself. The second brings frogs swarming across the land, undermining fertility and generative abundance. The third produces gnats from the dust, assaulting the earth and bodily integrity. The fourth sends swarms that disrupt habitation, collapsing order and boundaries. The fifth kills livestock, stripping away economic strength and sustenance. The sixth afflicts bodies with boils, attacking health, purity, and human wholeness. The seventh brings hail and fire from the sky, destabilizing the cosmic order. The eighth unleashes locusts that consume all, devouring future provision and continuity. The ninth covers the land in darkness, extinguishing kingship, meaning, and authority.
 
 By the ninth plague, Egypt is still standing, but it is no longer capable of sustaining life. Water has failed, land has failed, bodies have failed, the sky has failed, and the future has been stripped away. Pharaoh remains on his throne, yet he rules in darkness. This is cosmic judgment: not the execution of sentences against individuals, but the exposure of a dominion that can no longer uphold creation.
+
+This matters, because the plagues are not merely punishments falling on Egypt. They are the public collapse of a false order that claimed the power to sustain life.
 
 ## Why Passover Is Not the Tenth Plague
 
@@ -34,6 +35,8 @@ Passover is not an escalation of the plagues. It is not simply the final and mos
 On the night of Passover, death moves through Egypt. This is not introduced as a new tool of judgment, but as what remains when a false order has been stripped of its ability to sustain life. Where life was never truly secured, death moves freely.
 
 The distinction the text draws is not between those who experience death and those who do not, but between those for whom death becomes an end and those for whom it becomes a passage. The blood placed on the doorposts is explicitly called a sign. It marks the threshold of the household, the boundary between one realm and another. The blood does not function as payment or exchange. It identifies the household as one already claimed, already counted, already prepared to leave.
+
+This reveals something important: the blood does not make exodus unnecessary. It marks the household for exodus.
 
 Israel is not spared because death is redirected elsewhere. The blood does not prevent death from passing through Egypt. It marks the household as one in which death has already been accounted for. Those under the blood will still leave Egypt by passing through the sea. The blood does not cancel crossing, but rather enables a safe crossing. It makes it survivable.
 
@@ -50,6 +53,8 @@ Passover is incomplete on its own. It initiates departure, but it does not yet s
 Between Passover and the sea, Israel leaves Egypt, Pharaoh pursues, and the old dominion attempts to reclaim what is departing. At the sea, that claim is finally broken. The sea is not a judicial execution. It is the collapse of pursuit, the end of slavery's reach. Israel passes through the waters alive; the power that sought to reclaim them does not.
 
 Passover begins the exodus. The sea completes it.
+
+This matters, because salvation in Exodus does not stop with being marked. It reaches its fulfillment in departure and separation from the old dominion.
 
 ## Exodus as the Shape of Salvation
 
@@ -85,12 +90,10 @@ Life does not come first.
 
 The Spirit of God is not neutral power. The Spirit is life itself. And life, by its very nature, does not animate what still belongs to death. What remains under the old dominion cannot be enlivened; it must first be left behind. This is why Scripture consistently places burial before resurrection. Israel passes through the sea before being led by the cloud into freedom. Christ enters death before rising in new life. Those who are baptized are buried first, so that life given afterward is truly new.
 
+This reveals something important: the order is not incidental. Death must be passed through before new life can be received on the far side of deliverance.
+
 If there were only water, there would be death without direction, burial without emergence, escape without belonging. But if there were only Spirit, there would be guidance without death, inspiration without liberation, presence without exodus. Paul refuses both reductions.
 
 Deliverance comes when death is entered under divine presence, and life is received only on the far side of that passage. The order cannot be reversed without undoing the meaning of the Exodus itself. This is not ritual sequence. It is the shape of salvation.
-
----
-
----
 
 <p align="center"><a href="../part-01/chapter-03.md">← Previous</a> | <a href="../part-02/chapter-05.md">Next →</a></p>

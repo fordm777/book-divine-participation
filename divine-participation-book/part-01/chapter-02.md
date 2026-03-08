@@ -1,6 +1,5 @@
 # Chapter 2 — Exile from Life: Death as Mercy, Not Punishment
 
-
 <p align="center"><a href="../part-01/chapter-01.md">← Previous</a> | <a href="../part-01/chapter-03.md">Next →</a></p>
 
 ## Where Are You?
@@ -11,7 +10,7 @@ God speaks, not with accusation, but with a question: "Where are you?"
 
 The question is not asked because God lacks information. It is asked because something has shifted in the relationship. Humanity, once at ease in God's presence, now withdraws. Shame replaces openness. Fear replaces trust. Hiding replaces fellowship. Yet the conversation continues. God speaks. Humanity responds. They explain. They confess fear. They acknowledge what has happened. Life has not ended. Relationship, though strained, still exists.
 
-This moment matters, because God had already spoken a warning before any of this occurred: "In the day that you eat of it, you shall surely die." And yet here they stand, alive, conscious, responsive, and addressed by God. Whatever the warning meant, it did not mean immediate extinction, silence, or incapacity. Something has certainly changed, but Adam and Eve are still living. They still hear God's voice. They still speak. The story has not ended; it has entered a new and dangerous condition.
+This moment matters, because God had already spoken a warning before any of this occurred: "In the day that you eat of it, you shall surely die." Yet here they stand, alive, conscious, responsive, and addressed by God. Whatever the warning meant, it did not mean immediate extinction, silence, or incapacity. Something has certainly changed, but Adam and Eve are still living. They still hear God's voice. They still speak. The story has not ended; it has entered a new and dangerous condition.
 
 ## Life After Disobedience
 
@@ -21,23 +20,27 @@ This moment matters. It shows that the human condition after disobedience is not
 
 ## The Tree of Life and the Real Danger
 
-After addressing Adam and Eve, God speaks again: "Lest he put forth his hand, and take also of the tree of life, and eat, and live for ever…"
+After addressing Adam and Eve, God speaks again: "Lest he put forth his hand, and take also of the tree of life, and eat, and live forever…"
 
 This statement reveals the true danger facing humanity. God does not say, "lest he eat and be restored." He says, "lest he eat and live forever." The concern is not that humanity might die; the concern is that humanity might continue endlessly in a corrupted condition.
+
+This reveals something important: the danger in the garden was not death itself, but corrupted life becoming permanent.
 
 By this point, shame, fear, and alienation have already entered human experience. To live forever in this state would not be blessing. It would be catastrophe. Life would be preserved without healing. Corruption would be fixed permanently. The Tree of Life sustains life. It does not cleanse corruption. It does not restore fellowship. It prolongs existence. And existence, once corrupted, must not be allowed to become eternal.
 
 ## Exile as Prevention, Not Punishment
 
-The removal of humanity from the garden is therefore not punishment; rather, it is an act of restraint to prevent mankind from living eternally corrupted. God prevents access to the Tree of Life so that corruption does not become everlasting. Exile does not end life; it limits it. The story of mankind is not closed. It is kept open.
+The removal of humanity from the garden is therefore not punishment; rather, it is an act of restraint that prevents humanity from living eternally in corruption. God prevents access to the Tree of Life so that corruption does not become everlasting. Exile does not end life; it limits it. The story of humanity is not closed. It is kept open.
 
-The cherubim placed at the entrance to the garden do not punish humanity by barring them from life. They protect humanity from something far worse: living forever in corruption, with no possibility of restoration. Exile is not abandonment. It is protection. The garden remains, but humanity cannot remain within it the way they are now.
+The cherubim placed at the entrance to the garden do not punish humanity by barring them from life. They protect humanity from something far worse: living forever in corruption with no possibility of restoration. Exile is not abandonment. It is protection. The garden remains, but humanity cannot remain within it as they are now.
 
 ## "Dying You Shall Die"
 
 This sheds light on the earlier warning: "In the day that you eat of it, you shall surely die." The Hebrew phrase *mot tamut*, "dying you shall die," does not describe immediate extinction. It describes entrance into a condition. Life does not cease at once, but it becomes oriented toward an end.
 
-The narrative confirms this. Adam does not die on the day he eats. He continues to live, to work, to speak, to bear children. What changes is the nature of his existence. Corruption begins. Life becomes fragile. Mortality enters. Death here is not a moment; it is a trajectory.
+The narrative confirms this. Adam does not die on the day he eats. He continues to live, to work, to speak, and to bear children. What changes is the nature of his existence. Corruption begins. Life becomes fragile. Mortality enters. Death here is not a moment; it is a trajectory.
+
+This matters, because the warning spoken in the garden was not false or delayed. Humanity truly entered the condition that leads to death.
 
 ## Mortality and the Loss of Sustained Life
 
@@ -53,9 +56,9 @@ Exile does not render humanity lifeless or inert. People outside the garden cont
 
 Genesis does not present exile as the triumph of death, but as the restraint placed upon corruption. Humanity is removed from the garden not because life is no longer desired, but because life must not be preserved in a broken state. Access to the Tree of Life is withheld so that corruption does not become eternal. Mortality enters human experience not as final judgment, but as a boundary that keeps hope alive.
 
-The story pauses here, not resolved, but preserved. Humanity lives on, outside the garden, cut off from sustaining life, yet not abandoned. Something worse has been prevented, even as something precious has been lost. What remains unanswered is not whether humanity will live, but how life and fellowship can ever be restored. And whether restoration can occur without first addressing the condition into which humanity has fallen.
+This reveals something important: death enters the human story not simply as an enemy, but also as a limit placed upon corruption.
 
----
+The story pauses here, not resolved, but preserved. Humanity lives on outside the garden, cut off from sustaining life, yet not abandoned. Something worse has been prevented, even as something precious has been lost. What remains unanswered is not whether humanity will live, but how life and fellowship can ever be restored, and whether restoration can occur without first addressing the condition into which humanity has fallen.
 
 ---
 
