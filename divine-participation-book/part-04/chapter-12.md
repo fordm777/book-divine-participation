@@ -1,15 +1,14 @@
 # Chapter 12 — The Jealous Husband
 
-
 <p align="center"><a href="../part-04/chapter-11.md">← Previous</a> | <a href="../part-05/chapter-13.md">Next →</a></p>
 
 ## Introduction: Covenant, Marriage, and Participation
 
 Scripture consistently frames God’s relationship with His people in marital terms. Israel is not merely a subject people, nor merely a contractual partner, but a **bride**. The covenant at Sinai is repeatedly described as a marriage covenant, and God identifies Himself as Israel’s husband.
 
-This marital framing is not poetic ornamentation. It governs how covenant breach, judgment, restoration, and ultimately redemption must be understood. When the prophets speak of Israel’s unfaithfulness, they do not use the language of courtroom guilt alone. They use the language of **adultery**, **defilement**, and **betrayal**.
+This marital framing is not poetic ornamentation. It governs how covenant breach, judgment, restoration, and ultimately redemption must be understood. When the prophets speak of Israel’s unfaithfulness, they do not rely on courtroom language alone. They speak in terms of **adultery**, **defilement**, and **betrayal**.
 
-If the covenant is marital, then its resolution cannot be legal abstraction. It must reckon honestly with the laws governing marriage, fidelity, jealousy, death, and release. This chapter argues that Christ does not resolve covenant rupture by standing outside the marriage as a third-party substitute, but by entering fully into it as the faithful husband who bears the covenant curse Himself.
+If the covenant is marital, then its resolution cannot be a legal abstraction. It must reckon honestly with the laws governing marriage, fidelity, jealousy, death, and release. This chapter argues that Christ does not resolve covenant rupture by standing outside the marriage as a third-party substitute. Rather, He enters fully into it as the faithful husband who bears the covenant consequences Himself.
 
 This is not substitution detached from us. It is **participation unto death**, so that a genuinely new covenant can come into being.
 
@@ -59,7 +58,7 @@ The husband drinks the cup meant for the unfaithful wife.
 
 ## The Husband Bears the Curse
 
-The curse of Numbers 5 is not abstract. It is embodied. The curse enters the body. It produces corruption and death.
+The curse described in Numbers 5 is not abstract. It is embodied. The curse enters the body and produces corruption and death.
 
 At the cross, Christ’s body bears visible signs of curse and defilement. His body is broken. His side is pierced. His strength gives way. He is publicly displayed as one under curse.
 
@@ -83,7 +82,9 @@ The husband does.
 
 By dying, Christ lawfully releases the bride from the covenant that held her in bondage. Resurrection does not restore the old marriage. It inaugurates a new one.
 
-This is why participation is essential. One does not enter a new covenant by legal declaration alone, but by **dying and rising with the husband**.
+This matters. The new covenant is not the repair of Sinai, but the result of covenant death and new life.
+
+Participation is therefore essential. One does not enter a new covenant by legal declaration alone, but by **dying and rising with the husband**.
 
 ---
 
@@ -115,12 +116,15 @@ We do not receive life apart from His resurrection. We rise with Him.
 
 The story Scripture tells is not primarily one of a judge satisfying legal penalties, but of a husband remaining faithful when the marriage has collapsed.
 
-Christ does not abandon His bride. He does not ignore the law. He does not pretend the covenant was never broken.
+Christ does not abandon His bride.  
+He does not ignore the law.  
+He does not pretend the covenant was never broken.
 
-He bears the curse.
-He drinks the cup.
+He bears the curse.  
+He drinks the cup.  
 He dies.
-And by dying, He frees.
+
+And by dying, He frees.  
 By rising, He remarries.
 
 The covenant instituted by Jesus Christ is not a renewal of Sinai. It is a genuinely new covenant, born out of death, resurrection, and faithful love.

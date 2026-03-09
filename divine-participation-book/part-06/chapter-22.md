@@ -1,3 +1,5 @@
+# Chapter 22 — Covenant Release: Romans 7
+
 ## Covenant Release: Romans 7
 
 <p align="center"><a href="../part-06/chapter-21.md">← Previous</a> | <a href="../part-06/chapter-23.md">Next →</a></p>

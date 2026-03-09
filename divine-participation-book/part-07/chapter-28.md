@@ -18,6 +18,8 @@ Both frameworks use biblical language, but they organize that language in very d
 
 Understanding this difference is essential for understanding how the gospel itself is often interpreted.
 
+---
+
 ## The Temple Framework
 
 The world of the Bible is saturated with temple imagery.
@@ -39,9 +41,11 @@ In this world sacrifices cleanse. Priests mediate. Ritual washing restores purit
 
 The goal is restored access to God's presence.
 
+---
+
 ## The Courtroom Framework
 
-The courtroom framework approaches the same texts differently. Instead of focusing on purity and presence, it emphasizes legal guilt and judicial punishment.
+The courtroom framework approaches many of the same texts differently. Instead of focusing on purity and presence, it emphasizes legal guilt and judicial punishment.
 
 Within this framework sin becomes primarily a legal offense against divine law. The central question becomes how guilt can be removed and justice satisfied.
 
@@ -56,21 +60,39 @@ This perspective organizes the biblical story in a different way.
 
 The focus shifts from purification to verdict. Salvation becomes primarily a legal declaration rather than participation in restored life.
 
+---
+
+## Frameworks and Metaphors
+
+It is important to note that Scripture contains both types of language.
+
+Legal imagery appears in many passages. Courts, witnesses, accusations, and justification are all present in the biblical text.
+
+However, a metaphor does not necessarily determine the framework of the story.
+
+A courtroom metaphor may explain one aspect of salvation without defining the entire narrative structure of Scripture.
+
+When the broader story of the Bible is examined—from creation to new creation—the temple pattern appears repeatedly as the organizing environment in which the relationship between God and humanity unfolds.
+
+---
+
 ## The Dominant Framework of the Biblical Story
 
-When the biblical narrative is examined closely, the temple framework appears repeatedly.
+When the biblical narrative is examined closely, the temple framework appears again and again.
 
-The Garden of Eden contains temple imagery. The tabernacle and temple structure the life of Israel. The prophets speak of cleansing and restoration. The New Testament describes believers as the temple of the Holy Spirit.
+The Garden of Eden contains strong temple imagery. The tabernacle and temple structure the life of Israel. The prophets speak of cleansing and restoration. The New Testament describes believers as the temple of the Holy Spirit.
 
-Even the language of salvation often follows this pattern.
+Even the language of salvation frequently reflects this pattern.
 
-People are cleansed. They are washed. They are made holy.
+People are cleansed.  
+They are washed.  
+They are made holy.
 
 These concepts belong naturally within a temple framework.
 
-This does not mean that legal language never appears in Scripture. Legal metaphors are present. But they do not appear to function as the central organizing structure of the story.
+Legal language certainly appears in Scripture, but it often functions as a supporting metaphor within a much larger narrative centered on purification, restoration, and participation in God's life.
 
-Instead, they appear alongside a larger narrative focused on purification, restoration, and participation in God's life.
+---
 
 ## The Exodus Pattern
 
@@ -90,7 +112,9 @@ This pattern later becomes a powerful image for salvation.
 | Passing through the sea | Passage through death |
 | Emergence into freedom | New life in Christ |
 
-The pattern is not primarily legal. It is transformational.
+The pattern is not primarily legal. It is transformational. It describes a passage from one dominion into another.
+
+---
 
 ## How Frameworks Shape Theology
 
@@ -104,25 +128,37 @@ The same texts can therefore appear to support very different theological conclu
 
 Recognizing this difference allows readers to reconsider how the biblical story itself is structured.
 
+---
+
 ## Participation in the Life of God
 
 The New Testament frequently describes salvation as participation.
 
-Believers are united with Christ. They share in his death and resurrection. They become members of his body.
+Believers are united with Christ.  
+They share in his death and resurrection.  
+They become members of his body.
 
 These ideas align naturally with the temple framework, where access to God's presence and participation in divine life are central themes.
 
-Salvation is therefore not only about forgiveness. It is about restoration.
+Salvation is therefore not only about forgiveness.
+
+It is about restoration.
 
 Humanity is restored to communion with the living God.
 
+---
+
 ## Conclusion
 
-Both temple and courtroom language appear in Scripture, but they do not function in the same way. The temple framework provides the broader narrative structure within which many other metaphors operate.
+Both temple and courtroom language appear in Scripture, but they do not function in the same way.
+
+The temple framework provides the broader narrative structure within which many other metaphors operate.
 
 Within this framework salvation is understood as purification, restoration, and participation in God's life.
 
-Recognizing this pattern helps readers see the biblical story with fresh clarity. The gospel is not merely the announcement of a legal verdict.
+Recognizing this pattern helps readers see the biblical story with fresh clarity.
+
+The gospel is not merely the announcement of a legal verdict.
 
 It is the announcement that the way back into the presence of God has been opened.
 
